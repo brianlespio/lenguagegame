@@ -285,6 +285,33 @@ describe("phrase sets", () => {
     expect(byLevel.C2).toBeGreaterThanOrEqual(200);
   });
 
+  it("keeps C2 polar in spoken English, not courtroom register", () => {
+    const banned =
+      /\b(locus standi|ultra vires|sub judice|without prejudice|hearsay|fiduciary|in camera|affidavit|parent Act|anti-suit|wasted costs|wrecking amendment|seised)\b/i;
+    for (const set of phraseSets.filter((item) => item.difficulty === "C2")) {
+      const spoken = [set.en.question, set.en.positive, set.en.negative].join(" ");
+      expect(spoken, set.id).not.toMatch(banned);
+    }
+  });
+
+  it("keeps C1 polar free of consultant sludge", () => {
+    const banned = /\b(workstream|load-bearing|sunk design|deliverable)\b/i;
+    for (const set of phraseSets.filter((item) => item.difficulty === "C1")) {
+      const spoken = [set.en.question, set.en.positive, set.en.negative].join(" ");
+      expect(spoken, set.id).not.toMatch(banned);
+    }
+  });
+
+  it("keeps C1 and C2 conversation in spoken English, not seminar register", () => {
+    const banned =
+      /\b(identification story|licence to|Chatham House|load-bearing|under erasure|neighbouring case|without more)\b/i;
+    for (const set of openPhraseSets.filter((item) => item.difficulty === "C1" || item.difficulty === "C2")) {
+      const spoken = [set.en.question, set.en.answer].join(" ");
+      expect(spoken, set.id).not.toMatch(banned);
+      expect(set.es.answer, set.id).not.toMatch(/actaría/i);
+    }
+  });
+
   it("keeps the same one hundred A1 polar questions in English and French", () => {
     const tag = (id: string) => id.replace(/^fr-/, "").replace(/^question-/, "");
     const enA1 = filterEntries(allEntries, "questions", "A1");

@@ -69,7 +69,7 @@ Index-only persistence breaks when the dataset grows. Progress stores the last s
 
 ### 7. Language pair is a first-class setting
 
-The dataset is keyed by `LanguagePairId` (`en-es` today, `fr-es` reserved). Cards keep reading the current catalog through `getCatalog(pair)`. French is listed in the language menu as unavailable until a dataset exists. No French copy is invented.
+The dataset is keyed by `LanguagePairId` (`en-es` and `fr-es`). Cards read the current catalog through `getCatalog(pair)`. Both pairs ship locked B2–C2 banks. No invented copy: French rows live in the French catalogs.
 
 ### 8. Two collapsible menus, top-right
 

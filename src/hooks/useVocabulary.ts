@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
-import { getCatalog } from "../data";
+import { allEntries } from "../data/englishCatalog";
 import {
   DEFAULT_CEFR_FILTER,
   DEFAULT_INTERVAL_MS,
@@ -79,6 +79,7 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
   const [sessionQueue, setSessionQueue] = useState<QuizPromptRef[]>([]);
   const [answerCorrect, setAnswerCorrect] = useState<Record<number, boolean>>({});
   const [testResult, setTestResult] = useState<TestRunResult | null>(null);
+  const [frenchCatalog, setFrenchCatalog] = useState<VocabularyEntry[] | null>(null);
   const userId = options.userId ?? null;
   const progressRef = useRef<PersistedProgress>(initialProgress);
   const intervalRef = useRef(interval);
@@ -91,11 +92,24 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
       ? null
       : injectedEntries.map((entry) => entry.id).join("\0");
 
+  useEffect(() => {
+    if (injectedRef.current !== undefined) return;
+    if (languagePair !== "fr-es") return;
+    let cancelled = false;
+    void import("../data/frenchCatalog").then((mod) => {
+      if (!cancelled) setFrenchCatalog(mod.frenchEntries);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, [languagePair, injectedIds]);
+
   const catalog = useMemo(() => {
     const injected = injectedRef.current;
-    if (injected === undefined) return getCatalog(languagePair);
-    return injected;
-  }, [injectedIds, languagePair]);
+    if (injected !== undefined) return injected;
+    if (languagePair === "fr-es") return frenchCatalog ?? [];
+    return allEntries;
+  }, [injectedIds, languagePair, frenchCatalog]);
 
   const filtered = useMemo(
     () => filterEntries(catalog, selectedCategory, cefrLevel),

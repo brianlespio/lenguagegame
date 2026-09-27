@@ -1,4 +1,4 @@
-import { act, renderHook } from "@testing-library/react";
+import { act, renderHook, waitFor } from "@testing-library/react";
 import { beforeEach, describe, expect, it, vi } from "vitest";
 import type { VocabularyEntry } from "../types/vocabulary";
 import { useVocabulary } from "./useVocabulary";
@@ -103,11 +103,13 @@ describe("useVocabulary", () => {
     expect(result.current.state.randomMode).toBe(false);
   });
 
-  it("switches to the French catalog", () => {
+  it("switches to the French catalog", async () => {
     const { result } = renderHook(() => useVocabulary());
     act(() => result.current.setLanguagePair("fr-es"));
     expect(result.current.state.languagePair).toBe("fr-es");
-    expect(result.current.filtered.some((entry) => entry.id.startsWith("fr-"))).toBe(true);
+    await waitFor(() => {
+      expect(result.current.filtered.some((entry) => entry.id.startsWith("fr-"))).toBe(true);
+    });
   });
 
   it("filters the catalog by CEFR level", () => {

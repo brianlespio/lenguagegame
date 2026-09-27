@@ -156,10 +156,21 @@ describe("test session mixing", () => {
   it("does not start a new session on the inverse of a recent pair", () => {
     const first = nouns[0]!;
     const recent = [translationPairKey(first, "forward"), inversePairKey(first, "forward")];
-    const queue = buildTestSessionQueue(nouns, { recentPairKeys: recent, random: () => 0.1 });
-    const start = nouns.find((entry) => entry.id === queue[0]?.promptId);
-    if (!start || !queue[0]) return;
-    expect(recent.includes(translationPairKey(start, queue[0].direction))).toBe(false);
+    for (let seed = 0; seed < 40; seed += 1) {
+      let n = seed / 40;
+      const queue = buildTestSessionQueue(nouns, {
+        recentPairKeys: recent,
+        random: () => {
+          n = (n + 0.17) % 1;
+          return n;
+        },
+      });
+      const start = nouns.find((entry) => entry.id === queue[0]?.promptId);
+      expect(start && queue[0]).toBeTruthy();
+      if (!start || !queue[0]) continue;
+      expect(recent.includes(translationPairKey(start, queue[0].direction))).toBe(false);
+      expect(recent.includes(inversePairKey(start, queue[0].direction))).toBe(false);
+    }
   });
 
   it("keeps oui/non openings aligned so the first word is not the giveaway", () => {

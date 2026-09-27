@@ -249,6 +249,40 @@ export function separateAdjacentInverses(
   return result;
 }
 
+function isRecentPrompt(
+  ref: QuizPromptRef,
+  byId: Map<string, VocabularyEntry>,
+  recent: Set<string>,
+): boolean {
+  const entry = byId.get(ref.promptId);
+  if (!entry) return true;
+  return recent.has(translationPairKey(entry, ref.direction)) || recent.has(inversePairKey(entry, ref.direction));
+}
+
+function rotateToFreshStart(
+  queue: readonly QuizPromptRef[],
+  byId: Map<string, VocabularyEntry>,
+  recent: Set<string>,
+): QuizPromptRef[] {
+  const start = queue.findIndex((ref) => !isRecentPrompt(ref, byId, recent));
+  if (start <= 0) return [...queue];
+  return [...queue.slice(start), ...queue.slice(0, start)];
+}
+
+function splitFrontInverse(queue: readonly QuizPromptRef[]): QuizPromptRef[] {
+  if (queue.length < 3) return [...queue];
+  const first = queue[0];
+  const second = queue[1];
+  if (!first || !second || !isInverseNeighbor(first, second)) return [...queue];
+  const swapAt = queue.findIndex((item, index) => index > 1 && item.promptId !== first.promptId);
+  if (swapAt < 0) return [...queue];
+  const next = [...queue];
+  const swap = next[swapAt];
+  next[swapAt] = second;
+  next[1] = swap ?? second;
+  return next;
+}
+
 export function buildTestSessionQueue(
   pool: readonly VocabularyEntry[],
   options: QuizSessionOptions = {},
@@ -265,14 +299,10 @@ export function buildTestSessionQueue(
   let queue = separateAdjacentInverses(fisherYatesShuffle(items, random), random);
   if (queue.length > 1 && recent.size > 0) {
     const byId = new Map(viable.map((entry) => [entry.id, entry]));
-    const start = queue.findIndex((ref) => {
-      const entry = byId.get(ref.promptId);
-      return entry ? !recent.has(translationPairKey(entry, ref.direction)) && !recent.has(inversePairKey(entry, ref.direction)) : false;
-    });
-    if (start > 0) {
-      queue = [...queue.slice(start), ...queue.slice(0, start)];
-      queue = separateAdjacentInverses(queue, random);
-    }
+    queue = rotateToFreshStart(queue, byId, recent);
+    queue = separateAdjacentInverses(queue, random);
+    queue = rotateToFreshStart(queue, byId, recent);
+    queue = splitFrontInverse(queue);
   }
   return queue;
 }

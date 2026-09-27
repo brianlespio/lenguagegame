@@ -8,7 +8,7 @@ uptake|adopción
 buy-in|adhesión
 trade-off|contrapartida
 knock-on|efecto en cadena
-spillover|rebosamiento
+spillover|efecto contagio
 blowback|contragolpe político
 pushback|rechazo frontal
 walkout|abandono de sala
@@ -26,12 +26,12 @@ headcount|plantilla
 headroom|margen de maniobra
 war chest|caja de guerra
 slush fund|fondo opaco
-sinecure|enchufe
+sinecure|sinecura
 incumbency|titularidad del cargo
 remit|competencia
 caseload|carga de expedientes
 backlog|acumulación de pendientes
-throughput|caudal de tramitación
+throughput|ritmo de tramitación
 turnaround|saneamiento exprés
 lead time|plazo de entrega
 slippage|deslizamiento de plazos
