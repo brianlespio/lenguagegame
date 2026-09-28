@@ -13,9 +13,9 @@ export function UserGate({ users, activeUserId, onCreate, onSelect }: UserGatePr
 
   return (
     <div className="user-gate">
-      <p className="text-category">USUARIO</p>
-      <h1 className="text-english" style={{ fontSize: "clamp(36px, 5vw, 72px)" }}>
-        ¿Quién hace el test?
+      <p className="text-category">NOMBRE</p>
+      <h1 className="text-english" style={{ fontSize: "clamp(32px, 8vw, 72px)" }}>
+        ¿Quién juega?
       </h1>
       <form
         className="user-gate-form"
@@ -31,12 +31,17 @@ export function UserGate({ users, activeUserId, onCreate, onSelect }: UserGatePr
             className="user-gate-input focus-ring"
             value={name}
             onChange={(event) => setName(event.target.value)}
-            placeholder="Rita, Brian…"
+            placeholder="Tu nombre"
             autoComplete="nickname"
+            enterKeyHint="done"
           />
         </label>
-        <button type="submit" className="nav-button nav-button-primary text-reveal focus-ring">
-          Registrar
+        <button
+          type="submit"
+          className="nav-button nav-button-primary text-reveal focus-ring"
+          disabled={!name.trim()}
+        >
+          Jugar
         </button>
       </form>
       {users.length > 0 ? (

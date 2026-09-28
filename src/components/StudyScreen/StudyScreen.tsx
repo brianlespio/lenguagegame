@@ -202,7 +202,7 @@ export function StudyScreen({
           ) : null}
           {onSwitchUser ? (
             <button type="button" className="control-chip text-chip focus-ring" onClick={onSwitchUser}>
-              Usuario
+              Cambiar nombre
             </button>
           ) : null}
         </div>

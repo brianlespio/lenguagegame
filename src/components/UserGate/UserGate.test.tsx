@@ -7,7 +7,7 @@ describe("UserGate", () => {
     const onCreate = vi.fn();
     render(<UserGate users={[]} activeUserId={null} onCreate={onCreate} onSelect={vi.fn()} />);
     fireEvent.change(screen.getByLabelText("Poner tu nombre"), { target: { value: "Rita" } });
-    fireEvent.click(screen.getByRole("button", { name: "Registrar" }));
+    fireEvent.click(screen.getByRole("button", { name: "Jugar" }));
     expect(onCreate).toHaveBeenCalledWith("Rita");
   });
 

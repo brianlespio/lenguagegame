@@ -39,6 +39,7 @@ export function App() {
   const [userStore, setUserStore] = useState<UserStore>(() => loadUserStore());
   const [scores, setScores] = useState<TestScore[]>(() => loadScores());
   const [showScore, setShowScore] = useState(false);
+  const [playerReady, setPlayerReady] = useState(false);
   const activeUser: AppUser | undefined = userStore.users.find((user) => user.id === userStore.activeUserId);
 
   const vocabulary = useVocabulary({ userId: activeUser?.id ?? null });
@@ -140,15 +141,22 @@ export function App() {
   const latest = history[0] ?? null;
   const ranking = useMemo(() => rankingForPair(scores, languagePair), [scores, languagePair]);
 
-  if (!activeUser) {
+  if (!activeUser || !playerReady) {
     return (
       <div className="study-shell">
         <main className="study-stage">
           <UserGate
             users={userStore.users}
             activeUserId={userStore.activeUserId}
-            onCreate={(name) => setUserStore((store) => createUser(store, name))}
-            onSelect={(userId) => setUserStore((store) => selectUser(store, userId))}
+            onCreate={(name) => {
+              if (!name.trim()) return;
+              setUserStore((store) => createUser(store, name));
+              setPlayerReady(true);
+            }}
+            onSelect={(userId) => {
+              setUserStore((store) => selectUser(store, userId));
+              setPlayerReady(true);
+            }}
           />
         </main>
       </div>
@@ -218,7 +226,7 @@ export function App() {
         onToggleMute={vocabulary.toggleTtsMute}
         onToggleFullscreen={fullscreen.toggle}
         onOpenScore={() => setShowScore(true)}
-        onSwitchUser={() => setUserStore((store) => ({ ...store, activeUserId: null }))}
+        onSwitchUser={() => setPlayerReady(false)}
       />
     );
   }
@@ -258,7 +266,7 @@ export function App() {
       onToggleMute={vocabulary.toggleTtsMute}
       onToggleFullscreen={fullscreen.toggle}
       onOpenScore={() => setShowScore(true)}
-      onSwitchUser={() => setUserStore((store) => ({ ...store, activeUserId: null }))}
+        onSwitchUser={() => setPlayerReady(false)}
     />
   );
 }
