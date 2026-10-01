@@ -7,9 +7,10 @@ interface CardRendererProps {
   entry: VocabularyEntry | undefined;
   isRevealed: boolean;
   languagePair: LanguagePairId;
+  spelling?: boolean;
 }
 
-export function CardRenderer({ entry, isRevealed, languagePair }: CardRendererProps) {
+export function CardRenderer({ entry, isRevealed, languagePair, spelling = false }: CardRendererProps) {
   if (!entry) {
     return (
       <article className="card card-empty" aria-label="No hay cartas">
@@ -23,8 +24,8 @@ export function CardRenderer({ entry, isRevealed, languagePair }: CardRendererPr
   }
 
   if (isVerbItem(entry)) {
-    return <VerbCard verb={entry} isRevealed={isRevealed} languagePair={languagePair} />;
+    return <VerbCard verb={entry} isRevealed={isRevealed} languagePair={languagePair} spelling={spelling} />;
   }
 
-  return <VocabularyCard item={entry} isRevealed={isRevealed} languagePair={languagePair} />;
+  return <VocabularyCard item={entry} isRevealed={isRevealed} languagePair={languagePair} spelling={spelling} />;
 }

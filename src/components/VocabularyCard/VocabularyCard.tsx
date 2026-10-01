@@ -6,9 +6,10 @@ interface VocabularyCardProps {
   item: VocabularyItem;
   isRevealed: boolean;
   languagePair: LanguagePairId;
+  spelling?: boolean;
 }
 
-export function VocabularyCard({ item, isRevealed, languagePair }: VocabularyCardProps) {
+export function VocabularyCard({ item, isRevealed, languagePair, spelling = false }: VocabularyCardProps) {
   const showExample = Boolean(isRevealed && item.example);
   const categoryLabel = getCategoryLabel(languagePair, item.category);
 
@@ -17,10 +18,13 @@ export function VocabularyCard({ item, isRevealed, languagePair }: VocabularyCar
       className="card"
       data-category={item.category}
       data-kind={isPhraseCategory(item.category) ? "phrase" : "word"}
+      data-spelling={spelling ? "true" : "false"}
       aria-label={`${categoryLabel}: ${item.term}`}
     >
       <p className="text-category">{categoryLabel}</p>
-      <p className="text-english">{item.term}</p>
+      <p className="text-english" data-spelling={spelling ? "true" : "false"}>
+        {item.term}
+      </p>
       <div className="reveal-slot">
         <p
           className="text-spanish fade-chrome"

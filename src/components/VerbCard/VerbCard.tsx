@@ -5,9 +5,10 @@ interface VerbCardProps {
   verb: VerbItem;
   isRevealed: boolean;
   languagePair: LanguagePairId;
+  spelling?: boolean;
 }
 
-export function VerbCard({ verb, isRevealed, languagePair }: VerbCardProps) {
+export function VerbCard({ verb, isRevealed, languagePair, spelling = false }: VerbCardProps) {
   const showExample = Boolean(isRevealed && verb.example);
   const [infinitiveLabel, pastLabel, participleLabel] = VERB_FORM_LABELS[languagePair];
   const columns = [
@@ -17,13 +18,15 @@ export function VerbCard({ verb, isRevealed, languagePair }: VerbCardProps) {
   ];
 
   return (
-    <article className="card" data-category="verbs" aria-label={`Verb ${verb.infinitive}`}>
+    <article className="card" data-category="verbs" data-spelling={spelling ? "true" : "false"} aria-label={`Verb ${verb.infinitive}`}>
       <p className="text-category">{getCategoryLabel(languagePair, "verbs")}</p>
       <div className="verb-grid">
         {columns.map((column) => (
           <div className="verb-column" key={column.key}>
             <h2 className="text-verb-col-label">{column.label}</h2>
-            <p className="text-english-verb">{column.source}</p>
+            <p className="text-english-verb" data-spelling={spelling && column.key === "infinitive" ? "true" : "false"}>
+              {column.source}
+            </p>
             <div className="reveal-slot-verb">
               <p
                 className="text-spanish-verb fade-chrome"

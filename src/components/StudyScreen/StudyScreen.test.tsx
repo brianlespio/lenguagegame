@@ -1,4 +1,4 @@
-import { render, screen } from "@testing-library/react";
+import { fireEvent, render, screen } from "@testing-library/react";
 import { describe, expect, it, vi } from "vitest";
 import { StudyScreen } from "./StudyScreen";
 
@@ -112,5 +112,52 @@ describe("StudyScreen", () => {
     expect(screen.queryByText("TEST")).not.toBeInTheDocument();
     expect(screen.getByText("4 / 40")).toBeInTheDocument();
     expect(screen.getAllByText("plight").length).toBeGreaterThan(0);
+  });
+
+  it("greys the word and moves on after a correct spelling", () => {
+    const onNext = vi.fn();
+    const onSpeak = vi.fn();
+    render(
+      <StudyScreen
+        category="nouns"
+        currentEntry={{ id: "n-house", category: "nouns", term: "house", translation: "casa" }}
+        currentQuizItem={null}
+        selectedChoiceKey={null}
+        studyMode="study"
+        isRevealed={false}
+        isAutoPlaying={false}
+        interval={5000}
+        randomMode={false}
+        languagePair="en-es"
+        cefrLevel="all"
+        ttsMuted
+        ttsSupported={false}
+        progress={{ current: 1, total: 10 }}
+        isFullscreen={false}
+        isIdle={false}
+        isFallbackFullscreen={false}
+        onScopeChange={noop}
+        onLanguageChange={noop}
+        onCefrChange={noop}
+        onStudyModeChange={noop}
+        onPrevious={noop}
+        onNext={onNext}
+        onReveal={noop}
+        onSelectChoice={noop}
+        onToggleAutoPlay={noop}
+        onIntervalChange={noop}
+        onSpeak={onSpeak}
+        onToggleMute={noop}
+        onToggleFullscreen={noop}
+      />,
+    );
+
+    fireEvent.click(screen.getByRole("button", { name: "Practicar escritura" }));
+    expect(document.querySelector(".text-english")).toHaveAttribute("data-spelling", "true");
+    expect(onSpeak).toHaveBeenCalledTimes(1);
+    for (const letter of "house") {
+      fireEvent.click(screen.getByRole("button", { name: letter }));
+    }
+    expect(onNext).toHaveBeenCalledTimes(1);
   });
 });
