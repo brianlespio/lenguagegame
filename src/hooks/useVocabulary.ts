@@ -89,6 +89,7 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
   const [frenchCatalog, setFrenchCatalog] = useState<VocabularyEntry[] | null>(null);
   const [catalanCatalog, setCatalanCatalog] = useState<VocabularyEntry[] | null>(null);
   const [basqueCatalog, setBasqueCatalog] = useState<VocabularyEntry[] | null>(null);
+  const [germanCatalog, setGermanCatalog] = useState<VocabularyEntry[] | null>(null);
   const userId = options.userId ?? null;
   const progressRef = useRef<PersistedProgress>(initialProgress);
   const intervalRef = useRef(interval);
@@ -103,7 +104,14 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
 
   useEffect(() => {
     if (injectedRef.current !== undefined) return;
-    if (languagePair !== "fr-es" && languagePair !== "ca-es" && languagePair !== "eu-es") return;
+    if (
+      languagePair !== "fr-es" &&
+      languagePair !== "ca-es" &&
+      languagePair !== "eu-es" &&
+      languagePair !== "de-es"
+    ) {
+      return;
+    }
     let cancelled = false;
     if (languagePair === "fr-es") {
       void import("../data/frenchCatalog").then((mod) => {
@@ -113,9 +121,13 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
       void import("../data/catalanCatalog").then((mod) => {
         if (!cancelled) setCatalanCatalog(mod.catalanEntries);
       });
-    } else {
+    } else if (languagePair === "eu-es") {
       void import("../data/basqueCatalog").then((mod) => {
         if (!cancelled) setBasqueCatalog(mod.basqueEntries);
+      });
+    } else {
+      void import("../data/germanCatalog").then((mod) => {
+        if (!cancelled) setGermanCatalog(mod.germanEntries);
       });
     }
     return () => {
@@ -127,7 +139,8 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     injectedRef.current === undefined &&
     ((languagePair === "fr-es" && frenchCatalog === null) ||
       (languagePair === "ca-es" && catalanCatalog === null) ||
-      (languagePair === "eu-es" && basqueCatalog === null));
+      (languagePair === "eu-es" && basqueCatalog === null) ||
+      (languagePair === "de-es" && germanCatalog === null));
 
   const catalog = useMemo(() => {
     const injected = injectedRef.current;
@@ -135,8 +148,9 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     if (languagePair === "fr-es") return frenchCatalog ?? [];
     if (languagePair === "ca-es") return catalanCatalog ?? [];
     if (languagePair === "eu-es") return basqueCatalog ?? [];
+    if (languagePair === "de-es") return germanCatalog ?? [];
     return allEntries;
-  }, [injectedIds, languagePair, frenchCatalog, catalanCatalog, basqueCatalog]);
+  }, [injectedIds, languagePair, frenchCatalog, catalanCatalog, basqueCatalog, germanCatalog]);
 
   const filtered = useMemo(
     () => filterEntries(catalog, selectedCategory, cefrLevel),

@@ -95,6 +95,7 @@ describe("StudyMenus", () => {
     expect(screen.getByRole("option", { name: /English → Spanish/ })).toBeEnabled();
     expect(screen.getByRole("option", { name: /Català → Espanyol/ })).toBeEnabled();
     expect(screen.getByRole("option", { name: /Euskara → Gaztelania/ })).toBeEnabled();
+    expect(screen.getByRole("option", { name: /Deutsch → Spanisch/ })).toBeDisabled();
   });
 
   it("selects a CEFR level from the level menu", () => {

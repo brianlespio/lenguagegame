@@ -1,0 +1,800 @@
+W	negative-legal-privilege	Nein, daran ist nichts Vertrauliches, oder dieser Schutz ist bereits verloren.
+W	question-recused	Haben Sie sich wegen eines Interessenkonflikts zurückgezogen?
+W	positive-recused	Ja, ein unvoreingenommener Beobachter würde bezweifeln, dass ich unparteiisch sein könnte.
+W	negative-recused	Nein, ich sehe keinen Grund, mich zurückzuziehen.
+W	question-waived-privilege	Haben Sie auf die Vertraulichkeit dieses Dokuments verzichtet?
+W	positive-waived-privilege	Ja, sobald ein Teil geteilt war, ging der Rest derselben Sache mit.
+W	negative-waived-privilege	Nein, wir behandeln es weiter als vertraulich; gezeigt wurde nur ein schmaler Streifen.
+W	question-fiduciary-duty	Sind sie verpflichtet, Ihre Interessen an die erste Stelle zu setzen?
+W	positive-fiduciary-duty	Ja, sie schulden Ihnen Treue, nicht nur die gewöhnliche Sorgfalt unter Gleichen.
+W	negative-fiduciary-duty	Nein, es ist eine ganz gewöhnliche Geschäftsbeziehung.
+W	question-in-contempt	Haben wir einer klaren Anordnung offen getrotzt?
+W	positive-in-contempt	Ja, wir wussten, was verlangt war, und haben es ignoriert.
+W	negative-in-contempt	Nein, im Wesentlichen sind wir nachgekommen, oder es gab nie eine klare Anordnung, die zu brechen war.
+W	question-libellous	Wäre diese Bemerkung schriftlich diffamierend?
+W	positive-libellous	Ja, sie rückt jemanden ins schlechte Licht, und sie ist veröffentlicht.
+W	negative-libellous	Nein, es ist eine gerechte Kritik an einer öffentlichen Angelegenheit, oder sie ist schlicht wahr.
+W	question-have-quorum	Sind hier genug Leute, um zu entscheiden?
+W	positive-have-quorum	Ja, wir haben die Zahl, und eine Abstimmung würde gelten.
+W	negative-have-quorum	Nein, uns fehlen welche; jede Abstimmung wäre nichts wert.
+W	question-statute-barred	Ist die Frist, es vorzubringen, schon abgelaufen?
+W	positive-statute-barred	Ja, die Uhr ist abgelaufen, und es ist zu spät.
+W	negative-statute-barred	Nein, die Frist hat nicht begonnen, oder sie wurde rechtzeitig unterbrochen.
+W	question-vice-of-consent	War ihre Einwilligung wirklich mangelhaft?
+W	positive-vice-of-consent	Ja, durch einen Irrtum, eine Täuschung oder einen Druck, der an den Kern rührt.
+W	negative-vice-of-consent	Nein, sie haben frei zugestimmt und wussten, was sie taten.
+W	question-de-jure	Steht es so auf dem Papier?
+W	positive-de-jure	Ja, das ist die offizielle Stellung, was auch immer vor Ort geschieht.
+W	negative-de-jure	Nein, es ist nur die tatsächliche Lage, ohne förmlichen Titel dahinter.
+W	question-de-facto	Ist das nur, wie die Dinge tatsächlich stehen?
+W	positive-de-facto	Ja, es ist Besitz oder Gewohnheit, ohne etwas Förmliches darunter.
+W	negative-de-facto	Nein, dahinter steht auch ein wirklicher Titel.
+W	question-sine-die	Haben sie es sine die vertagt?
+W	positive-sine-die	Ja, es wird ohne Termin für die Rückkehr vertagt.
+W	negative-sine-die	Nein, es gibt schon einen Termin zur Wiederaufnahme.
+W	question-a-priori	Behandeln Sie das als etwas, das sich wissen lässt, ohne die Tatsachen anzusehen?
+W	positive-a-priori	Ja, ich stelle es als unabhängig von der Erfahrung erkennbar hin.
+W	negative-a-priori	Nein, es ist eine empirische These, die mit den Tatsachen steht oder fällt.
+W	question-post-hoc	Behandeln Sie das, was danach kam, so, als hätte es das verursacht?
+W	positive-post-hoc	Ja, man verkleidet eine bloße Aufeinanderfolge als Kausalität.
+W	negative-post-hoc	Nein, ich zeige auf einen wirklichen Mechanismus, nicht nur auf die Reihenfolge der Tatsachen.
+W	question-reductio-ad-absurdum	Führen Sie das auf das Absurde zurück?
+W	positive-reductio-ad-absurdum	Ja, die These führt zu einem Widerspruch, also muss man sie fallen lassen.
+W	negative-reductio-ad-absurdum	Nein, ich leite kein Absurdes her; ich bestreite die Prämisse von vornherein.
+W	question-occams-razor	Soll Ockhams Rasiermesser das entscheiden?
+W	positive-occams-razor	Ja, vorzuziehen ist die einfachste Erklärung, die die Tatsachen noch rettet.
+W	negative-occams-razor	Nein, die überzähligen Stücke leisten eine Arbeit, die wirklich nötig ist.
+W	question-overton-window	Versuchen Sie, das Overton-Fenster zu verschieben?
+W	positive-overton-window	Ja, ich verschiebe die Grenzen dessen, was später als sagbar gelten wird.
+W	negative-overton-window	Nein, ich argumentiere innerhalb dessen, was die Leute schon für annehmbar halten.
+W	question-moral-hazard	Schafft diese Struktur ein moralisches Risiko?
+W	positive-moral-hazard	Ja, sie behalten den Gewinn und laden den Verlust auf die anderen, sodass sich die Unvorsichtigkeit auszahlt.
+W	negative-moral-hazard	Nein, sie tragen noch genug Risiko, damit die Anreize ausgerichtet bleiben.
+W	question-regulatory-capture	Ist die Branche am Ende dazu gekommen, ihre eigenen Regeln zu schreiben?
+W	positive-regulatory-capture	Ja, die Regulierten verfassen im Kern das, was sie bindet.
+W	negative-regulatory-capture	Nein, die Aufsicht behält ein eigenes Urteil und stellt sich entgegen, wenn es nötig ist.
+W	question-rent-seeking	Ist das die Jagd nach ökonomischen Renten?
+W	positive-rent-seeking	Ja, sie verwenden die Energie darauf, eine Übertragung an sich zu ziehen, statt überhaupt etwas zu schaffen.
+W	negative-rent-seeking	Nein, die Tätigkeit erzeugt wirklich einen Überschuss, nicht eine bloße Übertragung.
+W	question-principal-agent	Verfolgen sie ihren eigenen Vorteil auf Kosten derer, die sie vertreten?
+W	positive-principal-agent	Ja, ihre privaten Anreize entfernen sich von denen, die für sie handeln, und die Information ist ungleich.
+W	negative-principal-agent	Nein, sie sind sichtbar im Einklang mit denen, die sie vertreten.
+W	question-poison-pill	Steht diese Klausel nur da, um einen Käufer zu verscheuchen?
+W	positive-poison-pill	Ja, sie ist darauf angelegt, den zu verwässern oder abzuschrecken, der kommt, ohne gerufen zu sein.
+W	negative-poison-pill	Nein, sie hat einen eigenen geschäftlichen Grund, unabhängig von jedem Angebot.
+W	question-golden-parachute	Gibt es im Vertrag einen goldenen Fallschirm?
+W	positive-golden-parachute	Ja, der Kontrollwechsel löst eine maßlose Abfindung aus.
+W	negative-golden-parachute	Nein, das Ausscheiden wird auf gewöhnliche Weise abgegolten und hängt von keinem Angebot ab.
+W	question-information-barrier	Hat man die beiden Teams voneinander abgeschottet?
+W	positive-information-barrier	Ja, man hält sie getrennt, damit keine empfindliche Information durchsickert.
+W	negative-information-barrier	Nein, die Information kann kreisen; es wurde keine Mauer errichtet.
+W	question-inside-information	Ist es noch privat und imstande, den Kurs zu bewegen?
+W	positive-inside-information	Ja, es ist genau, nicht öffentlich, und würde den Kurs bewegen, wenn es herauskäme.
+W	negative-inside-information	Nein, es ist schon öffentlich, oder es würde den Kurs nicht bewegen.
+W	question-insider-dealing	Hat jemand mit Information gehandelt, die der Markt nicht hatte?
+W	positive-insider-dealing	Ja, wer diese private Information hatte, hat auf ihrer Grundlage gehandelt.
+W	negative-insider-dealing	Nein, es wurde keine private Information verwendet, oder sie haben eine legitime Erklärung.
+W	question-market-abuse	Wollten sie den Markt wirklich verfälschen?
+W	positive-market-abuse	Ja, sie haben den Kurs manipuliert oder weitergegeben, was sie nicht durften; es war nicht nur ein hartes Geschäft.
+W	negative-market-abuse	Nein, das Verhalten bleibt bei der gewöhnlichen Verhandlung und der gewöhnlichen Verbreitung.
+W	question-force-majeure	Lag das wirklich außerhalb jeder Kontrolle?
+W	positive-force-majeure	Ja, es war unvorhersehbar, unwiderstehlich und kam von außen.
+W	negative-force-majeure	Nein, es war ein geschäftliches Risiko, das sie hätten kommen sehen und verteilen müssen.
+W	question-caveat-emptor	Bleibt es dabei, dass der Käufer sich hüten muss?
+W	positive-caveat-emptor	Ja, der Käufer trägt die Mängel, die nicht gedeckt waren.
+W	negative-caveat-emptor	Nein, die stillschweigenden Garantien haben diese alte Regel schon verdrängt.
+W	question-quid-pro-quo	Gibt es hier wirklich eine Gegenleistung?
+W	positive-quid-pro-quo	Ja, jeder gibt etwas; es ist kein Geschenk in nur eine Richtung.
+W	negative-quid-pro-quo	Nein, eine Seite gibt einfach, ohne etwas zurück.
+W	question-prima-facie	Gibt es zumindest auf den ersten Blick einen Fall, auf den zu antworten ist?
+W	positive-prima-facie	Ja, wenn niemand antwortet, würde dieses Material sich durchsetzen.
+W	negative-prima-facie	Nein, es wirft nicht einmal eine Sache auf, die weitere Verfolgung verdiente.
+W	question-res-ipsa-loquitur	Spricht der Unfall nicht für sich selbst?
+W	positive-res-ipsa-loquitur	Ja, so etwas geschieht gewöhnlich nicht, wenn niemand nachlässig war, und sie hatten es in der Hand.
+W	negative-res-ipsa-loquitur	Nein, eine unschuldige Erklärung ist noch möglich; die Nachlässigkeit muss auf dem gewöhnlichen Weg gezeigt werden.
+W	question-mens-rea	Haben sie es wirklich mit Absicht getan?
+W	positive-mens-rea	Ja, sie haben es gewollt, oder sie waren unvorsichtig in dem Sinn, auf den es ankommt.
+W	negative-mens-rea	Nein, die Absicht war nicht da; die Tat allein genügt nicht.
+W	question-actus-reus	Ist die Tat selbst wirklich geschehen?
+W	positive-actus-reus	Ja, sie haben es getan oder es unterlassen, unter den Umständen, auf die es ankommt.
+W	negative-actus-reus	Nein, dieser Teil ist nicht erbracht; die Absicht trägt sich nicht allein.
+W	question-double-jeopardy	Hieße das, sie zweimal wegen derselben Sache zu richten?
+W	positive-double-jeopardy	Ja, ein zweiter Versuch wegen derselben Zuwiderhandlung ist nicht zulässig.
+W	negative-double-jeopardy	Nein, es ist eine andere Anklage, oder das erste Verfahren hat die Sache selbst nicht entschieden.
+W	question-habeas-corpus	Kann man sie vor einen Richter bringen, um zu prüfen, ob man sie festhalten darf?
+W	positive-habeas-corpus	Ja, ein Richter kann die Haft ansehen und sagen, ob sie standhält.
+W	negative-habeas-corpus	Nein, dieser Weg ist hier nicht offen, oder man muss einen anderen, ausschließlichen benutzen.
+W	question-stare-decisis	Bindet uns, wie das beim letzten Mal entschieden wurde?
+W	positive-stare-decisis	Ja, die damalige Entscheidung passt genau, und ihr ist zu folgen.
+W	negative-stare-decisis	Nein, dieser Fall unterscheidet sich genug, oder wir sind dort, wo ein Abweichen zulässig ist.
+W	question-sisyphean	Ist das eine Sisyphusarbeit?
+W	positive-sisyphean	Ja, jeder Gewinn löst sich auf, bevor er sich sammeln kann.
+W	negative-sisyphean	Nein, der Fortschritt wird halten; er rollt nicht jede Nacht zurück.
+W	question-quixotic	Ist dieses Vorhaben quixotisch?
+W	positive-quixotic	Ja, es ist in der Absicht edel und als praktisches Vorhaben nutzlos.
+W	negative-quixotic	Nein, es ist mühsam, aber angesichts der Mittel erreichbar.
+W	question-aporia	Stecken wir in einer Aporie?
+W	positive-aporia	Ja, gleich zwingende Erwägungen versperren jeden Weg des Denkens.
+W	negative-aporia	Nein, ein Ausweg bleibt, sobald eine Prämisse fallengelassen wird.
+W	question-performative-contradiction	Ist das ein performativer Widerspruch?
+W	positive-performative-contradiction	Ja, schon der Akt, es zu behaupten, falsifiziert das Behauptete.
+W	negative-performative-contradiction	Nein, der Sprechakt und die Aussage können zugleich wahr sein.
+W	question-category-error	Ist das ein Kategorienfehler?
+W	positive-category-error	Ja, auf einen logischen Typ wird ein Prädikat angewandt, das einem anderen eigen ist.
+W	negative-category-error	Nein, das Subjekt ist von der Art, die das Prädikat zulässt.
+W	question-reached-an-impasse	Sind die Verhandlungen in eine Sackgasse geraten?
+W	positive-reached-an-impasse	Ja, keine Seite kann sich bewegen, ohne etwas Unverhandelbares aufzugeben.
+W	negative-reached-an-impasse	Nein, es bleibt eine restliche Zone möglicher Einigung.
+W	question-zero-sum	Ist das Zusammenspiel strikt eine Nullsumme?
+W	positive-zero-sum	Ja, der Gewinn des einen ist genau der Verlust des anderen.
+W	negative-zero-sum	Nein, es gibt einen kooperativen Überschuss; beide können als Gewinner herauskommen.
+W	question-prisoners-dilemma	Stecken wir in einem Gefangenendilemma?
+W	positive-prisoners-dilemma	Ja, jedem lohnt das Ausscheren, obwohl es uns beiden besser ginge, wenn wir kooperierten.
+W	negative-prisoners-dilemma	Nein, hier hält die Kooperation wirklich als stabiles Ergebnis.
+W	question-slippery-slope	Ist das ein Argument der schiefen Ebene?
+W	positive-slippery-slope	Ja, es behandelt den ersten Schritt, als hätte er uns schon auf einen hässlichen letzten Schritt festgelegt.
+W	negative-slippery-slope	Nein, jeder weitere Schritt rechtfertigt sich selbst und wird nicht aus dem ersten gefolgert.
+W	question-tu-quoque	Ist das ein Tu quoque?
+W	positive-tu-quoque	Ja, eine behauptete Heuchelei wird so dargeboten, als beantworte sie die Sache.
+W	negative-tu-quoque	Nein, ich stelle mich dem Argument in seinem Gehalt, nicht in der Folgerichtigkeit des Redners.
+W	question-steel-manning	Nehmen Sie das gegnerische Argument in seiner stärksten Form?
+W	positive-steel-manning	Ja, ich nehme es in seiner größten Stärke, bevor ich es angreife.
+W	negative-steel-manning	Nein, ich greife eine schwächere Neuformulierung an als die, die wirklich vorgebracht wurde.
+W	question-onus-probandi	Obliegt Ihnen der Beweis?
+W	positive-onus-probandi	Ja, die Last liegt bei mir; ihnen genügt das Widerlegen.
+W	negative-onus-probandi	Nein, es wirkt schon eine Vermutung zu meinen Gunsten; ihnen obliegt es, sie zu entkräften.
+W	question-res-judicata	Ist das schon ein für alle Mal erledigt?
+W	positive-res-judicata	Ja, dieselben Personen, derselbe Streit und derselbe Gegenstand sind schon endgültig entschieden.
+W	negative-res-judicata	Nein, es sind nicht dieselben Personen, derselbe Streit oder derselbe Gegenstand, die Sache ist also noch lebendig.
+W	question-lis-pendens	Wird derselbe Rechtsstreit schon anderswo verhandelt?
+W	positive-lis-pendens	Ja, derselbe Streit liegt schon bei einer anderen Stelle, die ihn verhandeln kann.
+W	negative-lis-pendens	Nein, es läuft nichts Paralleles, oder sie verfolgen nicht dasselbe.
+W	question-forum-shopping	Wählen sie nur das Gericht, das ihnen passt?
+W	positive-forum-shopping	Ja, sie wählen den Ort wegen des Ergebnisses, nicht weil er ihm von Natur aus zukommt.
+W	negative-forum-shopping	Nein, das ist der natürliche Ort; es gibt eine wirkliche Verbindung.
+W	question-chilling-effect	Hätte diese Maßnahme eine abschreckende Wirkung?
+W	positive-chilling-effect	Ja, sie würde Menschen verschrecken, die das Recht zu sprechen haben.
+W	negative-chilling-effect	Nein, sie ist eng umgrenzt und würde niemanden abschrecken, der innerhalb des Gesetzes handelt.
+W	question-prior-restraint	Versuchen sie, es abzufangen, noch ehe es gesagt ist?
+W	positive-prior-restraint	Ja, sie zensiert die Rede vor der Veröffentlichung, statt sie danach zu ahnden.
+W	negative-prior-restraint	Nein, jede Sanktion käme im Nachhinein; nichts wird im Voraus abgefangen.
+W	question-proportionality-test	Geht die Maßnahme weiter als nötig?
+W	positive-proportionality-test	Ja, sie ist ungeeignet, unnötig oder schwerer, als der legitime Zweck verlangt.
+W	negative-proportionality-test	Nein, sie ist geeignet, erforderlich und streng verhältnismäßig zu diesem Zweck.
+W	question-margin-of-appreciation	Bleibt ihnen noch Spielraum, es selbst zu beurteilen?
+W	positive-margin-of-appreciation	Ja, der Staat behält einen gewissen Spielraum, wo kein gefestigter europäischer Konsens besteht.
+W	negative-margin-of-appreciation	Nein, der Maßstab ist einheitlich, und der verbleibende Spielraum ist eng bis zum Verschwinden.
+W	question-acte-clair	Ist der Punkt so offensichtlich, dass man ihn nicht anderswohin schicken muss?
+W	positive-acte-clair	Ja, der europäische Punkt ist so klar, dass kein vernünftiger Zweifel bleibt.
+W	negative-acte-clair	Nein, der Punkt ist nicht erledigt; er muss noch nach oben.
+W	question-pacta-sunt-servanda	Muss man den Handel so halten, wie er geschlossen wurde?
+W	positive-pacta-sunt-servanda	Ja, der Pakt ist so zu erfüllen, wie er geschlossen wurde.
+W	negative-pacta-sunt-servanda	Nein, es gibt einen anerkannten Grund, wegzugehen oder ihn neu zu fassen.
+W	question-rebus-sic-stantibus	Haben sich die Dinge so sehr geändert, dass der ursprüngliche Handel keinen Sinn mehr hat?
+W	positive-rebus-sic-stantibus	Ja, der Boden hat sich so sehr verschoben, dass die Erfüllung ein anderer Handel wäre.
+W	negative-rebus-sic-stantibus	Nein, die Änderung war vorhersehbar, oder sie reicht nicht an das Herz des Paktes.
+W	question-clean-hands	Haben sie sich anständig genug verhalten, um einen Gefallen dieser Art zu erbitten?
+W	positive-clean-hands	Ja, ihr eigenes Verhalten bei dem Geschäft ist untadelig.
+W	negative-clean-hands	Nein, ihre damit verbundene Verhaltensweise würde eine Maßnahme dieser Art ausschließen.
+W	question-estoppel	Haben sie etwas gesagt, das sie nicht mehr zurücknehmen können?
+W	positive-estoppel	Ja, die andere Seite hat sich darauf verlassen und steht schlechter da, weil sie es getan hat.
+W	negative-estoppel	Nein, es wurde nichts Klares gesagt, oder niemand hat im Vertrauen darauf zu seinem Nachteil gehandelt.
+W	question-unjust-enrichment	Sind sie auf Kosten eines anderen besser davongekommen, ohne einen guten Grund?
+W	positive-unjust-enrichment	Ja, sie haben auf Kosten des anderen gewonnen, und es gibt keinen wirklichen Grund.
+W	negative-unjust-enrichment	Nein, ein Vertrag, ein Geschenk oder eine gesetzliche Pflicht erklärt die Übertragung.
+W	question-specific-performance	Kann man sie wirklich zwingen, das Versprochene zu tun, und nicht nur zu zahlen?
+W	positive-specific-performance	Ja, Geld wäre ein schlechter Ersatz für diese einzigartige Verpflichtung.
+W	negative-specific-performance	Nein, niemand würde sie zwingen, die Sache selbst zu tun; das Geld würde genügen.
+W	question-vicarious-liability	Haften sie für das, was ein anderer getan hat?
+W	positive-vicarious-liability	Ja, es geschah in Ausübung der Arbeit, also haftet der Arbeitgeber.
+W	negative-vicarious-liability	Nein, es war ein persönlicher Abstecher, außerhalb der Arbeit.
+W	question-strict-liability	Kann man sie verantwortlich machen, auch wenn sie nicht nachlässig waren?
+W	positive-strict-liability	Ja, es genügt zu zeigen, dass sie die Tat begangen haben; Verschulden muss man nicht zeigen.
+W	negative-strict-liability	Nein, die Nachlässigkeit oder ein anderes Verschulden muss weiterhin gezeigt werden.
+W	question-jus-cogens	Ist das eine jener Normen, gegen die kein Land etwas vereinbaren kann?
+W	positive-jus-cogens	Ja, sie gilt als unantastbar, und kein Nebenpakt kann sie beiseiteschieben.
+W	negative-jus-cogens	Nein, es ist gewöhnliches Vertragsvölkerrecht, und die Parteien können unter sich anderes vereinbaren.
+W	question-non-refoulement	Würde ihre Rückführung sie in echte Gefahr bringen?
+W	positive-non-refoulement	Ja, es besteht ein wirkliches Risiko des Schadens, den dieser Schutz verhindern soll.
+W	negative-non-refoulement	Nein, dieser Schutz wird bei diesem Sachverhalt nicht ausgelöst, oder eine anerkannte Ausnahme greift.
+W	question-c2x-hold-water	Hält dieses Argument noch stand?
+W	positive-c2x-hold-water	Ja, es steht noch, auch mit dem, was wir danach erfahren haben.
+W	negative-c2x-hold-water	Nein, was wir danach erfahren haben, schlägt ihm den Boden aus.
+W	question-c2x-cut-ice	Hat diese Unterscheidung noch Gewicht?
+W	positive-c2x-cut-ice	Ja, die Leute behandeln sie noch als einen Unterschied, auf den es ankommt.
+W	negative-c2x-cut-ice	Nein, es ist ein Unterschied der Worte und sonst nichts.
+W	question-c2x-begs-off	Drücken sie sich vor der Frage, auf die es wirklich ankommt?
+W	positive-c2x-begs-off	Ja, sie kreisen um sie und landen nie.
+W	negative-c2x-begs-off	Nein, sie haben auf das geantwortet, wonach man sie gefragt hat.
+W	question-c2x-moves-goal	Verschieben sie die Pfosten im Nachhinein?
+W	positive-c2x-moves-goal	Ja, sie haben den Maßstab geändert, als der alte schon erfüllt war.
+W	negative-c2x-moves-goal	Nein, sie benutzen noch den Maßstab, den sie am Anfang gesetzt haben.
+W	question-c2x-speaks-both	Sagen sie das eine und das Gegenteil?
+W	positive-c2x-speaks-both	Ja, die beiden Versprechen lassen sich nicht zugleich halten.
+W	negative-c2x-speaks-both	Nein, sie meinen erst das eine und danach das andere.
+W	question-c2x-paper-tiger	Ist diese Drohung ein Papiertiger?
+W	positive-c2x-paper-tiger	Ja, sie können brüllen, so viel sie wollen; tatsächlich können sie nichts tun.
+W	negative-c2x-paper-tiger	Nein, sie können sie wahrmachen, und sie haben es schon getan.
+W	question-c2x-live-issue	Ist die Frage noch lebendig, oder ist sie schon erkaltet?
+W	positive-c2x-live-issue	Ja, sie ändert noch, was wir von hier aus tun können.
+W	negative-c2x-live-issue	Nein, die Ereignisse haben sie überholt, und es hängt nichts mehr an ihr.
+W	question-c2x-open-door	Drücken sie gegen eine Tür, die schon offen steht?
+W	positive-c2x-open-door	Ja, wir sind schon einig, und sie vergeuden den Atem.
+W	negative-c2x-open-door	Nein, wir sind noch uneins, und sie müssen den Punkt setzen.
+W	question-c2x-last-ditch	Ist das ein Versuch in letzter Stunde?
+W	positive-c2x-last-ditch	Ja, sie haben erst danach gegriffen, als alles andere gescheitert war.
+W	negative-c2x-last-ditch	Nein, sie haben ihn von Anfang an auf den Tisch gelegt, als einen Punkt für sich.
+W	question-c2x-window-dress	Ist das Zugeständnis bloßes Schaufenster?
+W	positive-c2x-window-dress	Ja, es lässt die wahre Ablehnung genau dort, wo sie war.
+W	negative-c2x-window-dress	Nein, es ändert wirklich die Entscheidung, die sie treffen werden.
+W	question-c2x-heavy-weather	Drehen sie einen engen Punkt tausendmal um?
+W	positive-c2x-heavy-weather	Ja, sie verwenden viel zu viel Energie auf etwas, das kaum zählt.
+W	negative-c2x-heavy-weather	Nein, der Punkt trägt den Rest des Arguments, und man muss ihn langsam nehmen.
+W	question-c2x-own-petard	Sind sie in die eigene Falle gegangen?
+W	positive-c2x-own-petard	Ja, die Norm, auf der sie so bestanden, hat sich umgewandt und sie gebissen.
+W	negative-c2x-own-petard	Nein, die Norm, auf der sie bestanden, reicht nicht einmal an diesen Sachverhalt.
+W	question-c2x-red-herring	Ist dieser Einwand eine falsche Fährte?
+W	positive-c2x-red-herring	Ja, er führt uns von dem einzigen Punkt weg, der das entscheiden kann.
+W	negative-c2x-red-herring	Nein, das Ergebnis hängt wirklich an diesem Punkt.
+W	question-c2x-shadow-boxing	Boxen wir gegen einen Schatten?
+W	positive-c2x-shadow-boxing	Ja, niemand hat noch die These genannt, der der andere sich stellen muss.
+W	negative-c2x-shadow-boxing	Nein, wir beide haben die Thesen genannt, und man kann sie entscheiden.
+W	question-c2x-open-goal	Haben sie ein todsicheres Tor verfehlt?
+W	positive-c2x-open-goal	Ja, es lag eine vollständige Antwort da, und sie haben sie nicht genommen.
+W	negative-c2x-open-goal	Nein, die Öffnung, die sie beschreiben, war nie wirklich da.
+W	question-c2x-strained-reading	Ist das eine gezwungene Lesart des Textes?
+W	positive-c2x-strained-reading	Ja, sie beladen die Worte mit mehr, als sie von Natur aus tragen.
+W	negative-c2x-strained-reading	Nein, so gebraucht man diese Worte gewöhnlich in dieser Art von Schrift.
+W	question-c2x-after-the-event	Ist das eine im Nachhinein gebaute Begründung?
+W	positive-c2x-after-the-event	Ja, sie haben die Rechtfertigung gebaut, als sie das Ergebnis schon kannten.
+W	negative-c2x-after-the-event	Nein, sie haben die Gründe aufgeschrieben, bevor das Ergebnis feststand.
+W	question-c2x-below-the-line	Liegt das außerhalb dessen, was wir entscheiden können?
+W	positive-c2x-below-the-line	Ja, es steht anderen zu, und uns steht es nicht zu, es zu erledigen.
+W	negative-c2x-below-the-line	Nein, es fällt voll in das, was man uns zu erledigen aufgetragen hat.
+W	question-c2x-colourable	Ist der erklärte Zweck ein Mantel für ein anderes Vorhaben?
+W	positive-c2x-colourable	Ja, der ausgerufene Zweck deckt ein anderes Vorhaben.
+W	negative-c2x-colourable	Nein, der ausgerufene Zweck ist der einzige, den sie verfolgen.
+W	question-c2x-still-birth	Kam der Antrag tot zur Welt?
+W	positive-c2x-still-birth	Ja, eine nötige Bedingung wurde nie erfüllt, also trat nie etwas in Kraft.
+W	negative-c2x-still-birth	Nein, er war am Anfang lebendig und ist erst danach ohne Weg geblieben.
+W	question-c2x-double-count	Verlangen sie, dass derselbe Schaden zweimal gezählt wird?
+W	positive-c2x-double-count	Ja, die beiden Posten sind derselbe Verlust unter anderem Namen.
+W	negative-c2x-double-count	Nein, sie ersetzen zwei verschiedene Arten von Schaden.
+W	question-c2x-without-foundation	Entbehrt die Behauptung der Grundlage?
+W	positive-c2x-without-foundation	Ja, es gibt nichts Festes, woran man sie hängen könnte.
+W	negative-c2x-without-foundation	Nein, es ist genug da, um eine Antwort zu verlangen.
+W	question-c2x-spent-force	Ist dieses alte Argument zur verbrauchten Kraft geworden?
+W	positive-c2x-spent-force	Ja, das später Gedachte hat es von allem geleert, dem wir noch folgen müssten.
+W	negative-c2x-spent-force	Nein, sein Kern regiert noch einen Punkt, der hier aufkommt.
+W	question-c2x-in-terrorem	Soll diese Zahl sie einschüchtern, damit sie erfüllen, statt den wahrscheinlichen Verlust zu messen?
+W	positive-c2x-in-terrorem	Ja, es ist eine Vogelscheuche, keine ernsthafte Vorausschau des Schadens.
+W	negative-c2x-in-terrorem	Nein, es ist ein ernsthafter Versuch, dem wahrscheinlichen Verlust eine Zahl zu geben.
+W	question-c2x-gone-moot	Ist der Punkt gegenstandslos geworden?
+W	positive-c2x-gone-moot	Ja, etwas Späteres hat ihm jede Folge genommen.
+W	negative-c2x-gone-moot	Nein, er hat noch eine Folge, die wir entscheiden müssen.
+W	question-c2x-self-licking	Ist das ein Verfahren, das nur dazu dient, sich selbst abzulecken?
+W	positive-c2x-self-licking	Ja, es besteht, um sein Weitergehen zu rechtfertigen, und es bringt nichts nach außen hervor.
+W	negative-c2x-self-licking	Nein, es bringt etwas Wirkliches hervor, außer dass es sich am Leben hält.
+W	question-c2x-dry-run	War diese Besprechung nur eine Probe?
+W	positive-c2x-dry-run	Ja, nichts von dem, was dort entschieden wurde, kann hier jemanden binden.
+W	negative-c2x-dry-run	Nein, es wurde eine wirkliche Entscheidung getroffen, und sie steht noch.
+W	question-c2x-half-a-loaf	Bieten sie einen halben Laib an, als wäre er das ganze Brot?
+W	positive-c2x-half-a-loaf	Ja, das Zugeständnis deckt nur einen Rand des Verlangten.
+W	negative-c2x-half-a-loaf	Nein, das Zugeständnis deckt in der Sache das Verlangte.
+W	question-c2x-in-limbo	Hängt der Antrag in der Luft, ohne Weg in irgendeine Richtung?
+W	positive-c2x-in-limbo	Ja, es gibt keinen Weg zu einer Entscheidung und auch keine Art, ihn fallenzulassen.
+W	negative-c2x-in-limbo	Nein, er steht auf der Liste und wird auf dem gewöhnlichen Weg erledigt.
+W	question-c2x-needle-move	Bewegt das wirklich die Nadel?
+W	positive-c2x-needle-move	Ja, nimmt man es an, ändert es die Entscheidung, die wir sonst träfen.
+W	negative-c2x-needle-move	Nein, selbst in seiner besten Fassung bleibt die Entscheidung unberührt.
+W	question-c2x-talking-book	Sind die Zitate bloß Zierat aus dem Fundus?
+W	positive-c2x-talking-book	Ja, sie tragen die These nicht.
+W	negative-c2x-talking-book	Nein, jedes Zitat passt wirklich zu der These, die sie vertreten.
+W	question-c2x-closed-mind	Hat, wer entscheidet, das Gemüt verschlossen?
+W	positive-c2x-closed-mind	Ja, die späten Bemerkungen konnten nicht mit Bereitschaft aufgenommen werden, nachzugeben.
+W	negative-c2x-closed-mind	Nein, sie wurden abgewogen und hätten das Ergebnis ändern können.
+W	question-c2x-rubber-stamp	War die Prüfung ein Gummistempel?
+W	positive-c2x-rubber-stamp	Ja, niemand hat ein unabhängiges Urteil auf die Sache angewandt.
+W	negative-c2x-rubber-stamp	Nein, wer geprüft hat, hat die Entscheidung auf dem neu gefasst, was vor ihm lag.
+W	question-c2x-poisoned-well	Haben sie den Brunnen vergiftet?
+W	positive-c2x-poisoned-well	Ja, der erste Schimpf soll jede spätere Antwort unglaubwürdig machen.
+W	negative-c2x-poisoned-well	Nein, das erste Wort hindert nicht, eine Antwort danach abzuwägen.
+W	question-c2x-in-the-wings	Wartet ein besseres Argument hinter den Kulissen?
+W	positive-c2x-in-the-wings	Ja, und es hätte vorangehen müssen, nicht als Nachtrab.
+W	negative-c2x-in-the-wings	Nein, was sie vorgetragen haben, ist der ganze Fall, den sie haben.
+W	question-c2x-overtaken	Ist das, was sie verlangten, überholt?
+W	positive-c2x-overtaken	Ja, es jetzt zu gewähren, wirkte auf eine Lage, die es nicht mehr gibt.
+W	negative-c2x-overtaken	Nein, es würde noch in eine gegenwärtige und lebendige Lage beißen.
+W	question-c2x-thin-ice-now	Bewegen sie sich mit diesem Zugeständnis auf dünnem Eis?
+W	positive-c2x-thin-ice-now	Ja, sie geben eine Prämisse preis, die sie später noch brauchen.
+W	negative-c2x-thin-ice-now	Nein, der spätere Punkt hält ohne die preisgegebene Prämisse.
+W	question-c2x-two-ways	Lässt sich diese Schlussfolgerung auf zwei Arten lesen?
+W	positive-c2x-two-ways	Ja, und nur eine trägt die Entscheidung, die sie getroffen haben.
+W	negative-c2x-two-ways	Nein, in diesem Zusammenhang lässt sie nur einen Sinn zu.
+W	question-c2x-below-stairs	Ist das innere Verwaltung und keine Frage der Billigkeit?
+W	positive-c2x-below-stairs	Ja, es ist Haushaltung und nichts weiter.
+W	negative-c2x-below-stairs	Nein, es betrifft, ob man die Leute im Saal mit Billigkeit behandelt hat.
+W	question-c2x-shot-across	War das ein Warnschuss vor den Bug und keine echte Drohung?
+W	positive-c2x-shot-across	Ja, es war eine Warnung ohne gegenwärtige Absicht zu handeln.
+W	negative-c2x-shot-across	Nein, sie meinten es ernst und waren bereit zu handeln.
+W	question-c2x-in-the-round	Haben sie die Sache im Ganzen angesehen?
+W	positive-c2x-in-the-round	Ja, sie haben die gegenläufigen Faktoren gegeneinander abgewogen, nicht einzeln.
+W	negative-c2x-in-the-round	Nein, ein wesentlicher Faktor blieb beiseite und kam nie in die Waage.
+W	question-c2x-for-the-record	Ist diese Bemerkung nur zur Niederschrift?
+W	positive-c2x-for-the-record	Ja, sie bitten nicht, dass man daraus etwas entscheide.
+W	negative-c2x-for-the-record	Nein, sie wollen noch eine Entscheidung über diesen Punkt.
+W	question-c2x-dead-air	Gibt es eine tote Stille in der Begründung?
+W	positive-c2x-dead-air	Ja, zwischen dem, was sie gefunden haben, und dem, wo sie geendet sind, fehlt eine Stufe.
+W	negative-c2x-dead-air	Nein, jede Stufe ist ausgesprochen, und das Ergebnis folgt.
+W	question-c2x-false-scent	Hat man sie auf eine falsche Fährte gesetzt?
+W	positive-c2x-false-scent	Ja, die Zeitfolge, die man ihnen gab, versagt an dem einzigen Datum, auf das es ankommt.
+W	negative-c2x-false-scent	Nein, die Zeitfolge stimmt an jedem Datum, auf das es ankommt.
+W	question-c2x-in-one-breath	Vertreten sie zwei unvereinbare Haltungen in einem Atemzug?
+W	positive-c2x-in-one-breath	Ja, die beiden Sätze können nicht nebeneinander stehen.
+W	negative-c2x-in-one-breath	Nein, der zweite Satz schränkt den ersten ein, ohne ihm zu widersprechen.
+W	question-c2x-below-radar	Ist der Punkt unter dem Radar hereingeschlüpft?
+W	positive-c2x-below-radar	Ja, niemand hat ihn gekennzeichnet, und die andere Seite hatte keine faire Gelegenheit, ihn zu beantworten.
+W	negative-c2x-below-radar	Nein, er wurde klar gekennzeichnet und vollständig beantwortet.
+W	question-c2x-spent-cartridge	Ist dieses Argument eine verschossene Patrone?
+W	positive-c2x-spent-cartridge	Ja, es wurde in einer früheren Runde abgefeuert und tut hier nichts mehr.
+W	negative-c2x-spent-cartridge	Nein, es hat noch Arbeit an einem Punkt, der lebendig bleibt.
+W	question-c2x-open-and-shut	Verkaufen sie die Sache als offensichtlich, obwohl sie es nicht ist?
+W	positive-c2x-open-and-shut	Ja, es bleibt ein wirklicher Streit über einen Punkt, der mit einem Federstrich weggewischt wurde.
+W	negative-c2x-open-and-shut	Nein, hat man die Papiere gelesen, bleibt kein Streit.
+W	question-c2x-in-the-margin	Lebt dieser Punkt nur am Rand?
+W	positive-c2x-in-the-margin	Ja, es ist eine Fußnote zu einer Sache, die an anderen Punkten entschieden wird.
+W	negative-c2x-in-the-margin	Nein, es ist einer der Punkte, an denen die Sache wirklich entschieden wird.
+W	question-c2x-cold-comfort	Ist diese Zusicherung ein kalter Trost?
+W	positive-c2x-cold-comfort	Ja, halten sie sie nicht, gibt es keinen Weg, sie zur Einhaltung zu zwingen.
+W	negative-c2x-cold-comfort	Nein, halten sie sie nicht, gibt es einen wirklichen Weg, die Einhaltung zu verlangen.
+W	question-c2x-through-the-back	Kommen sie durch die Hintertür?
+W	positive-c2x-through-the-back	Ja, sie verlangen dasselbe unter einer Bezeichnung, die schon abgelehnt wurde.
+W	negative-c2x-through-the-back	Nein, was sie jetzt wollen, ist von anderer Art als das Abgelehnte.
+W	question-c2x-on-stilts	Steht diese Schlussfolgerung auf Stelzen?
+W	positive-c2x-on-stilts	Ja, sie schwebt über den Tatsachen, und diese tragen sie nicht.
+W	negative-c2x-on-stilts	Nein, jede Tatsache ist eine Bohle der Schlussfolgerung.
+W	question-c2x-no-answer	Haben sie dem Punkt keine Antwort gegeben?
+W	positive-c2x-no-answer	Ja, das Gesagte wechselt das Thema und stellt sich dem Punkt nicht.
+W	negative-c2x-no-answer	Nein, sie stellen sich dem Punkt, wenn auch nur kurz.
+W	question-c2x-live-ammunition	Ist dieses Zitat scharfe Munition oder eine Platzpatrone?
+W	positive-c2x-live-ammunition	Ja, es erledigt einen Punkt, der hier in derselben Form aufkommt.
+W	negative-c2x-live-ammunition	Nein, der Punkt, den es erledigt hat, kommt hier in keiner Form auf.
+W	question-c2x-afterthought	Ist der neue Punkt ein später Nachtrag?
+W	positive-c2x-afterthought	Ja, er erscheint zum ersten Mal, nachdem die Beweise schon geschlossen waren.
+W	negative-c2x-afterthought	Nein, er stand von Anfang an auf der Seite, auch wenn er spät ausgeführt wurde.
+W	question-c2x-hollow-ring	Klingt diese Entschuldigung hohl?
+W	positive-c2x-hollow-ring	Ja, sie wird angeboten, ohne die Worte zurückzunehmen, deren Rücknahme man verlangt.
+W	negative-c2x-hollow-ring	Nein, sie nimmt die Worte zurück und stellt wirklich wieder her.
+W	question-c2x-in-default	Haben sie eine Frist versäumt, die die Tür schließen sollte?
+W	positive-c2x-in-default	Ja, der Schritt wurde nicht rechtzeitig getan, und die Sanktion hat schon zugebissen.
+W	negative-c2x-in-default	Nein, er wurde rechtzeitig getan, oder die Frist wurde verlängert, bevor sie ablief.
+W	question-c2x-set-piece	Ist das eine einstudierte Nummer, die die Tatsachen vor uns ignoriert?
+W	positive-c2x-set-piece	Ja, sie könnten diese Rede überall halten, und sie berührt diese Tatsachen nicht.
+W	negative-c2x-set-piece	Nein, sie ist auf Einzelheiten gebaut, die nur zu dieser Sache gehören.
+W	question-c2x-quiet-life	Kaufen sie sich die Ruhe, statt ein Recht zu behaupten?
+W	positive-c2x-quiet-life	Ja, die Einigung gibt einen Anspruch preis, der reif war, ausgestritten zu werden.
+W	negative-c2x-quiet-life	Nein, sie spiegelt ein wirkliches Risiko auf beiden Seiten.
+W	question-c2x-in-the-weeds	Haben wir uns im Gestrüpp verirrt?
+W	positive-c2x-in-the-weeds	Ja, das Detail dient der Frage nicht mehr, die zu entscheiden ist.
+W	negative-c2x-in-the-weeds	Nein, das Detail ist der einzige Weg, sie zu entscheiden.
+W	question-c2x-full-and-frank	Haben sie alles auf den Tisch gelegt, worauf es ankam?
+W	positive-c2x-full-and-frank	Ja, jede damals bekannte nützliche Tatsache wurde vorgebracht.
+W	negative-c2x-full-and-frank	Nein, eine damals bekannte nützliche Tatsache wurde zurückgehalten.
+W	question-c2x-balance-of-convenience	Neigt die Abwägung des Schadens dazu, sie jetzt anzuhalten?
+W	positive-c2x-balance-of-convenience	Ja, der Schaden, es laufen zu lassen, lässt sich mit Geld nicht beheben und wiegt schwerer als der, es anzuhalten.
+W	negative-c2x-balance-of-convenience	Nein, das Geld würde es zurechtrücken, oder der Schaden, sie anzuhalten, ist größer.
+W	question-c2x-serious-issue	Gibt es eine ernsthafte Frage, die es verdient, ausgestritten zu werden?
+W	positive-c2x-serious-issue	Ja, der Anspruch ist nicht nichtig, und er hat auf den Papieren eine wirkliche Möglichkeit.
+W	negative-c2x-serious-issue	Nein, selbst in seiner besten Fassung hat er keine wirkliche Möglichkeit.
+W	question-c2x-keep-as-is	Sollen wir die Dinge lassen, wie sie sind, bis die Sache selbst entschieden ist?
+W	positive-c2x-keep-as-is	Ja, sie so zu lassen, wie sie sind, ist bis dahin das am wenigsten Schädliche.
+W	negative-c2x-keep-as-is	Nein, sie so zu lassen, wie sie sind, würde eben den Schaden zufügen, den der Anspruch abfangen will.
+W	question-c2x-undertaking	Wenn diese zeitweilige Pause sich als ungerecht erwiese, können sie den Verlust ersetzen?
+W	positive-c2x-undertaking	Ja, sie können jeden Verlust decken, den die Pause auf ungerechte Weise verursachen würde.
+W	negative-c2x-undertaking	Nein, sie könnten ihn nicht decken, wenn die Pause danach wegfiele.
+W	question-c2x-clearing-the-deck	Räumen sie nur das Deck frei?
+W	positive-c2x-clearing-the-deck	Ja, das Zugeständnis ist taktisch und lässt den wirklichen Streit für einen anderen Tag.
+W	negative-c2x-clearing-the-deck	Nein, es ist ein wirkliches Aufgeben dieses Teils der Sache.
+W	question-c2x-in-isolation	Liest man den Satz aus seiner Umgebung gerissen?
+W	positive-c2x-in-isolation	Ja, der umgebende Text gibt ihm einen Sinn, den sie abgeschnitten haben.
+W	negative-c2x-in-isolation	Nein, der umgebende Text bestätigt den Sinn, den sie ihm geben.
+W	question-c2x-tests-the-papers	Setzt das die Papiere auf die Probe, oder ist es bloßer rednerischer Aufwand?
+W	positive-c2x-tests-the-papers	Ja, es setzt eine These gegen die Dokumente auf die Probe.
+W	negative-c2x-tests-the-papers	Nein, es ist eine Rede, die an keinem Dokument hängt.
+W	question-c2x-without-notice	Haben sie das hinter dem Rücken der anderen Seite entscheiden lassen, obwohl sie warnen konnten?
+W	positive-c2x-without-notice	Ja, es gab Zeit und einen Weg zu warnen, und keiner wurde genutzt.
+W	negative-c2x-without-notice	Nein, eine Warnung war unmöglich, oder sie hätte den ganzen Zweck vereitelt.
+W	question-c2x-return-date	Ist der Termin der Rückkehr unnütz geworden?
+W	positive-c2x-return-date	Ja, was sie verlangten, hat schon seine ganze Wirkung getan, und es bleibt nichts rückgängig zu machen.
+W	negative-c2x-return-date	Nein, es bleibt ein lebendiger Teil, den man aufheben oder behalten kann.
+W	question-c2x-constructive-ambiguity	Hat man den Wortlaut absichtlich zweischneidig gelassen?
+W	positive-c2x-constructive-ambiguity	Ja, die Zweideutigkeit ist der Handel, der beiden das Unterschreiben erlaubt.
+W	negative-c2x-constructive-ambiguity	Nein, jeder Satz, der wirkt, hat einen einzigen vereinbarten Sinn.
+W	question-c2x-non-paper	Ist das ein inoffizieller Text und kein Vorschlag auf dem Tisch?
+W	positive-c2x-non-paper	Ja, er lässt sich zurückziehen, ohne dass jemand einen eingereichten Entwurf verleugnen muss.
+W	negative-c2x-non-paper	Nein, es ist ein förmlicher Vorschlag, der schon aktenkundig ist.
+W	question-c2x-landing-zone	Haben wir eine Spanne von Ergebnissen gefunden, die beide aushalten können?
+W	positive-c2x-landing-zone	Ja, es gibt eine Spanne, von der keiner weggehen wird.
+W	negative-c2x-landing-zone	Nein, die Spannen überlappen sich nicht; es gibt keinen Ort zum Landen.
+W	question-c2x-walk-away	Ist das ihre Schwelle zum Gehen?
+W	positive-c2x-walk-away	Ja, unter dieser Zahl hätten sie lieber keinen Handel.
+W	negative-c2x-walk-away	Nein, ihnen bleibt noch Spielraum, wenn der Rest des Pakets sich bessert.
+W	question-c2x-face-saving	Gibt es noch eine Formel, die ihnen das Gesicht wahrt?
+W	positive-c2x-face-saving	Ja, ein Wortlaut kann sie nachgeben lassen, ohne dass es aussieht, als knickten sie ein.
+W	negative-c2x-face-saving	Nein, jedes Zugeständnis läse sich jetzt als Niederlage, und sie werden es nicht unterschreiben.
+W	question-c2x-track-two	Ist das ein inoffizieller Kanal, der die Auftraggeber nicht binden kann?
+W	positive-c2x-track-two	Ja, er ist inoffiziell und kann die nicht binden, die das Mandat innehaben.
+W	negative-c2x-track-two	Nein, wer im Saal ist, hat die Vollmacht, seine Seite zu verpflichten.
+W	question-c2x-reserve-rights	Behalten sie sich ihre Haltung vor?
+W	positive-c2x-reserve-rights	Ja, nichts von dem, was heute gesagt wurde, ist als Verzicht zu nehmen.
+W	negative-c2x-reserve-rights	Nein, sie haben einen Kurs gewählt und können nicht mehr zugleich heiß und kalt blasen.
+W	question-c2x-gentlemen-deal	Ist das nicht mehr als ein Pakt unter Ehrenmännern?
+W	positive-c2x-gentlemen-deal	Ja, es ist eine Sache der Ehre, und niemand kann daraus klagen.
+W	negative-c2x-gentlemen-deal	Nein, die Worte sollten einen wirklichen Handel schaffen, der bindet.
+W	question-c2x-silence-as-yes	Nimmt man das Schweigen als Zustimmung?
+W	positive-c2x-silence-as-yes	Ja, eine Antwort war bis zu einem Datum verlangt, und keine kam.
+W	negative-c2x-silence-as-yes	Nein, das Schweigen lässt sich in diesem Rahmen nicht als Einigung lesen.
+W	question-c2x-nothing-agreed	Bindet nichts, bis das ganze Dokument unterschrieben ist?
+W	positive-c2x-nothing-agreed	Ja, kein Teil bindet, bis das Ganze unterschrieben ist.
+W	negative-c2x-nothing-agreed	Nein, mehrere Kapitel sind schon als bindend herausgelöst.
+W	question-c2x-side-letter	Steckt der wirkliche Handel in einem Nebenbrief?
+W	positive-c2x-side-letter	Ja, der veröffentlichte Text bleibt ohne diesen Brief unvollständig.
+W	negative-c2x-side-letter	Nein, der Brief ist erläuternd und ändert den veröffentlichten Text nicht.
+W	question-c2x-sunset-date	Stirbt die Befugnis von selbst an einem festen Datum?
+W	positive-c2x-sunset-date	Ja, nach diesem Datum bleibt nichts auszuüben.
+W	negative-c2x-sunset-date	Nein, sie dauert, bis man sie ausdrücklich entzieht.
+W	question-c2x-grandfathered	Bleibt die alte Praxis für das schon Laufende geschützt?
+W	positive-c2x-grandfathered	Ja, was schon läuft, behält die alte Regelung; nur das Neue nimmt die neue Regel an.
+W	negative-c2x-grandfathered	Nein, die neue Regel greift auch in das schon Laufende.
+W	question-c2x-time-essence	Ist die Zeit hier wesentlich?
+W	positive-c2x-time-essence	Ja, das Datum zu verfehlen, bricht den Handel selbst.
+W	negative-c2x-time-essence	Nein, das Datum zu verfehlen, öffnet nur einen Anspruch wegen des Verlustes, und der Handel bleibt.
+W	question-c2x-best-endeavours	Schulden sie das äußerste Bemühen oder nur ein angemessenes?
+W	positive-c2x-best-endeavours	Ja, sie müssen alle Maßnahmen treffen, die eine besonnene Person an ihrer Stelle treffen könnte, koste es, was es wolle.
+W	negative-c2x-best-endeavours	Nein, sie müssen nur die Maßnahmen treffen, die angesichts der Umstände angemessen sind.
+W	question-c2x-entire-agreement	Schließt das Schriftliche die früheren seitlichen Zusicherungen aus?
+W	positive-c2x-entire-agreement	Ja, das Schriftliche ist der ganze Handel, und die früheren Zusicherungen bleiben draußen.
+W	negative-c2x-entire-agreement	Nein, eine Lüge oder eine Nebengarantie steht noch außerhalb seiner Reichweite.
+W	question-c2x-sever-the-void	Kann man das nichtige Glied abtrennen und den Rest retten?
+W	positive-c2x-sever-the-void	Ja, der Rest funktioniert ohne dieses Glied, und sie hätten ihn so vereinbart.
+W	negative-c2x-sever-the-void	Nein, das nichtige Glied ist so verstrickt, dass das Ganze fällt.
+W	question-c2x-cherry-pick	Greifen sie nur die Stellen heraus, die ihnen zulächeln?
+W	positive-c2x-cherry-pick	Ja, den Rest begraben sie.
+W	negative-c2x-cherry-pick	Nein, sie haben die unbequemen Stellen aufgenommen und sich ihnen gestellt.
+W	question-c2x-counts-against	Ist die These so gefügt, dass nichts gegen sie zählen könnte?
+W	positive-c2x-counts-against	Ja, keine denkbare Feststellung ließe man gegen sie zu.
+W	negative-c2x-counts-against	Nein, sie haben die Feststellung genannt, die sie dazu brächte, sie fallenzulassen.
+W	question-c2x-free-rider	Nutzen sie eine Norm aus, die sie selbst nicht beachten werden?
+W	positive-c2x-free-rider	Ja, sie ernten den Nutzen einer Linie, die sie von den anderen verlangen und selbst nicht halten werden.
+W	negative-c2x-free-rider	Nein, sie tragen dasselbe Gewicht wie die, von denen sie verlangen, dass sie standhalten.
+W	question-c2x-perverse-nudge	Schiebt der Anreiz in die Gegenrichtung?
+W	positive-c2x-perverse-nudge	Ja, der Beauftragte wird gerade für das Verhalten besser bezahlt, von dem wir sagen, wir wollten weniger davon.
+W	negative-c2x-perverse-nudge	Nein, die Vergütung sinkt, wenn das unerwünschte Verhalten steigt.
+W	question-c2x-path-locked	Hat der erste Schritt die folgenden verteuert?
+W	positive-c2x-path-locked	Ja, die folgenden Schritte kosten schon mehr, als wenn man von einem anderen Ort ausgegangen wäre.
+W	negative-c2x-path-locked	Nein, einen anderen Pfad kann man noch ohne Mehrkosten nehmen.
+W	question-c2x-open-texture	Ist der Kern der Regel klar, aber die Grenze verlangt noch ein Urteil?
+W	positive-c2x-open-texture	Ja, der Kern ist klar, aber die Ränder werden ein neues Urteil verlangen.
+W	negative-c2x-open-texture	Nein, die Regel ist geschlossen, und dieser Sachverhalt fällt klar hinein oder heraus.
+W	question-c2x-veil-ignorance	Würden sie diese Regel noch wählen, wenn sie nicht wüssten, welchen Platz sie einnähmen?
+W	positive-c2x-veil-ignorance	Ja, man würde sie wählen, ohne zu wissen, welchen Platz man einnähme.
+W	negative-c2x-veil-ignorance	Nein, sie lockt nur von einem Platz aus, der schon besetzt ist.
+W	question-c2x-deep-split	Ist das eine tiefe Uneinigkeit und nicht eine fehlende Tatsache?
+W	positive-c2x-deep-split	Ja, sie teilen die Tatsachen und finden dennoch keinen gemeinsamen Maßstab.
+W	negative-c2x-deep-split	Nein, sobald eine fehlende Tatsache beigebracht wird, löst sich die Uneinigkeit auf.
+W	question-c2x-no-common-scale	Gibt es keine gemeinsame Skala, auf der diese Güter sich ausgleichen?
+W	positive-c2x-no-common-scale	Ja, ein Gewinn des einen lässt sich nicht als Ausgleich eines Verlustes des anderen bezeichnen.
+W	negative-c2x-no-common-scale	Nein, man hat eine gemeinsame Skala vereinbart, und ein Tausch lässt sich benennen.
+W	question-c2x-henry-viii	Kann die Regierung das Hauptgesetz durch eine einfache Verordnung umschreiben?
+W	positive-c2x-henry-viii	Ja, sie können den Haupttext ändern, ohne zum Parlament zurückzukehren.
+W	negative-c2x-henry-viii	Nein, jede Änderung des Haupttextes verlangt noch eine neue Abstimmung im Parlament.
+W	question-c2x-wrecking-amendment	Soll diese Änderung den ganzen Vorschlag versenken?
+W	positive-c2x-wrecking-amendment	Ja, sie ist darauf angelegt, ihn unanwendbar zu machen, statt ihn zu verbessern.
+W	negative-c2x-wrecking-amendment	Nein, es ist ein ernsthafter Versuch, einen Mangel zu heilen, ohne den Vorschlag zu töten.
+W	question-c2x-wasted-costs	Soll die vergebliche Rechnung auf die Berater fallen und nicht auf die Person, die sie vertreten?
+W	positive-c2x-wasted-costs	Ja, die Verschwendung kam aus dem nachlässigen oder ungebührlichen Verhalten der Berater selbst.
+W	negative-c2x-wasted-costs	Nein, die Verschwendung gehört zur Sache selbst, und die Rechnung folgt dieser Sache auf dem gewöhnlichen Weg.
+W	question-c2x-anti-suit	Sollen wir sie hindern, im Ausland zu klagen?
+W	positive-c2x-anti-suit	Ja, sie haben versprochen, jeden Streit hierher zu bringen, und haben dieses Versprechen gebrochen.
+W	negative-c2x-anti-suit	Nein, man muss dem ausländischen Gericht lassen, zu entscheiden, ob es die Sache verhandelt.
+W	tech-question-git	Was ist Git?
+W	tech-answer-git	Git ist ein System zur Versionsverwaltung. Wir nutzen es, um Änderungen zu verfolgen und am selben Code zu arbeiten.
+W	tech-question-pull-request	Was ist ein Pull Request?
+W	tech-answer-pull-request	Ein Pull Request ist ein Vorschlag, meinen Zweig nach der Prüfung in den Hauptzweig zu überführen.
+W	tech-question-api	Was ist eine API?
+W	tech-answer-api	Eine API lässt zwei Systeme miteinander sprechen. Das Frontend ruft sie auf, um Daten zu holen oder zu senden.
+W	tech-question-frontend-backend	Was ist der Unterschied zwischen Frontend und Backend?
+W	tech-answer-frontend-backend	Das Frontend ist, was der Nutzer sieht. Das Backend ist der Server, die Datenbank und die Geschäftslogik.
+W	tech-question-debugging	Wie spürst du einen Fehler auf?
+W	tech-answer-debugging	Ich reproduziere ihn, sehe in die Logs, grenze die Ursache ein, behebe ihn und prüfe erneut.
+W	tech-question-code-review	Was ist eine Codeprüfung?
+W	tech-answer-code-review	Es ist, wenn ein Kollege meine Änderungen liest, bevor sie zusammengeführt werden, um Fehler zu finden und den Code stimmig zu halten.
+W	tech-question-sql	Was ist SQL?
+W	tech-answer-sql	SQL ist die Sprache, mit der wir Daten in einer relationalen Datenbank abfragen und ändern.
+W	tech-question-deploy	Was bedeutet Bereitstellen?
+W	tech-answer-deploy	Bereitstellen heißt, eine neue Fassung der Anwendung auf einem Server zu veröffentlichen, damit die Nutzer sie verwenden.
+W	tech-question-rest	Was ist REST?
+W	tech-answer-rest	REST ist eine Art, APIs um Ressourcen herum zu gestalten, mit HTTP-Methoden wie GET, POST, PUT und DELETE.
+W	tech-question-bug-vs-feature	Was ist der Unterschied zwischen einem Bug und einer Funktion?
+W	tech-answer-bug-vs-feature	Ein Bug ist etwas, das nicht wie erwartet funktioniert. Eine Funktion ist ein neues Verhalten, das wir hinzufügen wollten.
+W	tech-question-standup	Was ist ein Stand-up?
+W	tech-answer-standup	Es ist eine kurze tägliche Besprechung, in der das Team mitteilt, was es getan hat, was es tun wird und ob es Blockaden gibt.
+W	tech-question-docker	Was ist Docker?
+W	tech-answer-docker	Docker packt eine Anwendung mit ihren Abhängigkeiten, damit sie auf jeder Maschine gleich läuft.
+W	tech-question-html	Was ist HTML?
+W	tech-answer-html	HTML ist die Auszeichnungssprache, die einer Seite ihre Struktur gibt: Überschriften, Absätze, Links und Formulare.
+W	tech-question-css	Was ist CSS?
+W	tech-answer-css	CSS ist die Sprache, mit der wir der Seite ihr Aussehen geben: Anordnung, Farben, Abstände und Schriften.
+W	tech-question-javascript	Was ist JavaScript?
+W	tech-answer-javascript	JavaScript macht die Seite interaktiv. Es läuft im Browser und spricht mit APIs, wenn wir Daten brauchen.
+W	tech-question-commit	Was ist ein Commit?
+W	tech-answer-commit	Ein Commit ist eine gespeicherte Momentaufnahme meiner Änderungen, mit einer Nachricht, die erklärt, was ich getan habe.
+W	tech-question-branch	Was ist ein Zweig?
+W	tech-answer-branch	Ein Zweig ist eine eigene Arbeitslinie, um eine Funktion zu bauen, ohne den Hauptcode zu ändern.
+W	tech-question-ticket	Was ist ein Ticket?
+W	tech-answer-ticket	Ein Ticket ist eine erfasste Arbeit, ein Bug, eine Aufgabe oder eine Funktion, die das Team zuweisen und verfolgen kann.
+W	tech-question-localhost	Was ist Localhost?
+W	tech-answer-localhost	Localhost ist meine eigene Maschine. Dort läuft die Anwendung, während ich entwickle, bevor wir sie bereitstellen.
+W	tech-question-json	Was ist JSON?
+W	tech-answer-json	JSON ist ein einfaches Textformat, um Daten zu senden, oft zwischen dem Frontend und einer API.
+W	tech-question-http	Was ist HTTP?
+W	tech-answer-http	HTTP ist das Protokoll, mit dem der Browser mit dem Server spricht, Seiten anfordert und Daten sendet.
+W	tech-question-typescript	Was ist TypeScript?
+W	tech-answer-typescript	TypeScript ist JavaScript mit Typen. Es hilft, Fehler zu finden, bevor der Code läuft.
+W	tech-question-npm	Was ist npm?
+W	tech-answer-npm	npm ist die Paketverwaltung für JavaScript. Wir nutzen sie, um die Bibliotheken zu installieren, die das Projekt braucht.
+W	tech-question-unit-test	Was ist ein Modultest?
+W	tech-answer-unit-test	Ein Modultest prüft ein kleines Stück Code für sich, damit wir wissen, dass es nach einer Änderung noch funktioniert.
+W	tech-question-sprint	Was ist ein Sprint?
+W	tech-answer-sprint	Ein Sprint ist ein kurzer Arbeitszyklus, gewöhnlich eine oder zwei Wochen, mit einem klaren Satz von Aufgaben, die zu Ende zu bringen sind.
+W	tech-question-blocker	Was ist ein Blocker?
+W	tech-answer-blocker	Ein Blocker ist alles, was mich am Weiterkommen hindert, also bringe ich ihn im Stand-up zur Sprache.
+W	tech-question-merge-conflict	Wie löst du einen Konflikt beim Zusammenführen?
+W	tech-answer-merge-conflict	Ich öffne die Datei, vergleiche beide Änderungen, behalte den richtigen Code und mache einen Commit des Ergebnisses.
+W	tech-question-fetch-vs-pull	Was ist der Unterschied zwischen git fetch und git pull?
+W	tech-answer-fetch-vs-pull	git fetch lädt die fernen Änderungen herunter, ohne sie zusammenzuführen. git pull holt sie und führt sie dann in meinen aktuellen Zweig zusammen.
+W	tech-question-ci-cd	Was ist CI/CD?
+W	tech-answer-ci-cd	CI/CD automatisiert den Bau, die Tests und die Bereitstellung, damit jede Änderung geprüft und zuverlässig veröffentlicht wird.
+W	tech-question-auth-vs-authz	Was ist der Unterschied zwischen Authentifizierung und Autorisierung?
+W	tech-answer-auth-vs-authz	Authentifizierung heißt nachweisen, wer du bist. Autorisierung ist, was du tun darfst.
+W	tech-question-backlog	Was ist ein Backlog?
+W	tech-answer-backlog	Ein Backlog ist die geordnete Liste der Arbeit, die das Team noch zu tun hat: Bugs, Aufgaben und Funktionen.
+W	tech-question-ide	Was ist eine IDE?
+W	tech-answer-ide	Eine IDE ist die Anwendung, in der ich Code schreibe, mit Editor, Terminal und Debugger an einem Ort.
+W	tech-question-terminal	Was ist das Terminal?
+W	tech-answer-terminal	Das Terminal ist ein Textfenster, in dem ich Befehle ausführe, wie git, npm oder Skripte.
+W	tech-question-logs	Was sind Logs?
+W	tech-answer-logs	Logs sind Nachrichten, die die Anwendung schreibt, während sie läuft. Ich lese sie, um Fehler zu sehen und was geschehen ist.
+W	tech-question-agile	Was ist Agile?
+W	tech-answer-agile	Agile ist eine Art, in kurzen Zyklen zu arbeiten, mit häufiger Rückmeldung, statt alles am Ende abzuliefern.
+W	tech-question-scrum	Was ist Scrum?
+W	tech-answer-scrum	Scrum ist ein Agile-Rahmen mit Sprints, einem Backlog, Stand-ups und einer Prüfung am Ende jedes Sprints.
+W	tech-question-env-var	Was ist eine Umgebungsvariable?
+W	tech-answer-env-var	Es ist eine Einstellung außerhalb des Codes, wie ein API-Schlüssel oder die Adresse einer Datenbank, damit wir Geheimnisse nicht fest in den Code schreiben.
+W	tech-question-staging-prod	Was ist der Unterschied zwischen Staging und Produktion?
+W	tech-answer-staging-prod	Staging ist eine Kopie der Produktion für die letzten Prüfungen. Produktion ist das wirkliche System, das die Nutzer verwenden.
+W	tech-question-rollback	Was bedeutet Rollback?
+W	tech-answer-rollback	Ein Rollback ist die Rückkehr zur vorherigen Fassung, die funktioniert hat, nach einer misslungenen Bereitstellung.
+W	tech-question-hotfix	Was ist ein Hotfix?
+W	tech-answer-hotfix	Ein Hotfix ist eine dringende Korrektur, die wir schnell veröffentlichen, gewöhnlich wegen eines schweren Bugs in der Produktion.
+W	tech-question-pair-programming	Was ist Paarprogrammierung?
+W	tech-answer-pair-programming	Zwei Personen arbeiten zugleich am selben Code: eine schreibt, die andere prüft und denkt laut.
+W	tech-question-refactoring	Was bedeutet Refaktorisieren?
+W	tech-answer-refactoring	Refaktorisieren heißt, den Code zu verbessern, ohne zu ändern, was er tut, damit er sich später leichter lesen und ändern lässt.
+W	tech-question-cache	Was ist ein Zwischenspeicher?
+W	tech-answer-cache	Ein Zwischenspeicher hält Daten, die wir schon geholt haben, damit die nächste Anfrage schneller ist und wir den Server seltener treffen.
+W	tech-question-library-vs-framework	Was ist der Unterschied zwischen einer Bibliothek und einem Framework?
+W	tech-answer-library-vs-framework	Eine Bibliothek ist ein Werkzeug, das ich aus meinem Code aufrufe. Ein Framework ruft meinen Code auf und gibt der Anwendung ihre Struktur.
+W	tech-question-status-404	Was bedeutet ein 404?
+W	tech-answer-status-404	Ein 404 bedeutet, dass der Server die Ressource nicht gefunden hat. Die URL stimmt nicht, oder die Seite gibt es nicht mehr.
+W	tech-question-merge-vs-rebase	Was ist der Unterschied zwischen Merge und Rebase?
+W	tech-answer-merge-vs-rebase	Merge verbindet zwei Zweige und behält die Geschichte. Rebase spielt meine Commits auf einem anderen Zweig neu ab, für eine lineare Geschichte.
+W	tech-question-technical-debt	Was sind technische Schulden, gegenüber einem schlichten Fehler?
+W	tech-answer-technical-debt	Es ist eine Abkürzung im Entwurf, die noch funktioniert, deren Zinsen man aber später in langsameren Änderungen zahlt. Ein Fehler ist jetzt falsches Verhalten; die Schuld ist ein künftiger Preis, den wir angenommen haben.
+W	tech-question-dry	Was bedeutet DRY?
+W	tech-answer-dry	DRY bedeutet: Wiederhole dich nicht. Wir lagern die gemeinsame Logik aus, statt denselben Code zu kopieren.
+W	tech-question-production-bug	Wie gehst du mit einem Fehler in der Produktion um?
+W	tech-answer-production-bug	Ich stelle die Wirkung fest, mache einen Rollback oder einen Hotfix, wenn es nötig ist, suche dann die Ursache und füge einen Test hinzu, damit er nicht wiederkommt.
+W	tech-question-class-vs-object	Was ist der Unterschied zwischen einer Klasse und einem Objekt?
+W	tech-answer-class-vs-object	Eine Klasse ist der Plan. Ein Objekt ist ein konkretes Exemplar, das aus dieser Klasse erzeugt wird.
+W	tech-question-repo	Was ist ein Repositorium?
+W	tech-answer-repo	Ein Repositorium, oder Repo, ist der Ort, an dem der Code des Projekts und seine Git-Geschichte leben.
+W	tech-question-browser	Was ist ein Browser?
+W	tech-answer-browser	Ein Browser ist die Anwendung, die Webseiten lädt, wie Chrome, Firefox oder Edge.
+W	tech-question-database	Was ist eine Datenbank?
+W	tech-answer-database	Eine Datenbank speichert Information in geordneter Form, damit die Anwendung sie später lesen und ändern kann.
+W	tech-question-cloud	Was ist die Cloud?
+W	tech-answer-cloud	Die Cloud sind Server, die wir bei einem Anbieter mieten, damit wir die Anwendung nicht auf unseren eigenen Maschinen betreiben.
+W	tech-question-endpoint	Was ist ein Endpunkt?
+W	tech-answer-endpoint	Ein Endpunkt ist eine konkrete URL einer API, wie GET /users, die genau eine Aufgabe hat.
+W	tech-question-https	Was ist HTTPS?
+W	tech-answer-https	HTTPS ist HTTP mit Verschlüsselung. Es schützt die Daten auf dem Weg zwischen Browser und Server.
+W	tech-question-cookie	Was ist ein Cookie?
+W	tech-answer-cookie	Ein Cookie ist ein kleines Datum, das der Server im Browser speichert, oft um den Nutzer angemeldet zu halten.
+W	tech-question-query	Was ist eine Abfrage?
+W	tech-answer-query	Eine Abfrage ist ein Verlangen nach Daten, zum Beispiel eine SQL-Anweisung oder eine Suche in der Datenbank.
+W	tech-question-mock	Was ist ein Mock?
+W	tech-answer-mock	Ein Mock ist ein falscher Stellvertreter eines wirklichen Dienstes in den Tests, damit wir unseren Code prüfen können, ohne die echte API aufzurufen.
+W	tech-question-timeout	Was ist eine Zeitüberschreitung?
+W	tech-answer-timeout	Eine Zeitüberschreitung ist die längste Zeit, die wir auf eine Antwort warten, bevor wir abbrechen und die Anfrage als gescheitert behandeln.
+W	tech-question-jwt	Was ist ein JWT, und was ist zu prüfen, bevor man ihm traut?
+W	tech-answer-jwt	Ein JWT ist ein signiertes Token, das nach der Anmeldung ausgegeben wird. Man muss die Signatur, das Ablaufen und die Claims prüfen, bevor man es als Identitätsnachweis nimmt.
+W	tech-question-cors	Was ist CORS, und warum gibt es eine Vorabfrage?
+W	tech-answer-cors	CORS ist eine Browserregel, die ursprungsübergreifende Aufrufe sperrt, sofern der Server nicht zustimmt. Eine OPTIONS-Vorabfrage prüft Methode und Kopfzeilen, bevor der eigentliche Aufruf gesendet wird.
+W	tech-question-microservice	Welchen Ausgleich erkauft eine Architektur aus Mikrodiensten wirklich?
+W	tech-answer-microservice	Unabhängige Bereitstellung und Skalierung je Dienst, auf Kosten von Netzausfällen und einer betrieblichen Komplexität, die ein modularer Monolith nicht hatte.
+W	tech-question-null-vs-undefined	Was ist der Unterschied zwischen null und undefined in JavaScript?
+W	tech-answer-null-vs-undefined	Undefined bedeutet, dass der Wert nie gesetzt wurde. Null ist ein leerer Wert, den wir absichtlich gesetzt haben.
+W	tech-question-sql-injection	Was ist eine SQL-Injection, und wie vermeidest du sie?
+W	tech-answer-sql-injection	Es ist, wenn eine nicht vertrauenswürdige Eingabe in eine SQL-Zeichenkette gemischt wird. Man vermeidet das mit parametrisierten Abfragen, nie indem man aneinanderhängt, was der Nutzer schreibt.
+W	tech-question-cap-theorem	Was hat diese Postkarte getan, wozu ein Brief zu stolz gewesen wäre?
+W	tech-answer-cap-theorem	Sie hat das Wetter gesagt und den Streit unbenannt gelassen. Der Stolz hätte einen Fall geschrieben; die Karte beweist nur, dass man noch an sie dachte.
+W	tech-question-eventual-consistency	Wie fordert man das Geld zurück, ohne die Notiz in eine Vorladung zu verwandeln?
+W	tech-answer-eventual-consistency	Ich würde die Summe, das Datum und die Freundschaft nennen und vor der Drohung innehalten. Eine Mahnung, die schon nach Gericht klingt, wird mit gleicher Münze erwidert.
+W	tech-question-idempotency	Wo hat diese Hochzeitsrede angefangen, für den Saal zu spielen statt für das Paar?
+W	tech-answer-idempotency	Es beginnt, wenn die Witze sich umdrehen, um die Tische anzusehen. Eine Rede, die das Lachen mehr will als einen Zeugen, hat die Brautleute schon hinter sich gelassen.
+W	tech-question-two-phase-commit	Was muss die erste Zeile eines verspäteten Geburtstagsbriefs sich weigern zu tun?
+W	tech-answer-two-phase-commit	Sie muss sich weigern, die Verspätung lang zu erklären. Eine lange Entschuldigung macht den Tag kleiner als die Entschuldigung, und man hört nur die Verspätung.
+W	tech-question-vector-clock	Wie würden Sie den Nachbarn bitten, das Klavier leiser zu stellen, ohne eine Beschwerde zu schreiben?
+W	tech-answer-vector-clock	Ich würde die Stunde nennen, zu der ich schlafe, und die Freude, es zu hören, und dann aufhören. Ein Katalog von Nächten wird nach Akte klingen, und sie werden den Deckel aus Groll schließen.
+W	tech-question-bloom-filter	Was hat dieses Reisetagebuch verloren, indem es jeden Abend zu einer Szene poliert hat?
+W	tech-answer-bloom-filter	Es hat die Krümel des Tages verloren: die falsche Straße, den kalten Kaffee, den halb gehörten Namen. Eine Seite, die schon veröffentlicht aussieht, wird nicht erinnern, wie sich die Stadt wirklich anfühlte.
+W	tech-question-circuit-breaker	Wie schlägt man einem Freund ein Darlehen ab, ohne eine Predigt zu schreiben?
+W	tech-answer-circuit-breaker	Ich würde sagen, dass ich nicht kann, und dass die Freundschaft nicht die Summe ist. Eine Predigt über seine Ausgaben behält man länger als das Nein, und schlimmer.
+W	tech-question-cqrs	Wo hat diese Wohnungsanzeige angefangen, mit Adjektiven zu lügen?
+W	tech-answer-cqrs	Es beginnt, wenn „ruhig“ eine Straße meint, die die Fotos nicht zeigen. Ein Käufer, der der Ruhe wegen kam und die Lastwagen vorfindet, wird den Rest der Wahrheit nicht verzeihen.
+W	tech-question-saga-pattern	Was muss ein Zettel auf dem Tisch sich weigern, über Nacht zu entscheiden?
+W	tech-answer-saga-pattern	Er muss sich dem ganzen Streit verweigern. Ein Satz, der den Fall um Mitternacht richtet, liegt beim Frühstück noch auf dem Tisch, kälter und weniger gerecht.
+W	tech-question-backpressure	Wie würden Sie zwei Menschen in einem Brief vorstellen, ohne ihnen eine Freundschaft aufzuzwingen?
+W	tech-answer-backpressure	Ich würde sagen, warum es jedem der beiden wichtig sein könnte, und das Treffen ohne Drehbuch lassen. Ein Brief, der sie schon als Verbündete sieht, macht beide misstrauisch.
+W	tech-question-consensus-raft	Was hat diese Museumsbeschriftung getan, worum das Gemälde nicht gebeten hat?
+W	tech-answer-consensus-raft	Sie hat uns gesagt, was wir fühlen sollen, bevor wir hingesehen haben. Eine Beschriftung, die die Rührung verbraucht, lässt die Leinwand als Möbel dastehen.
+W	tech-question-quorum	Wie schließt man eine lange Korrespondenz, ohne die Schublade zuzuknallen?
+W	tech-answer-quorum	Ich würde ihnen für die Jahre danken und eine Tür einen Spalt offen lassen. Ein letzter Brief, der jedes Unrecht aufzählt, ist ein Riegel, und man hört das Klicken.
+W	tech-question-c2t-withdraw-kindly	Wie würden Sie das Angebot der letzten Woche zurückziehen, ohne den Rest des Briefes zu verbittern?
+W	tech-answer-c2t-withdraw-kindly	Ich würde ihnen fürs Warten danken und nur die Bedingungen aufheben. Wenn die Wärme mit den Bedingungen geht, werden sie denken, ich hätte aufgehört, sie selbst zu mögen.
+W	tech-question-c2t-complaint-pitch	Wo fängt diese Beschwerde an, nach einem Wutanfall zu klingen und nicht nach einem Fall?
+W	tech-answer-c2t-complaint-pitch	Es beginnt, wo die Tatsachen aufhören und die Adjektive eintreten. Ein müder Leser wird Ihnen die Daten zugestehen, nicht den Ärger.
+W	tech-question-c2t-condolence-spare	Was muss ein Beileidsbrief sich weigern zu erklären?
+W	tech-answer-c2t-condolence-spare	Er muss sich weigern, den Tod zu erklären und eine Lehre daran zu hängen. Er muss nur sagen, dass man diesen Menschen gesehen hat, und dass Sie noch da sind.
+W	tech-question-c2t-reference-honest	Wie schreibt man eine ehrliche Empfehlung, ohne dass sie ein Messer wird?
+W	tech-answer-c2t-reference-honest	Ich würde loben, was ich vertreten kann, und über den Rest schweigen. Ein blasses Adjektiv in einem klingenden Brief ist schon eine Warnung, und man hört sie.
+W	tech-question-c2t-careful-no	Wie würden Sie die Einladung ablehnen, ohne einen Terminkonflikt zu erfinden?
+W	tech-answer-c2t-careful-no	Ich würde danken, die Freude nennen, die ich gehabt hätte, und aufhören. Ein erfundener Termin ist eine kleine Lüge, die später einen zweiten Brief verlangt.
+W	tech-question-c2t-minutes-human	Was hielte diese Zeile des Protokolls menschlich, ohne sie zur Szene zu machen?
+W	tech-answer-c2t-minutes-human	Man nenne die Uneinigkeit und den Beschluss und lasse die Hitze draußen. Ein Witz im Protokoll überlebt den Saal und bringt den in Verlegenheit, der zu denken versuchte.
+W	tech-question-c2t-resignation-grace	Wo soll die Anmut in einem Rücktrittsschreiben sitzen, das kein Liebesbrief ist?
+W	tech-answer-c2t-resignation-grace	Sie soll auf der Arbeit und den Menschen liegen, nicht auf dem Abgang. Die Tür im Gehen zu segnen klingt nach einer Drohung im Kleid der Höflichkeit.
+W	tech-question-c2t-apology-clean	Was hat diese Entschuldigung getan, dass die Wunde offen bleibt?
+W	tech-answer-c2t-apology-clean	Sie hat das Motiv erklärt und den Schaden übersprungen. Solange der Schaden nicht genannt wird, ist der Brief eine Verteidigung, keine Entschuldigung.
+W	tech-question-c2t-thanks-unowed	Wie dankt man jemandem, der es hassen wird, dass man ihm dankt?
+W	tech-answer-c2t-thanks-unowed	Ich hielte es kurz, unter vier Augen und genau bei dem, was er getan hat. Eine öffentliche Gebärde würde es ihm zweimal abverlangen.
+W	tech-question-c2t-follow-up-silence	Welche Arbeit tut das Schweigen in einer Erinnerung, die die Bitte schon ausgesprochen hat?
+W	tech-answer-c2t-follow-up-silence	Es lässt ihnen eine Frist, das Gesicht zu wahren, und setzt nicht ein zweites Mal Druck an. Ein weiterer Absatz mit Gründen liest sich als Bedürftigkeit im Kleid der Höflichkeit.
+W	tech-question-c2t-cover-spare	Was muss ein Begleitschreiben sich weigern, für die Seiten zu tun, die es vorstellt?
+W	tech-answer-c2t-cover-spare	Es muss sich weigern, sie zu verkaufen und dem Leser zu sagen, was er fühlen soll. Die Seiten tragen oder sie tragen nicht; die Notiz ist nur eine Hand an der Tür.
+W	tech-question-c2t-retract-blurb	Wie zieht man einen Klappentext zurück, ohne das Buch zu beleidigen, das man gelobt hat?
+W	tech-answer-c2t-retract-blurb	Ich würde sagen, das Buch sei nicht mehr das, hinter dem ich stehen kann, und das Lob in der Vergangenheit lassen. Eine Grimasse zum Autor jetzt ließe den ersten Brief gekauft aussehen.
+W	tech-question-c2t-letter-editor	Wo gibt dieser Leserbrief seinen Kredit zu früh aus?
+W	tech-answer-c2t-letter-editor	Er gibt ihn für die Manieren des Gegners aus und gelangt nie zum Fehler. Beim dritten Satz hat die Zeitung einen Streit, keine Berichtigung.
+W	tech-question-c2t-neighbour-note	Wie würden Sie die Sache mit der Mauer vorbringen, damit es nicht nach einer förmlichen Aufforderung klingt?
+W	tech-answer-c2t-neighbour-note	Ich würde von der gemeinsamen Straße und dem gemeinsamen Wetter ausgehen und dann den Riss nennen. Ein erster Satz über Rechte macht aus einem Nachbarn eine Partei.
+W	tech-question-c2t-landlord-damp	Was hat der zweite Absatz dieses Briefes über die Feuchtigkeit wirklich verlangt?
+W	tech-answer-c2t-landlord-damp	Er hat um Mitleid gebeten, nicht um ein Datum und einen Handwerker. Die Feuchtigkeit wird noch da sein, wenn man Sie bemitleidet hat.
+W	tech-question-c2t-cancel-stay	Wie sagt man das Zimmer ab, ohne froh zu wirken, sie los zu sein?
+W	tech-answer-c2t-cancel-stay	Ich würde den Aufenthalt bedauern, den ich verpassen werde, und nur bitten, dass sie die Beträge bestätigen. Die Munterkeit liest sich hier als ein kleiner Sieg über das Haus.
+W	tech-question-c2t-withdraw-application	Was ist zu bewahren, wenn man eine Bewerbung zurückzieht, die man noch achtet?
+W	tech-answer-c2t-withdraw-application	Zu bewahren sind der Dank und das Gefühl, dass die Stelle echt war. Ein Achselzucken über das Amt folgt Ihnen, wenn dieselben Menschen Sie später sehen.
+W	tech-question-c2t-referee-decline	Wie lehnt man es ab, als Referenz zu dienen, ohne dem Kandidaten zu schaden?
+W	tech-answer-c2t-referee-decline	Ich würde sagen, dass ich den Brief nicht geben kann, den er braucht, und ihm eine besser platzierte Stimme wünschen. Seine Schwäche in der Absage zu nennen, würde den Schaden anrichten, den ich vermeiden wollte.
+W	tech-question-c2t-condolence-work	Was hat in einem Beileid an einen Kollegen Platz, das in einem Brief an die Familie falsch wäre?
+W	tech-answer-c2t-condolence-work	Ein kurzes Wort darüber, wie er bei der Arbeit war, wenn Sie das wussten und sonst nichts. Eine erfundene Vertrautheit mit dem Privatleben wird auf dem Küchentisch hohl klingen.
+W	tech-question-c2t-minutes-dissent	Wie hält man eine abweichende Meinung so fest, dass es ein Protokoll bleibt und kein Spielstand?
+W	tech-answer-c2t-minutes-dissent	Man nenne die Einwendung und den gefassten Beschluss, in dieser Reihenfolge, ohne Farbe. Eine Protokollzeile, die dem Gewinner zuzwinkert, liest sich Jahre später als ein Lager.
+W	tech-question-c2t-diplomatic-regret	Wie würden Sie das Bedauern so fassen, dass die andere Kanzlei noch das Gesicht wahren kann?
+W	tech-answer-c2t-diplomatic-regret	Ich würde den Augenblick bedauern, nicht die Person, und eine Tür lassen, die nicht quietscht. Eine Lektion über ihre Manieren würde sie zwingen, auf die Lektion zu antworten.
+W	tech-question-c2t-job-regret	Was hat dieser Ablehnungsbrief der Person angetan, an die er sich richtet?
+W	tech-answer-c2t-job-regret	Er hat die Mühe gelobt und nie gesagt, was gefehlt hat. Sie wird die Seite verlassen in dem Glauben, man habe sie fast gewählt, eine Freundlichkeit, die später bitter wird.
+W	tech-question-c2t-late-letter	Wie beginnt man einen Brief, der vor einem Monat hätte fortgehen müssen?
+W	tech-answer-c2t-late-letter	Ich würde die Verspätung in einem Nebensatz nennen und dann die eigentliche Arbeit tun. Eine Seite voller Entschuldigungen frisst den Platz, an den der Dank oder die Nachricht gehört hätte.
+W	tech-question-c2t-return-gift	Wie gibt man ein Geschenk zurück, ohne dass der Geber sich töricht fühlt?
+W	tech-answer-c2t-return-gift	Ich würde die Zuneigung bewahren und nur das praktische Hindernis erklären. Ein Witz auf Kosten des Gegenstands trifft die Hand, die es gewählt hat.
+W	tech-question-c2t-refuse-preface	Was muss eine Absage, das Vorwort zu schreiben, unberührt lassen?
+W	tech-answer-c2t-refuse-preface	Sie muss den Anspruch des Buches auf andere Leser unberührt lassen. Zu sagen, man sei sehr beschäftigt, wenn man meint, man könne es nicht loben, sickert später auf einem Flur durch.
+W	tech-question-c2t-wedding-no	Wie würden Sie die Hochzeit absagen, damit das Paar sich noch erwünscht fühlt?
+W	tech-answer-c2t-wedding-no	Ich würde den Tag segnen und eine konkrete Freude nennen, die sie mir geben. Ein Absatz über meine Reiseleiden macht den Brief zu einem Brief über mich.
+W	tech-question-c2t-funeral-absent	Was kann ein Brief, wenn man nicht an der Grube stehen kann?
+W	tech-answer-c2t-funeral-absent	Er kann Sie in das Zimmer setzen, das sie nachts noch einmal lesen, wenn er genau ist und ohne Prunk. Ein Telegramm allgemeinen Kummers ist eine Formel, die sich nie gesetzt hat.
+W	tech-question-c2t-thank-host	Wo verbiegt sich dieser Dank an den Gastgeber?
+W	tech-answer-c2t-thank-host	Er zählt die Speisenfolge auf und vergisst die Luft, die sie wirklich gemacht haben. Ein Gastgeber merkt sich, ob es Sie gefreut hat, dort zu sein, nicht ob die Sauce erwähnt wurde.
+W	tech-question-c2t-publisher-delay	Wie beschwert man sich bei einem Verleger, ohne wie ein Bittsteller mit Peitsche zu wirken?
+W	tech-answer-c2t-publisher-delay	Ich würde an das vereinbarte Datum erinnern und einmal nach dem neuen fragen. Drohungen mit dem Anwalt im zweiten Satz machen aus dem Manuskript eine Kränkung, kein Buch.
+W	tech-question-c2t-withdraw-quote	Wie zieht man einen zitierten Satz zurück, ohne ausweichend zu wirken?
+W	tech-answer-c2t-withdraw-quote	Ich würde sagen, der Satz halte nicht mehr, und den kürzeren geben, der hält. Ihn in Nebel zu verdünnen, wird sie die ursprüngliche Fassung mit mehr Appetit suchen lassen.
+W	tech-question-c2t-board-note	Was muss eine Notiz an den Vorstand sich weigern darzustellen?
+W	tech-answer-c2t-board-note	Sie muss sich weigern, eine Zuversicht darzustellen, die sie nicht hat. Ein glänzender Absatz über eine magere Zahl bleibt in Erinnerung, wenn die Zahl bricht.
+W	tech-question-c2t-embassy-line	Wo verliert diese Note der Botschaft ihren Nutzen?
+W	tech-answer-c2t-embassy-line	Sie verliert ihn, sobald sie anfängt, Punkte für das Publikum daheim zu sammeln. Eine Note, die man der anderen Seite nicht zeigen kann, ist eine Verlautbarung mit Wappen.
+W	tech-question-c2t-donation-no	Wie lehnt man eine Geldbitte ab und lässt die Sache stehen?
+W	tech-answer-c2t-donation-no	Ich würde die Arbeit loben und eine Grenze nennen, die von meiner Börse spricht, nicht von ihrem Wert. Eine Predigt über ihre Methoden würde aus dem Nein einen Streit machen.
+W	tech-question-c2t-patronage-no	Was hat diese Absage des Mäzenatentums ungewollt zu verstehen gegeben?
+W	tech-answer-c2t-patronage-no	Es hat zu verstehen gegeben, das Vorhaben sei mager, obwohl Sie nur sagen wollten, Sie seien der falsche Name. Ein kälteres Adjektiv zum Vorhaben wird weiter reisen, als Ihr Tagebuch es vorhatte.
+W	tech-question-c2t-prize-no	Wie würden Sie einen Preis ablehnen, ohne die Jury zu beleidigen?
+W	tech-answer-c2t-prize-no	Ich würde ihnen für die Lektüre danken und sagen, die Ehre stehe diesem Buch schlecht. Ein Manifest gegen Preise lässt sie töricht aussehen, weil sie ihn angeboten haben.
+W	tech-question-c2t-reprint-ask	Wie bittet man um den Nachdruck einer Seite, ohne zu wirken, als habe man sie schon mitgenommen?
+W	tech-answer-c2t-reprint-ask	Ich würde die Verwendung, das Publikum und die Nennung nennen, die ich geben würde. Ein Ton der vollendeten Tatsache macht aus der Erlaubnis ein Nachwischen.
+W	tech-question-c2t-erratum-short	Was muss ein Berichtigungsbrief tun, außer den Ausrutscher einzugestehen?
+W	tech-answer-c2t-erratum-short	Er muss die richtige Zahl oder den richtigen Namen dahin setzen, wo ein Fremder sie brauchen kann. Ein Absatz über die eigene Gestimmtheit, wie beschäftigt man war, ist keine Berichtigung.
+W	tech-question-c2t-staff-farewell	Wo beginnt ein Abschied an ausscheidende Mitarbeiter, nach einem Prospekt zu klingen?
+W	tech-answer-c2t-staff-farewell	Es beginnt, wenn jeder Name „unschätzbar“ ist und niemand beschrieben wird. Ein einziges wahres Detail über ihre Arbeit hält länger als eine Seite Glanz.
+W	tech-question-c2t-client-close	Wie beendet man die Geschäftsbeziehung mit einem Kunden, dem man noch Gutes wünscht?
+W	tech-answer-c2t-client-close	Ich würde ihnen für die Jahre danken und das Ende ohne Moral sagen. Eine letzte Rechnung der Kränkungen lässt die ganze Korrespondenz wie das Vorspiel zu dieser Note aussehen.
+W	tech-question-c2t-invoice-query	Wie würden Sie eine Rechnung hinterfragen, damit das andere Büro sie ohne Scham berichtigen kann?
+W	tech-answer-c2t-invoice-query	Ich würde auf die Zeile und das Datum zeigen und von einem Versehen ausgehen. Ein Ton des Diebstahls im ersten Satz wird sie den Fehler verteidigen lassen.
+W	tech-question-c2t-gentle-nudge	Was hat diese sanfte Erinnerung der ursprünglichen Bitte wirklich angetan?
+W	tech-answer-c2t-gentle-nudge	Sie hat die Bitte noch einmal gesagt und eine Uhr hinzugefügt, die nicht da war. Die Sanftheit ist Parfüm; die neue Frist ist der Satz.
+W	tech-question-c2t-firmer-nudge	Wo soll der Stahl in einer festeren Erinnerung sitzen?
+W	tech-answer-c2t-firmer-nudge	Er soll auf dem Datum und dem nächsten Schritt sitzen, nicht auf den Adjektiven. Sie als wenig fachlich zu bezeichnen, macht aus der Akte eine Frage der Ehre, nicht des fehlenden Papiers.
+W	tech-question-c2t-short-reference	Was kann eine kurze Empfehlung noch tun, was eine lange gewöhnlich wieder zunichtemacht?
+W	tech-answer-c2t-short-reference	Sie kann zwei Dinge nennen, die dieser Mensch gut macht, und aufhören. Ein dritter Absatz über das Temperament verdünnt die zwei Dinge, die brauchbar waren.
+W	tech-question-c2t-character-note	Wie schreibt man eine Notiz zum Leumund über jemanden, den man nur aus einem Raum kennt?
+W	tech-answer-c2t-character-note	Ich bliebe in diesem Raum und würde es sagen. Geliehene Geschichten aus seinem anderen Leben machen aus der Notiz Klatsch mit Briefkopf.
+W	tech-question-c2t-postpone-kindly	Wie würden Sie die Besprechung verschieben, ohne dass die andere Person sich abgeschoben fühlt?
+W	tech-answer-c2t-postpone-kindly	Ich würde ein neues Datum im selben Atem nennen wie das Bedauern. Eine offene Verschiebung ist ein höfliches Verschwinden.
+W	tech-question-c2t-cancel-meeting	Was muss eine Absage tun, was ein vages „wir werden sehen“ nicht tut?
+W	tech-answer-c2t-cancel-meeting	Sie muss die Stunde töten, damit die andere Person sie nutzen kann. Ihr einen Geisterplatz im Kalender zu lassen, ist ein kleiner Diebstahl im Kleid der Flexibilität.
+W	tech-question-c2t-silence-answer	Was hat Ihr Schweigen schon gesagt, was ein später Brief Mühe haben wird zu widerrufen?
+W	tech-answer-c2t-silence-answer	Es hat gesagt, dass die Sache für Sie nicht dringend war. Eine plötzliche Wärme nach drei Wochen wird wie ein Wetterumschwung wirken, nicht wie ein Wechsel der Ansicht.
+W	tech-question-c2t-open-letter	Wo hört dieser offene Brief auf, ein Brief zu sein, und wird eine Aufführung?
+W	tech-answer-c2t-open-letter	Er hört auf, es zu sein, wenn jeder Satz auf den Zuschauerraum hinter dem Adressaten zielt. Die genannte Person wird zum Möbel eines Arguments, auf das sie nicht privat antworten kann.
+W	tech-question-c2t-travel-regret	Wie sagen Sie ihnen, dass Sie die Reise verpassen werden, ohne dass sie sich im Stich gelassen fühlen?
+W	tech-answer-c2t-travel-regret	Ich würde den Verlust auf meine Seite legen und ihre Pläne unberührt lassen. Sie zu bitten, auf eine andere Jahreszeit zu warten, macht aus meinem Sinneswandel ihre Last.
+W	tech-question-c2t-interview-no	Wie würden Sie das Interview ablehnen und dem Journalisten noch einen brauchbaren Schluss lassen?
+W	tech-answer-c2t-interview-no	Ich würde einen Satz geben, den er drucken kann, und dann aufhören. Ein langes Nein, das die Prämisse bestreitet, wird zur Meldung.
+W	tech-question-c2t-blurb-refuse	Was muss eine Absage, einen Klappentext zu schreiben, schützen, außer Ihrem Namen?
+W	tech-answer-c2t-blurb-refuse	Es muss das Buch vor einem lauen Satz schützen, den man später ungern in einem Zug sähe. Das Schweigen ist freundlicher als ein blasses Adjektiv in der Öffentlichkeit.
+W	tech-question-c2t-intro-letter	Wie stellt man zwei Menschen brieflich vor, ohne eine von beiden zu überverkaufen?
+W	tech-answer-c2t-intro-letter	Ich würde sagen, warum jede diese Stunde wollen könnte, und aufhören, bevor ich eine Freundschaft erfinde. Eine Geste des Heiratsvermittlers wird beide Ihnen gegenüber misstrauisch machen.
+W	tech-question-c2t-hotel-bill	Wo verliert dieser Brief über die Hotelrechnung den Direktor?
+W	tech-answer-c2t-hotel-bill	Er verliert ihn, wenn er anfängt, den Urlaub zu erzählen. Er kann eine Zeile der Rechnung berichtigen; er kann Ihnen das Wetter nicht reparieren.
+W	tech-question-c2t-concert-return	Wie gibt man die Karten zurück, damit der Geber noch spürt, dass der Abend ein Geschenk war?
+W	tech-answer-c2t-concert-return	Ich würde den Dank für die Geste bewahren und nur das Hindernis erklären. Sie mit einer Kritik am Programm zurückzuschicken, wird wie eine Ablehnung seines Geschmacks aussehen.
+W	tech-question-c2t-school-note	Was muss eine Notiz an die Schule tun, was eine Rede an der Tür nicht kann?
+W	tech-answer-c2t-school-note	Sie muss ein Datum, einen Namen und eine Bitte hinterlassen, die sich ablegen lässt. Die Hitze, die auf dem Gehweg wirkt, wird zum Problem, sobald sie in der Akte steht.
+W	tech-question-c2t-grant-decline	Wie sagt man jemandem, der ein Stipendium erbittet, Nein, ohne auch das nächste Jahr zu schließen?
+W	tech-answer-c2t-grant-decline	Ich würde sagen, diese Runde sei nicht die Passung, und die Tür bei der Arbeit lassen, nicht bei einem vagen Vielleicht. Ein ewiges weiches Vielleicht wird sie Ihnen Briefe schreiben lassen, die Sie nicht beantworten werden.
+W	tech-question-c2t-committee-no	Wie würden Sie die Kommission verlassen, ohne dass die Verbleibenden sich im Stich gelassen fühlen?
+W	tech-answer-c2t-committee-no	Ich würde ihnen für die Stunden danken und einen Nachfolger nennen, wenn ich einen habe. Eine Rede über die Nichtigkeit der Kommission macht aus einem Rücktritt ein Urteil.
+W	tech-question-c2t-after-dinner	Wofür hat diese Notiz vom nächsten Tag ihnen wirklich gedankt?
+W	tech-answer-c2t-after-dinner	Sie hat ihnen für das Essen gedankt und das Gespräch verpasst, das sie gelenkt haben. Ein Gastgeber, der einen schwierigen Tisch gewagt hat, wird das Versäumnis merken.
+W	tech-question-c2t-borrowed-book	Wie fordert man das Buch zurück, ohne wie ein Bibliothekar mit Groll zu wirken?
+W	tech-answer-c2t-borrowed-book	Ich würde den Titel und eine Woche nennen und davon ausgehen, dass sie es zurückgeben wollten. Eine Liste anderer nicht zurückgegebener Dinge macht aus einem Freund eine Akte.
+W	tech-question-c2t-loan-remind	Wo verbiegt sich eine Gelderinnerung unter Freunden?
+W	tech-answer-c2t-loan-remind	Sie verbiegt sich, wenn sie anfängt, die erste Freundlichkeit zu proben. Die Summe genügt; die Moral macht die Freundschaft zur Sicherheit.
+W	tech-question-c2t-missed-funeral	Wie schreibt man nach dem Versäumnis der Trauerfeier, ohne dass der Brief von Ihrer Schuld handelt?
+W	tech-answer-c2t-missed-funeral	Ich würde ihren Toten in die Mitte setzen und meine Abwesenheit in einem Nebensatz lassen. Eine Seite über mein Wetter und meine Züge wird sie bitten, mich zu trösten.
+W	tech-question-c2t-belated-thanks	Was kann ein verspäteter Dank noch retten?
+W	tech-answer-c2t-belated-thanks	Er kann noch das genaue Ding nennen, das einem geblieben ist. Verspätung und Vagheit zusammen sind nur eine Formel, die sich an sich selbst erinnert hat.
+W	tech-question-c2t-too-warm-close	Was hat dieser zu warme Schluss einem sonst sorgfältigen Brief angetan?
+W	tech-answer-c2t-too-warm-close	Er hat eine Nähe versprochen, die der Körper des Briefes nie verdient hat. Sie werden die letzte Zeile glauben und dann den Abfall spüren, wenn Sie danach wie ein Fremder schreiben.
+W	tech-question-c2t-too-cold-close	Warum wird dieser kalte Schluss einen Brief vergällen, der sonst freundlich war?
+W	tech-answer-c2t-too-cold-close	Weil der letzte Geschmack der ist, der bleibt. Ein plötzliches „hochachtungsvoll“ nach einer menschlichen Seite liest sich als Rückzug der Person, nicht der Form.
+W	tech-question-c2t-ps-afterthought	Welche Arbeit tut diese Nachschrift, die der Brief sich geweigert hat zu tun?
+W	tech-answer-c2t-ps-afterthought	Sie sagt das Wahre nach der Vorstellung. Wenn die Nachschrift der Brief ist, ist die Seite darüber Kulisse.
+W	tech-question-c2t-first-name-title	Wie wählt man zwischen dem Vornamen und der Anrede in einem Brief, der nichts voraussetzen darf?
+W	tech-answer-c2t-first-name-title	Ich würde den letzten Ton nehmen, den sie Ihnen gegenüber benutzt haben, nicht den, den Sie sich gewünscht hätten. Zum Vornamen zu springen ist ein kleiner Übergriff im Kleid der Wärme.
+W	tech-question-c2t-seasonal-padding	Was hat die jahreszeitliche Eröffnung einem Brief angetan, der kurz sein sollte?
+W	tech-answer-c2t-seasonal-padding	Sie hat sechs Zeilen an ein Wetter verschwendet, das die andere Person schon sieht. Wenn sie bei der Bitte ankommt, sind sie Ihrer Feder schon müde.
+W	tech-question-c2t-we-in-letter	Wann fängt das „wir“ eines persönlichen Briefes an, nach einer Kommission zu klingen?
+W	tech-answer-c2t-we-in-letter	Es beginnt, wenn Sie es benutzen, um eine Entscheidung zu verstecken, die Ihre war. Ein Freund kann einer Person antworten; er kann einem majestätischen Wir nicht antworten.
+W	tech-question-c2t-last-line-weight	Was hat die letzte Zeile dieses Briefes wirklich entschieden?
+W	tech-answer-c2t-last-line-weight	Sie hat entschieden, ob sie die Freundlichkeit oder den Stich noch einmal lesen. Alles darüber ist schon ein Gang zu dieser Tür.
+W	tech-question-c2t-handwritten-weight	Was tut eine handgeschriebene Seite, was dieselben Worte in Maschinenschrift nicht können?
+W	tech-answer-c2t-handwritten-weight	Sie sagt, dass Sie sich zu der Sache gesetzt haben und das Unbehagen nicht abgegeben haben. Ein maschinengeschriebenes Beileid kann wahr sein, kommt aber schon im Anzug an.
+W	tech-question-c2t-withheld-ending	Was hat das zurückgehaltene Ende dem Leser wirklich gegeben?
+W	tech-answer-c2t-withheld-ending	Es hat ihm das Gewicht der letzten Stunde gegeben, ohne die Erleichterung eines Urteils. Er geht und kennt das Haus, nicht den Satz, auf den das Haus zubaute.
+W	tech-question-c2t-review-furniture	Woran hat diese Rezension ihre letzte Seite der Bewunderung verschwendet?
+W	tech-answer-c2t-review-furniture	Sie hat die Lampen und das Wetter bewundert und nie gesagt, ob der Roman denkt. Jemand könnte diese Seite herausschneiden und immer noch nicht wissen, ob das Buch trägt.
+W	tech-question-c2t-scene-doorway	Wo fängt diese Szene auf der Schwelle an, wirklich zu arbeiten?
+W	tech-answer-c2t-scene-doorway	Es beginnt, wenn jemand mit der Hand am Holz innehält und nicht sagt, warum. Eine Schwelle, die nur als Eiche beschrieben wird, bleibt ein Katalog.
+W	tech-question-c2t-metaphor-earns	Woran erkennt man, dass eine Metapher ihren Platz im Absatz verdient hat?

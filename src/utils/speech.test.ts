@@ -66,6 +66,7 @@ describe("tts phrases", () => {
     expect(ttsLangForPair("fr-es")).toBe("fr-FR");
     expect(ttsLangForPair("ca-es")).toBe("ca-ES");
     expect(ttsLangForPair("eu-es")).toBe("eu-ES");
+    expect(ttsLangForPair("de-es")).toBe("de-DE");
     expect(ttsLangForQuiz("eu-es", "forward")).toBe("eu-ES");
     expect(ttsLangForQuiz("eu-es", "reverse")).toBe("es-ES");
     expect(ttsLangForQuiz("en-es", "forward")).toBe("en-GB");
@@ -109,6 +110,15 @@ describe("pickVoice", () => {
     expect(pickVoice(voices, "eu-ES")?.name).toContain("Ainhoa");
     expect(pickVoice(voices, "en-GB")?.name).toContain("Sonia");
     expect(pickVoice(voices, "es-ES")?.name).toContain("Elvira");
+    expect(
+      pickVoice(
+        [
+          voice({ name: "Microsoft Conrad Online (Natural)", lang: "de-DE" }),
+          voice({ name: "Microsoft Katja Online (Natural)", lang: "de-DE" }),
+        ],
+        "de-DE",
+      )?.name,
+    ).toContain("Katja");
     expect(
       pickVoice(
         [

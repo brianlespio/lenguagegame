@@ -1,0 +1,800 @@
+W	pronoun-the-presiding-officer	Wahlvorsteher
+W	pronoun-he-or-she	er oder sie
+W	pronoun-him-or-her	ihn oder sie
+W	pronoun-his-or-her	sein oder ihr
+W	pronoun-his-or-hers	seiner oder ihrer
+W	pronoun-either-of-the-parties	jede der Parteien
+W	pronoun-neither-of-the-parties	keine der Parteien
+W	pronoun-both-of-the-parties	beide Parteien
+W	pronoun-each-of-the-parties	jede einzelne der Parteien
+W	pronoun-any-of-the-parties	jede der Parteien
+W	pronoun-none-of-the-parties	keine der Parteien
+W	pronoun-the-bulk-of-them	Großteil von ihnen
+W	pronoun-the-greater-part-of-them	größerer Teil von ihnen
+W	pronoun-a-good-many-of-them	nicht wenige von ihnen
+W	pronoun-precious-few-of-them	sehr wenige von ihnen
+W	pronoun-virtually-none-of-them	fast keiner von ihnen
+W	pronoun-virtually-all-of-them	fast alle von ihnen
+W	pronoun-virtually-everyone	fast jedermann
+W	pronoun-scarcely-anyone	fast niemand
+W	pronoun-hardly-anyone	fast niemand
+W	pronoun-barely-anyone	kaum jemand
+W	pronoun-next-to-no-one	fast niemand
+W	pronoun-next-to-nobody	fast niemand
+W	pronoun-all-but-a-few	alle außer wenigen
+W	pronoun-all-but-one	alle außer einem
+W	pronoun-those-present-and-voting	Anwesende und Abstimmende
+W	pronoun-those-entitled-to-vote	Stimmberechtigte
+W	pronoun-each-as-he-or-she-sees-fit	jeder nach eigenem Ermessen
+W	pronoun-to-each-his-or-her-own	jedem das Seine
+W	pronoun-not-a-single-person-present	kein Anwesender
+W	pronoun-none-of-those-present	keiner der Anwesenden
+W	pronoun-all-of-those-present	alle Anwesenden
+W	pronoun-most-of-those-present	Mehrheit der Anwesenden
+W	pronoun-a-handful-of-those-present	Handvoll der Anwesenden
+W	pronoun-the-silent-majority	schweigende Mehrheit
+W	pronoun-the-vocal-minority	laute Minderheit
+W	pronoun-a-minority-of-one	Minderheit von einem
+W	pronoun-one-s-counterpart	Amtskollege
+W	pronoun-one-s-predecessor	Vorgänger
+W	pronoun-one-s-successor	Nachfolger
+W	pronoun-one-s-peer	Ebenbürtiger
+W	pronoun-one-s-junior	Untergebener
+W	pronoun-one-s-senior	Vorgesetzter
+W	pronoun-one-s-equal	Gleichgestellter
+W	pronoun-the-other-side	andere Partei
+W	pronoun-the-opposing-camp	gegnerisches Lager
+W	pronoun-one-s-own-camp	eigenes Lager
+W	pronoun-neither-side	kein Lager
+W	pronoun-either-side	jedes der Lager
+W	pronoun-both-sides	beide Lager
+W	pronoun-all-sides	alle Lager
+W	pronoun-the-winning-side	siegreiches Lager
+W	pronoun-the-losing-side	unterlegenes Lager
+W	pronoun-the-dissenting-side	abweichendes Lager
+W	pronoun-the-majority	Mehrheit
+W	pronoun-the-minority	Minderheit
+W	pronoun-the-board-as-a-whole	Vorstand in voller Besetzung
+W	pronoun-those-on-the-panel	Angehörige des Spruchkörpers
+W	pronoun-those-on-the-bench	Robenträger
+W	pronoun-those-on-the-floor	Angehörige des Halbrunds
+W	pronoun-those-in-the-chamber	Angehörige der Kammer
+W	pronoun-whoever-holds-the-post	wer das Amt innehat
+W	pronoun-whoever-occupies-the-chair	wer den Vorsitz innehat
+W	pronoun-the-outgoing-chair	ausscheidender Präsident
+W	pronoun-the-incoming-chair	antretender Präsident
+W	pronoun-the-sitting-judge	planmäßiger Richter
+W	pronoun-the-unnamed-official	unbenanntes Amt
+W	pronoun-a-senior-official	hoher Amtsträger
+W	pronoun-a-junior-official	niederer Amtsträger
+W	pronoun-a-former-official	ehemaliger Amtsträger
+W	pronoun-a-former-member	ehemaliges Mitglied
+W	pronoun-the-remainder-of-the-board	Rest des Vorstands
+W	pronoun-the-full-board	Vorstand in voller Besetzung
+W	pronoun-those-in-office	die das Sagen haben
+W	pronoun-those-in-power	Machthaber
+W	pronoun-those-at-the-helm	die das Ruder führen
+W	pronoun-those-on-the-ground	die vor Ort sind
+W	pronoun-the-moneyed	die Vermögenden
+W	pronoun-the-landed	Grundbesitzer
+W	pronoun-the-hard-up	die Bedrängten
+W	pronoun-the-well-off	die Wohlhabenden
+W	pronoun-the-least-well-off	die weniger Wohlhabenden
+W	pronoun-the-worst-off	die am schlechtesten Weggekommenen
+W	pronoun-the-better-informed	die am besten Unterrichteten
+W	pronoun-the-less-well-informed	die am schlechtesten Unterrichteten
+W	pronoun-one-s-own-kind	die seines Schlages
+W	pronoun-one-s-own-people	die Seinen
+W	pronoun-one-s-own-side	eigenes Lager
+W	pronoun-the-opposing-side	gegnerisches Lager
+W	pronoun-every-last-person-present	bis zum letzten Anwesenden
+W	pronoun-not-a-person-present	kein Anwesender
+W	pronoun-not-one-of-those-present	nicht einer der Anwesenden
+W	pronoun-few-of-those-present	wenige der Anwesenden
+W	pronoun-several-of-those-present	mehrere der Anwesenden
+W	pronoun-some-of-those-present	einige der Anwesenden
+W	pronoun-a-sprinkling-of-those-present	Handvoll der Anwesenden
+W	pronoun-practically-everyone	praktisch alle
+W	pronoun-practically-no-one	praktisch niemand
+W	pronoun-almost-no-one	fast niemand
+W	pronoun-next-to-nothing	fast nichts
+W	pronoun-precious-little	recht wenig
+W	pronoun-anyone-so-entitled	wer so legitimiert ist
+W	pronoun-those-unqualified	Nichtbefugte
+W	pronoun-those-qualified	Befugte
+W	pronoun-those-ineligible	Nichtwählbare
+W	pronoun-those-so-named	so Ernannte
+W	pronoun-the-party-aggrieved	verletzte Partei
+W	pronoun-the-party-at-fault	schuldige Partei
+W	pronoun-the-party-in-default	säumige Partei
+W	pronoun-the-defaulting-party	nicht erfüllende Partei
+W	pronoun-the-moving-party	klagende Partei
+W	pronoun-the-opposing-party	gegnerische Partei
+W	pronoun-the-prevailing-party	siegreiche Partei
+W	pronoun-the-unsuccessful-party	unterlegene Partei
+W	pronoun-the-successful-party	gewinnende Partei
+W	pronoun-the-losing-party	verlierende Partei
+W	pronoun-the-winning-party	gewinnende Partei
+W	pronoun-the-like-minded	Gleichgesinnte
+W	pronoun-the-right-minded	die von gesundem Urteil
+W	pronoun-the-high-minded	sittlich Hochgesinnte
+W	pronoun-the-faint-hearted	Kleinmütige
+W	pronoun-the-hard-hearted	Hartherzige
+W	pronoun-the-open-minded	Aufgeschlossene
+W	pronoun-the-closed-minded	Engstirnige
+W	pronoun-the-single-minded	die aus einem Guss
+W	pronoun-whoever-it-concerns	wen es angeht
+W	pronoun-those-it-concerns	die es angeht
+W	pronoun-those-to-whom-it-falls	denen es obliegt
+W	pronoun-whoever-is-tasked	wer den Auftrag hat
+W	pronoun-those-tasked	Beauftragte
+W	pronoun-those-charged	Kommissare
+W	pronoun-those-briefed	Unterwiesene
+W	pronoun-those-instructed	Bevollmächtigte
+W	pronoun-those-commissioned	Kommissare
+W	pronoun-those-appointed	Ernannte
+W	pronoun-those-elected	Gewählte
+W	pronoun-those-returned	die für gewählt Erklärten
+W	pronoun-those-unseated	die des Sitzes Enthobenen
+W	pronoun-those-ousted	die Hinausgeworfenen
+W	pronoun-those-voted-out	die Abgewählten
+W	pronoun-those-voted-in	die Hineingewählten
+W	pronoun-the-newly-elected	frisch Gewählte
+W	pronoun-the-newly-appointed	frisch Ernannte
+W	pronoun-the-newly-installed	frisch Eingesetzte
+W	pronoun-the-outgoing-holder	ausscheidender Inhaber
+W	pronoun-the-incoming-holder	antretender Inhaber
+W	pronoun-the-sitting-holder	Inhaber im Amt
+W	pronoun-the-current-holder	derzeitiger Inhaber
+W	pronoun-the-former-holder	früherer Inhaber
+W	pronoun-the-late-holder	verstorbener Inhaber
+W	pronoun-the-beneficial-owner	wirtschaftlich Berechtigter
+W	pronoun-the-legal-owner	formeller Inhaber
+W	pronoun-the-registered-holder	eingetragener Inhaber
+W	pronoun-the-nominee-holder	treuhänderischer Inhaber
+W	pronoun-the-account-holder	Kontoinhaber
+W	pronoun-the-policyholder	Versicherungsnehmer
+W	pronoun-the-insured	Versicherter
+W	pronoun-the-insurer	Versicherer
+W	pronoun-the-underwriter	Zeichner
+W	pronoun-the-reinsurer	Rückversicherer
+W	pronoun-the-cedant	Zedent
+W	pronoun-the-cessionary	Zessionar
+W	pronoun-the-obligor	Verpflichteter
+W	pronoun-the-obligee	Gläubiger der Verpflichtung
+W	pronoun-the-debtor	Schuldner
+W	pronoun-the-creditor	Gläubiger
+W	pronoun-the-mortgagor	Hypothekenbesteller
+W	pronoun-the-mortgagee	Hypothekengläubiger
+W	pronoun-the-pledgor	Verpfänder
+W	pronoun-the-pledgee	Pfandgläubiger
+W	pronoun-the-lessor	Vermieter
+W	pronoun-the-lessee	Mieter
+W	pronoun-the-licensor	Lizenzgeber
+W	pronoun-the-licensee	Lizenznehmer
+W	pronoun-the-franchisor	Franchisegeber
+W	pronoun-the-franchisee	Franchisenehmer
+W	pronoun-the-consignor	Absender
+W	pronoun-the-consignee	Empfänger
+W	pronoun-the-bailor	Hinterleger
+W	pronoun-the-bailee	Verwahrer
+W	pronoun-the-vendor	Verkäufer
+W	pronoun-the-purchaser	Käufer
+W	pronoun-the-transferor	Übertragender
+W	pronoun-the-transferee	Erwerber
+W	pronoun-the-chargor	Besteller der Belastung
+W	pronoun-the-chargee	Inhaber der Belastung
+W	preposition-in-the-light-of	im Lichte von
+W	preposition-in-light-of	im Lichte von
+W	preposition-against-the-backdrop-of	gegen den Vorhang von
+W	preposition-against-a-backdrop-of	gegen einen Vorhang von
+W	preposition-in-the-context-of	im Rahmen von
+W	preposition-within-the-framework-of	innerhalb des Rahmens von
+W	preposition-within-the-ambit-of	innerhalb des Bereichs von
+W	preposition-within-the-scope-of	innerhalb der Reichweite von
+W	preposition-within-the-remit-of	innerhalb der Zuständigkeit von
+W	preposition-outside-the-remit-of	außerhalb der Zuständigkeit von
+W	preposition-beyond-the-remit-of	jenseits der Zuständigkeit von
+W	preposition-beyond-the-scope-of	jenseits der Reichweite von
+W	preposition-beyond-the-ambit-of	jenseits des Bereichs von
+W	preposition-within-the-meaning-of	im Sinne von
+W	preposition-for-the-purposes-of	für die Zwecke von
+W	preposition-for-purposes-of	zum Zwecke von
+W	preposition-in-the-interests-of	im Interesse von
+W	preposition-against-the-interests-of	gegen das Interesse von
+W	preposition-to-the-advantage-of	zum Nutzen von
+W	preposition-to-the-disadvantage-of	zum Nachteil von
+W	preposition-to-the-credit-of	zur Gutschrift von
+W	preposition-to-the-debit-of	zu Lasten von
+W	preposition-at-the-instigation-of	auf Betreiben von
+W	preposition-at-the-prompting-of	auf Betreiben von
+W	preposition-at-the-invitation-of	auf Einladung von
+W	preposition-at-the-request-of	auf Ersuchen von
+W	preposition-at-the-suggestion-of	auf Anregung von
+W	preposition-under-the-direction-of	unter der Leitung von
+W	preposition-under-the-supervision-of	unter der Aufsicht von
+W	preposition-under-the-stewardship-of	unter der Obhut von
+W	preposition-under-the-chairmanship-of	unter dem Vorsitz von
+W	preposition-under-the-auspices-of	unter der Schirmherrschaft von
+W	preposition-under-the-patronage-of	unter dem Patronat von
+W	preposition-under-the-aegis-of	unter der Ägide von
+W	preposition-under-the-umbrella-of	unter dem Schirm von
+W	preposition-under-the-banner-of	unter der Fahne von
+W	preposition-under-the-heading-of	unter der Überschrift von
+W	preposition-under-the-rubric-of	unter der Rubrik von
+W	preposition-in-the-orbit-of	in der Umlaufbahn von
+W	preposition-in-the-sphere-of	in der Sphäre von
+W	preposition-in-the-realm-of	auf dem Gebiet von
+W	preposition-in-the-domain-of	in der Domäne von
+W	preposition-in-the-field-of	auf dem Feld von
+W	preposition-in-the-province-of	auf dem Grund von
+W	preposition-on-the-soil-of	auf dem Boden von
+W	preposition-on-the-premises-of	auf dem Gelände von
+W	preposition-off-the-premises-of	außerhalb des Geländes von
+W	preposition-on-the-books-of	in den Büchern von
+W	preposition-off-the-books-of	außerhalb der Bücher von
+W	preposition-on-the-payroll-of	auf der Gehaltsliste von
+W	preposition-off-the-payroll-of	außerhalb der Gehaltsliste von
+W	preposition-on-the-staff-of	in der Belegschaft von
+W	preposition-on-the-board-of	im Vorstand von
+W	preposition-off-the-board-of	außerhalb des Vorstands von
+W	preposition-on-the-panel-of	im Spruchkörper von
+W	preposition-on-the-roster-of	in der Belegschaft von
+W	preposition-on-the-slate-of	auf der Wahlliste von
+W	preposition-on-the-ticket-of	auf dem Stimmzettel von
+W	preposition-in-the-pay-of	im Sold von
+W	preposition-in-the-employ-of	im Dienst von
+W	preposition-in-the-service-of	im Dienst von
+W	preposition-in-the-gift-of	in der Gnade von
+W	preposition-at-the-disposal-of	zur Verfügung von
+W	preposition-at-the-service-of	im Dienst von
+W	preposition-at-the-command-of	unter dem Befehl von
+W	preposition-in-the-pocket-of	in der Tasche von
+W	preposition-at-the-pleasure-of	nach dem Belieben von
+W	preposition-during-the-tenure-of	während der Amtszeit von
+W	preposition-throughout-the-tenure-of	im Verlauf der Amtszeit von
+W	preposition-for-the-duration-of	während der Geltung von
+W	preposition-for-the-term-of	für die Frist von
+W	preposition-over-the-course-of	entlang von
+W	preposition-over-the-span-of	entlang des Bogens von
+W	preposition-over-the-lifetime-of	im Verlauf des Lebens von
+W	preposition-over-the-life-of	im Verlauf des Lebens von
+W	preposition-across-the-span-of	in der Breite des Bogens von
+W	preposition-throughout-the-life-of	im Verlauf des Lebens von
+W	preposition-throughout-the-course-of	im Verlauf des Laufs von
+W	preposition-in-the-run-up-to	im Vorzimmer von
+W	preposition-in-the-lead-up-to	in der Präambel von
+W	preposition-in-the-aftermath-of	in den Nachwirkungen von
+W	preposition-on-the-back-of	auf dem Rücken von
+W	preposition-off-the-back-of	im Windschatten von
+W	preposition-in-the-slipstream-of	im Kielwasser von
+W	preposition-in-the-shadow-of	im Schatten von
+W	preposition-on-the-coat-tails-of	im Windschatten von
+W	preposition-on-the-shoulders-of	auf den Schultern von
+W	preposition-at-the-shoulder-of	an der Schulter von
+W	preposition-at-the-elbow-of	am Ellbogen von
+W	preposition-in-the-ear-of	ins Ohr von
+W	preposition-within-earshot-of	in Hörweite von
+W	preposition-within-reach-of	in Reichweite von
+W	preposition-within-sight-of	in Sichtweite von
+W	preposition-within-striking-distance-of	in Schussweite von
+W	preposition-within-walking-distance-of	in Gehweite von
+W	preposition-within-commuting-distance-of	in Pendelweite von
+W	preposition-out-of-earshot-of	außerhalb der Hörweite von
+W	preposition-out-of-reach-of	außerhalb der Reichweite von
+W	preposition-out-of-sight-of	außerhalb der Sicht von
+W	preposition-out-of-range-of	außer Reichweite von
+W	preposition-out-of-bounds-of	außerhalb der Grenzen von
+W	preposition-beyond-the-reach-of	jenseits der Reichweite von
+W	preposition-beyond-the-grasp-of	jenseits des Zugriffs von
+W	preposition-beyond-the-pale-of	jenseits des Zulässigen von
+W	preposition-within-the-pale-of	innerhalb des Zulässigen von
+W	preposition-on-either-side-of	auf der einen und anderen Seite von
+W	preposition-on-both-sides-of	auf beiden Seiten von
+W	preposition-on-neither-side-of	auf keiner Seite von
+W	preposition-on-all-sides-of	auf allen Seiten von
+W	preposition-to-either-side-of	nach der einen oder anderen Seite von
+W	preposition-to-both-sides-of	nach beiden Seiten von
+W	preposition-either-side-of	auf der einen und anderen Seite von
+W	preposition-either-end-of	am einen und anderen Ende von
+W	preposition-at-either-end-of	an dem einen oder anderen Ende von
+W	preposition-at-both-ends-of	an beiden Enden von
+W	preposition-from-either-end-of	von dem einen oder anderen Ende von
+W	preposition-from-both-ends-of	von beiden Enden von
+W	preposition-down-the-length-of	entlang von
+W	preposition-up-the-length-of	stromaufwärts von
+W	preposition-along-the-length-of	entlang von
+W	preposition-the-length-of	entlang von
+W	preposition-the-breadth-of	in der Breite von
+W	preposition-the-width-of	in der Breite von
+W	preposition-the-depth-of	in der Tiefe von
+W	preposition-the-height-of	in der Höhe von
+W	preposition-to-the-height-of	bis zur Höhe von
+W	preposition-to-the-depth-of	bis zum Grund von
+W	preposition-to-the-width-of	bis zur Breite von
+W	preposition-to-the-breadth-of	bis zur Weite von
+W	preposition-the-length-and-breadth-of	in Länge und Breite von
+W	preposition-in-the-orbit-around	in der Umlaufbahn von
+W	preposition-in-the-slipstream-behind	im Kielwasser von
+W	preposition-for-the-account-of	für Rechnung von
+W	preposition-for-the-benefit-of	zugunsten von
+W	preposition-for-the-credit-of	zur Gutschrift von
+W	preposition-for-the-debit-of	zu Lasten von
+W	preposition-for-the-honour-of	zu Ehren von
+W	preposition-for-the-credit-standing-of	zur Gutschrift der Unterschrift von
+W	preposition-to-the-order-of	an die Order von
+W	preposition-to-the-bearer-of	an den Inhaber von
+W	preposition-to-the-order-and-for-the-account-of	an die Order und für Rechnung von
+W	preposition-by-and-on-behalf-of	für und im Namen von
+W	preposition-in-and-on-behalf-of	in und für den Namen von
+W	preposition-for-the-account-and-risk-of	auf Rechnung und Gefahr von
+W	preposition-at-the-risk-and-expense-of	auf Gefahr und Kosten von
+W	preposition-at-the-cost-and-expense-of	auf Kosten und zu Lasten von
+W	preposition-for-the-sole-account-of	für alleinige Rechnung von
+W	preposition-for-the-joint-account-of	für gemeinsame Rechnung von
+W	preposition-for-the-several-account-of	für geteilte Rechnung von
+W	preposition-for-the-joint-and-several-account-of	für gesamtschuldnerische Rechnung von
+W	preposition-without-the-leave-of	ohne Erlaubnis von
+W	preposition-without-the-consent-of	ohne Einwilligung von
+W	preposition-without-the-authority-of	ohne Befugnis von
+W	preposition-without-the-knowledge-of	ohne Kenntnis von
+W	preposition-without-the-privity-of	ohne Nachricht von
+W	preposition-with-the-privity-of	mit Nachricht von
+W	preposition-with-the-knowledge-of	mit Kenntnis von
+W	preposition-with-the-leave-of	mit Erlaubnis von
+W	preposition-with-the-consent-of	mit Einwilligung von
+W	preposition-with-the-authority-of	mit Befugnis von
+W	preposition-under-colour-of-office-of	unter dem Deckmantel des Amts von
+W	preposition-under-colour-of-right-of	unter dem Deckmantel des Rechts von
+W	preposition-under-colour-of-title-of	unter dem Deckmantel des Titels von
+W	preposition-in-right-of	im Recht von
+W	preposition-in-right-and-title-of	im Recht und Titel von
+W	preposition-in-the-right-of	in dem Recht von
+W	preposition-to-the-use-of	zum Gebrauch von
+W	preposition-to-the-use-and-behoof-of	zum Gebrauch und Nutzen von
+W	preposition-to-the-behoof-of	zum Nutzen von
+W	preposition-for-the-use-of	für den Gebrauch von
+W	preposition-for-the-use-and-benefit-of	für Gebrauch und Nutzen von
+W	preposition-upon-the-faith-of	auf den Glauben von
+W	preposition-upon-the-credit-of	auf den Kredit von
+W	preposition-upon-the-security-of	auf die Sicherheit von
+W	preposition-upon-the-footing-of	auf dem Fuß von
+W	preposition-upon-the-terms-of	auf die Bestimmungen von
+W	preposition-upon-the-conditions-of	auf die Bedingungen von
+W	preposition-upon-the-happening-of	beim Geschehen von
+W	preposition-upon-the-occurrence-of	beim Eintreten von
+W	preposition-upon-the-expiry-of	bei Fälligkeit von
+W	preposition-upon-the-termination-of	am Ende von
+W	preposition-upon-the-completion-of	beim Abschluss von
+W	preposition-upon-the-closing-of	beim Abschluss von
+W	preposition-upon-the-signing-of	beim Unterzeichnen von
+W	preposition-upon-the-delivery-of	beim Übergeben von
+W	preposition-upon-the-receipt-of	bei Empfang von
+W	preposition-upon-the-giving-of	beim Geben von
+W	preposition-pending-receipt-of	bis zum Empfang
+W	preposition-pending-delivery-of	bis zur Übergabe
+W	preposition-pending-completion-of	bis zum Abschluss
+W	preposition-pending-determination-of	bis zur Entscheidung
+W	preposition-pending-the-outcome-of	bis zur Bekanntgabe des Ergebnisses von
+W	preposition-pending-the-result-of	bis zur Bekanntgabe des Ergebnisses von
+W	preposition-subject-to-the-outcome-of	vorbehaltlich des Ergebnisses von
+W	preposition-subject-to-the-result-of	vorbehaltlich des Ergebnisses von
+W	preposition-subject-to-the-determination-of	vorbehaltlich der Entscheidung von
+W	preposition-subject-to-the-approval-of	vorbehaltlich der Genehmigung von
+W	preposition-subject-to-the-consent-of	vorbehaltlich der Einwilligung von
+W	preposition-subject-to-the-leave-of	vorbehaltlich der Erlaubnis von
+W	preposition-subject-to-the-sanction-of	vorbehaltlich der Billigung von
+W	preposition-subject-to-the-ratification-of	vorbehaltlich der Ratifizierung von
+W	preposition-conditional-upon-the-approval-of	bedingt durch die Genehmigung von
+W	preposition-conditional-upon-the-consent-of	bedingt durch die Einwilligung von
+W	preposition-conditional-upon-receipt-of	bedingt durch den Empfang von
+W	preposition-conditional-upon-delivery-of	bedingt durch die Übergabe von
+W	preposition-conditional-upon-completion-of	bedingt durch den Abschluss von
+W	preposition-in-anticipation-of-receipt-of	in Voraussicht des Empfangs von
+W	preposition-in-anticipation-of-delivery-of	in Voraussicht der Übergabe von
+W	preposition-in-anticipation-of-completion-of	in Voraussicht des Abschlusses von
+W	preposition-in-expectation-of-receipt-of	in Erwartung des Empfangs von
+W	preposition-in-expectation-of-delivery-of	in Erwartung der Übergabe von
+W	preposition-in-the-event-of-default-of	im Fall der Nichterfüllung von
+W	preposition-in-the-event-of-breach-of	im Fall des Bruchs von
+W	preposition-in-the-event-of-failure-of	im Fall des Versagens von
+W	preposition-in-the-event-of-insolvency-of	im Fall der Insolvenz von
+W	preposition-in-the-event-of-winding-up-of	im Fall der Abwicklung von
+W	preposition-in-the-event-of-receivership-of	im Fall der Verwaltung von
+W	preposition-on-the-occurrence-of-default-of	beim Eintritt der Nichterfüllung von
+W	preposition-on-the-occurrence-of-breach-of	beim Eintritt des Bruchs von
+W	preposition-by-reason-of-default-of	aufgrund der Nichterfüllung von
+W	preposition-by-reason-of-breach-of	aufgrund des Bruchs von
+W	preposition-by-reason-of-failure-of	aufgrund des Versagens von
+W	preposition-for-want-of-payment-of	in Ermangelung der Zahlung von
+W	preposition-for-want-of-delivery-of	in Ermangelung der Übergabe von
+W	preposition-for-want-of-performance-of	in Ermangelung der Erfüllung von
+W	preposition-for-want-of-notice-of	in Ermangelung der Benachrichtigung von
+W	preposition-for-lack-of-notice-of	wegen fehlender Benachrichtigung von
+W	preposition-for-lack-of-payment-of	wegen fehlender Zahlung von
+W	preposition-for-lack-of-delivery-of	wegen fehlender Übergabe von
+W	preposition-in-default-of-payment-of	in Ermangelung der Zahlung von
+W	preposition-in-default-of-delivery-of	in Ermangelung der Übergabe von
+W	preposition-in-default-of-notice-of	in Ermangelung der Benachrichtigung von
+W	preposition-in-default-of-appearance-of	in Ermangelung des Erscheinens von
+W	preposition-in-default-of-answer-of	in Ermangelung der Erwiderung von
+W	preposition-save-in-the-case-of	außer im Fall von
+W	preposition-except-in-the-case-of	ausgenommen im Fall von
+W	preposition-other-than-in-the-case-of	außer im Fall von
+W	preposition-but-for-the-case-of	ohne den Fall von
+W	preposition-but-in-the-case-of	aber im Fall von
+W	preposition-as-in-the-case-of	wie im Fall von
+W	preposition-unlike-the-case-of	im Unterschied zum Fall von
+W	preposition-unlike-that-of	im Unterschied zu
+W	preposition-unlike-those-of	im Unterschied zu denen von
+W	preposition-as-distinct-from	im Unterschied zu
+W	preposition-as-opposed-to	gegenüber
+W	preposition-as-against-that-of	gegenüber dem von
+W	preposition-as-compared-with-that-of	gegenüber dem von
+W	preposition-as-compared-to-that-of	gegenüber dem von
+W	preposition-relative-to-that-of	hinsichtlich des von
+W	preposition-relative-to-those-of	hinsichtlich der von
+W	preposition-in-comparison-to-that-of	im Vergleich mit dem von
+W	preposition-in-comparison-with-that-of	im Vergleich mit dem von
+W	preposition-by-comparison-with-that-of	durch Vergleich mit dem von
+W	preposition-by-comparison-to-that-of	durch Vergleich mit dem von
+W	preposition-measured-against-that-of	gemessen gegenüber dem von
+W	preposition-set-against-that-of	gestellt gegenüber dem von
+W	preposition-weighed-against-that-of	gewogen gegenüber dem von
+W	preposition-benchmarked-against-that-of	abgeglichen gegenüber dem von
+W	preposition-indexed-to-that-of	indexiert auf den von
+W	preposition-pegged-to-that-of	gebunden an den von
+W	preposition-tied-to-that-of	verknüpft mit dem von
+W	preposition-geared-to-that-of	verzahnt mit dem von
+W	preposition-keyed-to-that-of	angepasst an den von
+W	preposition-calibrated-to-that-of	kalibriert auf den von
+W	preposition-scaled-to-that-of	skaliert auf den von
+W	preposition-proportioned-to-that-of	im Verhältnis zu dem von
+W	preposition-referable-to	zurechenbar
+W	preposition-attributable-to	zurückführbar auf
+W	preposition-ascribable-to	anlastbar
+W	preposition-traceable-to	zurückverfolgbar auf
+W	preposition-referable-to-that-of	zurechenbar dem von
+W	preposition-incident-to	zugehörig zu
+W	preposition-appurtenant-to	zugehörig zu
+W	preposition-accessory-to	akzessorisch zu
+W	preposition-ancillary-to	akzessorisch zu
+W	preposition-incidental-to	akzessorisch zu
+W	preposition-collateral-to	nebengeordnet zu
+W	preposition-subsidiary-to	subsidiär gegenüber
+W	preposition-subordinate-to	untergeordnet gegenüber
+W	preposition-subject-always-to	stets vorbehaltlich
+W	preposition-without-prejudice-always-to	stets unbeschadet
+W	preposition-save-always	stets außer
+W	preposition-except-always	stets ausgenommen
+W	preposition-other-than-always	stets außer
+W	noun-stakeholder	interessierte Partei
+W	noun-fallback	Reserveplan
+W	noun-handover	Übergabe
+W	noun-buyout	Gesamtkauf
+W	noun-cutback	Kürzung
+W	noun-clampdown	harte Hand
+W	noun-crackdown	repressive Offensive
+W	noun-standoff	Kräftemessen
+W	noun-showdown	Gegenüberstellung
+W	noun-climb-down	Rückzieher
+W	noun-ruling	Urteil
+W	noun-testimony	Zeugenaussage
+W	noun-whistle-blower	interner Hinweisgeber
+W	noun-embargo	Handelsembargo
+W	noun-sanction	Sanktion
+W	noun-boycott	Boykott
+W	noun-constituency	Wahlkreis
+W	noun-electorate	Wählerschaft
+W	noun-ballot	Stimmzettel
+W	noun-framework	Rahmen
+W	noun-red-tape	Bürokratie
+W	noun-outlook	Aussichten
+W	noun-debrief	Nachbericht
+W	noun-u-turn	Kehrtwende
+W	noun-payroll	Gehaltsliste
+W	noun-overtime	Überstunden
+W	noun-kick-off	Auftakt
+W	noun-follow-up	Nachverfolgung
+W	noun-run-up	Vorlauf
+W	noun-mark-up	Aufschlag
+W	noun-fallout	politische Folgen
+W	noun-scoop	Exklusivmeldung
+W	noun-headline	Schlagzeile
+W	noun-coverage	Berichterstattung
+W	noun-editorial	Leitartikel
+W	noun-op-ed	Meinungsbeitrag
+W	noun-poll	Umfrage
+W	noun-pollster	Meinungsforscher
+W	noun-swing-voter	unentschlossener Wähler
+W	noun-caucus	Gruppenversammlung
+W	noun-whip	parlamentarischer Einpeitscher
+W	noun-motion	Antrag
+W	noun-amendment	Änderungsantrag
+W	noun-clause	Klausel
+W	noun-draft	Entwurf
+W	noun-minutes	Protokoll
+W	noun-tender	Ausschreibung
+W	noun-bid	Angebot
+W	noun-quota	Kontingent
+W	noun-tariff	Zoll
+W	noun-subsidy	Subvention
+W	noun-slump	Absturz
+W	noun-rally	Rückprall
+W	noun-yield	Rendite
+W	noun-spread	Spanne
+W	noun-stake	Beteiligung
+W	noun-shareholding	Aktienpaket
+W	noun-equity	Eigenkapital
+W	noun-liability	Passiva
+W	noun-arrears	Rückstände
+W	noun-default	Zahlungsausfall
+W	noun-merger	Fusion
+W	noun-due-diligence	gebührende Sorgfalt
+W	noun-cronyism	Vetternwirtschaft
+W	noun-graft	Rechtsbeugung
+W	noun-kickback	illegale Provision
+W	noun-spin	propagandistische Färbung
+W	noun-presser	Pressekonferenz
+W	noun-source	Quelle
+W	noun-exclusive	journalistische Exklusivmeldung
+W	noun-rebuttal	Replik
+W	noun-workstream	Arbeitslinie
+W	noun-deliverable	Liefergegenstand
+W	noun-milestone	Meilenstein
+W	noun-roadmap	Fahrplan
+W	noun-timeline	Terminplan
+W	noun-deadline	Frist
+W	noun-timeframe	zeitlicher Rahmen
+W	noun-scope	Reichweite
+W	noun-scrutiny	Prüfung
+W	noun-probe	Nachforschung
+W	noun-audit	Rechnungsprüfung
+W	noun-appraisal	Bewertung
+W	noun-assessment	Einschätzung
+W	noun-benchmark	Bezugsgröße
+W	noun-baseline	Basislinie
+W	noun-threshold	Schwelle
+W	noun-wiggle-room	Spielraum
+W	noun-breathing-space	Waffenruhe
+W	noun-hotspot	Spannungsherd
+W	noun-splinter-group	Dissidentengruppe
+W	noun-hardliner	Unnachgiebiger
+W	noun-hawk	Falke
+W	noun-dove	Dialogbereiter
+W	noun-swing-seat	Schlüsselmandat
+W	noun-lame-duck	Restmandat
+W	noun-tenure	Inhaberschaft
+W	noun-incumbent	Amtsinhaber
+W	noun-challenger	Anwärter
+W	noun-front-runner	Favorit
+W	noun-dark-horse	Außenseiter
+W	noun-also-ran	Abgeschriebener
+W	noun-spoiler	Störkandidat
+W	noun-kingmaker	Königsmacher
+W	noun-newsroom	Redaktion
+W	noun-byline	Textunterschrift
+W	noun-masthead	Titelkopf
+W	noun-paywall	Bezahlschranke
+W	noun-long-read	Langreportage
+W	noun-dateline	Ort und Datum
+W	noun-photo-call	Fototermin
+W	noun-spin-room	Erzählraum
+W	noun-press-gaggle	improvisierte Runde
+W	noun-town-hall	offene Versammlung
+W	noun-all-hands	Gesamtbesprechung
+W	noun-skip-level	Führungsebene überspringende Sitzung
+W	noun-awayday	Tag außer Haus
+W	noun-brown-bag	informelle Sitzung
+W	noun-timesheet	Stundenzettel
+W	noun-job-share	geteilte Stelle
+W	noun-hot-desk	nicht fester Platz
+W	noun-open-plan	offene Fläche
+W	noun-maternity-cover	Abwesenheitsvertretung
+W	noun-offsite	auswärtiger Tag
+W	noun-one-to-one	Einzelgespräch
+W	noun-probation-review	Probezeitprüfung
+W	noun-exit-interview	Abschlussgespräch
+W	noun-sick-note	Krankschreibung
+W	noun-overtime-ban	Überstundenverbot
+W	noun-shift-pattern	Wechselschicht
+W	noun-pay-slip	Gehaltsliste
+W	noun-redundancy-pot	Entlassungsfonds
+W	adjective-last-ditch	als letztes Mittel
+W	adjective-knee-jerk	automatisch
+W	adjective-high-profile	von großer Sichtbarkeit
+W	adjective-low-key	diskret
+W	adjective-hard-pressed	bedrängt
+W	adjective-time-consuming	lästig
+W	adjective-labour-intensive	mit viel Arbeitskraft
+W	adjective-debt-ridden	in Schulden ertrunken
+W	adjective-underfunded	unzureichend ausgestattet
+W	adjective-understaffed	unterbesetzt
+W	adjective-overworked	von Arbeit erdrückt
+W	adjective-overqualified	überqualifiziert
+W	adjective-underqualified	unterqualifiziert
+W	adjective-long-overdue	mehr als verspätet
+W	adjective-much-needed	sehr nötig
+W	adjective-well-meaning	wohlmeinend
+W	adjective-well-placed	gut gestellt
+W	adjective-poorly-paid	schlecht bezahlt
+W	adjective-poorly-run	schlecht geführt
+W	adjective-tightly-knit	sehr verbunden
+W	adjective-thinly-veiled	kaum verhohlen
+W	adjective-thinly-stretched	an der Grenze
+W	adjective-deeply-held	tief verwurzelt
+W	adjective-widely-held	weit verbreitet
+W	adjective-widely-shared	sehr geteilt
+W	adjective-fiercely-contested	umkämpft
+W	adjective-hotly-debated	heftig diskutiert
+W	adjective-bitterly-fought	erbittert
+W	adjective-closely-fought	sehr umkämpft
+W	adjective-closely-watched	sehr überwacht
+W	adjective-closely-guarded	eifersüchtig gehütet
+W	adjective-damning	vernichtend
+W	adjective-scathing	verletzend
+W	adjective-blistering	sengend
+W	adjective-withering	niederschmetternd
+W	adjective-unfounded	unbegründet
+W	adjective-unwarranted	ungerechtfertigt
+W	adjective-unjustified	ohne Rechtfertigung
+W	adjective-unsubstantiated	ohne Rückhalt
+W	adjective-uncorroborated	ohne Bestätigung
+W	adjective-unverified	ungeprüft
+W	adjective-unconfirmed	unbestätigt
+W	adjective-unaccountable	ohne Rechenschaft
+W	adjective-unchecked	ohne Gegengewicht
+W	adjective-unchallenged	ohne Erwiderung
+W	adjective-unquestioned	ohne Infragestellung
+W	adjective-unforeseeable	unvorhersehbar
+W	adjective-unworkable	undurchführbar
+W	adjective-unviable	ohne Tragfähigkeit
+W	adjective-unsustainable	unhaltbar
+W	adjective-untenable	unverteidigbar
+W	adjective-unenforceable	nicht vollstreckbar
+W	adjective-ungovernable	unregierbar
+W	adjective-unmanageable	unhandhabbar
+W	adjective-unprofitable	unrentabel
+W	adjective-uneconomic	unwirtschaftlich
+W	adjective-uncompetitive	wenig wettbewerbsfähig
+W	adjective-unrepresentative	wenig repräsentativ
+W	adjective-unelected	nicht gewählt
+W	adjective-unmandated	ohne Mandat
+W	adjective-off-the-record	inoffiziell
+W	adjective-on-the-record	zur Niederschrift
+W	adjective-off-balance	destabilisiert
+W	adjective-off-guard	unvorbereitet
+W	adjective-off-putting	entmutigend
+W	adjective-groundbreaking	wegweisend
+W	adjective-large-scale	in großem Maßstab
+W	adjective-small-scale	in kleinem Maßstab
+W	adjective-wide-open	in der Schwebe
+W	adjective-open-ended	offen
+W	adjective-close-run	sehr knapp
+W	adjective-close-knit	sehr verbunden
+W	adjective-single-handed	im Alleingang
+W	adjective-slow-moving	von langsamem Fortschritt
+W	adjective-fast-growing	von schnellem Wachstum
+W	adjective-fast-paced	von hohem Tempo
+W	adjective-slow-burn	von später Wirkung
+W	adjective-high-stakes	von hohem Risiko
+W	adjective-low-stakes	von geringem Risiko
+W	adjective-high-risk	von hohem Risiko
+W	adjective-low-risk	von geringem Risiko
+W	adjective-high-yield	von hoher Rendite
+W	adjective-low-yield	von geringer Rendite
+W	adjective-high-cost	von hohen Kosten
+W	adjective-low-cost	von geringen Kosten
+W	adjective-high-level	von hohem Niveau
+W	adjective-low-level	von niedrigem Niveau
+W	adjective-mid-level	von mittlerem Niveau
+W	adjective-top-level	von höchster Instanz
+W	adjective-entry-level	für den Einstieg
+W	adjective-cabinet-level	auf Kabinettsebene
+W	adjective-cross-border	grenzüberschreitend
+W	adjective-cross-cutting	querschnittlich
+W	adjective-joined-up	koordiniert
+W	adjective-evidence-based	auf Beweise gestützt
+W	adjective-data-driven	von Daten geleitet
+W	adjective-market-led	vom Markt geleitet
+W	adjective-state-led	vom Staat gelenkt
+W	adjective-state-backed	vom Staat verbürgt
+W	adjective-state-owned	in öffentlicher Inhaberschaft
+W	adjective-privately-owned	in privater Inhaberschaft
+W	adjective-publicly-owned	in öffentlicher Inhaberschaft
+W	adjective-foreign-owned	mit ausländischem Kapital
+W	adjective-foreign-backed	von außen gestützt
+W	adjective-home-grown	aus eigener Ernte
+W	adjective-purpose-built	eigens angefertigt
+W	adjective-custom-built	nach Maß gefertigt
+W	adjective-off-the-shelf	serienmäßig
+W	adjective-last-minute	in letzter Stunde
+W	adjective-eleventh-hour	in höchster Not
+W	adjective-all-out	bis zum Äußersten
+W	adjective-all-time	historisch
+W	adjective-record-breaking	rekordmäßig
+W	adjective-record-high	historisches Hoch
+W	adjective-record-low	historisches Tief
+W	adjective-near-record	nahe am Rekord
+W	adjective-above-average	über dem Durchschnitt
+W	adjective-below-average	unter dem Durchschnitt
+W	adjective-better-than-expected	besser als vorgesehen
+W	adjective-worse-than-expected	schlechter als vorgesehen
+W	adjective-much-vaunted	viel angepriesen
+W	adjective-little-known	wenig bekannt
+W	adjective-lesser-known	weniger bekannt
+W	adjective-best-known	bekannter
+W	adjective-best-placed	besser gestellt
+W	adjective-worst-hit	stärker betroffen
+W	adjective-hardest-hit	härter getroffen
+W	adjective-worst-affected	stärker geschädigt
+W	adjective-least-affected	weniger betroffen
+W	adjective-most-affected	stärker betroffen
+W	adverb-increasingly	immer mehr
+W	adverb-steadily	in anhaltender Form
+W	adverb-modestly	mit Bescheidenheit
+W	adverb-marginally	um einen knappen Abstand
+W	adverb-fractionally	um einen Bruchteil
+W	adverb-firmly	mit Festigkeit
+W	adverb-robustly	mit Solidität
+W	adverb-weakly	mit Schlaffheit
+W	adverb-poorly	in mangelhafter Form
+W	adverb-strongly	mit Kraft
+W	adverb-fiercely	mit Verbissenheit
+W	adverb-bitterly	mit Bitterkeit
+W	adverb-hotly	mit Eifer
+W	adverb-closely	aus der Nähe
+W	adverb-tightly	mit Enge
+W	adverb-loosely	mit Spielraum
+W	adverb-openly	offen
+W	adverb-privately	im Privaten
+W	adverb-publicly	in der Öffentlichkeit
+W	adverb-unofficially	inoffiziell
+W	adverb-informally	auf informelle Weise
+W	adverb-provisionally	mit vorläufigem Charakter
+W	adverb-temporarily	mit zeitweiligem Charakter
+W	adverb-permanently	mit dauerhaftem Charakter
+W	adverb-indefinitely	auf unbestimmte Zeit
+W	adverb-retrospectively	mit rückwirkender Wirkung
+W	adverb-concurrently	in gleichzeitiger Form
+W	adverb-sequentially	in Aufeinanderfolge
+W	adverb-incrementally	in Zuwächsen
+W	adverb-exponentially	in exponentieller Form
+W	adverb-overwhelmingly	in erdrückender Form
+W	adverb-decreasingly	immer weniger
+W	adverb-correspondingly	in Entsprechung
+W	adverb-controversially	in polemischer Form
+W	adverb-predictably	wie zu erwarten war
+W	adverb-unexpectedly	in unerwarteter Form
+W	adverb-inevitably	in unvermeidlicher Form
+W	adverb-understandably	wie verständlich ist
+W	adverb-regrettably	in bedauerlicher Form
+W	adverb-rightly	mit Recht
+W	adverb-wrongly	ohne Recht
+W	adverb-justifiably	mit Rechtfertigung
+W	adverb-unjustifiably	ohne Rechtfertigung
+W	adverb-arguably	es lässt sich argumentieren, dass
+W	adverb-conceivably	es ist denkbar, dass
+W	adverb-plausibly	in plausibler Form
+W	adverb-credibly	mit Glaubwürdigkeit
+W	adverb-implausibly	in unglaubhafter Form
+W	adverb-improbably	in unwahrscheinlicher Form
+W	adverb-end-to-end	von Ende zu Ende
+W	adverb-day-by-day	Tag für Tag
+W	adverb-step-by-step	Schritt für Schritt
+W	adverb-bit-by-bit	nach und nach
+W	adverb-one-by-one	einer nach dem anderen
+W	adverb-case-by-case	Fall für Fall
+W	adverb-point-by-point	Punkt für Punkt
+W	adverb-line-by-line	Zeile für Zeile
+W	adverb-in-hindsight	im Nachhinein
+W	adverb-in-retrospect	im Rückblick
+W	adverb-in-prospect	in Aussicht
+W	adverb-in-practice	in der Praxis
+W	adverb-in-theory	in der Theorie
+W	adverb-in-principle	im Prinzip
+W	adverb-in-effect	in der Praxis
+W	adverb-in-force	in Kraft
+W	adverb-in-place	in Kraft
+W	adverb-in-play	im Wettstreit
+W	adverb-in-limbo	im Limbus

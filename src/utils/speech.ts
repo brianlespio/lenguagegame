@@ -6,6 +6,7 @@ export function ttsLangForPair(pair: LanguagePairId): string {
   if (pair === "fr-es") return "fr-FR";
   if (pair === "ca-es") return "ca-ES";
   if (pair === "eu-es") return "eu-ES";
+  if (pair === "de-es") return "de-DE";
   return "en-GB";
 }
 
@@ -49,6 +50,11 @@ function normalizeLang(value: string): string {
 }
 
 const FEMALE_NAME = new Set([
+  "katja",
+  "hedda",
+  "amala",
+  "marlene",
+  "petra",
   "ainhoa",
   "miren",
   "izaro",
@@ -87,6 +93,8 @@ const FEMALE_NAME = new Set([
 ]);
 
 const MALE_NAME = new Set([
+  "stefan",
+  "conrad",
   "ander",
   "alvaro",
   "pablo",

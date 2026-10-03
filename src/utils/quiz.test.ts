@@ -109,8 +109,10 @@ describe("buildQuizItem", () => {
     expect(quizChoiceLanguage("fr-es", "reverse")).toBe("fr");
     expect(quizChoiceLanguage("ca-es", "reverse")).toBe("ca");
     expect(quizChoiceLanguage("eu-es", "reverse")).toBe("eu");
+    expect(quizChoiceLanguage("de-es", "reverse")).toBe("de");
     expect(noneOfTheAboveLabel("ca")).toBe("Cap de les anteriors");
     expect(noneOfTheAboveLabel("eu")).toBe("Aurrekoetako bat ere ez");
+    expect(noneOfTheAboveLabel("de")).toBe("Keine der obigen");
     expect(noneOfTheAboveLabel("fr")).toBe("Aucune des réponses ci-dessus");
     const item = buildQuizItem(nouns, prompt, "reverse", {
       languagePair: "fr-es",

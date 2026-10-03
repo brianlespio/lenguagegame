@@ -221,6 +221,27 @@ export const CATEGORY_LABELS_BY_PAIR: Record<LanguagePairId, Record<CategoryFilt
     openAnswers: "ERANTZUNA",
     schoolNotices: "OHARRA",
   },
+  "de-es": {
+    all: "ALLES",
+    nouns: "SUBSTANTIVE",
+    verbs: "VERBEN",
+    adjectives: "ADJEKTIVE",
+    connectors: "KONNEKTOREN",
+    pronouns: "PRONOMEN",
+    prepositions: "PRÄPOSITIONEN",
+    adverbs: "ADVERBIEN",
+    phrases: "SÄTZE",
+    questions: "FRAGEN",
+    positiveAnswers: "JA",
+    negativeAnswers: "NEIN",
+    techPhrases: "FACH",
+    techQuestions: "FRAGE",
+    techAnswers: "ANTWORT",
+    openPhrases: "REDEN",
+    openQuestions: "FRAGE",
+    openAnswers: "ANTWORT",
+    schoolNotices: "HINWEIS",
+  },
 };
 
 export const CATEGORY_LABELS = CATEGORY_LABELS_BY_PAIR["en-es"];
@@ -230,6 +251,7 @@ export const VERB_FORM_LABELS: Record<LanguagePairId, readonly [string, string, 
   "fr-es": ["INFINITIF", "PASSÉ COMPOSÉ", "PARTICIPE PASSÉ"],
   "ca-es": ["INFINITIU", "PASSAT", "PARTICIPI"],
   "eu-es": ["ADITZ IZENA", "LEHENALDIA", "PARTIZIPIOA"],
+  "de-es": ["INFINITIV", "PERFEKT", "PARTIZIP II"],
 };
 
 export function getCategoryLabel(pair: LanguagePairId, category: CategoryFilter): string {
@@ -313,6 +335,7 @@ export const STUDY_MODE_KICKER: Record<LanguagePairId, Record<StudyMode, string>
   "fr-es": { study: "ÉTUDE", test: "TEST" },
   "ca-es": { study: "ESTUDI", test: "TEST" },
   "eu-es": { study: "IKASI", test: "TEST" },
+  "de-es": { study: "LERNEN", test: "TEST" },
 };
 
 export const LANGUAGE_PAIRS: readonly LanguagePair[] = [
@@ -347,5 +370,13 @@ export const LANGUAGE_PAIRS: readonly LanguagePair[] = [
     label: "Euskara → Gaztelania",
     shortLabel: "EU → ES",
     available: true,
+  },
+  {
+    id: "de-es",
+    source: "de",
+    target: "es",
+    label: "Deutsch → Spanisch",
+    shortLabel: "DE → ES",
+    available: false,
   },
 ];

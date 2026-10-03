@@ -3,7 +3,7 @@ import { verbs } from "./verbs";
 import { vocabulary } from "./vocabulary";
 import { frenchVerbs } from "./frenchVerbs";
 import { frenchVocabulary } from "./frenchVocabulary";
-import { allEntries, basqueEntries, catalanEntries, frenchEntries, getCatalog } from "./index";
+import { allEntries, basqueEntries, catalanEntries, frenchEntries, germanEntries, getCatalog } from "./index";
 import { phraseSets, PHRASE_SET_COUNT, techPhraseSets, TECH_PHRASE_SET_COUNT, openPhraseSets, OPEN_PHRASE_SET_COUNT, schoolNoticeSets, SCHOOL_NOTICE_COUNT } from "./phraseSets";
 import { STUDY_CEFR_LEVELS } from "../constants";
 import { filterEntries, isVerbItem, isVocabularyItem } from "../utils/vocabulary";
@@ -85,6 +85,7 @@ describe("French dataset", () => {
     expect(getCatalog("en-es")).toHaveLength(allEntries.length);
     expect(getCatalog("ca-es")).toHaveLength(catalanEntries.length);
     expect(getCatalog("eu-es")).toHaveLength(basqueEntries.length);
+    expect(getCatalog("de-es")).toHaveLength(germanEntries.length);
   });
 
   it("assigns every CEFR study band", () => {
@@ -173,6 +174,35 @@ describe("Basque dataset", () => {
       } else {
         expect(verb.past, verb.id).toBe(`${verb.infinitive} zuen`);
       }
+    }
+  });
+});
+
+describe("German dataset", () => {
+  it("publishes German only as a full match of the English catalog", () => {
+    if (germanEntries.length === 0) {
+      expect(getCatalog("de-es")).toEqual([]);
+      return;
+    }
+    expect(germanEntries.length).toBe(allEntries.length);
+    const ids = germanEntries.map((entry) => entry.id);
+    expect(new Set(ids).size).toBe(ids.length);
+    expect(ids.every((id) => id.startsWith("de-"))).toBe(true);
+    const categories = new Set(allEntries.map((entry) => entry.category));
+    for (const category of categories) {
+      expect(countByCategory(germanEntries, category), category).toBe(countByCategory(allEntries, category));
+    }
+  });
+
+  it("keeps German verbs in the spoken perfect", () => {
+    if (germanEntries.length === 0) return;
+    const verbs = germanEntries.filter(isVerbItem);
+    const infinitives = verbs.map((verb) => verb.infinitive);
+    expect(new Set(infinitives).size).toBe(infinitives.length);
+    for (const verb of verbs) {
+      expect(verb.past, verb.id).toMatch(/^(hat|ist) /);
+      expect(verb.past.endsWith(verb.pastParticiple), verb.id).toBe(true);
+      expect(verb.infinitive, verb.id).not.toMatch(/\b(the|to)\b/i);
     }
   });
 });

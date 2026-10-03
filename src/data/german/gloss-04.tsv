@@ -1,0 +1,799 @@
+W	adjective-hard-hitting	mit trockenem Schlag
+W	adjective-hard-won	mit den Nägeln errungen
+W	adjective-hard-earned	im Schweiße gewonnen
+W	adjective-well-earned	wohlverdient
+W	adjective-well-founded	begründet
+W	adjective-ill-founded	unbegründet
+W	adjective-well-grounded	gefestigt
+W	adjective-ill-grounded	schlecht gefestigt
+W	adjective-well-worn	abgedroschen
+W	adjective-time-worn	abgenutzt
+W	adjective-time-honoured	durch Gebrauch geweiht
+W	adjective-battle-hardened	in der Fehde gestählt
+W	adjective-battle-scarred	von der Fehde gezeichnet
+W	adjective-war-weary	kampfüberdrüssig
+W	adjective-travel-weary	reisezerschlagen
+W	adjective-world-weary	weltenmüde
+W	adjective-careworn	kummergezeichnet
+W	adjective-woebegone	zerknirscht
+W	adjective-downbeat	matt
+W	adjective-upbeat	beherzt
+W	adjective-offbeat	befremdlich
+W	adjective-off-key	verstimmt
+W	adjective-off-colour	geschmacklos
+W	adjective-off-limits	verboten
+W	adjective-off-piste	außerhalb der Piste
+W	adjective-off-script	außerhalb des Drehbuchs
+W	adjective-off-message	außerhalb der Parole
+W	adjective-on-message	der Parole treu
+W	adjective-on-brief	auftragsgemäß
+W	adjective-off-brief	außerhalb des Auftrags
+W	adjective-on-side	ausgerichtet
+W	adjective-off-side	fehlausgerichtet
+W	adjective-onside	auf der eigenen Seite
+W	adjective-offside	abseits
+W	adjective-in-house	intern
+W	adjective-out-of-house	extern
+W	adjective-in-built	eingebaut
+W	adjective-built-in	integriert
+W	adjective-bolt-on	angefügt
+W	adjective-add-on	Zubehör
+W	adjective-stand-alone	eigenständig
+W	adjective-self-standing	mit eigenem Bestand
+W	adjective-self-contained	in sich geschlossen
+W	adjective-self-serving	eigennützig
+W	adjective-self-dealing	selbstkontrahierend
+W	adjective-self-regarding	nabelfixiert
+W	adjective-other-regarding	fremdnützig
+W	adjective-public-spirited	bürgersinnig
+W	adjective-civic-minded	zivilgesinnt
+W	adjective-party-political	parteipolitisch
+W	adjective-cross-party	parteienübergreifend
+W	adjective-all-party	aller Fraktionen
+W	adjective-non-partisan	ohne Parteifarbe
+W	adjective-bipartisan	beiderseitig
+W	adjective-unilateral	einseitig
+W	adjective-bilateral	zweiseitig
+W	adjective-multilateral	mehrseitig
+W	adjective-plurilateral	von mehreren Plätzen
+W	adjective-sector-wide	gewerbeweit
+W	adjective-industry-wide	sektorweit
+W	adjective-firm-wide	firmenweit
+W	adjective-group-wide	gruppenweit
+W	adjective-service-wide	dienstweit
+W	adjective-economy-wide	gesamtwirtschaftlich
+W	adjective-system-wide	systemweit
+W	adjective-market-wide	marktweit
+W	adjective-cabinet-wide	kabinettsweit
+W	adjective-campus-wide	geländeweit
+W	adjective-force-wide	truppenweit
+W	adjective-fleet-wide	flottenweit
+W	adjective-network-wide	netzweit
+W	adjective-board-level	auf Vorstandsebene
+W	adjective-c-suite	der obersten Leitung
+W	adjective-front-line	der ersten Linie
+W	adjective-back-office	der Nachhut
+W	adjective-middle-office	der Innenkontrolle
+W	adjective-front-office	kundenzugewandt
+W	adjective-client-facing	im Kundenumgang
+W	adjective-customer-facing	schalterseitig
+W	adjective-outward-facing	nach außen gewandt
+W	adjective-inward-facing	nach innen gewandt
+W	adjective-backward-looking	vergangenheitsgewandt
+W	adjective-forward-looking	zukunftsgewandt
+W	adjective-inward-looking	selbstversunken
+W	adjective-outward-looking	weltoffen
+W	adjective-short-sighted	kurzsichtig
+W	adjective-far-sighted	weitsichtig
+W	adjective-clear-sighted	klarsichtig
+W	adjective-dim-sighted	schwachsichtig
+W	adjective-near-sighted	zeitlich kurzsichtig
+W	adjective-long-sighted	vorausschauend
+W	adjective-clear-eyed	unverblendet
+W	adjective-starry-eyed	blauäugig
+W	adjective-wide-eyed	fassungslos
+W	adjective-bleary-eyed	ringäugig
+W	adjective-hollow-eyed	hohläugig
+W	adjective-tight-lipped	mit versiegelten Lippen
+W	adjective-loose-lipped	losezüngig
+W	adjective-thin-lipped	mit fester Lippe
+W	adjective-thin-skinned	feinhäutig
+W	adjective-thick-skinned	dickhäutig
+W	adjective-thick-headed	begriffsstutzig
+W	adjective-hot-headed	hitzköpfig
+W	adjective-empty-headed	hohlköpfig
+W	adjective-wrong-headed	fehlgeleitet
+W	adjective-pig-headed	starrsinnig
+W	adjective-bull-headed	stierköpfig
+W	adjective-hard-headed	hartköpfig
+W	adjective-soft-headed	weichlich
+W	adjective-light-headed	benommen
+W	adjective-clear-headed	klar
+W	adjective-muddle-headed	wirrköpfig
+W	adjective-woolly-headed	wollköpfig
+W	adjective-woolly	konturenvage
+W	adjective-fuzzy	unscharf
+W	adjective-blurry	verwischt
+W	adjective-opaque	sinnundurchsichtig
+W	adjective-cloudy	sinnverhangen
+W	adjective-foggy	neblig
+W	adjective-hazy	dunstig
+W	adjective-misty	verschleiert
+W	adjective-smoky	rauchig
+W	adjective-sooty	berußt
+W	adjective-grimy	verdreckt
+W	adjective-dingy	schäbig
+W	adjective-seamy	kehrseitig schäbig
+W	adjective-squalid	schäbig
+W	adjective-mean	knauserig
+W	adjective-niggardly	knickerig
+W	adjective-cheeseparing	geizig
+W	adjective-penny-pinching	pfennigfuchserisch
+W	adjective-close-fisted	mit geschlossener Faust
+W	adjective-open-handed	freigebig
+W	adjective-tight-fisted	mit gepresster Faust
+W	adjective-free-handed	lockerhändig
+W	adjective-light-handed	leichthändig
+W	adjective-sure-footed	trittsicher
+W	adjective-flat-footed	plattfüßig
+W	adjective-light-footed	leichtfüßig
+W	adjective-lead-footed	bleifüßig
+W	adjective-fleet-footed	schnellfüßig
+W	adjective-slow-footed	trägfüßig
+W	adjective-cold-eyed	kaltäugig
+W	adjective-hard-eyed	hartäugig
+W	adjective-beady-eyed	wachäugig
+W	adjective-sharp-eyed	feinäugig
+W	adjective-keen-eyed	scharfäugig
+W	adjective-eagle-eyed	luchsaugig
+W	adjective-lynx-eyed	luchssichtig
+W	adjective-hawk-eyed	habichtäugig
+W	adjective-mole-eyed	maulwurfäugig
+W	adjective-owlish	eulenhaft
+W	adjective-foxy	füchsisch
+W	adjective-wolfish	wölfisch
+W	adjective-sheepish	beschämt
+W	adjective-mulish	maultierisch
+W	adjective-asinine	eselhaft
+W	adjective-bovine	ochsenhaft
+W	adjective-feline	katzenhaft
+W	adjective-vulpine	füchsisch
+W	adjective-leonine	löwenhaft
+W	adjective-bearish	bärisch
+W	adjective-bullish	haussierend
+W	adjective-skittish	marktscheu
+W	adjective-choppy	kabbelig
+W	adjective-choppy-market	von unruhigem Markt
+W	adjective-range-bound	bandbegrenzt
+W	adjective-overbought	überkauft
+W	adjective-oversold	überverkauft
+W	adjective-overheated	überhitzt
+W	adjective-overstretched	überdehnt
+W	adjective-overlevered	überhebelt
+W	adjective-underlevered	unterhebelt
+W	adjective-undercapitalised	unterkapitalisiert
+W	adjective-overcapitalised	überkapitalisiert
+W	adjective-cash-rich	kassenstark
+W	adjective-cash-poor	kassenknapp
+W	adjective-cash-strapped	kasseneng
+W	adjective-credit-starved	kreditlos
+W	adjective-creditworthy	kreditwürdig
+W	adjective-uncreditworthy	bonitätszweifelhaft
+W	adjective-investment-grade	anlagewürdig
+W	adjective-junk-rated	ramschbewertet
+W	adjective-fallen-angel	gefallener Engel
+W	adjective-distressed	in Bedrängnis
+W	adjective-non-performing	säumig
+W	adjective-performing	rückstandslos
+W	adjective-sub-prime	von hohem Risiko
+W	adjective-prime	von erstem Risiko
+W	adjective-unsecured	unbesichert
+W	adjective-secured	besichert
+W	adjective-senior	vorrangig
+W	adjective-junior	nachrangig
+W	adjective-subordinated	nachrangig
+W	adjective-pari-passu	gleichrangig
+W	adjective-unsecured-creditor	chirographarisch
+W	adjective-preferential	privilegiert
+W	adjective-contingent	bedingt
+W	adjective-crystallised	auskristallisiert
+W	adjective-unquantified	unbeziffert
+W	adjective-unbudgeted	außerplanmäßig
+W	adjective-off-balance-sheet	außerbilanziell
+W	adjective-on-balance-sheet	bilanziell
+W	adjective-mark-to-market	zum Marktwert
+W	adjective-mark-to-model	zum Modellwert
+W	adjective-held-to-maturity	bis zur Fälligkeit
+W	adjective-available-for-sale	veräußerbar
+W	adjective-going-concern	in Betrieb
+W	adjective-gone-concern	in Abwicklung
+W	adjective-solvent	zahlungsfähig
+W	adjective-insolvent	zahlungsunfähig
+W	adjective-cash-flow-positive	kassenpositiv
+W	adjective-cash-flow-negative	kassennegativ
+W	adjective-loss-making	defizitär
+W	adjective-loss-making-unit	Defiziteinheit
+W	adjective-profit-making	gewinnbringend
+W	adjective-break-even	an der Gewinnschwelle
+W	adjective-above-budget	überplanmäßig
+W	adjective-below-budget	unterplanmäßig
+W	adjective-on-budget	plangemäß
+W	adjective-over-quota	quotenüberschreitend
+W	adjective-under-quota	quotenunterschreitend
+W	adjective-quota-bound	quotengebunden
+W	adjective-cap-bound	deckelgebunden
+W	adjective-floor-bound	untergrenzengebunden
+W	adverb-starkly	schneidend
+W	adverb-sharply	im Sturzflug
+W	adverb-steeply	steil
+W	adverb-flatly	rundweg
+W	adverb-roundly	ohne Umschweife
+W	adverb-soundly	gründlich
+W	adverb-squarely	voll
+W	adverb-narrowly	haarscharf
+W	adverb-thinly	dürftig begründet
+W	adverb-thickly	schichtweise
+W	adverb-densely	dicht
+W	adverb-sparsely	spärlich
+W	adverb-unevenly	ungleichmäßig
+W	adverb-evenly	gleichermaßen
+W	adverb-chiefly	vor allem
+W	adverb-purportedly	vorgeblich
+W	adverb-allegedly	dem Vorbringen nach
+W	adverb-reportedly	berichten zufolge
+W	adverb-reputedly	dem Rufe nach
+W	adverb-putatively	mutmaßlich
+W	adverb-tacitly	stillschweigend
+W	adverb-impliedly	implizit
+W	adverb-inferentially	durch Schlussfolgerung
+W	adverb-conversely	umgekehrt
+W	adverb-inversely	im umgekehrten Verhältnis
+W	adverb-proportionately	verhältnismäßig
+W	adverb-disproportionately	unverhältnismäßig
+W	adverb-year-on-year	gegenüber dem Vorjahr
+W	adverb-month-on-month	gegenüber dem Vormonat
+W	adverb-quarter-on-quarter	gegenüber dem Vorquartal
+W	adverb-week-on-week	gegenüber der Vorwoche
+W	adverb-like-for-like	in vergleichbaren Begriffen
+W	adverb-across-the-board	durchgängig
+W	adverb-industry-wide	im ganzen Sektor
+W	adverb-firm-wide	in der ganzen Firma
+W	adverb-group-wide	in der ganzen Gruppe
+W	adverb-system-wide	im ganzen System
+W	adverb-market-wide	im ganzen Markt
+W	adverb-economy-wide	in der ganzen Wirtschaft
+W	adverb-service-wide	im ganzen Dienst
+W	adverb-cabinet-wide	im ganzen Kabinett
+W	adverb-force-wide	in der ganzen Truppe
+W	adverb-fleet-wide	in der ganzen Flotte
+W	adverb-network-wide	im ganzen Netz
+W	adverb-campus-wide	im ganzen Gelände
+W	adverb-sector-wide	im ganzen Gewerbe
+W	adverb-on-the-record	zu Protokoll
+W	adverb-off-camera	außerhalb der Kamera
+W	adverb-on-camera	vor der Kamera
+W	adverb-off-air	außer Sendung
+W	adverb-on-air	auf Sendung
+W	adverb-off-the-books	außerhalb der Bücher
+W	adverb-on-the-books	in den Büchern
+W	adverb-under-the-table	unter der Hand
+W	adverb-above-board	am Licht
+W	adverb-under-the-counter	unter dem Ladentisch
+W	adverb-over-the-counter	rezeptfrei
+W	adverb-off-the-cuff	aus dem Stegreif
+W	adverb-off-the-peg	von der Stange
+W	adverb-off-the-shelf	ab Katalog
+W	adverb-off-the-grid	außerhalb des Netzes
+W	adverb-in-real-time	zeitgleich
+W	adverb-in-slow-motion	in Zeitlupe
+W	adverb-in-lockstep	im Einklang
+W	adverb-out-of-step	aus dem Takt
+W	adverb-in-sync	im Takt
+W	adverb-out-of-sync	taktversetzt
+W	adverb-in-phase	phasengleich
+W	adverb-out-of-phase	phasenversetzt
+W	adverb-in-chorus	im Chor
+W	adverb-in-unison	im Einklang
+W	adverb-with-one-voice	aus einem Munde
+W	adverb-with-one-accord	einvernehmlich
+W	adverb-as-one	wie ein Mann
+W	adverb-as-a-body	als Gesamtheit
+W	adverb-as-a-bloc	im Block
+W	adverb-to-a-man	bis zum letzten
+W	adverb-to-a-woman	bis zur letzten
+W	adverb-to-the-last	bis zum Äußersten
+W	adverb-to-the-letter	wortgetreu
+W	adverb-to-the-day	taggenau
+W	adverb-to-the-hour	stundengenau
+W	adverb-to-the-minute	minutengenau
+W	adverb-to-the-second	sekundengenau
+W	adverb-on-the-dot	punktgenau
+W	adverb-on-the-nail	bar
+W	adverb-on-the-button	haargenau
+W	adverb-on-the-nose	haargenau
+W	adverb-bang-on	genau auf den Punkt
+W	adverb-spot-on	festgenagelt
+W	adverb-dead-on	ins Schwarze
+W	adverb-dead-right	völlig zutreffend
+W	adverb-dead-wrong	völlig falsch
+W	adverb-dead-ahead	geradeaus
+W	adverb-dead-set	fest entschlossen
+W	adverb-hands-down	mühelos
+W	adverb-handsomely	reichlich
+W	adverb-comfortably	mit Spielraum
+W	adverb-with-ease	mühelos
+W	adverb-with-flying-colours	mit Auszeichnung
+W	adverb-by-a-whisker	um ein Haar
+W	adverb-by-a-hair	um ein Haar
+W	adverb-by-a-nose	um eine Nasenlänge
+W	adverb-by-a-mile	um eine gute Spanne
+W	adverb-by-a-long-chalk	bei weitem
+W	adverb-by-a-long-shot	weitaus
+W	adverb-by-a-long-way	bei weitem
+W	adverb-by-some-distance	mit Abstand
+W	adverb-by-some-margin	mit Vorsprung
+W	adverb-by-a-wide-margin	mit Spielraum
+W	adverb-by-a-narrow-margin	mit knappem Vorsprung
+W	adverb-by-the-slimmest-of-margins	mit dem knappsten Vorsprung
+W	adverb-only-just	haarscharf
+W	adverb-just-shy	darunter
+W	adverb-just-short	knapp
+W	adverb-just-under	knapp darunter
+W	adverb-just-over	knapp darüber
+W	adverb-just-north	leicht aufwärts
+W	adverb-just-south	leicht abwärts
+W	adverb-due-north	Kurs Nord
+W	adverb-due-south	Kurs Süd
+W	adverb-due-east	Kurs Ost
+W	adverb-due-west	Kurs West
+W	adverb-front-and-centre	im Vordergrund
+W	adverb-centre-stage	in der Bühnenmitte
+W	adverb-off-stage	hinter den Kulissen
+W	adverb-backstage	hinter dem Vorhang
+W	adverb-off-piste	außerhalb der Piste
+W	adverb-off-script	außerhalb des Drehbuchs
+W	adverb-off-message	außerhalb der Parole
+W	adverb-on-message	nach der Parole
+W	adverb-on-brief	dem Auftrag gemäß
+W	adverb-off-brief	außerhalb des Auftrags
+W	adverb-seasonally	saisonbereinigt
+W	adverb-headline	als Schlagzeilenzahl
+W	adverb-underlying	in der Basisrate
+W	adverb-core	in der Kernrate
+W	adverb-nominally	in jeweiligen Preisen
+W	adverb-in-real-terms	preisbereinigt
+W	adverb-in-cash-terms	kassenmäßig
+W	adverb-in-volume-terms	mengenmäßig
+W	adverb-in-value-terms	wertmäßig
+W	adverb-in-unit-terms	in Stück
+W	adverb-on-a-like-for-like-basis	auf vergleichbarer Grundlage
+W	adverb-on-an-annualised-basis	auf Jahresbasis
+W	adverb-on-a-seasonally-adjusted-basis	in saisonbereinigter Reihe
+W	adverb-on-a-rolling-basis	im gleitenden Durchschnitt
+W	adverb-on-a-trailing-basis	in den letzten zwölf Monaten
+W	adverb-on-a-run-rate-basis	im hochgerechneten Jahrestempo
+W	adverb-on-a-pro-rata-basis	anteilig
+W	adverb-on-a-time-weighted-basis	zeitgewichtet
+W	adverb-on-a-money-weighted-basis	kassengewichtet
+W	adverb-ex-dividend	ohne Dividende
+W	adverb-cum-dividend	mit Dividende
+W	adverb-ex-rights	ohne Bezugsrechte
+W	adverb-cum-rights	mit Bezugsrechten
+W	adverb-ex-coupon	ohne Kupon
+W	adverb-cum-coupon	mit Kupon
+W	adverb-at-par	zu Pari
+W	adverb-above-par	über Pari
+W	adverb-below-par	unter Pari
+W	adverb-at-a-premium	mit Aufgeld
+W	adverb-at-a-discount	mit Abschlag
+W	adverb-in-the-money	im Geld
+W	adverb-out-of-the-money	aus dem Geld
+W	adverb-at-the-money	am Geld
+W	adverb-deep-in-the-money	tief im Geld
+W	adverb-deep-out-of-the-money	weit aus dem Geld
+W	adverb-mark-to-market	zum Marktwert
+W	adverb-mark-to-model	zum Modellwert
+W	adverb-held-to-maturity	bis zur Fälligkeit
+W	adverb-on-sight	bei Sicht
+W	adverb-at-sight	bei Sicht
+W	adverb-after-sight	nach Sicht
+W	adverb-on-demand	bei Sicht
+W	adverb-at-call	bei Sicht
+W	adverb-on-tick	auf der Stelle
+W	adverb-in-arrears	nachschüssig
+W	adverb-in-advance	im Voraus
+W	adverb-up-front	im Voraus
+W	adverb-upfront	als Anzahlung
+W	adverb-in-specie	in Natura
+W	adverb-in-cash	in bar
+W	adverb-in-settlement	zum Ausgleich
+W	adverb-without-prejudice	unbeschadet
+W	adverb-with-prejudice	mit Rechtskraft
+W	adverb-subject-to-contract	vorbehaltlich des Vertrags
+W	adverb-subject-to-survey	vorbehaltlich der Besichtigung
+W	adverb-subject-to-finance	vorbehaltlich der Finanzierung
+W	adverb-subject-always	stets vorbehaltlich
+W	adverb-strictly-without-prejudice	unter strengem Rechtsvorbehalt
+W	adverb-for-the-avoidance-of-doubt	vorsorglich
+W	adverb-for-completeness	der Vollständigkeit halber
+W	adverb-on-deep-background	ohne Zuordnung
+W	adverb-on-background	als Hintergrund
+W	adverb-not-for-attribution	ohne Zuordnung
+W	adverb-not-for-quotation	nicht zitierfähig
+W	adverb-embargoed	unter Nachrichtensperre
+W	adverb-unembargoed	ohne Nachrichtensperre
+W	adverb-under-embargo	unter Sperre
+W	adverb-off-diary	außerhalb des Terminkalenders
+W	adverb-on-diary	im Terminkalender
+W	adverb-lobby-terms	im Flurton
+W	adverb-gallery-terms	im Ton der Tribüne
+W	adverb-in-camera	hinter verschlossenen Türen
+W	adverb-in-open-court	in öffentlicher Verhandlung
+W	adverb-in-chambers	im Dienstzimmer
+W	adverb-ex-parte	auf Antrag einer Partei
+W	adverb-inter-partes	zwischen den Parteien
+W	adverb-sua-sponte	von Amts wegen
+W	adverb-proprio-motu	aus eigenem Antrieb
+W	adverb-nemo-iudex	niemand Richter in eigener Sache
+W	adverb-sub-silentio	im Stillen
+W	adverb-obiter	beiläufig
+W	adverb-per-incuriam	aus Versehen
+W	adverb-per-curiam	durch das Gericht
+W	adverb-en-banc	im Plenum
+W	adverb-de-novo	von Neuem
+W	adverb-nunc-pro-tunc	rückwirkend
+W	adverb-ab-initio	von Ursprung an
+W	adverb-ex-tunc	von damals an
+W	adverb-ex-nunc	von jetzt an
+W	adverb-ad-hoc	für den Fall
+W	adverb-ad-litem	für den Rechtsstreit
+W	adverb-pro-tem	kommissarisch
+W	adverb-pro-tempore	kommissarisch
+W	adverb-sine-die	ohne Termin
+W	adverb-sine-qua-non	ohne das nicht
+W	adverb-pari-passu	gleichrangig
+W	adverb-pro-rata	anteilig
+W	adverb-pro-tanto	in diesem Maße
+W	adverb-in-limine	eingangs
+W	adverb-in-pectore	im Herzen
+W	adverb-sotto-voce	mit leiser Stimme
+W	adverb-viva-voce	mündlich
+W	adverb-verbatim	Wort für Wort
+W	adverb-literatim	Buchstabe für Buchstabe
+W	adverb-seriatim	der Reihe nach
+W	adverb-passim	hier und da
+W	adverb-ibidem	ebenda
+W	adverb-op-cit	im angeführten Werk
+W	adverb-loc-cit	an der angeführten Stelle
+W	adverb-cf	vgl.
+W	adverb-q-v	siehe
+W	adverb-viz	nämlich
+W	adverb-scilicet	nämlich
+W	adverb-id-est	das heißt
+W	adverb-exempli-gratia	zum Beispiel
+W	adverb-et-al	und andere
+W	adverb-et-seq	und folgende
+W	adverb-ff	und folgende
+W	connector-against-this-backdrop	gegen diesen Vorhang
+W	connector-viewed-in-this-light	in diesem Licht gesehen
+W	connector-seen-in-this-light	in diesem Licht betrachtet
+W	connector-from-this-vantage	von dieser Warte
+W	connector-from-that-standpoint	von jenem Sitz
+W	connector-on-that-footing	auf diesem Fuß
+W	connector-on-this-reading	in dieser Lesart
+W	connector-on-that-reading	in jener Lesart
+W	connector-under-that-interpretation	unter jener Lesart
+W	connector-by-that-measure	mit diesem Maßstab
+W	connector-by-that-standard	mit dieser Latte
+W	connector-on-those-terms	in diesen Begriffen
+W	connector-in-those-terms	in diesen Begriffen
+W	connector-put-in-those-terms	in diesen Begriffen gesagt
+W	connector-so-framed	so gestellt
+W	connector-so-understood	so verstanden
+W	connector-so-construed	so ausgelegt
+W	connector-read-thus	so gelesen
+W	connector-taken-thus	so genommen
+W	connector-taken-together	zusammengenommen
+W	connector-taken-as-a-whole	im Block genommen
+W	connector-taken-in-isolation	isoliert genommen
+W	connector-viewed-as-a-whole	im Block gesehen
+W	connector-looked-at-another-way	anders betrachtet
+W	connector-seen-from-that-angle	aus jenem Winkel gesehen
+W	connector-on-a-related-note	in verwandter Anmerkung
+W	connector-on-a-separate-note	in gesonderter Anmerkung
+W	connector-on-a-different-note	in anderem Ton
+W	connector-turning-now-to	nun übergehend zu
+W	connector-leaving-aside	beiseitegelassen
+W	connector-setting-aside	beiseitegestellt
+W	connector-quite-apart-from-that	ganz abgesehen davon
+W	connector-to-compound-matters	obendrein
+W	connector-adding-to-this	diesem hinzugerechnet
+W	connector-added-to-this	diesem hinzugefügt
+W	connector-allied-to-this	diesem verbündet
+W	connector-coupled-with-this	diesem verbunden
+W	connector-in-tandem-with-this	gleichauf hiermit
+W	connector-in-parallel-with-this	parallel hierzu
+W	connector-alongside-this	neben diesem
+W	connector-this-aside	hiervon abgesehen
+W	connector-that-aside	davon abgesehen
+W	connector-that-notwithstanding	dessen ungeachtet
+W	connector-these-caveats-aside	diese Vorbehalte beiseite
+W	connector-subject-to-that	vorbehaltlich dessen
+W	connector-without-prejudice-to-that	unbeschadet dessen
+W	connector-the-upshot-being	mit dem Ausgang
+W	connector-the-implication-being	mit der Folge
+W	connector-the-inference-being	mit dem Schluss
+W	connector-the-corollary-being	mit dem Korollar
+W	connector-the-result-being	mit dem Ergebnis
+W	connector-the-effect-being	mit der Wirkung
+W	connector-from-which-it-may-be-inferred	woraus sich folgern lässt
+W	connector-it-may-be-inferred-that	es lässt sich folgern, dass
+W	connector-it-may-be-concluded-that	es lässt sich schließen, dass
+W	connector-it-may-be-deduced-that	es lässt sich ableiten, dass
+W	connector-it-may-be-gathered-that	es lässt sich entnehmen, dass
+W	connector-one-is-led-to-conclude	man sieht sich gedrängt zu schließen
+W	connector-the-record-shows-that	es steht fest, dass
+W	connector-the-figures-indicate-that	die Zahlen zeigen, dass
+W	connector-the-data-point-to	die Daten weisen auf
+W	connector-on-the-available-evidence	angesichts des Belegten
+W	connector-on-present-showing	nach dem gegenwärtigen Stand
+W	connector-as-matters-stand	nach Lage der Dinge
+W	connector-as-things-stand	so wie die Dinge liegen
+W	connector-as-the-law-stands	so wie das Recht steht
+W	connector-as-the-record-stands	so wie es feststeht
+W	connector-at-this-juncture	in dieser Lage
+W	connector-at-that-juncture	in jener Lage
+W	connector-at-this-stage-of-the-argument	in diesem Abschnitt der Begründung
+W	connector-for-present-purposes	zu den vorliegenden Zwecken
+W	connector-for-these-purposes	zu diesen Zwecken
+W	connector-for-the-sake-of-the-argument	zur Erörterung
+W	connector-assuming-for-the-moment	für einen Augenblick angenommen
+W	connector-taking-that-as-given	das als gegeben genommen
+W	connector-taking-that-as-read	das als bekannt genommen
+W	connector-that-being-granted	dies zugestanden
+W	connector-that-being-assumed	dies vorausgesetzt
+W	connector-on-that-assumption	unter dieser Annahme
+W	connector-on-those-assumptions	unter diesen Annahmen
+W	connector-proceeding-on-that-basis	von dieser Grundlage aus
+W	connector-proceeding-from-that	davon ausgehend
+W	connector-from-there-it-follows	daraus folgt
+W	connector-a-further-question-arises	eine weitere Frage ergibt sich
+W	connector-this-raises-the-question	dies wirft die Frage auf
+W	connector-this-invites-the-question	dies lädt zum Fragen ein
+W	connector-this-prompts-the-question	dies veranlasst zu fragen
+W	connector-this-leaves-open-the-question	dies lässt die Frage offen
+W	connector-this-remains-to-be-seen	das bleibt abzuwarten
+W	connector-whether-that-is-so	ob dem so ist
+W	connector-if-that-is-right	wenn das stimmt
+W	connector-if-that-analysis-is-sound	wenn diese Analyse stichhaltig ist
+W	connector-if-the-premise-holds	wenn die Prämisse standhält
+W	connector-the-contention-being	wobei die These
+W	connector-the-claim-being	wobei der Anspruch
+W	connector-the-objection-being	wobei der Einwand
+W	connector-the-difficulty-being	wobei die Schwierigkeit
+W	connector-where-this-leaves-us	wo uns das lässt
+W	connector-what-this-means-is	was das bedeutet, ist
+W	connector-what-that-entails-is	was das mit sich bringt, ist
+W	connector-what-follows-from-this	was daraus folgt
+W	connector-in-practical-terms	in praktischer Hinsicht
+W	connector-in-operational-terms	in operativer Hinsicht
+W	connector-in-policy-terms	in politischer Hinsicht
+W	connector-in-legal-terms	in rechtlicher Hinsicht
+W	connector-in-economic-terms	in wirtschaftlicher Hinsicht
+W	connector-in-political-terms	in politischen Begriffen
+W	connector-in-historical-terms	in historischer Hinsicht
+W	connector-in-statistical-terms	in statistischer Hinsicht
+W	connector-in-quantitative-terms	in quantitativer Hinsicht
+W	connector-in-qualitative-terms	in qualitativer Hinsicht
+W	connector-in-relative-terms	in relativer Hinsicht
+W	connector-in-absolute-terms	in absoluter Hinsicht
+W	connector-in-net-terms	netto
+W	connector-in-gross-terms	brutto
+W	connector-in-real-terms	preisbereinigt
+W	connector-in-nominal-terms	nominal
+W	connector-other-things-equal	bei sonst gleichen Bedingungen
+W	connector-all-else-equal	bei sonst gleichen Bedingungen
+W	connector-holding-other-factors-constant	bei Konstanz des Übrigen
+W	connector-controlling-for-that	dafür bereinigt
+W	connector-allowing-for-that	dem Rechnung tragend
+W	connector-after-allowing-for	nach Berücksichtigung von
+W	connector-net-of-that	abzüglich dessen
+W	connector-gross-of-that	brutto dessen
+W	connector-set-against-that	dem gegenübergestellt
+W	connector-weighed-against-that	dagegen abgewogen
+W	connector-balanced-against-that	dagegen aufgewogen
+W	connector-offset-against-that	dagegen verrechnet
+W	connector-on-the-understanding-that	in dem Verständnis, dass
+W	connector-on-the-footing-that	auf dem Fuß, dass
+W	connector-on-the-premise-that	auf der Prämisse, dass
+W	connector-on-the-supposition-that	unter der Annahme, dass
+W	connector-on-the-hypothesis-that	unter der Hypothese, dass
+W	connector-under-the-heading-of	unter der Überschrift
+W	connector-under-the-rubric-of	unter der Rubrik
+W	connector-under-the-banner-of	unter der Fahne
+W	connector-purportedly-because	vorgeblich weil
+W	connector-allegedly-because	wie vorgebracht wird, weil
+W	connector-reportedly-because	wie berichtet wird, weil
+W	connector-by-some-accounts	einigen Darstellungen zufolge
+W	connector-by-other-accounts	anderen Darstellungen zufolge
+W	connector-on-one-telling	nach einer Darstellung
+W	connector-on-another-telling	nach einer anderen Darstellung
+W	connector-on-a-rival-reading	in gegenläufiger Lesart
+W	connector-on-a-competing-view	in einer Gegenthese
+W	connector-on-a-dissenting-view	im Sondervotum
+W	connector-on-the-prevailing-view	in der herrschenden These
+W	connector-on-the-received-view	in der überkommenen These
+W	connector-on-the-orthodox-view	in der orthodoxen These
+W	connector-against-received-wisdom	gegen das überkommene Wissen
+W	connector-against-the-received-view	gegen die überkommene These
+W	connector-pace-that-view	mit Verlaub zu jener These
+W	connector-contra-that-view	jener These entgegen
+W	connector-as-matters-now-stand	nach dem gegenwärtigen Stand der Dinge
+W	connector-as-the-figures-now-stand	nach dem gegenwärtigen Stand der Zahlen
+W	connector-on-current-form	nach der gegenwärtigen Form
+W	connector-on-present-form	nach der vorliegenden Form
+W	connector-on-that-showing	nach jener Probe
+W	connector-on-this-showing	nach dieser Probe
+W	connector-so-far-as-appears	soweit ersichtlich
+W	connector-so-far-as-can-be-seen	soweit sich erkennen lässt
+W	connector-so-far-as-known	soweit bekannt
+W	connector-so-far-as-material	soweit von Belang
+W	connector-so-far-as-relevant	soweit einschlägig
+W	connector-insofar-as-material	insoweit von Belang
+W	connector-insofar-as-relevant	insoweit einschlägig
+W	connector-to-the-extent-material	in dem Maße von Belang
+W	connector-to-the-extent-relevant	in dem Maße einschlägig
+W	connector-to-the-extent-known	in dem bekannten Maße
+W	connector-to-that-limited-extent	in diesem begrenzten Maße
+W	connector-only-to-that-extent	nur in diesem Maße
+W	connector-if-and-to-the-extent-that	wenn und soweit
+W	connector-if-and-insofar-as	wenn und insoweit
+W	connector-save-insofar-as	außer insoweit
+W	connector-except-insofar-as	ausgenommen insoweit
+W	connector-unless-and-until	es sei denn, und bis
+W	connector-if-and-when	wenn und sobald
+W	connector-when-and-if	sobald und wenn
+W	connector-as-and-when	je nachdem und wann
+W	connector-as-and-if	je nachdem und wenn
+W	connector-now-and-if	jetzt und wenn
+W	connector-then-and-only-then	dann und nur dann
+W	connector-if-then	wenn, dann
+W	connector-only-then	erst dann
+W	connector-not-until-then	erst ab dann
+W	connector-not-before-then	nicht vor dann
+W	connector-not-a-moment-before	keinen Augenblick früher
+W	connector-not-a-moment-later	keinen Augenblick später
+W	connector-no-sooner-than	nicht früher als
+W	connector-no-later-than	nicht später als
+W	connector-at-the-latest	spätestens
+W	connector-at-the-earliest	frühestens
+W	connector-not-later-than	nicht später als
+W	connector-not-earlier-than	nicht früher als
+W	connector-from-and-after	von und ab
+W	connector-from-and-including	ab einschließlich
+W	connector-to-but-excluding	bis, jedoch ausschließlich
+W	connector-up-to-but-excluding	bis ausschließlich
+W	connector-through-and-including	bis einschließlich
+W	connector-with-effect-from	mit Wirkung vom
+W	connector-with-immediate-effect	mit sofortiger Wirkung
+W	connector-with-retrospective-effect	rückwirkend
+W	connector-with-prospective-effect	mit Wirkung für die Zukunft
+W	connector-without-retrospective-effect	ohne rückwirkende Kraft
+W	connector-pending-further-notice	solange kein Bescheid ergeht
+W	connector-until-further-notice	bis auf Weiteres
+W	connector-until-further-order	bis auf weitere Anordnung
+W	connector-until-countermanded	bis auf Widerruf
+W	connector-unless-earlier-terminated	sofern nicht früher beendet
+W	connector-unless-otherwise-agreed	sofern nicht anders vereinbart
+W	connector-unless-otherwise-stated	sofern nicht anders angegeben
+W	connector-unless-the-context-requires	sofern der Zusammenhang es nicht verlangt
+W	connector-unless-the-contrary-appears	sofern nicht das Gegenteil feststeht
+W	connector-where-the-context-so-admits	wo der Zusammenhang es zulässt
+W	connector-where-the-context-so-requires	wo der Zusammenhang es verlangt
+W	connector-as-the-context-requires	je nach dem Zusammenhang
+W	connector-as-the-case-may-be	je nach Fall
+W	connector-as-the-case-requires	je nach Erfordernis des Falles
+W	connector-as-circumstances-require	je nach den Umständen
+W	connector-as-circumstances-permit	soweit die Umstände es zulassen
+W	connector-weather-permitting	wenn das Wetter es zulässt
+W	connector-time-permitting	wenn die Zeit reicht
+W	connector-space-permitting	wenn der Raum reicht
+W	connector-all-being-well	wenn alles gut geht
+W	connector-other-things-being-equal	bei sonst gleichen Bedingungen
+W	pronoun-the-foregoing	Vorgenanntes
+W	pronoun-the-following	Folgendes
+W	pronoun-the-above	Obiges
+W	pronoun-the-below	Untenstehendes
+W	pronoun-the-above-named	Obengenannter
+W	pronoun-the-below-named	Untengenannter
+W	pronoun-the-signatory	Unterzeichner
+W	pronoun-the-co-signatory	Mitunterzeichner
+W	pronoun-the-counterparty	Gegenpartei
+W	pronoun-the-counterpart	Gegenüber
+W	pronoun-one-s-opposite-number	Gegenüber
+W	pronoun-the-incumbent	Amtsinhaber
+W	pronoun-the-outgoing	Ausscheidender
+W	pronoun-the-incoming	Antretender
+W	pronoun-the-predecessor	Vorgänger
+W	pronoun-the-successor	Nachfolger
+W	pronoun-the-appellant	Rechtsmittelführer
+W	pronoun-the-appellee	Rechtsmittelgegner
+W	pronoun-the-claimant	Kläger
+W	pronoun-the-respondent	Beklagter
+W	pronoun-the-petitioner	Antragsteller
+W	pronoun-the-complainant	Anzeigenerstatter
+W	pronoun-the-applicant	Gesuchsteller
+W	pronoun-the-interviewee	Befragter
+W	pronoun-the-addressee	Adressat
+W	pronoun-the-recipient	Empfänger
+W	pronoun-the-bearer	Inhaber
+W	pronoun-the-holder	Rechtsinhaber
+W	pronoun-the-trustee	Fideikommissar
+W	pronoun-the-settlor	Errichter
+W	pronoun-the-beneficiary	Begünstigter
+W	pronoun-the-nominee	Benannter
+W	pronoun-the-appointee	Ernannter
+W	pronoun-the-designate	Designierter
+W	pronoun-the-designee	Designierter
+W	pronoun-the-proxy	Bevollmächtigter
+W	pronoun-the-stand-in	Stellvertreter
+W	pronoun-the-locum	Interimsvertreter
+W	pronoun-the-caretaker	Interimsvertreter
+W	pronoun-the-acting-holder	kommissarischer Inhaber
+W	pronoun-the-interim-holder	vorläufiger Inhaber
+W	pronoun-those-in-post	im Amt Befindliche
+W	pronoun-those-concerned	Interessierte
+W	pronoun-those-involved	Beteiligte
+W	pronoun-those-affected	Betroffene
+W	pronoun-those-implicated	Belastete
+W	pronoun-those-named	Genannte
+W	pronoun-those-listed	Aufgezählte
+W	pronoun-those-cited	Zitierte
+W	pronoun-those-quoted	Abgeschriebene
+W	pronoun-those-present	Anwesende
+W	pronoun-those-absent	Abwesende
+W	pronoun-those-in-attendance	Teilnehmer
+W	pronoun-those-entitled	Legitimierte
+W	pronoun-those-eligible	Wählbare
+W	pronoun-those-so-entitled	so Legitimierte
+W	pronoun-those-so-minded	so Gestimmte
+W	pronoun-those-so-inclined	so Geneigte
+W	pronoun-anyone-so-minded	wer so verfügt
+W	pronoun-anyone-so-inclined	wer so geneigt ist
+W	pronoun-whoever-sees-fit	wer es für angebracht hält
+W	pronoun-whoever-thinks-fit	wer es für angebracht erachtet
+W	pronoun-whoever-deems-fit	wer es für angebracht befindet
+W	pronoun-as-one-sees-fit	wie man es für angebracht hält
+W	pronoun-as-one-thinks-fit	wie man es für angebracht erachtet
+W	pronoun-as-one-deems-fit	wie man es für angebracht befindet
+W	pronoun-the-powers-that-be	Mächtige
+W	pronoun-the-rank-and-file	Basis
+W	pronoun-the-great-and-the-good	Honoratioren
+W	pronoun-the-usual-suspects	Übliche
+W	pronoun-the-uninitiated	Uneingeweihte
+W	pronoun-the-well-informed	Gutunterrichtete
+W	pronoun-the-better-off	Bessergestellte
+W	pronoun-the-worse-off	Bedrängtere
+W	pronoun-the-well-to-do	Begüterte
+W	pronoun-the-dispossessed	Besitzlose
+W	pronoun-the-disenfranchised	Wahlrechtslose
+W	pronoun-the-voiceless	Stimmlose
+W	pronoun-the-overlooked	Übergangene
+W	pronoun-the-sidelined	Abgedrängte
+W	pronoun-the-excluded	Ausgeschlossene
+W	pronoun-the-privileged	Privilegierte
+W	pronoun-the-underprivileged	Benachteiligte
+W	pronoun-a-person-of-standing	Person von Bonität
+W	pronoun-a-person-of-means	vermögende Person
+W	pronoun-persons-unknown	unbekannte Personen
+W	pronoun-the-person-concerned	Betreffender
+W	pronoun-the-parties-concerned	interessierte Parteien
+W	pronoun-the-interested-party	interessierte Partei
+W	pronoun-the-injured-party	geschädigte Partei
+W	pronoun-the-aggrieved-party	verletzte Partei
+W	pronoun-the-third-party	Dritter
+W	pronoun-third-parties	Dritte
+W	pronoun-the-contracting-parties	Vertragsparteien
+W	pronoun-the-unnamed-source	ungenannte Quelle
+W	pronoun-a-serving-official	amtierender Beamter
+W	pronoun-a-sitting-member	Mandatsinhaber

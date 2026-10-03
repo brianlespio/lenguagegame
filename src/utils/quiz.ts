@@ -9,25 +9,27 @@ const CHOICE_KEYS: readonly QuizChoiceKey[] = ["a", "b", "c", "d"];
 
 const NONE_CHANCE = 0.32;
 
-export function noneOfTheAboveLabel(choiceLanguage: "en" | "fr" | "ca" | "eu" | "es"): string {
+export function noneOfTheAboveLabel(choiceLanguage: "en" | "fr" | "ca" | "eu" | "de" | "es"): string {
   if (choiceLanguage === "en") return "None of the above";
   if (choiceLanguage === "fr") return "Aucune des réponses ci-dessus";
   if (choiceLanguage === "ca") return "Cap de les anteriors";
   if (choiceLanguage === "eu") return "Aurrekoetako bat ere ez";
+  if (choiceLanguage === "de") return "Keine der obigen";
   return "Ninguna de las anteriores";
 }
 
-export function quizSourceLanguage(pair: LanguagePairId): "en" | "fr" | "ca" | "eu" {
+export function quizSourceLanguage(pair: LanguagePairId): "en" | "fr" | "ca" | "eu" | "de" {
   if (pair === "fr-es") return "fr";
   if (pair === "ca-es") return "ca";
   if (pair === "eu-es") return "eu";
+  if (pair === "de-es") return "de";
   return "en";
 }
 
 export function quizChoiceLanguage(
   pair: LanguagePairId,
   direction: QuizDirection,
-): "en" | "fr" | "ca" | "eu" | "es" {
+): "en" | "fr" | "ca" | "eu" | "de" | "es" {
   if (direction === "forward") return "es";
   return quizSourceLanguage(pair);
 }
