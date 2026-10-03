@@ -113,6 +113,15 @@ describe("useVocabulary", () => {
     });
   });
 
+  it("switches to the Basque catalog", async () => {
+    const { result } = renderHook(() => useVocabulary());
+    act(() => result.current.setLanguagePair("eu-es"));
+    expect(result.current.state.languagePair).toBe("eu-es");
+    await waitFor(() => {
+      expect(result.current.filtered.some((entry) => entry.id.startsWith("eu-"))).toBe(true);
+    });
+  });
+
   it("switches to the Catalan catalog", async () => {
     const { result } = renderHook(() => useVocabulary());
     act(() => result.current.setLanguagePair("ca-es"));

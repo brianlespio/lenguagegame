@@ -5,6 +5,7 @@ import { isPhraseCategory, isVerbItem } from "./vocabulary";
 export function ttsLangForPair(pair: LanguagePairId): string {
   if (pair === "fr-es") return "fr-FR";
   if (pair === "ca-es") return "ca-ES";
+  if (pair === "eu-es") return "eu-ES";
   return "en-GB";
 }
 
@@ -47,6 +48,77 @@ function normalizeLang(value: string): string {
   return value.replace("_", "-").toLowerCase();
 }
 
+const FEMALE_NAME = new Set([
+  "ainhoa",
+  "miren",
+  "izaro",
+  "elvira",
+  "helena",
+  "laura",
+  "abril",
+  "lucia",
+  "estrella",
+  "hortense",
+  "julie",
+  "denise",
+  "vivienne",
+  "eloise",
+  "brigitte",
+  "amelie",
+  "joana",
+  "herena",
+  "alba",
+  "montserrat",
+  "libby",
+  "sonia",
+  "hazel",
+  "susan",
+  "kate",
+  "serena",
+  "martha",
+  "maisie",
+  "aria",
+  "jenny",
+  "michelle",
+  "zira",
+  "samantha",
+  "ava",
+  "emma",
+]);
+
+const MALE_NAME = new Set([
+  "ander",
+  "alvaro",
+  "pablo",
+  "jorge",
+  "henri",
+  "paul",
+  "claude",
+  "enric",
+  "jordi",
+  "george",
+  "ryan",
+  "daniel",
+  "oliver",
+  "thomas",
+  "guy",
+  "david",
+  "mark",
+  "christopher",
+  "eric",
+  "james",
+]);
+
+function genderScore(name: string): number {
+  const lower = name.toLowerCase();
+  if (/\b(female|woman|mujer|femme|emakume)\b/.test(lower)) return 8;
+  if (/\b(male|hombre|homme|gizon)\b/.test(lower)) return -4;
+  const tokens = lower.split(/[^a-z]+/).filter((token) => token.length > 0);
+  if (tokens.some((token) => FEMALE_NAME.has(token))) return 8;
+  if (tokens.some((token) => MALE_NAME.has(token))) return -4;
+  return 0;
+}
+
 export function pickVoice(
   voices: readonly SpeechSynthesisVoice[],
   lang: string,
@@ -67,6 +139,7 @@ export function pickVoice(
     if (name.includes("natural") || name.includes("neural") || name.includes("enhanced")) score += 2;
     if (name.includes("google")) score += 1;
     if (voice.localService) score += 1;
+    score += genderScore(voice.name);
     if (score > bestScore) {
       best = voice;
       bestScore = score;

@@ -17,11 +17,14 @@ import {
   estimateLevel,
   loadScores,
   loadUserStore,
+  openUser,
+  pointsByUser,
   saveScores,
   saveUserStore,
   scoresForUser,
+  selectUser,
 } from "../utils/profiles";
-import { consumeEntryName, subjectUrl } from "../utils/subjectDoor";
+import { consumeEntry, subjectUrl } from "../utils/subjectDoor";
 import type { QuizSpeechRole } from "../components/QuizCard/QuizCard";
 import { ttsLangForChoiceTranslation, ttsLangForQuiz, ttsLangForQuizTranslation } from "../utils/speech";
 
@@ -36,14 +39,14 @@ function rankingForPair(scores: readonly TestScore[], pair: TestScore["languageP
 }
 
 export function App() {
-  const [entryName] = useState(consumeEntryName);
+  const [door] = useState(consumeEntry);
   const [userStore, setUserStore] = useState<UserStore>(() => {
     const store = loadUserStore();
-    return entryName ? createUser(store, entryName) : store;
+    return door ? openUser(store, door.name, door.userId) : store;
   });
   const [scores, setScores] = useState<TestScore[]>(() => loadScores());
   const [showScore, setShowScore] = useState(false);
-  const [playerReady, setPlayerReady] = useState(() => Boolean(entryName));
+  const [playerReady, setPlayerReady] = useState(() => Boolean(door));
   const activeUser: AppUser | undefined = userStore.users.find((user) => user.id === userStore.activeUserId);
 
   const vocabulary = useVocabulary({ userId: activeUser?.id ?? null });
@@ -156,14 +159,19 @@ export function App() {
           <UserGate
             users={userStore.users}
             activeUserId={userStore.activeUserId}
-            onLanguage={(name) => {
+            pointsByUserId={pointsByUser(scores)}
+            onLanguage={(name, userId) => {
               if (!name.trim()) return;
-              setUserStore((store) => createUser(store, name));
+              setUserStore((store) => (userId ? selectUser(store, userId) : createUser(store, name)));
               setPlayerReady(true);
             }}
-            onMath={(name) => {
+            onMath={(name, userId) => {
               if (!name.trim()) return;
-              window.location.assign(subjectUrl("math", name));
+              window.location.assign(subjectUrl("math", name, undefined, userId));
+            }}
+            onAddSameName={(name) => {
+              if (!name.trim()) return;
+              setUserStore((store) => createUser(store, name, { duplicate: true }));
             }}
           />
         </main>
@@ -204,6 +212,7 @@ export function App() {
         cefrLevel={vocabulary.state.cefrLevel}
         ttsMuted={vocabulary.state.ttsMuted}
         ttsSupported={speech.supported}
+        catalogLoading={vocabulary.catalogLoading}
         progress={vocabulary.progress}
         isFullscreen={fullscreen.isFullscreen}
         isIdle={idle.isIdle}
@@ -257,6 +266,7 @@ export function App() {
       cefrLevel={vocabulary.state.cefrLevel}
       ttsMuted={vocabulary.state.ttsMuted}
       ttsSupported={speech.supported}
+      catalogLoading={vocabulary.catalogLoading}
       progress={vocabulary.progress}
       isFullscreen={fullscreen.isFullscreen}
       isIdle={idle.isIdle}

@@ -13,24 +13,27 @@ import {
   createUser,
   loadScores,
   loadUserStore,
+  openUser,
+  pointsByUser,
   saveScores,
   saveUserStore,
   scoresForUser,
+  selectUser,
 } from "../utils/profiles";
-import { consumeEntryName, subjectUrl } from "../utils/subjectDoor";
+import { consumeEntry, subjectUrl } from "../utils/subjectDoor";
 
 function isTypingTarget(target: EventTarget | null): boolean {
   return target instanceof HTMLElement && Boolean(target.closest("input, textarea, select"));
 }
 
 export function App() {
-  const [entryName] = useState(consumeEntryName);
+  const [entry] = useState(consumeEntry);
   const [store, setStore] = useState(() => {
     const loaded = loadUserStore();
-    return entryName ? createUser(loaded, entryName) : loaded;
+    return entry ? openUser(loaded, entry.name, entry.userId) : loaded;
   });
   const [scores, setScores] = useState(loadScores);
-  const [playerReady, setPlayerReady] = useState(() => Boolean(entryName));
+  const [playerReady, setPlayerReady] = useState(() => Boolean(entry));
   const [showScore, setShowScore] = useState(false);
   const [subjectId, setSubjectId] = useState<string | null>(null);
   const [subjectsOpen, setSubjectsOpen] = useState(false);
@@ -115,14 +118,20 @@ export function App() {
         <main className="stage">
           <UserGate
             users={store.users}
-            onLanguage={(name) => {
+            activeUserId={store.activeUserId}
+            pointsByUserId={pointsByUser(scores)}
+            onLanguage={(name, userId) => {
               if (!name.trim()) return;
-              window.location.assign(subjectUrl("language", name));
+              window.location.assign(subjectUrl("language", name, undefined, userId));
             }}
-            onMath={(name) => {
+            onMath={(name, userId) => {
               if (!name.trim()) return;
-              setStore((current) => createUser(current, name));
+              setStore((current) => (userId ? selectUser(current, userId) : createUser(current, name)));
               setPlayerReady(true);
+            }}
+            onAddSameName={(name) => {
+              if (!name.trim()) return;
+              setStore((current) => createUser(current, name, { duplicate: true }));
             }}
           />
         </main>

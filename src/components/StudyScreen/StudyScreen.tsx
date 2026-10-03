@@ -51,6 +51,7 @@ interface StudyScreenProps {
   cefrLevel: CefrFilter;
   ttsMuted: boolean;
   ttsSupported: boolean;
+  catalogLoading?: boolean;
   progress: { current: number; total: number };
   isFullscreen: boolean;
   isIdle: boolean;
@@ -92,6 +93,7 @@ export function StudyScreen({
   cefrLevel,
   ttsMuted,
   ttsSupported,
+  catalogLoading = false,
   progress,
   isFullscreen,
   isIdle,
@@ -256,7 +258,13 @@ export function StudyScreen({
             isRevealed={translationVisible}
             languagePair={languagePair}
             spelling={spellingOn}
-            emptyHint={reviewing ? "Todavía no hay fallos en este idioma." : undefined}
+            emptyHint={
+              catalogLoading
+                ? "Cargando el idioma."
+                : reviewing
+                  ? "Todavía no hay fallos en este idioma."
+                  : undefined
+            }
           />
         )}
         {spellingOn && target ? (

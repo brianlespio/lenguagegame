@@ -82,6 +82,6 @@ Spec: `phrases-spec.md`. Menu group **Trabajo escolar**, school circulars (`scho
 
 Spec: `quiz-spec.md`. `studyMode` study/test, same category + CEFR + language filter, **2N questions** (source ↔ Spanish), **up to four choices** with occasional none-of-the-above on slot D, green/red lock, `buildQuizQueue` + `buildQuizItem` + `QuizCard`. Reveal and autoplay stay study-only. Polar yes/no is not the buttons. `npm run test` and `npm run build` before considering the phase done.
 
-## Phases 21–28 — Learner data and review
+## Phases 21–31 — Learner data, review, and the math subjects
 
-Spec: `roadmap.md`. Do these in the order that file gives. Each phase names the spec it updates and the test that closes it. Do not start phase 27 until phase 21 keeps `nextReview`.
+Spec: `roadmap.md`. Do these in the order that file gives. Phases 21, 22, 23, and 29 are closed. The next phase is 30. Each phase names the spec it updates and the test that closes it. Phase 21 already keeps `nextReview`.

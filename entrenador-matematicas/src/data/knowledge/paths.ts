@@ -150,7 +150,7 @@ export const subjectPaths: readonly SubjectPath[] = [
     id: "poo",
     name: "Programación Orientada a Objetos",
     learns: "Qué guarda un objeto, por qué dos objetos no comparten el valor y qué hace una operación.",
-    cardIds: [],
+    cardIds: ["poo-acumula", "poo-ajeno", "poo-ancho", "poo-alto"],
     lessonIds: ["poo-contador", "poo-dos-objetos", "poo-mover"],
   },
   {
@@ -172,21 +172,21 @@ export const subjectPaths: readonly SubjectPath[] = [
     id: "automatas",
     name: "Fundamentos de Autómatas, Gramáticas y Lenguajes",
     learns: "Símbolos, cadenas y un autómata que acepta o rechaza.",
-    cardIds: [],
+    cardIds: ["auto-cuatro", "auto-acaba-cero", "auto-rechaza-10", "auto-cinco"],
     lessonIds: ["auto-longitud", "auto-acaba-en-1"],
   },
   {
     id: "adquisicion",
     name: "Adquisición, Procesado y Tratamiento de la Información",
     learns: "Cómo se cuenta una medida tomada a intervalos fijos.",
-    cardIds: [],
+    cardIds: ["adq-ocho", "adq-seis", "adq-cuatro", "adq-diez"],
     lessonIds: ["adq-muestras"],
   },
   {
     id: "redes",
     name: "Redes",
     learns: "Cuántos saltos recorre un mensaje y cuánto tarda un fichero en un enlace.",
-    cardIds: [],
+    cardIds: ["redes-seis", "redes-cuarenta", "redes-ocho", "redes-ocho-paradas"],
     lessonIds: ["redes-saltos", "redes-caudal"],
   },
   {
@@ -207,7 +207,7 @@ export const subjectPaths: readonly SubjectPath[] = [
     id: "bases",
     name: "Modelado de la Información y Bases de Datos",
     learns: "Qué identifica una fila y cómo se seleccionan las que cumplen una condición.",
-    cardIds: [],
+    cardIds: ["bases-dieciocho", "bases-clave", "bases-tres", "bases-distintos"],
     lessonIds: ["bd-clave", "bd-seleccion"],
   },
   {
@@ -244,7 +244,7 @@ export const subjectPaths: readonly SubjectPath[] = [
     id: "infra",
     name: "Infraestructuras para el Procesamiento Masivo de Datos y Computación en la Nube",
     learns: "Cómo se parte un lote en partes iguales para repartir el trabajo.",
-    cardIds: [],
+    cardIds: ["infra-partes", "infra-resto", "infra-lotes", "infra-no-parte"],
     lessonIds: ["infra-partes"],
   },
   {
@@ -267,14 +267,14 @@ export const subjectPaths: readonly SubjectPath[] = [
     id: "distribuidos",
     name: "Sistemas Distribuidos y Procesamiento Paralelo",
     learns: "Dos procesos no comparten memoria: el mensaje lleva una copia.",
-    cardIds: [],
+    cardIds: ["dist-emisor", "dist-receptor", "dist-quince", "dist-se-queda"],
     lessonIds: ["dist-mensaje"],
   },
   {
     id: "software",
     name: "Introducción a la Ingeniería de Software",
     learns: "Un caso de prueba pasa solo si el resultado es el esperado.",
-    cardIds: [],
+    cardIds: ["soft-pasa", "soft-falla", "soft-ambos", "soft-esperado"],
     lessonIds: ["soft-caso"],
   },
 ];

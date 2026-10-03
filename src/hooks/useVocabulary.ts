@@ -88,6 +88,7 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
   const [gradeNonce, setGradeNonce] = useState(0);
   const [frenchCatalog, setFrenchCatalog] = useState<VocabularyEntry[] | null>(null);
   const [catalanCatalog, setCatalanCatalog] = useState<VocabularyEntry[] | null>(null);
+  const [basqueCatalog, setBasqueCatalog] = useState<VocabularyEntry[] | null>(null);
   const userId = options.userId ?? null;
   const progressRef = useRef<PersistedProgress>(initialProgress);
   const intervalRef = useRef(interval);
@@ -102,15 +103,19 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
 
   useEffect(() => {
     if (injectedRef.current !== undefined) return;
-    if (languagePair !== "fr-es" && languagePair !== "ca-es") return;
+    if (languagePair !== "fr-es" && languagePair !== "ca-es" && languagePair !== "eu-es") return;
     let cancelled = false;
     if (languagePair === "fr-es") {
       void import("../data/frenchCatalog").then((mod) => {
         if (!cancelled) setFrenchCatalog(mod.frenchEntries);
       });
-    } else {
+    } else if (languagePair === "ca-es") {
       void import("../data/catalanCatalog").then((mod) => {
         if (!cancelled) setCatalanCatalog(mod.catalanEntries);
+      });
+    } else {
+      void import("../data/basqueCatalog").then((mod) => {
+        if (!cancelled) setBasqueCatalog(mod.basqueEntries);
       });
     }
     return () => {
@@ -118,13 +123,20 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     };
   }, [languagePair, injectedIds]);
 
+  const catalogLoading =
+    injectedRef.current === undefined &&
+    ((languagePair === "fr-es" && frenchCatalog === null) ||
+      (languagePair === "ca-es" && catalanCatalog === null) ||
+      (languagePair === "eu-es" && basqueCatalog === null));
+
   const catalog = useMemo(() => {
     const injected = injectedRef.current;
     if (injected !== undefined) return injected;
     if (languagePair === "fr-es") return frenchCatalog ?? [];
     if (languagePair === "ca-es") return catalanCatalog ?? [];
+    if (languagePair === "eu-es") return basqueCatalog ?? [];
     return allEntries;
-  }, [injectedIds, languagePair, frenchCatalog, catalanCatalog]);
+  }, [injectedIds, languagePair, frenchCatalog, catalanCatalog, basqueCatalog]);
 
   const filtered = useMemo(
     () => filterEntries(catalog, selectedCategory, cefrLevel),
@@ -291,6 +303,7 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     const queue = buildTestSessionQueue(filtered, { recentPairKeys: recent }).filter((ref) =>
       quizableKeys.has(`${ref.promptId}:${ref.direction}`),
     );
+    if (queue.length === 0) return;
     setSessionQueue(queue);
     setTestStarted(true);
     setQuizIndex(0);
@@ -478,6 +491,7 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     testStarted,
     testResult,
     progress,
+    catalogLoading,
     startTest,
     finishTest,
     goNext,

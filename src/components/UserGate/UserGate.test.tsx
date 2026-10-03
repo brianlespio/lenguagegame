@@ -33,6 +33,33 @@ describe("UserGate", () => {
     expect(onLanguage).not.toHaveBeenCalled();
     expect(screen.getByLabelText("Poner tu nombre")).toHaveValue("Brian");
     fireEvent.click(screen.getByRole("button", { name: "Idiomas" }));
-    expect(onLanguage).toHaveBeenCalledWith("Brian");
+    expect(onLanguage).toHaveBeenCalledWith("Brian", "u1");
+  });
+
+  it("shows accumulated points when two users share a name", () => {
+    const onLanguage = vi.fn();
+    const onAddSameName = vi.fn();
+    render(
+      <UserGate
+        users={[
+          { id: "a", name: "Ana", createdAt: "2026-01-01" },
+          { id: "b", name: "Ana", createdAt: "2026-01-02" },
+        ]}
+        activeUserId={null}
+        pointsByUserId={{ a: 25, b: 0 }}
+        onLanguage={onLanguage}
+        onMath={vi.fn()}
+        onAddSameName={onAddSameName}
+      />,
+    );
+    expect(screen.getByRole("button", { name: /Usuario 1 Ana 25 puntos/ })).toBeInTheDocument();
+    expect(screen.getByRole("button", { name: /Usuario 2 Ana 0 puntos/ })).toBeInTheDocument();
+    fireEvent.change(screen.getByLabelText("Poner tu nombre"), { target: { value: "Ana" } });
+    expect(screen.getByRole("button", { name: "Idiomas" })).toBeDisabled();
+    fireEvent.click(screen.getByRole("button", { name: /25 puntos/ }));
+    fireEvent.click(screen.getByRole("button", { name: "Idiomas" }));
+    expect(onLanguage).toHaveBeenCalledWith("Ana", "a");
+    fireEvent.click(screen.getByRole("button", { name: "Añadir otro con este nombre" }));
+    expect(onAddSameName).toHaveBeenCalledWith("Ana");
   });
 });

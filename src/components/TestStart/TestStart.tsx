@@ -23,7 +23,12 @@ export function TestStart({ userName, languagePair, category, cefrLevel, total, 
       <p className="text-spanish" data-revealed="true">
         {pair?.label ?? languagePair} · {getCategoryLabel(languagePair, category)} · {level} · {total} preguntas
       </p>
-      <button type="button" className="nav-button nav-button-primary text-reveal focus-ring" onClick={onStart}>
+      <button
+        type="button"
+        className="nav-button nav-button-primary text-reveal focus-ring"
+        onClick={onStart}
+        disabled={total < 1}
+      >
         START
       </button>
     </article>

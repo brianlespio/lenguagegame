@@ -1,8 +1,8 @@
-# Roadmap — entrenador de idiomas
+# Roadmap — idiomas y matemáticas
 
-Fuente: *Lenguagegame × Wordkeep — Analysis & Merge Plan* (Marc, 2 de octubre de 2026). Contraste con el código del 3 de octubre de 2026: `src/utils/storage.ts`, `src/utils/profiles.ts`, `src/types/vocabulary.ts`, `spec/product-spec.md`, `spec/data-model.md`, `spec/quiz-spec.md`.
+Fuente: *Lenguagegame × Wordkeep — Analysis & Merge Plan* (Marc, 2 de octubre de 2026) y la auditoría del 3 de octubre de 2026 sobre `main` `396a613`. Contraste con `src/utils/storage.ts`, `src/utils/profiles.ts`, `src/components/NavigationControls/NavigationControls.tsx`, `entrenador-matematicas/src/data/knowledge/paths.ts`, `entrenador-matematicas/src/utils/profiles.ts` y `.github/workflows/deploy-pages.yml`.
 
-Este archivo manda sobre las fases 21 a 28 de `implementation-plan.md`. Cada fase se cierra con la prueba que indica. No se da por hecha si la prueba no se ha ejecutado.
+Este archivo manda sobre las fases 21 a 31 de `implementation-plan.md`. Cada fase se cierra con la prueba que indica. No se da por hecha si la prueba no se ha ejecutado.
 
 ## Qué se hace y qué no
 
@@ -18,13 +18,17 @@ No se hace ahora:
 
 ## Hechos que el código confirma
 
-- La fase 21 ya migra la versión 1 a la 2 y conserva `lastReviewed`, `nextReview` y `difficulty`. Una versión desconocida sigue vaciando ese registro.
-- El test escribe una puntuación. No escribe `learningProgress`.
-- `estimateLevel`, con filtro `all`, trata un 25 % como A1. Con cuatro opciones, el azar ronda ese 25 %.
-- `addScore` corta a 500 puntuaciones en total, de todos los nombres.
-- `product-spec.md` sigue diciendo que puntuaciones y SRS están fuera. `data-model.md` documenta `english` / `spanish`; el código usa `term` / `translation`. `quiz-spec.md` deja el marcador y el SRS fuera, y el marcador ya existe.
-- Los pares son `en-es`, `fr-es` y `ca-es`. El destino es español.
-- La puerta está en español. Varios rótulos de estudio siguen en inglés.
+- La fase 21 migra la versión 1 a la 2 y conserva `lastReviewed`, `nextReview` y `difficulty`. Una versión desconocida vacía ese registro.
+- La fase 22 escribe `learningProgress` en el test y en el dictado. Revelar no puntúa. Repasar fallos lee `lastOutcome === "miss"`.
+- La fase 23 aplica los umbrales a la nota por encima del azar. Un 25 % con cuatro opciones y 20 respuestas o más no es A1. Con menos de 20 respuestas el texto es «Aún no hay bastante».
+- Matemáticas tiene el mismo contrato en su propio almacén (`mathtrainer.v1.*`, versión 2): fallo por carta, repaso, y `scoreNote` con la misma corrección de azar.
+- `addScore` de idiomas corta a 500 puntuaciones de todos los nombres. El de matemáticas corta a 80, también de todos.
+- `data-model.md` documenta `english` / `spanish`; el código usa `term` / `translation`. `quiz-spec.md` todavía dice que no hay puntuación ni escritura de `LearningProgress`, y las dos cosas ya existen.
+- Los pares son `en-es`, `fr-es` y `ca-es`. El destino es español. La puerta está en español.
+- El estudio de idiomas muestra Previous, Next, REVEAL, TEST, SCORE, Auto Play, Voice y Fullscreen. El botón apagado baja la opacidad.
+- El banco de matemáticas tiene 96 cartas únicas y 138 enlaces. Ocho asignaturas no tienen ninguna carta: `poo`, `automatas`, `adquisicion`, `redes`, `bases`, `infra`, `distribuidos`, `software`.
+- Un nivel suelto de cálculo no llega a 20 preguntas. L1 son 14. Esa prueba no puede juzgar el nivel.
+- Pages ejecuta `npm test` y `npm run build` en la raíz. La suite de `entrenador-matematicas` no entra en ese flujo. El build de la raíz sí publica `matematicas.html`.
 
 ## Fase 21 — No perder el progreso
 
@@ -100,25 +104,29 @@ Sobre el perfil local que ya existe:
 - Exportar baja un JSON de ese perfil: nombre, ajustes, progreso y puntuaciones.
 - Importar valida el JSON antes de escribir. Un archivo inválido no modifica lo guardado. Si el id ya existe, se sustituye ese perfil, no se duplica.
 
-El tope pasa a 500 puntuaciones por perfil. Hoy `addScore` corta a 500 en el array de todos.
+El tope pasa a 500 puntuaciones por perfil en los dos almacenes. Hoy idiomas corta a 500 en el array de todos, y matemáticas corta a 80 también entre todos.
 
-**Puerta.** Exportar e importar en un almacén vacío devuelve el mismo nombre y los mismos contadores de una carta. Un JSON sin id no borra perfiles ya guardados. El perfil A conserva sus puntuaciones cuando el perfil B supera 500.
+La misma operación existe en los dos. Cada uno lee y escribe sus propias claves. Importar un JSON de idiomas no toca `mathtrainer.v1.*`, ni al revés.
+
+**Puerta.** Exportar e importar en un almacén vacío devuelve el mismo nombre y los mismos contadores de una carta. Un JSON sin id no borra perfiles ya guardados. El perfil A conserva sus puntuaciones cuando el perfil B supera 500. El caso se prueba en idiomas y en matemáticas.
 
 ## Fase 26 — Un solo idioma de interfaz, y el botón apagado se lee
 
 Spec que se actualiza: `ux-spec.md`.
 
-Los rótulos fijos de la interfaz pasan a español, igual que la puerta. El contenido de la carta no se traduce: sigue siendo el par de estudio.
+Los rótulos fijos de la interfaz de idiomas pasan a español, igual que la puerta. El contenido de la carta no se traduce: sigue siendo el par de estudio. Matemáticas ya está en español; esta fase no reescribe sus cartas.
 
-El botón desactivado de la puerta no puede depender solo de bajar la opacidad. Tiene que distinguirse del fondo con borde o con texto que siga leyéndose.
+Pasan a español, como mínimo: Previous, Next, REVEAL, TEST, SCORE, Auto Play, Pause, Voice, Muted, Fullscreen, Exit, y la pista `← → navigate · R reveal · P play · S speak · F fullscreen`. El título de `index.html` y `lang` dejan de presentar la página como solo inglesa. `STUDY_MODE_KICKER` no se muestra; se quita para que no quede un rótulo inglés muerto.
 
-**Puerta.** Los rótulos STUDY, TEST y REVEAL ya no están en la interfaz. Un test del componente de la puerta encuentra «Idiomas» y «Matemáticas» desactivados y visibles en el árbol de accesibilidad.
+El botón desactivado, en la puerta y en el estudio de los dos entrenadores, no puede depender solo de bajar la opacidad. Tiene que distinguirse del fondo con borde o con texto que siga leyéndose.
+
+**Puerta.** Una búsqueda en los componentes de idiomas ya no encuentra Previous, REVEAL ni SCORE como texto visible. Un test del componente de la puerta encuentra «Idiomas» y «Matemáticas» desactivados y visibles en el árbol de accesibilidad.
 
 ## Fase 27 — Una sola cola de repaso
 
 Spec nueva: `spec/review-spec.md`, escrita al empezar la fase, no antes.
 
-Función pura `grade(state, grade, now)` en `src/utils/`. No llama a la red ni a `localStorage`. `now` entra como argumento para que el test fije la fecha.
+Función pura `grade(state, grade, now)` en cada entrenador. El paquete de matemáticas no importa `src/` de idiomas, así que la función se copia y los dos tests fijan la misma fecha. No llama a la red ni a `localStorage`. `now` entra como argumento.
 
 Grados, sobre el estado que ya guardan las fases 21 y 22:
 
@@ -137,7 +145,9 @@ Regla, con `ease` inicial 2,5 y mínimo 1,3:
 
 `difficulty` guarda `ease`. `nextReview` es `now` más el intervalo, en ISO. Repasar fallos pasa a ser la cola cuya `nextReview` ya ha llegado. El orden de esa cola es el `nextReview` más antiguo primero.
 
-**Puerta.** Los tests de `grade` usan una fecha fija. Una carta fallada en el test tiene `nextReview` a un día vista y, llegada esa fecha, entra en la cola.
+En matemáticas no hay dictado. El fallo de test es Otra vez. El acierto de test es Bien. Comprobar un paso de estudio no escribe grado, igual que revelar.
+
+**Puerta.** Los tests de `grade` usan una fecha fija. Una carta fallada en el test tiene `nextReview` a un día vista y, llegada esa fecha, entra en la cola. El mismo caso pasa en los dos entrenadores.
 
 ## Fase 28 — El banco no viaja entero en el primer archivo
 
@@ -149,8 +159,53 @@ El flujo de publicación usa Node 22. Un smoke test abre el `index.html` constru
 
 **Puerta.** `npm run build` produce un `index` inicial por debajo de 400 KB sin comprimir, sin contar los bancos cargados después. El smoke test pasa en local sobre `dist/`.
 
+## Fase 29 — Las ocho asignaturas enseñan con cartas
+
+Estado: hecha. Cada una enlaza al menos cuatro cartas. La respuesta sale de `checks.ts` y el test la recalcula.
+
+Spec que se escribe al empezar, no antes: `spec/math-knowledge.md`.
+
+Estas asignaturas tienen lección y cero cartas: `poo`, `automatas`, `adquisicion`, `redes`, `bases`, `infra`, `distribuidos`, `software`. Cada una pasa a tener al menos cuatro cartas del tipo que ya usa el banco. Las lecciones que ya existen se quedan. Las 96 cartas verificadas no se reescriben.
+
+Cada carta nueva enseña el contenido que esa asignatura ya declara en `learns`:
+
+| Id | Contenido |
+| --- | --- |
+| `poo` | Un objeto guarda un valor. Dos objetos no lo comparten. Una operación cambia solo a quien se le pide. |
+| `automatas` | Símbolos, longitud de una cadena y un autómata que acepta o rechaza. |
+| `adquisicion` | Cuántas muestras caben en un intervalo fijo. |
+| `redes` | Saltos de un camino y tiempo de transferencia de un fichero. |
+| `bases` | Qué identifica una fila y cuántas filas cumplen una condición. |
+| `infra` | Partir un lote en partes iguales. |
+| `distribuidos` | El mensaje lleva una copia. El emisor conserva la suya. |
+| `software` | Un caso pasa solo si el resultado es el esperado. |
+
+La respuesta numérica o exacta sale de `checks.ts`. Un test la vuelve a calcular con otro procedimiento y no copia el texto de la carta. La interfaz no muestra créditos ni códigos de asignatura.
+
+**Puerta.** Las ocho ids tienen `cardIds.length >= 4`. Ninguna carta nueva contiene «ects» ni «crédito». Cada asignatura tiene al menos una respuesta recomprobada por el test.
+
+## Fase 30 — Un test corto no finge un nivel
+
+Spec que se actualiza: `product-spec.md` y la nota de `scoreNote` en el entrenador de matemáticas.
+
+Si la prueba que se va a empezar tiene menos de 20 preguntas, la pantalla de arranque lo dice antes de pulsar Empezar: el resultado no asigna nivel y el texto será «Aún no hay bastante». La regla de la fase 23 no se afloja. Un nivel suelto de cálculo, con 14 preguntas, entra en este caso.
+
+Al terminar, la nota sigue siendo «Aún no hay bastante». No aparece «este nivel está firme» ni un CEFR.
+
+**Puerta.** Con 14 preguntas y cuatro opciones, el arranque muestra «Aún no hay bastante» y `scoreNote(100, { answered: 14, choices: 4 })` no dice que el nivel está firme. Con 20 respuestas y un 100 % ajustado, la nota firme sigue disponible.
+
+## Fase 31 — Matemáticas se prueba al publicar
+
+Spec que se actualiza: `architecture.md`.
+
+El flujo de Pages, antes de `npm run build`, ejecuta la suite de `entrenador-matematicas` además de `npm test` de la raíz. No se añade otro sistema de integración. El build sigue siendo el de la raíz, que ya incluye `matematicas.html`.
+
+**Puerta.** `.github/workflows/deploy-pages.yml` invoca los tests de matemáticas. En local, `npm test` dentro de `entrenador-matematicas` termina en cero.
+
 ## Orden
 
-21, luego 22, luego 23. La 24 puede ir en paralelo con la 21. La 25 y la 26 no dependen del repaso. La 27 espera a la 21 y a la 22. La 28 puede ir cuando la 21 esté cerrada.
+Hechas: 21, 22 y 23, en los dos entrenadores para el almacén, el fallo y la nota por encima del azar.
 
-No se abre la 27 si la 21 no conserva `nextReview`.
+Hecha también la 29. Siguiente: 30, 26, 31, 27, 24, 25, 28.
+
+La 27 ya puede abrirse: la 21 conserva `nextReview`. La 26 no reescribe el contenido de las cartas. La 28 espera a que la 31 ya pruebe matemáticas en el mismo flujo que publica.

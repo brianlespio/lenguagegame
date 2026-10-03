@@ -116,9 +116,9 @@ export function useSession(userId: string | null) {
     const focus = focusRef.current;
     const focusIndex = focus ? ordered.findIndex((card) => card.id === focus) : -1;
     if (focusIndex >= 0) {
-      focusRef.current = null;
       setIndex(focusIndex);
     } else {
+      focusRef.current = null;
       const saved = progressRef.current.lastIdByScope[scopeKey(axis, level)];
       const found = ordered.findIndex((card) => card.id === saved);
       setIndex(found >= 0 ? found : 0);
@@ -151,6 +151,7 @@ export function useSession(userId: string | null) {
   const quizItem: QuizItem | null = queue[quizIndex] ?? null;
 
   const goNext = useCallback(() => {
+    focusRef.current = null;
     setRevealed(false);
     setStepDraft("");
     setStepStatus("idle");
@@ -158,6 +159,7 @@ export function useSession(userId: string | null) {
   }, [ordered.length]);
 
   const goPrevious = useCallback(() => {
+    focusRef.current = null;
     setRevealed(false);
     setStepDraft("");
     setStepStatus("idle");
@@ -237,9 +239,16 @@ export function useSession(userId: string | null) {
     mode,
     intervalMs,
     shuffle,
-    setAxis,
-    setLevel,
+    setAxis: (next: AxisFilter) => {
+      focusRef.current = null;
+      setAxis(next);
+    },
+    setLevel: (next: LevelFilter) => {
+      focusRef.current = null;
+      setLevel(next);
+    },
     setMode: (next: StudyMode) => {
+      focusRef.current = null;
       setAutoplay(false);
       setMode(next);
       if (next === "study") setTestStarted(false);
@@ -247,6 +256,7 @@ export function useSession(userId: string | null) {
     },
     setIntervalMs,
     toggleShuffle: () => {
+      focusRef.current = null;
       setShuffle((current) => !current);
       setOrderSeed((seed) => seed + 1);
     },
@@ -283,7 +293,10 @@ export function useSession(userId: string | null) {
     answered,
     testResult,
     reviewing,
-    setReviewing,
+    setReviewing: (next: boolean | ((value: boolean) => boolean)) => {
+      focusRef.current = null;
+      setReviewing(next);
+    },
     clearResult: () => setTestResult(null),
     openCard: (id: string) => {
       const found = mathBank.find((item) => item.id === id);

@@ -65,6 +65,9 @@ describe("tts phrases", () => {
     expect(ttsLangForPair("en-es")).toBe("en-GB");
     expect(ttsLangForPair("fr-es")).toBe("fr-FR");
     expect(ttsLangForPair("ca-es")).toBe("ca-ES");
+    expect(ttsLangForPair("eu-es")).toBe("eu-ES");
+    expect(ttsLangForQuiz("eu-es", "forward")).toBe("eu-ES");
+    expect(ttsLangForQuiz("eu-es", "reverse")).toBe("es-ES");
     expect(ttsLangForQuiz("en-es", "forward")).toBe("en-GB");
     expect(ttsLangForQuiz("en-es", "reverse")).toBe("es-ES");
     expect(ttsLangForQuiz("fr-es", "forward")).toBe("fr-FR");
@@ -92,5 +95,33 @@ describe("pickVoice", () => {
     ];
     expect(pickVoice(voices, "en-GB")?.name).toContain("Natural");
     expect(pickVoice(voices, "fr-FR")?.lang).toBe("fr-FR");
+  });
+
+  it("prefers a woman when the language has both", () => {
+    const voices = [
+      voice({ name: "Microsoft Ander Online (Natural)", lang: "eu-ES" }),
+      voice({ name: "Microsoft Ainhoa Online (Natural)", lang: "eu-ES" }),
+      voice({ name: "Microsoft Ryan Online (Natural)", lang: "en-GB" }),
+      voice({ name: "Microsoft Sonia Online (Natural)", lang: "en-GB" }),
+      voice({ name: "Microsoft Alvaro Online (Natural)", lang: "es-ES" }),
+      voice({ name: "Microsoft Elvira Online (Natural)", lang: "es-ES" }),
+    ];
+    expect(pickVoice(voices, "eu-ES")?.name).toContain("Ainhoa");
+    expect(pickVoice(voices, "en-GB")?.name).toContain("Sonia");
+    expect(pickVoice(voices, "es-ES")?.name).toContain("Elvira");
+    expect(
+      pickVoice(
+        [
+          voice({ name: "Microsoft Enric", lang: "ca-ES", localService: true }),
+          voice({ name: "Microsoft Herena", lang: "ca-ES", localService: true }),
+        ],
+        "ca-ES",
+      )?.name,
+    ).toContain("Herena");
+  });
+
+  it("keeps the man when no woman is installed for that language", () => {
+    const voices = [voice({ name: "Microsoft Ander Online (Natural)", lang: "eu-ES" })];
+    expect(pickVoice(voices, "eu-ES")?.name).toContain("Ander");
   });
 });

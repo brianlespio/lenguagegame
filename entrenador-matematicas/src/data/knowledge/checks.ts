@@ -78,3 +78,36 @@ export function equalParts(records: number, parts: number): number {
 export function cheaper(left: number, right: number): number {
   return Math.min(left, right);
 }
+
+export function yesNo(value: boolean): "sí" | "no" {
+  return value ? "sí" : "no";
+}
+
+export function untouched(start: number): number {
+  return start;
+}
+
+export function widthAfter(width: number, grow: number): number {
+  return width + grow;
+}
+
+export function bothPass(first: boolean, second: boolean): boolean {
+  return first && second;
+}
+
+export function copyReceived(value: number): number {
+  return value;
+}
+
+export function remainder(records: number, parts: number): number {
+  if (parts <= 0) throw new Error("No se parte entre cero");
+  return records % parts;
+}
+
+export function splitsEvenly(records: number, parts: number): boolean {
+  return parts > 0 && records % parts === 0;
+}
+
+export function distinctCount(values: readonly number[]): number {
+  return new Set(values).size;
+}

@@ -1,0 +1,152 @@
+import { CEFR_LOCK_TAG } from "../constants";
+import type { StudyCefrLevel, VerbItem } from "../types/vocabulary";
+import { slugify } from "./slug";
+
+type Aux = "nor" | "nork" | "nori";
+
+function participleOf(infinitive: string): string {
+  if (infinitive === "hil") return "hilda";
+  const parts = infinitive.split(" ");
+  const head = parts[parts.length - 1] ?? infinitive;
+  const done = head.endsWith("n") ? `${head.slice(0, -1)}nda` : `${head}ta`;
+  return [...parts.slice(0, -1), done].join(" ");
+}
+
+function pastOf(infinitive: string, aux: Aux): string {
+  const mark = aux === "nor" ? "zen" : aux === "nori" ? "zitzaion" : "zuen";
+  return `${infinitive} ${mark}`;
+}
+
+export function verb(
+  infinitive: string,
+  aux: Aux,
+  infinitiveTranslation: string,
+  pastTranslation: string,
+  pastParticipleTranslation: string,
+  difficulty: StudyCefrLevel = "A1",
+  extras: Partial<Pick<VerbItem, "example" | "exampleTranslation">> = {},
+): VerbItem {
+  return {
+    id: `eu-verb-${slugify(infinitive)}`,
+    category: "verbs",
+    infinitive,
+    past: pastOf(infinitive, aux),
+    pastParticiple: participleOf(infinitive),
+    infinitiveTranslation,
+    pastTranslation,
+    pastParticipleTranslation,
+    difficulty,
+    tags: difficulty === "A1" || difficulty === "A2" || difficulty === "B1" ? undefined : [CEFR_LOCK_TAG],
+    ...extras,
+  };
+}
+
+export const basqueVerbs: VerbItem[] = [
+  verb("izan", "nor", "ser", "fue", "sido", "A1", {
+    example: "Egun ona izan zen.",
+    exampleTranslation: "Fue un buen día.",
+  }),
+  verb("egon", "nor", "estar", "estuvo", "estado", "A1"),
+  verb("eduki", "nork", "tener", "tuvo", "tenido", "A1"),
+  verb("egin", "nork", "hacer", "hizo", "hecho", "A1"),
+  verb("joan", "nor", "ir", "fue", "ido", "A1", {
+    example: "Kalera joan zen.",
+    exampleTranslation: "Fue a la calle.",
+  }),
+  verb("etorri", "nor", "venir", "vino", "venido", "A1"),
+  verb("esan", "nork", "decir", "dijo", "dicho", "A1"),
+  verb("ikusi", "nork", "ver", "vio", "visto", "A1"),
+  verb("jan", "nork", "comer", "comió", "comido", "A1"),
+  verb("edan", "nork", "beber", "bebió", "bebido", "A1"),
+  verb("eman", "nork", "dar", "dio", "dado", "A1"),
+  verb("hartu", "nork", "tomar", "tomó", "tomado", "A1"),
+  verb("nahi izan", "nork", "querer", "quiso", "querido", "A1"),
+  verb("behar izan", "nork", "necesitar", "necesitó", "necesitado", "A1"),
+  verb("hitz egin", "nork", "hablar", "habló", "hablado", "A1"),
+  verb("lo egin", "nork", "dormir", "durmió", "dormido", "A1"),
+  verb("ireki", "nork", "abrir", "abrió", "abierto", "A1"),
+  verb("itxi", "nork", "cerrar", "cerró", "cerrado", "A1"),
+  verb("erosi", "nork", "comprar", "compró", "comprado", "A1"),
+  verb("irakurri", "nork", "leer", "leyó", "leído", "A1"),
+  verb("idatzi", "nork", "escribir", "escribió", "escrito", "A1"),
+  verb("entzun", "nork", "oír", "oyó", "oído", "A1"),
+  verb("ulertu", "nork", "entender", "entendió", "entendido", "A1"),
+  verb("lagundu", "nork", "ayudar", "ayudó", "ayudado", "A1"),
+  verb("galdetu", "nork", "preguntar", "preguntó", "preguntado", "A1"),
+  verb("erantzun", "nork", "responder", "respondió", "respondido", "A1"),
+  verb("hasi", "nor", "empezar", "empezó", "empezado", "A1"),
+  verb("amaitu", "nork", "terminar", "terminó", "terminado", "A1"),
+  verb("sartu", "nor", "entrar", "entró", "entrado", "A1"),
+  verb("atera", "nor", "salir", "salió", "salido", "A1"),
+  verb("jaiki", "nor", "levantarse", "se levantó", "levantado", "A1"),
+  verb("geratu", "nor", "quedarse", "se quedó", "quedado", "A1"),
+  verb("ibili", "nor", "andar", "anduvo", "andado", "A1"),
+  verb("ekarri", "nork", "traer", "trajo", "traído", "A1"),
+  verb("eraman", "nork", "llevar", "llevó", "llevado", "A1"),
+  verb("pentsatu", "nork", "pensar", "pensó", "pensado", "A1"),
+  verb("bizi izan", "nor", "vivir", "vivió", "vivido", "A1"),
+  verb("saldu", "nork", "vender", "vendió", "vendido", "A2"),
+  verb("galdu", "nork", "perder", "perdió", "perdido", "A2"),
+  verb("aurkitu", "nork", "encontrar", "encontró", "encontrado", "A2"),
+  verb("utzi", "nork", "dejar", "dejó", "dejado", "A2"),
+  verb("jarri", "nork", "poner", "puso", "puesto", "A2"),
+  verb("kendu", "nork", "quitar", "quitó", "quitado", "A2"),
+  verb("garbitu", "nork", "limpiar", "limpió", "limpiado", "A2"),
+  verb("prestatu", "nork", "preparar", "preparó", "preparado", "A2"),
+  verb("ikasi", "nork", "aprender", "aprendió", "aprendido", "A2"),
+  verb("irakatsi", "nork", "enseñar", "enseñó", "enseñado", "A2"),
+  verb("lan egin", "nork", "trabajar", "trabajó", "trabajado", "A2"),
+  verb("deitu", "nork", "llamar", "llamó", "llamado", "A2"),
+  verb("bidali", "nork", "enviar", "envió", "enviado", "A2"),
+  verb("jaso", "nork", "recibir", "recibió", "recibido", "A2"),
+  verb("ordaindu", "nork", "pagar", "pagó", "pagado", "A2"),
+  verb("gogoratu", "nork", "recordar", "recordó", "recordado", "A2"),
+  verb("erabaki", "nork", "decidir", "decidió", "decidido", "B1"),
+  verb("saiatu", "nor", "intentar", "intentó", "intentado", "B1"),
+  verb("lortu", "nork", "conseguir", "consiguió", "conseguido", "B1"),
+  verb("onartu", "nork", "aceptar", "aceptó", "aceptado", "B1"),
+  verb("ukatu", "nork", "negar", "negó", "negado", "B1"),
+  verb("eskatu", "nork", "pedir", "pidió", "pedido", "B1"),
+  verb("azaldu", "nork", "explicar", "explicó", "explicado", "B1"),
+  verb("itzuli", "nork", "devolver", "devolvió", "devuelto", "B1"),
+  verb("igo", "nor", "subir", "subió", "subido", "B1"),
+  verb("jaitsi", "nor", "bajar", "bajó", "bajado", "B1"),
+  verb("gelditu", "nor", "pararse", "se paró", "parado", "B1"),
+  verb("jarraitu", "nork", "continuar", "continuó", "continuado", "B1"),
+  verb("hautatu", "nork", "elegir", "eligió", "elegido", "B1"),
+  verb("konpondu", "nork", "arreglar", "arregló", "arreglado", "B1"),
+  verb("sortu", "nork", "crear", "creó", "creado", "B1"),
+  verb("aldatu", "nork", "cambiar", "cambió", "cambiado", "B1"),
+  verb("erabili", "nork", "usar", "usó", "usado", "B1"),
+  verb("hobetu", "nork", "mejorar", "mejoró", "mejorado", "B1"),
+  verb("zenbatu", "nork", "contar", "contó", "contado", "B1"),
+  verb("neurtu", "nork", "medir", "midió", "medido", "B1"),
+  verb("gonbidatu", "nork", "invitar", "invitó", "invitado", "B1"),
+  verb("agurtu", "nork", "saludar", "saludó", "saludado", "B1"),
+  verb("eskertu", "nork", "agradecer", "agradeció", "agradecido", "B1"),
+  verb("barkatu", "nork", "perdonar", "perdonó", "perdonado", "B1"),
+  verb("iritsi", "nor", "llegar", "llegó", "llegado", "B1"),
+  verb("jaio", "nor", "nacer", "nació", "nacido", "B1"),
+  verb("hil", "nor", "morir", "murió", "muerto", "B1"),
+  verb("erori", "nor", "caer", "cayó", "caído", "B1"),
+  verb("esnatu", "nor", "despertarse", "se despertó", "despertado", "B1"),
+  verb("hurbildu", "nor", "acercarse", "se acercó", "acercado", "B1"),
+  verb("urrundu", "nor", "alejarse", "se alejó", "alejado", "B1"),
+  verb("gustatu", "nori", "gustar", "le gustó", "gustado", "B1"),
+  verb("ahaztu", "nori", "olvidársele", "se le olvidó", "olvidado", "B1"),
+  verb("kostatu", "nori", "costar", "le costó", "costado", "B1"),
+  verb("eztabaidatu", "nork", "debatir", "debatió", "debatido", "B2"),
+  verb("defendatu", "nork", "defender", "defendió", "defendido", "B2"),
+  verb("proposatu", "nork", "proponer", "propuso", "propuesto", "B2"),
+  verb("aztertu", "nork", "analizar", "analizó", "analizado", "B2"),
+  verb("frogatu", "nork", "demostrar", "demostró", "demostrado", "B2"),
+  verb("adostu", "nork", "acordar", "acordó", "acordado", "B2"),
+  verb("ebatzi", "nork", "resolver", "resolvió", "resuelto", "C1"),
+  verb("berretsi", "nork", "confirmar", "confirmó", "confirmado", "C1"),
+  verb("indargabetu", "nork", "dejar sin efecto", "dejó sin efecto", "dejado sin efecto", "C1"),
+  verb("aurkaratu", "nork", "impugnar", "impugnó", "impugnado", "C1"),
+  verb("zilegiztatu", "nork", "legitimar", "legitimó", "legitimado", "C2"),
+  verb("orokortu", "nork", "generalizar", "generalizó", "generalizado", "C2"),
+  verb("xehatu", "nork", "precisar", "precisó", "precisado", "C2"),
+  verb("erlatibizatu", "nork", "relativizar", "relativizó", "relativizado", "C2"),
+];

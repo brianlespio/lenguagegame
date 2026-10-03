@@ -68,6 +68,6 @@ The level after a test uses the score above chance, not the raw percent. With fo
 
 ## Out of scope for the first MVP
 
-The list below is the original MVP, not the current app. Profiles, scores, spelling, Catalan, and the language-or-mathematics door now exist. Upcoming work is specified in `roadmap.md`.
+The list below is the original MVP, not the current app. Profiles, scores, spelling, Catalan, Basque, and the language-or-mathematics door now exist. The study pairs are English, French, Catalan, and Basque, each toward Spanish. Upcoming work is specified in `roadmap.md`.
 
 Favorites, search, accounts, and cloud sync stay out. Import of a learner file and spaced repetition are in `roadmap.md` (phases 25 and 27), not in the quiz builder.

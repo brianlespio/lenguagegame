@@ -3,7 +3,7 @@ import { verbs } from "./verbs";
 import { vocabulary } from "./vocabulary";
 import { frenchVerbs } from "./frenchVerbs";
 import { frenchVocabulary } from "./frenchVocabulary";
-import { allEntries, catalanEntries, frenchEntries, getCatalog } from "./index";
+import { allEntries, basqueEntries, catalanEntries, frenchEntries, getCatalog } from "./index";
 import { phraseSets, PHRASE_SET_COUNT, techPhraseSets, TECH_PHRASE_SET_COUNT, openPhraseSets, OPEN_PHRASE_SET_COUNT, schoolNoticeSets, SCHOOL_NOTICE_COUNT } from "./phraseSets";
 import { STUDY_CEFR_LEVELS } from "../constants";
 import { filterEntries, isVerbItem, isVocabularyItem } from "../utils/vocabulary";
@@ -84,10 +84,11 @@ describe("French dataset", () => {
     expect(getCatalog("fr-es")).toHaveLength(frenchEntries.length);
     expect(getCatalog("en-es")).toHaveLength(allEntries.length);
     expect(getCatalog("ca-es")).toHaveLength(catalanEntries.length);
+    expect(getCatalog("eu-es")).toHaveLength(basqueEntries.length);
   });
 
   it("assigns every CEFR study band", () => {
-    for (const catalog of [allEntries, frenchEntries, catalanEntries]) {
+    for (const catalog of [allEntries, frenchEntries, catalanEntries, basqueEntries]) {
       for (const level of STUDY_CEFR_LEVELS) {
         expect(catalog.some((entry) => entry.difficulty === level)).toBe(true);
       }
@@ -131,6 +132,46 @@ describe("Catalan dataset", () => {
         entry.category === "openAnswers"
       ) {
         expect(entry.term, entry.id).not.toMatch(banned);
+      }
+    }
+  });
+});
+
+describe("Basque dataset", () => {
+  function participleFromDictionary(infinitive: string): string {
+    if (infinitive === "hil") return "hilda";
+    const parts = infinitive.split(" ");
+    const head = parts[parts.length - 1] ?? infinitive;
+    const done = head.endsWith("n") ? `${head.slice(0, -1)}nda` : `${head}ta`;
+    return [...parts.slice(0, -1), done].join(" ");
+  }
+
+  it("matches the Catalan catalog category by category", () => {
+    expect(basqueEntries.length).toBeGreaterThanOrEqual(catalanEntries.length);
+    const ids = basqueEntries.map((entry) => entry.id);
+    expect(new Set(ids).size).toBe(ids.length);
+    expect(ids.every((id) => id.startsWith("eu-"))).toBe(true);
+    const categories = new Set([...catalanEntries, ...basqueEntries].map((entry) => entry.category));
+    for (const category of categories) {
+      expect(countByCategory(basqueEntries, category), category).toBeGreaterThanOrEqual(
+        countByCategory(catalanEntries, category),
+      );
+    }
+  });
+
+  it("rebuilds the Basque past and participle from the dictionary form", () => {
+    const verbs = basqueEntries.filter(isVerbItem);
+    const infinitives = verbs.map((verb) => verb.infinitive);
+    expect(new Set(infinitives).size).toBe(infinitives.length);
+    const dative = new Set(["gustatu", "ahaztu", "kostatu"]);
+    for (const verb of verbs) {
+      expect(verb.pastParticiple, verb.id).toBe(participleFromDictionary(verb.infinitive));
+      if (dative.has(verb.infinitive)) {
+        expect(verb.past, verb.id).toBe(`${verb.infinitive} zitzaion`);
+      } else if (verb.past.endsWith(" zen")) {
+        expect(verb.past, verb.id).toBe(`${verb.infinitive} zen`);
+      } else {
+        expect(verb.past, verb.id).toBe(`${verb.infinitive} zuen`);
       }
     }
   });

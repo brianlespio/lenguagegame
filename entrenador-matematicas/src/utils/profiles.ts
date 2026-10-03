@@ -22,17 +22,35 @@ export function saveUserStore(store: UserStore): void {
   writeJson(USERS_KEY, store);
 }
 
-export function createUser(store: UserStore, name: string): UserStore {
+export function createUser(store: UserStore, name: string, options?: { duplicate?: boolean }): UserStore {
   const trimmed = name.trim().replace(/\s+/g, " ");
   if (!trimmed) return store;
-  const existing = store.users.find((user) => user.name.toLowerCase() === trimmed.toLowerCase());
-  if (existing) return { ...store, activeUserId: existing.id };
+  if (!options?.duplicate) {
+    const existing = store.users.find((user) => user.name.toLowerCase() === trimmed.toLowerCase());
+    if (existing) return { ...store, activeUserId: existing.id };
+  }
   const user: AppUser = {
     id: `user-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
     name: trimmed,
     createdAt: new Date().toISOString(),
   };
   return { users: [...store.users, user], activeUserId: user.id };
+}
+
+export function openUser(store: UserStore, name: string, userId?: string | null): UserStore {
+  const trimmed = name.trim().replace(/\s+/g, " ");
+  if (!trimmed) return store;
+  if (userId) {
+    const byId = store.users.find((user) => user.id === userId);
+    if (byId) return { ...store, activeUserId: byId.id };
+    const user: AppUser = {
+      id: userId,
+      name: trimmed,
+      createdAt: new Date().toISOString(),
+    };
+    return { users: [...store.users, user], activeUserId: user.id };
+  }
+  return createUser(store, trimmed);
 }
 
 export function selectUser(store: UserStore, userId: string): UserStore {
@@ -60,6 +78,20 @@ export function addScore(scores: readonly TestScore[], score: TestScore): TestSc
 
 export function scoresForUser(scores: readonly TestScore[], userId: string): TestScore[] {
   return scores.filter((score) => score.userId === userId);
+}
+
+export function pointsByUser(scores: readonly { userId: string; correct: number }[]): Record<string, number> {
+  const totals: Record<string, number> = {};
+  for (const score of scores) {
+    if (!Number.isFinite(score.correct)) continue;
+    totals[score.userId] = (totals[score.userId] ?? 0) + score.correct;
+  }
+  return totals;
+}
+
+export function formatPoints(points: number): string {
+  const value = Math.max(0, Math.round(points));
+  return value === 1 ? "1 punto" : `${value} puntos`;
 }
 
 export function chanceAdjustedPercent(correctRatio: number, choices: number): number {

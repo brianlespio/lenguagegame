@@ -1,8 +1,10 @@
 import { algebraCards } from "./algebra";
 import { calculusCards } from "./calculus";
 import { discreteCards } from "./discrete";
+import { informationCards } from "./information";
 import { machineCards } from "./machine";
 import { statisticsCards } from "./statistics";
+import { systemCards } from "./systems";
 import type { MathCard } from "../types/card";
 
 export const mathBank: readonly MathCard[] = [
@@ -11,6 +13,8 @@ export const mathBank: readonly MathCard[] = [
   ...statisticsCards,
   ...discreteCards,
   ...machineCards,
+  ...systemCards,
+  ...informationCards,
 ];
 
 export function cardById(id: string): MathCard {

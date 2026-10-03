@@ -857,6 +857,19 @@ select {
   overflow-wrap: anywhere;
 }
 
+.user-points {
+  flex: none;
+  margin-left: auto;
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  color: var(--color-muted);
+}
+
+.quiz-choice[data-state="correct"] .user-points {
+  color: inherit;
+}
+
 .quiz-card[data-kind="phrase"] .quiz-choice-text {
   font-size: clamp(14px, 1.35vw, 18px);
 }
