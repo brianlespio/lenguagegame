@@ -59,6 +59,9 @@ interface StudyScreenProps {
   onLanguageChange: (pair: LanguagePairId) => void;
   onCefrChange: (level: CefrFilter) => void;
   onStudyModeChange: (mode: StudyMode) => void;
+  reviewing?: boolean;
+  onToggleReview?: () => void;
+  onSpellingGrade?: (entryId: string, restarts: number) => void;
   onPrevious: () => void;
   onNext: () => void;
   onReveal: () => void;
@@ -97,6 +100,9 @@ export function StudyScreen({
   onLanguageChange,
   onCefrChange,
   onStudyModeChange,
+  reviewing,
+  onToggleReview,
+  onSpellingGrade,
   onPrevious,
   onNext,
   onReveal,
@@ -117,6 +123,7 @@ export function StudyScreen({
   const [spellingOn, setSpellingOn] = useState(false);
   const [typed, setTyped] = useState("");
   const typedRef = useRef("");
+  const restartsRef = useRef(0);
   const translationVisible = isRevealed || isAlwaysRevealInterval(interval);
   const liveLabel = isTest
     ? currentQuizItem
@@ -128,6 +135,7 @@ export function StudyScreen({
 
   useEffect(() => {
     typedRef.current = "";
+    restartsRef.current = 0;
     setTyped("");
   }, [currentEntry?.id]);
 
@@ -142,13 +150,16 @@ export function StudyScreen({
       if (result === "ignore") return;
       if (result === "restart") {
         playSpellingMiss();
+        restartsRef.current += 1;
         typedRef.current = "";
         setTyped("");
         return;
       }
       if (result === "complete") {
         playSpellingOk();
+        if (currentEntry) onSpellingGrade?.(currentEntry.id, restartsRef.current);
         typedRef.current = "";
+        restartsRef.current = 0;
         setTyped("");
         onNext();
         return;
@@ -156,7 +167,7 @@ export function StudyScreen({
       typedRef.current += letter;
       setTyped(typedRef.current);
     },
-    [onNext, spellingOn, target],
+    [currentEntry, onNext, onSpellingGrade, spellingOn, target],
   );
 
   useEffect(() => {
@@ -207,6 +218,8 @@ export function StudyScreen({
           {userName ? <span className="autoplay-badge">{userName}</span> : null}
         </div>
         <StudyMenus
+          reviewing={reviewing}
+          onToggleReview={onToggleReview}
           category={category}
           randomMode={randomMode}
           languagePair={languagePair}
@@ -243,6 +256,7 @@ export function StudyScreen({
             isRevealed={translationVisible}
             languagePair={languagePair}
             spelling={spellingOn}
+            emptyHint={reviewing ? "Todavía no hay fallos en este idioma." : undefined}
           />
         )}
         {spellingOn && target ? (

@@ -17,6 +17,7 @@ import type {
   PersistedProgress,
   StudyMode,
   StudyScope,
+  ReviewOutcome,
   VocabularyEntry,
 } from "../types/vocabulary";
 import {
@@ -27,6 +28,7 @@ import {
 } from "../utils/quiz";
 import { loadRecentPairKeys, saveRecentPairKeys } from "../utils/profiles";
 import { buildPhraseSetShuffleOrder, buildShuffleOrder } from "../utils/shuffle";
+import { applyOutcome, missedCardIds } from "../utils/review";
 import { loadProgress, loadSettings, saveProgress, saveSettings } from "../utils/storage";
 import {
   clampIndex,
@@ -42,6 +44,8 @@ export interface TestRunResult {
   correct: number;
   total: number;
   percent: number;
+  answered: number;
+  choices: number;
 }
 
 interface UseVocabularyOptions {
@@ -78,7 +82,10 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
   const [testStarted, setTestStarted] = useState(false);
   const [sessionQueue, setSessionQueue] = useState<QuizPromptRef[]>([]);
   const [answerCorrect, setAnswerCorrect] = useState<Record<number, boolean>>({});
+  const [answerChoices, setAnswerChoices] = useState<Record<number, number>>({});
   const [testResult, setTestResult] = useState<TestRunResult | null>(null);
+  const [reviewMisses, setReviewMisses] = useState(false);
+  const [gradeNonce, setGradeNonce] = useState(0);
   const [frenchCatalog, setFrenchCatalog] = useState<VocabularyEntry[] | null>(null);
   const [catalanCatalog, setCatalanCatalog] = useState<VocabularyEntry[] | null>(null);
   const userId = options.userId ?? null;
@@ -123,6 +130,14 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     () => filterEntries(catalog, selectedCategory, cefrLevel),
     [catalog, selectedCategory, cefrLevel],
   );
+  const missedEntries = useMemo(() => {
+    void gradeNonce;
+    if (!userId) return [];
+    const bank = new Set(catalog.map((entry) => entry.id));
+    const ids = new Set(missedCardIds(progressRef.current, userId, bank));
+    return catalog.filter((entry) => ids.has(entry.id));
+  }, [catalog, gradeNonce, userId]);
+  const studyPool = reviewMisses ? missedEntries : filtered;
 
   useLayoutEffect(() => {
     if (cefrLevel === "all") return;
@@ -147,7 +162,10 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
             ? progressRef.current.lastEntryIdByCategory[selectedCategory]
             : undefined))
         : undefined);
-    if (randomMode) {
+    if (reviewMisses) {
+      setOrderIds(studyPool.map((entry) => entry.id));
+      setCurrentIndex(0);
+    } else if (randomMode) {
       const order =
         isSetStudyCategory(selectedCategory)
           ? buildPhraseSetShuffleOrder(filtered, lastId ?? null)
@@ -159,7 +177,7 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
       setCurrentIndex(findIndexById(filtered, lastId));
     }
     setIsRevealed(isAlwaysRevealInterval(intervalRef.current));
-  }, [filtered, randomMode, selectedCategory, languagePair, cefrLevel]);
+  }, [filtered, studyPool, reviewMisses, randomMode, selectedCategory, languagePair, cefrLevel]);
 
   const quizableKeys = useMemo(
     () => quizablePromptKeySet(filtered, selectedCategory),
@@ -175,18 +193,20 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     setQuizIndex(0);
     setSelectedChoiceKey(null);
     setAnswerCorrect({});
+    setAnswerChoices({});
     setTestResult(null);
     setQuizNonce((value) => value + 1);
   }, [filtered, selectedCategory, languagePair, cefrLevel, studyMode]);
 
   const orderedEntries = useMemo(() => {
+    if (reviewMisses) return missedEntries;
     const list: VocabularyEntry[] = [];
     for (const id of orderIds) {
       const entry = byId.get(id);
       if (entry) list.push(entry);
     }
     return list.length > 0 ? list : filtered;
-  }, [orderIds, byId, filtered]);
+  }, [reviewMisses, missedEntries, orderIds, byId, filtered]);
 
   const safeIndex = clampIndex(currentIndex, orderedEntries.length);
   const currentEntry = orderedEntries[safeIndex];
@@ -248,7 +268,11 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     const total = sessionQueue.length;
     const correct = Object.values(answerCorrect).filter(Boolean).length;
     const percent = total === 0 ? 0 : Math.round((correct / total) * 100);
-    setTestResult({ correct, total, percent });
+    const answeredIndexes = Object.keys(answerCorrect).map(Number);
+    const answered = answeredIndexes.length;
+    const choiceTotal = answeredIndexes.reduce((sum, index) => sum + (answerChoices[index] ?? 4), 0);
+    const choices = answered === 0 ? 4 : choiceTotal / answered;
+    setTestResult({ correct, total, percent, answered, choices });
     if (userId) {
       saveRecentPairKeys(
         userId,
@@ -258,7 +282,7 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
       );
     }
     setTestStarted(false);
-  }, [sessionQueue, answerCorrect, userId, languagePair, selectedCategory, cefrLevel, filtered]);
+  }, [sessionQueue, answerCorrect, answerChoices, userId, languagePair, selectedCategory, cefrLevel, filtered]);
 
   const startTest = useCallback(() => {
     const recent = userId
@@ -271,6 +295,7 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     setTestStarted(true);
     setQuizIndex(0);
     setSelectedChoiceKey(null);
+    setAnswerChoices({});
     setAnswerCorrect({});
     setTestResult(null);
     setQuizNonce((value) => value + 1);
@@ -344,17 +369,40 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     setIsRevealed(true);
   }, [studyMode, interval, isRevealed, goNext]);
 
-  const selectQuizChoice = useCallback((key: QuizChoiceKey) => {
-    if (studyMode !== "test" || !testStarted) return;
-    setSelectedChoiceKey((current) => {
-      if (current) return current;
-      const choice = currentQuizItem?.choices.find((item) => item.key === key);
-      setAnswerCorrect((map) =>
-        map[quizSafeIndex] !== undefined ? map : { ...map, [quizSafeIndex]: choice?.correct === true },
+  const noteOutcome = useCallback(
+    (entryId: string, outcome: ReviewOutcome) => {
+      if (!userId) return;
+      progressRef.current = applyOutcome(
+        progressRef.current,
+        userId,
+        entryId,
+        outcome,
+        new Date().toISOString(),
       );
-      return key;
-    });
-  }, [studyMode, testStarted, currentQuizItem, quizSafeIndex]);
+      saveProgress(progressRef.current);
+      setGradeNonce((value) => value + 1);
+    },
+    [userId],
+  );
+
+  const noteSpelling = useCallback(
+    (entryId: string, restarts: number) => {
+      noteOutcome(entryId, restarts > 0 ? "restart" : "hit");
+    },
+    [noteOutcome],
+  );
+
+  const selectQuizChoice = useCallback((key: QuizChoiceKey) => {
+    if (studyMode !== "test" || !testStarted || selectedChoiceKey) return;
+    const choice = currentQuizItem?.choices.find((item) => item.key === key);
+    const promptId = currentQuizItem?.promptId;
+    if (promptId) noteOutcome(promptId, choice?.correct === true ? "hit" : "miss");
+    setAnswerChoices((map) => ({ ...map, [quizSafeIndex]: currentQuizItem?.choices.length ?? 4 }));
+    setSelectedChoiceKey(key);
+    setAnswerCorrect((map) =>
+      map[quizSafeIndex] !== undefined ? map : { ...map, [quizSafeIndex]: choice?.correct === true },
+    );
+  }, [studyMode, testStarted, selectedChoiceKey, currentQuizItem, quizSafeIndex, noteOutcome]);
 
   const setSelectedCategory = useCallback((category: CategoryFilter) => {
     setSelectedCategoryState(category);
@@ -437,6 +485,9 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     reveal,
     toggleReveal,
     selectQuizChoice,
+    noteSpelling,
+    reviewing: reviewMisses,
+    setReviewing: setReviewMisses,
     handleAutoPlayTick,
     setSelectedCategory,
     setStudyScope,

@@ -48,5 +48,14 @@ describe("puerta y carta del cubo", () => {
     expect(screen.getByTestId("score-screen")).toBeInTheDocument();
     expect(screen.getByRole("heading", { name: /\d+%/ })).toBeInTheDocument();
     expect(screen.getByText(/Ana/)).toBeInTheDocument();
+    expect(screen.getByText("Aún no hay bastante")).toBeInTheDocument();
+  });
+
+  it("abre el repaso cuando todavía no hay fallos", () => {
+    render(<App />);
+    fireEvent.change(screen.getByLabelText("Poner tu nombre"), { target: { value: "Ana" } });
+    fireEvent.click(screen.getByRole("button", { name: "Matemáticas" }));
+    fireEvent.click(screen.getByRole("button", { name: "Repasar fallos" }));
+    expect(screen.getByText("Todavía no hay fallos en este eje.")).toBeInTheDocument();
   });
 });

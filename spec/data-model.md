@@ -129,7 +129,11 @@ interface QuizItem {
 }
 ```
 
-## Future SRS (stored, unused by cards)
+## Learning progress
+
+Stored per card. Scheduling is phase 27 of `roadmap.md`. Loading must not drop the optional fields, and a version bump must not wipe the record.
+
+`STORAGE_VERSION` is 2. Version 1 settings and progress migrate by keeping the same document. `lastReviewed` and `nextReview` are kept only as UTC ISO timestamps (`2026-01-02T00:00:00.000Z`). `difficulty` is kept only as a finite number. A missing or malformed field is omitted. An unknown version or corrupt JSON falls back to the empty progress.
 
 ```ts
 interface LearningProgress {
@@ -140,6 +144,8 @@ interface LearningProgress {
   lastReviewed?: string;
   nextReview?: string;
   difficulty?: number;
+  lastOutcome?: "miss" | "hit" | "restart";
+  restarts?: number;
 }
 ```
 

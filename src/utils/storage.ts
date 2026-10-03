@@ -8,7 +8,7 @@ import {
   SETTINGS_STORAGE_KEY,
   STORAGE_VERSION,
 } from "../constants";
-import type { PersistedProgress, PersistedSettings } from "../types/vocabulary";
+import type { LearningProgress, PersistedProgress, PersistedSettings } from "../types/vocabulary";
 import { isCategoryFilter, isCefrFilter, isLanguagePairId, isStudyMode } from "./vocabulary";
 
 interface Versioned<T> {
@@ -43,11 +43,41 @@ function parseJson(raw: string): unknown {
   }
 }
 
+function migrateStep(from: number, data: unknown): unknown | null {
+  if (from === 1) return data;
+  return null;
+}
+
+export function migrate(from: number, data: unknown): unknown | null {
+  if (!Number.isInteger(from) || from < 1 || from > STORAGE_VERSION) return null;
+  let current = data;
+  let version = from;
+  while (version < STORAGE_VERSION) {
+    const next = migrateStep(version, current);
+    if (next === null) return null;
+    current = next;
+    version += 1;
+  }
+  return current;
+}
+
 function unwrapVersioned(value: unknown): unknown {
   if (!value || typeof value !== "object") return null;
   const record = value as { version?: unknown; data?: unknown };
-  if (record.version !== STORAGE_VERSION) return null;
-  return record.data ?? null;
+  if (typeof record.version !== "number") return null;
+  return migrate(record.version, record.data ?? null);
+}
+
+function isoTimestamp(value: unknown): string | undefined {
+  if (typeof value !== "string") return undefined;
+  if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?Z$/.test(value)) return undefined;
+  if (Number.isNaN(Date.parse(value))) return undefined;
+  return value;
+}
+
+function finiteDifficulty(value: unknown): number | undefined {
+  if (typeof value !== "number" || !Number.isFinite(value)) return undefined;
+  return value;
 }
 
 function normalizeSettings(value: unknown): PersistedSettings | null {
@@ -87,12 +117,35 @@ function normalizeProgress(value: unknown): PersistedProgress | null {
       if (!item || typeof item !== "object") continue;
       const progress = item as { vocabularyId?: unknown };
       if (typeof progress.vocabularyId === "string") {
-        learningProgress[key] = {
-          vocabularyId: progress.vocabularyId,
-          repetitions: Number((item as { repetitions?: unknown }).repetitions) || 0,
-          correctAnswers: Number((item as { correctAnswers?: unknown }).correctAnswers) || 0,
-          incorrectAnswers: Number((item as { incorrectAnswers?: unknown }).incorrectAnswers) || 0,
+        const source = item as {
+          repetitions?: unknown;
+          correctAnswers?: unknown;
+          incorrectAnswers?: unknown;
+          lastReviewed?: unknown;
+          nextReview?: unknown;
+          difficulty?: unknown;
+          lastOutcome?: unknown;
+          restarts?: unknown;
         };
+        const entry: LearningProgress = {
+          vocabularyId: progress.vocabularyId,
+          repetitions: Number(source.repetitions) || 0,
+          correctAnswers: Number(source.correctAnswers) || 0,
+          incorrectAnswers: Number(source.incorrectAnswers) || 0,
+        };
+        const lastReviewed = isoTimestamp(source.lastReviewed);
+        const nextReview = isoTimestamp(source.nextReview);
+        const difficulty = finiteDifficulty(source.difficulty);
+        if (lastReviewed) entry.lastReviewed = lastReviewed;
+        if (nextReview) entry.nextReview = nextReview;
+        if (difficulty !== undefined) entry.difficulty = difficulty;
+        if (source.lastOutcome === "miss" || source.lastOutcome === "hit" || source.lastOutcome === "restart") {
+          entry.lastOutcome = source.lastOutcome;
+        }
+        if (typeof source.restarts === "number" && Number.isInteger(source.restarts) && source.restarts > 0) {
+          entry.restarts = source.restarts;
+        }
+        learningProgress[key] = entry;
       }
     }
   }

@@ -56,4 +56,10 @@ describe("profiles", () => {
     expect(estimateLevel(78, "C2")).toBe("C1");
     expect(estimateLevel(60, "C2")).toBe("B2");
   });
+
+  it("does not treat chance-level guessing as A1", () => {
+    expect(estimateLevel(25, "all", { answered: 20, choices: 4 })).toBe("below-A1");
+    expect(estimateLevel(25, "all", { answered: 19, choices: 4 })).toBe("insufficient");
+    expect(estimateLevel(100, "all", { answered: 20, choices: 4 })).toBe("C2");
+  });
 });

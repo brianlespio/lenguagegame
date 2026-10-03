@@ -62,8 +62,17 @@ export function scoresForUser(scores: readonly TestScore[], userId: string): Tes
   return scores.filter((score) => score.userId === userId);
 }
 
-export function scoreNote(percent: number): string {
-  if (percent >= 85) return "Este nivel está firme. Puedes subir al siguiente cuando quieras.";
-  if (percent >= 60) return "Aún fallan cuentas. Repite las cartas de este eje antes de subir.";
+export function chanceAdjustedPercent(correctRatio: number, choices: number): number {
+  const options = choices >= 2 ? choices : 2;
+  const chance = 1 / options;
+  const adjusted = (correctRatio - chance) / (1 - chance);
+  return Math.min(1, Math.max(0, adjusted)) * 100;
+}
+
+export function scoreNote(percent: number, sample?: { answered: number; choices: number }): string {
+  if (sample && sample.answered < 20) return "Aún no hay bastante";
+  const score = sample ? chanceAdjustedPercent(percent / 100, sample.choices) : percent;
+  if (score >= 85) return "Este nivel está firme. Puedes subir al siguiente cuando quieras.";
+  if (score >= 60) return "Aún fallan cuentas. Repite las cartas de este eje antes de subir.";
   return "Toca repetir el nivel. La puntuación sale de las cuentas, no de haber visto la carta.";
 }

@@ -331,6 +331,10 @@ select {
   position: relative;
 }
 
+.fold-trigger[aria-pressed="true"] {
+  background: rgb(244 241 234 / 12%);
+}
+
 .fold-trigger {
   display: flex;
   align-items: center;

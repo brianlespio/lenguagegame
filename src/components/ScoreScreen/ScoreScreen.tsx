@@ -15,6 +15,12 @@ function pairLabel(pair: LanguagePairId): string {
   return LANGUAGE_PAIRS.find((item) => item.id === pair)?.shortLabel ?? pair;
 }
 
+function levelLabel(level: TestScore["estimatedLevel"]): string {
+  if (level === "insufficient") return "Aún no hay bastante";
+  if (level === "below-A1") return "bajo A1";
+  return level;
+}
+
 export function ScoreScreen({ userName, latest, history, ranking, languagePair, onBack }: ScoreScreenProps) {
   return (
     <article className="card quiz-card score-screen" data-mode="test">
@@ -25,7 +31,7 @@ export function ScoreScreen({ userName, latest, history, ranking, languagePair, 
       {latest ? (
         <p className="text-spanish" data-revealed="true">
           {latest.percent}% · {latest.correct}/{latest.total} · {pairLabel(latest.languagePair)} ·{" "}
-          {latest.estimatedLevel === "below-A1" ? "bajo A1" : latest.estimatedLevel}
+          {levelLabel(latest.estimatedLevel)}
         </p>
       ) : (
         <p className="text-spanish" data-revealed="true">
@@ -49,7 +55,7 @@ export function ScoreScreen({ userName, latest, history, ranking, languagePair, 
           <ol className="score-list">
             {ranking.slice(0, 8).map((score, index) => (
               <li key={score.id}>
-                {index + 1}. {score.userName} — {score.estimatedLevel === "below-A1" ? "A1" : score.estimatedLevel} —{" "}
+                {index + 1}. {score.userName} — {levelLabel(score.estimatedLevel)} —{" "}
                 {score.percent}%
               </li>
             ))}

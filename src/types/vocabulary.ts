@@ -89,6 +89,8 @@ export interface LearningState {
   studyMode: StudyMode;
 }
 
+export type ReviewOutcome = "miss" | "hit" | "restart";
+
 export interface LearningProgress {
   vocabularyId: string;
   repetitions: number;
@@ -97,6 +99,8 @@ export interface LearningProgress {
   lastReviewed?: string;
   nextReview?: string;
   difficulty?: number;
+  lastOutcome?: ReviewOutcome;
+  restarts?: number;
 }
 
 export interface PersistedSettings {

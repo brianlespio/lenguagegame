@@ -8,16 +8,23 @@ interface CardRendererProps {
   isRevealed: boolean;
   languagePair: LanguagePairId;
   spelling?: boolean;
+  emptyHint?: string;
 }
 
-export function CardRenderer({ entry, isRevealed, languagePair, spelling = false }: CardRendererProps) {
+export function CardRenderer({
+  entry,
+  isRevealed,
+  languagePair,
+  spelling = false,
+  emptyHint = "Este filtro no tiene entradas. Prueba Nivel → Todo.",
+}: CardRendererProps) {
   if (!entry) {
     return (
       <article className="card card-empty" aria-label="No hay cartas">
         <p className="text-category">VOCABULARIO</p>
         <p className="text-english">Sin cartas</p>
         <p className="text-spanish" data-revealed="true">
-          Este filtro no tiene entradas. Prueba Nivel → Todo.
+          {emptyHint}
         </p>
       </article>
     );

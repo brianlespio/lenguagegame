@@ -34,7 +34,14 @@ export function ScoreScreen({
           <p className="face">
             {latest.correct} de {latest.total} · {axisLabel(latest.axis)} · {levelLabel(latest.level)}
           </p>
-          <p>{scoreNote(latest.percent)}</p>
+          <p>
+            {scoreNote(
+              latest.percent,
+              typeof latest.answered === "number" && typeof latest.choices === "number"
+                ? { answered: latest.answered, choices: latest.choices }
+                : undefined,
+            )}
+          </p>
         </>
       ) : (
         <p>Cuando termines un test, el porcentaje se guarda en este navegador.</p>

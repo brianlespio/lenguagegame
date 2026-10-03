@@ -64,6 +64,10 @@ Verbs must never be forced into the single `english` / `spanish` model.
 
 **Test**: guess queue from the current category + CEFR + language filter. **Two questions per card** (source → Spanish and Spanish → source). **Up to four answers**. The fourth is sometimes **none of the above** (either the key, with three lies, or a trap). See `quiz-spec.md`. Not polar yes/no.
 
-## Out of scope for this MVP
+The level after a test uses the score above chance, not the raw percent. With four choices that is `(correct / total − 0.25) / 0.75`, clamped to 0–1. If an item has `n` choices and `n` is not 4, chance is `1 / n`. Fewer than 20 answers does not produce a CEFR level; the screen says «Aún no hay bastante».
 
-Favorites, spaced-repetition scheduling, statistics, search, import, accounts, and cloud sync. Types and storage shapes must remain compatible with those features. Test mode is in scope (`quiz-spec.md`); scored drills and SRS are not.
+## Out of scope for the first MVP
+
+The list below is the original MVP, not the current app. Profiles, scores, spelling, Catalan, and the language-or-mathematics door now exist. Upcoming work is specified in `roadmap.md`.
+
+Favorites, search, accounts, and cloud sync stay out. Import of a learner file and spaced repetition are in `roadmap.md` (phases 25 and 27), not in the quiz builder.

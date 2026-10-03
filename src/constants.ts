@@ -42,7 +42,7 @@ export const DEFAULT_INTERVAL_MS: AutoPlayInterval = 5000;
 
 export const IDLE_HIDE_MS = 4000;
 
-export const STORAGE_VERSION = 1;
+export const STORAGE_VERSION = 2;
 
 export const SETTINGS_STORAGE_KEY = "evt:settings";
 export const PROGRESS_STORAGE_KEY = "evt:progress";

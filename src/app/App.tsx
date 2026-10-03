@@ -127,7 +127,11 @@ export function App() {
       correct: result.correct,
       total: result.total,
       percent: result.percent,
-      estimatedLevel: estimateLevel(result.percent, vocabulary.state.cefrLevel === "all" ? "all" : vocabulary.state.cefrLevel),
+      estimatedLevel: estimateLevel(
+        result.percent,
+        vocabulary.state.cefrLevel === "all" ? "all" : vocabulary.state.cefrLevel,
+        { answered: result.answered, choices: result.choices },
+      ),
       at: new Date().toISOString(),
     };
     setScores((current) => {
@@ -219,6 +223,9 @@ export function App() {
         onLanguageChange={vocabulary.setLanguagePair}
         onCefrChange={vocabulary.setCefrLevel}
         onStudyModeChange={vocabulary.setStudyMode}
+        reviewing={vocabulary.reviewing}
+        onToggleReview={() => vocabulary.setReviewing((value) => !value)}
+        onSpellingGrade={vocabulary.noteSpelling}
         onPrevious={vocabulary.goPrevious}
         onNext={vocabulary.goNext}
         onReveal={vocabulary.reveal}
@@ -259,6 +266,9 @@ export function App() {
       onLanguageChange={vocabulary.setLanguagePair}
       onCefrChange={vocabulary.setCefrLevel}
       onStudyModeChange={vocabulary.setStudyMode}
+      reviewing={vocabulary.reviewing}
+      onToggleReview={() => vocabulary.setReviewing((value) => !value)}
+      onSpellingGrade={vocabulary.noteSpelling}
       onPrevious={vocabulary.goPrevious}
       onNext={vocabulary.goNext}
       onReveal={vocabulary.reveal}

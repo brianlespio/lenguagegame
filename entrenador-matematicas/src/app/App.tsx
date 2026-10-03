@@ -57,6 +57,8 @@ export function App() {
       correct: result.correct,
       total: result.total,
       percent: result.percent,
+      answered: result.answered,
+      choices: result.choices,
       at: new Date().toISOString(),
     };
     setScores((current) => {
@@ -244,6 +246,13 @@ export function App() {
             onSelect={session.selectChoice}
           />
         ) : null}
+        {!subjectsOpen && session.mode === "study" && !session.card ? (
+          <section className="card">
+            <p className="face">
+              {session.reviewing ? "Todavía no hay fallos en este eje." : "Este filtro no tiene cartas."}
+            </p>
+          </section>
+        ) : null}
         {!subjectsOpen && session.mode === "study" && session.card ? (
           <MathCardView
             card={session.card}
@@ -290,6 +299,13 @@ export function App() {
             </label>
             <button type="button" onClick={session.toggleShuffle} aria-pressed={session.shuffle}>
               {session.shuffle ? "Orden fijo" : "Barajar"}
+            </button>
+            <button
+              type="button"
+              onClick={() => session.setReviewing((value) => !value)}
+              aria-pressed={session.reviewing}
+            >
+              Repasar fallos
             </button>
             <p className="progress">
               {session.total === 0 ? "0 / 0" : `${session.index + 1} / ${session.total}`}

@@ -21,7 +21,7 @@ export interface TestScore {
   correct: number;
   total: number;
   percent: number;
-  estimatedLevel: StudyCefrLevel | "below-A1";
+  estimatedLevel: StudyCefrLevel | "below-A1" | "insufficient";
   at: string;
 }
 

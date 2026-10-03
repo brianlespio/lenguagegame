@@ -1,6 +1,6 @@
 import { beforeEach, describe, expect, it } from "vitest";
 import { PROGRESS_STORAGE_KEY, SETTINGS_STORAGE_KEY } from "../constants";
-import { loadProgress, loadSettings, saveProgress, saveSettings } from "./storage";
+import { loadProgress, loadSettings, migrate, saveProgress, saveSettings } from "./storage";
 
 describe("storage", () => {
   beforeEach(() => {
@@ -97,5 +97,76 @@ describe("storage", () => {
     );
     expect(loadSettings().selectedCategory).toBe("all");
     expect(loadProgress().lastEntryIdByCategory.verbs).toBeUndefined();
+  });
+
+  it("keeps version 1 progress, including review fields, under version 2", () => {
+    const stored = {
+      vocabularyId: "verb-have",
+      repetitions: 2,
+      correctAnswers: 3,
+      incorrectAnswers: 1,
+      lastReviewed: "2026-01-02T00:00:00.000Z",
+      nextReview: "2026-01-09T00:00:00.000Z",
+      difficulty: 2.5,
+    };
+    window.localStorage.setItem(
+      PROGRESS_STORAGE_KEY,
+      JSON.stringify({
+        version: 1,
+        data: {
+          lastEntryIdByCategory: { verbs: "verb-have" },
+          learningProgress: { "verb-have": stored },
+        },
+      }),
+    );
+    window.localStorage.setItem(
+      SETTINGS_STORAGE_KEY,
+      JSON.stringify({
+        version: 1,
+        data: { selectedCategory: "verbs", interval: 10000, randomMode: false, languagePair: "fr-es" },
+      }),
+    );
+
+    expect(migrate(1, { learningProgress: { "verb-have": stored } })).toEqual({
+      learningProgress: { "verb-have": stored },
+    });
+    expect(loadProgress().learningProgress["verb-have"]).toEqual(stored);
+    expect(loadSettings().selectedCategory).toBe("verbs");
+    expect(loadSettings().languagePair).toBe("fr-es");
+  });
+
+  it("omits a bad review date and rejects an unknown version", () => {
+    window.localStorage.setItem(
+      PROGRESS_STORAGE_KEY,
+      JSON.stringify({
+        version: 1,
+        data: {
+          lastEntryIdByCategory: {},
+          learningProgress: {
+            "verb-have": {
+              vocabularyId: "verb-have",
+              repetitions: 1,
+              correctAnswers: 0,
+              incorrectAnswers: 0,
+              lastReviewed: "mañana",
+              nextReview: "2026-01-09",
+              difficulty: Number.POSITIVE_INFINITY,
+            },
+          },
+        },
+      }),
+    );
+    expect(loadProgress().learningProgress["verb-have"]).toEqual({
+      vocabularyId: "verb-have",
+      repetitions: 1,
+      correctAnswers: 0,
+      incorrectAnswers: 0,
+    });
+
+    window.localStorage.setItem(
+      PROGRESS_STORAGE_KEY,
+      JSON.stringify({ version: 9, data: { lastEntryIdByCategory: { verbs: "verb-have" }, learningProgress: {} } }),
+    );
+    expect(loadProgress()).toEqual({ lastEntryIdByCategory: {}, learningProgress: {} });
   });
 });

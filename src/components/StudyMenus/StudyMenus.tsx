@@ -15,6 +15,8 @@ interface StudyMenusProps {
   onLanguageChange: (pair: LanguagePairId) => void;
   onCefrChange: (level: CefrFilter) => void;
   onStudyModeChange: (mode: StudyMode) => void;
+  reviewing?: boolean;
+  onToggleReview?: () => void;
 }
 
 export function StudyMenus({
@@ -27,6 +29,8 @@ export function StudyMenus({
   onLanguageChange,
   onCefrChange,
   onStudyModeChange,
+  reviewing = false,
+  onToggleReview,
 }: StudyMenusProps) {
   const [openMenu, setOpenMenu] = useState<"category" | "language" | "level" | "mode" | null>(null);
 
@@ -57,6 +61,11 @@ export function StudyMenus({
         onOpenChange={(open) => setOpenMenu(open ? "mode" : null)}
         onChange={onStudyModeChange}
       />
+      {onToggleReview ? (
+        <button type="button" className="fold-trigger" aria-pressed={reviewing} onClick={onToggleReview}>
+          Repasar fallos
+        </button>
+      ) : null}
     </div>
   );
 }

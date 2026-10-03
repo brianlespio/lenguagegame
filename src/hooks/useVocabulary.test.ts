@@ -1,6 +1,7 @@
 import { act, renderHook, waitFor } from "@testing-library/react";
 import { beforeEach, describe, expect, it, vi } from "vitest";
 import type { VocabularyEntry } from "../types/vocabulary";
+import { loadProgress } from "../utils/storage";
 import { useVocabulary } from "./useVocabulary";
 
 const entries: VocabularyEntry[] = [
@@ -179,6 +180,30 @@ describe("useVocabulary", () => {
     act(() => result.current.goNext());
     expect(result.current.selectedChoiceKey).toBeNull();
     expect(result.current.progress.current).toBe(2);
+  });
+
+  it("keeps a missed card for review after reload and does not grade a reveal", () => {
+    const { result, unmount } = renderHook(() => useVocabulary({ entries, userId: "ana" }));
+    act(() => result.current.setSelectedCategory("nouns"));
+    act(() => result.current.reveal());
+    expect(loadProgress().learningProgress).toEqual({});
+
+    act(() => result.current.setStudyMode("test"));
+    act(() => result.current.startTest());
+    const item = result.current.currentQuizItem;
+    const wrong = item?.choices.find((choice) => !choice.correct);
+    expect(wrong?.key).toBeDefined();
+    act(() => result.current.selectQuizChoice(wrong!.key));
+    const missedId = item!.promptId;
+    act(() => result.current.setSelectedCategory("verbs"));
+    expect(loadProgress().learningProgress[`ana:${missedId}`]?.incorrectAnswers).toBeGreaterThanOrEqual(1);
+
+    unmount();
+    const again = renderHook(() => useVocabulary({ entries, userId: "ana" }));
+    act(() => again.result.current.setReviewing(true));
+    expect(again.result.current.currentEntry?.id).toBe(missedId);
+    expect(loadProgress().learningProgress[`ana:${missedId}`]?.incorrectAnswers).toBeGreaterThanOrEqual(1);
+    expect(loadProgress().learningProgress[`ana:${missedId}`]?.lastOutcome).toBe("miss");
   });
 });
 

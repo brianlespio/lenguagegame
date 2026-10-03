@@ -1,5 +1,7 @@
 import type { AxisId, CardKind, LevelId } from "./types/card";
 
+export const STORAGE_VERSION = 2;
+
 export const USERS_KEY = "mathtrainer.v1.users";
 export const SCORES_KEY = "mathtrainer.v1.scores";
 

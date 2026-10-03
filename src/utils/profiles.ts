@@ -95,7 +95,26 @@ export function scoresForUser(scores: readonly TestScore[], userId: string, pair
   return scores.filter((score) => score.userId === userId && (pair ? score.languagePair === pair : true));
 }
 
-export function estimateLevel(percent: number, tested: "all" | StudyCefrLevel): StudyCefrLevel | "below-A1" {
+export type LevelEstimate = StudyCefrLevel | "below-A1" | "insufficient";
+
+export function chanceAdjustedPercent(correctRatio: number, choices: number): number {
+  const options = choices >= 2 ? choices : 2;
+  const chance = 1 / options;
+  const adjusted = (correctRatio - chance) / (1 - chance);
+  return Math.min(1, Math.max(0, adjusted)) * 100;
+}
+
+export function estimateLevel(
+  percent: number,
+  tested: "all" | StudyCefrLevel,
+  sample?: { answered: number; choices: number },
+): LevelEstimate {
+  if (sample && sample.answered < 20) return "insufficient";
+  const score = sample ? chanceAdjustedPercent(percent / 100, sample.choices) : percent;
+  return levelFromScore(score, tested);
+}
+
+function levelFromScore(percent: number, tested: "all" | StudyCefrLevel): StudyCefrLevel | "below-A1" {
   if (tested !== "all") {
     if (percent >= 90) return tested;
     if (percent >= 75) {

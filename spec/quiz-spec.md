@@ -162,6 +162,20 @@ filterEntries (existing)
 
 `CardRenderer` stays the study renderer. Test does not add a third vocabulary card type; `QuizCard` is mode-only.
 
+## Learning record
+
+A test answer and a finished spelling drill write `LearningProgress` for that profile and card. Study reveal does not. `nextReview` is not set here; that is phase 27 of `roadmap.md`.
+
+| Mode | Event | Record |
+| --- | --- | --- |
+| Test | Wrong choice | `incorrectAnswers` + 1, `lastOutcome: "miss"` |
+| Test | Right choice, including a correct “Ninguna de las anteriores” | `correctAnswers` + 1, `lastOutcome: "hit"` |
+| Spelling | Finished with no restart | `correctAnswers` + 1, `lastOutcome: "hit"` |
+| Spelling | Finished after one or more restarts | `restarts` + 1, `lastOutcome: "restart"`, not a clean hit |
+| Study | Reveal only | no write |
+
+`lastReviewed` is set in the first four rows. **Repasar fallos** lists cards in the active language bank whose `lastOutcome` is `miss` for the current profile. Changing category, pair, or mode does not delete those records.
+
 ## Out of scope
 
-Typed answers. Audio identification. Mixing polar yes/no into the choice buttons. Scoreboards. SRS scheduling. A separate quiz dataset. More than four choices.
+Typed answers in the test. Audio identification. Mixing polar yes/no into the choice buttons. A separate quiz dataset. More than four choices. The interval scheduler (`nextReview`) is phase 27, not this builder.

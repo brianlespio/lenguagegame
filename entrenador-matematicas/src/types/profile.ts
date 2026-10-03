@@ -20,6 +20,8 @@ export interface TestScore {
   correct: number;
   total: number;
   percent: number;
+  answered?: number;
+  choices?: number;
   at: string;
 }
 
@@ -30,4 +32,6 @@ export interface TestResult {
   correct: number;
   total: number;
   percent: number;
+  answered: number;
+  choices: number;
 }

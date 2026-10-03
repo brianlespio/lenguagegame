@@ -3,8 +3,10 @@ import { mathBank } from "../data";
 import { progressKey, settingsKey } from "../constants";
 import type { AxisFilter, ChoiceKey, LevelFilter, MathCard, QuizItem, StudyMode } from "../types/card";
 import type { TestResult } from "../types/profile";
+import type { ProgressFile } from "../types/progress";
 import { answerMatches } from "../utils/answer";
 import { filterCards } from "../utils/filter";
+import { applyOutcome, EMPTY_PROGRESS, missedCardIds, normalizeProgress } from "../utils/progress";
 import { buildQuizQueue, choiceIsCorrect } from "../utils/quiz";
 import { fisherYatesShuffle, mulberry32 } from "../utils/shuffle";
 import { readJson, writeJson } from "../utils/storage";
@@ -17,8 +19,11 @@ interface SettingsFile {
   shuffle: boolean;
 }
 
-interface ProgressFile {
-  lastIdByScope: Record<string, string>;
+function sessionChoices(lengths: readonly number[]): number {
+  if (lengths.length === 0) return 4;
+  if (lengths.every((count) => count === lengths[0])) return Math.max(lengths[0] ?? 4, 2);
+  const chance = lengths.reduce((sum, count) => sum + 1 / Math.max(count, 2), 0) / lengths.length;
+  return 1 / chance;
 }
 
 const DEFAULT_SETTINGS: SettingsFile = {
@@ -62,25 +67,36 @@ export function useSession(userId: string | null) {
   const [quizIndex, setQuizIndex] = useState(0);
   const [log, setLog] = useState<Record<string, ChoiceKey>>({});
   const [testResult, setTestResult] = useState<TestResult | null>(null);
-  const progressRef = useRef<Record<string, string>>({});
+  const [reviewing, setReviewing] = useState(false);
+  const [learning, setLearning] = useState<ProgressFile["learning"]>({});
+  const progressRef = useRef<ProgressFile>(EMPTY_PROGRESS);
   const skipSave = useRef(true);
   const focusRef = useRef<string | null>(null);
   const [focusNonce, setFocusNonce] = useState(0);
 
   const filtered = useMemo(() => filterCards(mathBank, axis, level), [axis, level]);
-  const ordered = useMemo(() => {
+  const reviewIds = useMemo(
+    () => new Set(missedCardIds(learning, new Set(filtered.map((card) => card.id)))),
+    [learning, filtered],
+  );
+  const studyOrder = useMemo(() => {
     if (!shuffle) return filtered;
     return fisherYatesShuffle(filtered, mulberry32(orderSeed));
   }, [filtered, shuffle, orderSeed]);
+  const ordered = useMemo(() => {
+    if (!reviewing) return studyOrder;
+    return studyOrder.filter((card) => reviewIds.has(card.id));
+  }, [studyOrder, reviewing, reviewIds]);
 
-  const queue = useMemo(() => buildQuizQueue(ordered, mulberry32(quizSeed)), [ordered, quizSeed]);
+  const queue = useMemo(() => buildQuizQueue(filtered, mulberry32(quizSeed)), [filtered, quizSeed]);
 
   useEffect(() => {
     if (!userId) return;
     skipSave.current = true;
     const settings = loadSettings(userId);
-    const progress = readJson<ProgressFile>(progressKey(userId), { lastIdByScope: {} });
-    progressRef.current = progress.lastIdByScope ?? {};
+    const progress = normalizeProgress(readJson<unknown>(progressKey(userId), EMPTY_PROGRESS));
+    progressRef.current = progress;
+    setLearning(progress.learning);
     setAxis(settings.axis);
     setLevel(settings.level);
     setMode(settings.mode);
@@ -103,7 +119,7 @@ export function useSession(userId: string | null) {
       focusRef.current = null;
       setIndex(focusIndex);
     } else {
-      const saved = progressRef.current[scopeKey(axis, level)];
+      const saved = progressRef.current.lastIdByScope[scopeKey(axis, level)];
       const found = ordered.findIndex((card) => card.id === saved);
       setIndex(found >= 0 ? found : 0);
     }
@@ -124,8 +140,11 @@ export function useSession(userId: string | null) {
     }
     const card = ordered[index];
     if (!card) return;
-    progressRef.current = { ...progressRef.current, [scopeKey(axis, level)]: card.id };
-    writeJson(progressKey(userId), { lastIdByScope: progressRef.current } satisfies ProgressFile);
+    progressRef.current = {
+      ...progressRef.current,
+      lastIdByScope: { ...progressRef.current.lastIdByScope, [scopeKey(axis, level)]: card.id },
+    };
+    writeJson(progressKey(userId), progressRef.current);
   }, [hydrated, userId, index, axis, level, ordered]);
 
   const card: MathCard | null = ordered[index] ?? null;
@@ -176,9 +195,14 @@ export function useSession(userId: string | null) {
     (key: ChoiceKey) => {
       const item = queue[quizIndex];
       if (!item || log[item.id]) return;
+      const choice = item.choices.find((option) => option.key === key);
+      const next = applyOutcome(progressRef.current, item.cardId, choice?.correct === true ? "hit" : "miss", new Date().toISOString());
+      progressRef.current = next;
+      setLearning(next.learning);
+      if (userId) writeJson(progressKey(userId), next);
       setLog((current) => ({ ...current, [item.id]: key }));
     },
-    [queue, quizIndex, log],
+    [queue, quizIndex, log, userId],
   );
 
   const quizNext = useCallback(() => {
@@ -200,6 +224,8 @@ export function useSession(userId: string | null) {
       correct,
       total: queue.length,
       percent,
+      answered: queue.length,
+      choices: sessionChoices(queue.map((item) => item.choices.length)),
     });
   }, [queue, log, axis, level]);
 
@@ -217,6 +243,7 @@ export function useSession(userId: string | null) {
       setAutoplay(false);
       setMode(next);
       if (next === "study") setTestStarted(false);
+      if (next === "test") setReviewing(false);
     },
     setIntervalMs,
     toggleShuffle: () => {
@@ -255,10 +282,13 @@ export function useSession(userId: string | null) {
     finishTest,
     answered,
     testResult,
+    reviewing,
+    setReviewing,
     clearResult: () => setTestResult(null),
     openCard: (id: string) => {
       const found = mathBank.find((item) => item.id === id);
       if (!found) return;
+      setReviewing(false);
       focusRef.current = id;
       setAutoplay(false);
       setMode("study");
