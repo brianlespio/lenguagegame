@@ -3,7 +3,9 @@ import type { LanguagePairId, VocabularyEntry } from "../types/vocabulary";
 import { isPhraseCategory, isVerbItem } from "./vocabulary";
 
 export function ttsLangForPair(pair: LanguagePairId): string {
-  return pair === "fr-es" ? "fr-FR" : "en-GB";
+  if (pair === "fr-es") return "fr-FR";
+  if (pair === "ca-es") return "ca-ES";
+  return "en-GB";
 }
 
 export function ttsLangForQuiz(pair: LanguagePairId, direction: "forward" | "reverse"): string {

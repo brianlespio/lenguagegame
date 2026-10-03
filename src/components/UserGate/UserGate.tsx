@@ -4,12 +4,13 @@ import type { AppUser } from "../../types/profile";
 interface UserGateProps {
   users: readonly AppUser[];
   activeUserId: string | null;
-  onCreate: (name: string) => void;
-  onSelect: (userId: string) => void;
+  onLanguage: (name: string) => void;
+  onMath: (name: string) => void;
 }
 
-export function UserGate({ users, activeUserId, onCreate, onSelect }: UserGateProps) {
+export function UserGate({ users, activeUserId, onLanguage, onMath }: UserGateProps) {
   const [name, setName] = useState("");
+  const ready = Boolean(name.trim());
 
   return (
     <div className="user-gate">
@@ -21,8 +22,6 @@ export function UserGate({ users, activeUserId, onCreate, onSelect }: UserGatePr
         className="user-gate-form"
         onSubmit={(event) => {
           event.preventDefault();
-          onCreate(name);
-          setName("");
         }}
       >
         <label className="user-gate-field">
@@ -36,13 +35,25 @@ export function UserGate({ users, activeUserId, onCreate, onSelect }: UserGatePr
             enterKeyHint="done"
           />
         </label>
-        <button
-          type="submit"
-          className="nav-button nav-button-primary text-reveal focus-ring"
-          disabled={!name.trim()}
-        >
-          Jugar
-        </button>
+        <p className="text-kicker">Elige con qué seguir</p>
+        <div className="subject-choices">
+          <button
+            type="button"
+            className="nav-button nav-button-primary text-reveal focus-ring"
+            disabled={!ready}
+            onClick={() => onLanguage(name)}
+          >
+            Idiomas
+          </button>
+          <button
+            type="button"
+            className="nav-button nav-button-primary text-reveal focus-ring"
+            disabled={!ready}
+            onClick={() => onMath(name)}
+          >
+            Matemáticas
+          </button>
+        </div>
       </form>
       {users.length > 0 ? (
         <ul className="user-gate-list">
@@ -51,8 +62,8 @@ export function UserGate({ users, activeUserId, onCreate, onSelect }: UserGatePr
               <button
                 type="button"
                 className="quiz-choice text-chip focus-ring"
-                data-state={user.id === activeUserId ? "correct" : "idle"}
-                onClick={() => onSelect(user.id)}
+                data-state={user.id === activeUserId || user.name === name.trim() ? "correct" : "idle"}
+                onClick={() => setName(user.name)}
               >
                 <span className="quiz-choice-key">Usuario {index + 1}</span>
                 <span className="quiz-choice-text">{user.name}</span>

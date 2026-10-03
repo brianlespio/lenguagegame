@@ -112,6 +112,15 @@ describe("useVocabulary", () => {
     });
   });
 
+  it("switches to the Catalan catalog", async () => {
+    const { result } = renderHook(() => useVocabulary());
+    act(() => result.current.setLanguagePair("ca-es"));
+    expect(result.current.state.languagePair).toBe("ca-es");
+    await waitFor(() => {
+      expect(result.current.filtered.some((entry) => entry.id.startsWith("ca-"))).toBe(true);
+    });
+  });
+
   it("filters the catalog by CEFR level", () => {
     const { result } = renderHook(() => useVocabulary({ entries: cefrEntries }));
     act(() => result.current.setCefrLevel("B2"));

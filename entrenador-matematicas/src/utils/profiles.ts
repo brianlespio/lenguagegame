@@ -1,0 +1,69 @@
+import { SCORES_KEY, USERS_KEY } from "../constants";
+import type { AppUser, TestScore, UserStore } from "../types/profile";
+import { readJson, writeJson } from "./storage";
+
+const emptyStore: UserStore = { activeUserId: null, users: [] };
+
+export function loadUserStore(): UserStore {
+  const raw = readJson<Partial<UserStore>>(USERS_KEY, emptyStore);
+  const users = Array.isArray(raw.users)
+    ? raw.users.filter((user): user is AppUser => {
+        return Boolean(user && typeof user.id === "string" && typeof user.name === "string" && user.name.trim());
+      })
+    : [];
+  const activeUserId =
+    typeof raw.activeUserId === "string" && users.some((user) => user.id === raw.activeUserId)
+      ? raw.activeUserId
+      : null;
+  return { activeUserId, users };
+}
+
+export function saveUserStore(store: UserStore): void {
+  writeJson(USERS_KEY, store);
+}
+
+export function createUser(store: UserStore, name: string): UserStore {
+  const trimmed = name.trim().replace(/\s+/g, " ");
+  if (!trimmed) return store;
+  const existing = store.users.find((user) => user.name.toLowerCase() === trimmed.toLowerCase());
+  if (existing) return { ...store, activeUserId: existing.id };
+  const user: AppUser = {
+    id: `user-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+    name: trimmed,
+    createdAt: new Date().toISOString(),
+  };
+  return { users: [...store.users, user], activeUserId: user.id };
+}
+
+export function selectUser(store: UserStore, userId: string): UserStore {
+  if (!store.users.some((user) => user.id === userId)) return store;
+  return { ...store, activeUserId: userId };
+}
+
+export function loadScores(): TestScore[] {
+  const raw = readJson<unknown>(SCORES_KEY, []);
+  if (!Array.isArray(raw)) return [];
+  return raw.filter((item): item is TestScore => {
+    if (!item || typeof item !== "object") return false;
+    const score = item as Partial<TestScore>;
+    return typeof score.id === "string" && typeof score.userId === "string" && typeof score.percent === "number";
+  });
+}
+
+export function saveScores(scores: readonly TestScore[]): void {
+  writeJson(SCORES_KEY, scores.slice(0, 80));
+}
+
+export function addScore(scores: readonly TestScore[], score: TestScore): TestScore[] {
+  return [score, ...scores].slice(0, 80);
+}
+
+export function scoresForUser(scores: readonly TestScore[], userId: string): TestScore[] {
+  return scores.filter((score) => score.userId === userId);
+}
+
+export function scoreNote(percent: number): string {
+  if (percent >= 85) return "Este nivel está firme. Puedes subir al siguiente cuando quieras.";
+  if (percent >= 60) return "Aún fallan cuentas. Repite las cartas de este eje antes de subir.";
+  return "Toca repetir el nivel. La puntuación sale de las cuentas, no de haber visto la carta.";
+}

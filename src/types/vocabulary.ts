@@ -35,11 +35,11 @@ export type StudyScope = CategoryFilter | "all-random";
 
 export type StudyMode = "study" | "test";
 
-export type LanguagePairId = "en-es" | "fr-es";
+export type LanguagePairId = "en-es" | "fr-es" | "ca-es";
 
 export interface LanguagePair {
   id: LanguagePairId;
-  source: "en" | "fr";
+  source: "en" | "fr" | "ca";
   target: "es";
   label: string;
   shortLabel: string;

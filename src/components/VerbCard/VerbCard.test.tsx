@@ -56,4 +56,30 @@ describe("VerbCard", () => {
     ]);
     expect(screen.getByText("VERBES")).toBeInTheDocument();
   });
+
+  it("uses Catalan form labels for the Catalan catalog", () => {
+    render(
+      <VerbCard
+        verb={{
+          id: "ca-verb-anar",
+          category: "verbs",
+          infinitive: "anar",
+          past: "va anar",
+          pastParticiple: "anat",
+          infinitiveTranslation: "ir",
+          pastTranslation: "fue",
+          pastParticipleTranslation: "ido",
+        }}
+        isRevealed
+        languagePair="ca-es"
+      />,
+    );
+    expect(screen.getAllByRole("heading").map((node) => node.textContent)).toEqual([
+      "INFINITIU",
+      "PASSAT",
+      "PARTICIPI",
+    ]);
+    expect(screen.getByText("VERBS")).toBeInTheDocument();
+    expect(screen.getByText("va anar")).toBeInTheDocument();
+  });
 });

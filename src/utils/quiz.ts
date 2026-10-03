@@ -9,18 +9,25 @@ const CHOICE_KEYS: readonly QuizChoiceKey[] = ["a", "b", "c", "d"];
 
 const NONE_CHANCE = 0.32;
 
-export function noneOfTheAboveLabel(choiceLanguage: "en" | "fr" | "es"): string {
+export function noneOfTheAboveLabel(choiceLanguage: "en" | "fr" | "ca" | "es"): string {
   if (choiceLanguage === "en") return "None of the above";
   if (choiceLanguage === "fr") return "Aucune des réponses ci-dessus";
+  if (choiceLanguage === "ca") return "Cap de les anteriors";
   return "Ninguna de las anteriores";
+}
+
+export function quizSourceLanguage(pair: LanguagePairId): "en" | "fr" | "ca" {
+  if (pair === "fr-es") return "fr";
+  if (pair === "ca-es") return "ca";
+  return "en";
 }
 
 export function quizChoiceLanguage(
   pair: LanguagePairId,
   direction: QuizDirection,
-): "en" | "fr" | "es" {
+): "en" | "fr" | "ca" | "es" {
   if (direction === "forward") return "es";
-  return pair === "fr-es" ? "fr" : "en";
+  return quizSourceLanguage(pair);
 }
 
 export function quizSides(entry: VocabularyEntry): { source: string; target: string } {
@@ -138,7 +145,7 @@ function catalogChoice(
 
 function noneChoice(pair: LanguagePairId, direction: QuizDirection, correct: boolean): Omit<QuizChoice, "key"> {
   const shown = quizChoiceLanguage(pair, direction);
-  const heard = shown === "es" ? (pair === "fr-es" ? "fr" : "en") : "es";
+  const heard = shown === "es" ? quizSourceLanguage(pair) : "es";
   return {
     entryId: NONE_OF_THE_ABOVE_ID,
     text: noneOfTheAboveLabel(shown),

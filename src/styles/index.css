@@ -870,8 +870,15 @@ select {
 
 .user-gate-form {
   display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: min(100%, 420px);
+  gap: 12px;
+}
+
+.subject-choices {
+  display: flex;
   flex-wrap: wrap;
-  align-items: flex-end;
   justify-content: center;
   gap: 12px;
 }

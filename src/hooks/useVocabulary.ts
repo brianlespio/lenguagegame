@@ -80,6 +80,7 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
   const [answerCorrect, setAnswerCorrect] = useState<Record<number, boolean>>({});
   const [testResult, setTestResult] = useState<TestRunResult | null>(null);
   const [frenchCatalog, setFrenchCatalog] = useState<VocabularyEntry[] | null>(null);
+  const [catalanCatalog, setCatalanCatalog] = useState<VocabularyEntry[] | null>(null);
   const userId = options.userId ?? null;
   const progressRef = useRef<PersistedProgress>(initialProgress);
   const intervalRef = useRef(interval);
@@ -94,11 +95,17 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
 
   useEffect(() => {
     if (injectedRef.current !== undefined) return;
-    if (languagePair !== "fr-es") return;
+    if (languagePair !== "fr-es" && languagePair !== "ca-es") return;
     let cancelled = false;
-    void import("../data/frenchCatalog").then((mod) => {
-      if (!cancelled) setFrenchCatalog(mod.frenchEntries);
-    });
+    if (languagePair === "fr-es") {
+      void import("../data/frenchCatalog").then((mod) => {
+        if (!cancelled) setFrenchCatalog(mod.frenchEntries);
+      });
+    } else {
+      void import("../data/catalanCatalog").then((mod) => {
+        if (!cancelled) setCatalanCatalog(mod.catalanEntries);
+      });
+    }
     return () => {
       cancelled = true;
     };
@@ -108,8 +115,9 @@ export function useVocabulary(options: UseVocabularyOptions = {}) {
     const injected = injectedRef.current;
     if (injected !== undefined) return injected;
     if (languagePair === "fr-es") return frenchCatalog ?? [];
+    if (languagePair === "ca-es") return catalanCatalog ?? [];
     return allEntries;
-  }, [injectedIds, languagePair, frenchCatalog]);
+  }, [injectedIds, languagePair, frenchCatalog, catalanCatalog]);
 
   const filtered = useMemo(
     () => filterEntries(catalog, selectedCategory, cefrLevel),

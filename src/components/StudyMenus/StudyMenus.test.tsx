@@ -93,6 +93,7 @@ describe("StudyMenus", () => {
     fireEvent.click(screen.getByRole("button", { name: "Idioma" }));
     expect(screen.getByRole("option", { name: /Français → Español/ })).toBeEnabled();
     expect(screen.getByRole("option", { name: /English → Spanish/ })).toBeEnabled();
+    expect(screen.getByRole("option", { name: /Català → Espanyol/ })).toBeEnabled();
   });
 
   it("selects a CEFR level from the level menu", () => {

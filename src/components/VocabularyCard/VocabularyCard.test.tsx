@@ -34,6 +34,24 @@ describe("VocabularyCard", () => {
     expect(screen.getByText("QUESTIONS")).toBeInTheDocument();
     expect(screen.getByText("Do you like coffee?")).toBeInTheDocument();
   });
+
+  it("uses Catalan category labels for the Catalan catalog", () => {
+    render(
+      <VocabularyCard
+        item={{
+          id: "ca-question-cafe",
+          category: "questions",
+          term: "Vols un cafè?",
+          translation: "¿Quieres un café?",
+        }}
+        isRevealed
+        languagePair="ca-es"
+      />,
+    );
+    expect(screen.getByText("PREGUNTES")).toBeInTheDocument();
+    expect(screen.getByText("Vols un cafè?")).toBeInTheDocument();
+    expect(screen.getByText("¿Quieres un café?")).toBeInTheDocument();
+  });
 });
 
 describe("CardRenderer", () => {

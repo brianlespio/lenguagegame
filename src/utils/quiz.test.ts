@@ -107,6 +107,8 @@ describe("buildQuizItem", () => {
 
   it("labels the French reverse none-option in French", () => {
     expect(quizChoiceLanguage("fr-es", "reverse")).toBe("fr");
+    expect(quizChoiceLanguage("ca-es", "reverse")).toBe("ca");
+    expect(noneOfTheAboveLabel("ca")).toBe("Cap de les anteriors");
     expect(noneOfTheAboveLabel("fr")).toBe("Aucune des réponses ci-dessus");
     const item = buildQuizItem(nouns, prompt, "reverse", {
       languagePair: "fr-es",

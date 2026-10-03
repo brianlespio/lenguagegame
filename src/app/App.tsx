@@ -20,8 +20,8 @@ import {
   saveScores,
   saveUserStore,
   scoresForUser,
-  selectUser,
 } from "../utils/profiles";
+import { consumeEntryName, subjectUrl } from "../utils/subjectDoor";
 import type { QuizSpeechRole } from "../components/QuizCard/QuizCard";
 import { ttsLangForChoiceTranslation, ttsLangForQuiz, ttsLangForQuizTranslation } from "../utils/speech";
 
@@ -36,10 +36,14 @@ function rankingForPair(scores: readonly TestScore[], pair: TestScore["languageP
 }
 
 export function App() {
-  const [userStore, setUserStore] = useState<UserStore>(() => loadUserStore());
+  const [entryName] = useState(consumeEntryName);
+  const [userStore, setUserStore] = useState<UserStore>(() => {
+    const store = loadUserStore();
+    return entryName ? createUser(store, entryName) : store;
+  });
   const [scores, setScores] = useState<TestScore[]>(() => loadScores());
   const [showScore, setShowScore] = useState(false);
-  const [playerReady, setPlayerReady] = useState(false);
+  const [playerReady, setPlayerReady] = useState(() => Boolean(entryName));
   const activeUser: AppUser | undefined = userStore.users.find((user) => user.id === userStore.activeUserId);
 
   const vocabulary = useVocabulary({ userId: activeUser?.id ?? null });
@@ -148,14 +152,14 @@ export function App() {
           <UserGate
             users={userStore.users}
             activeUserId={userStore.activeUserId}
-            onCreate={(name) => {
+            onLanguage={(name) => {
               if (!name.trim()) return;
               setUserStore((store) => createUser(store, name));
               setPlayerReady(true);
             }}
-            onSelect={(userId) => {
-              setUserStore((store) => selectUser(store, userId));
-              setPlayerReady(true);
+            onMath={(name) => {
+              if (!name.trim()) return;
+              window.location.assign(subjectUrl("math", name));
             }}
           />
         </main>

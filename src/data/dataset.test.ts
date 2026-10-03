@@ -3,7 +3,7 @@ import { verbs } from "./verbs";
 import { vocabulary } from "./vocabulary";
 import { frenchVerbs } from "./frenchVerbs";
 import { frenchVocabulary } from "./frenchVocabulary";
-import { allEntries, frenchEntries, getCatalog } from "./index";
+import { allEntries, catalanEntries, frenchEntries, getCatalog } from "./index";
 import { phraseSets, PHRASE_SET_COUNT, techPhraseSets, TECH_PHRASE_SET_COUNT, openPhraseSets, OPEN_PHRASE_SET_COUNT, schoolNoticeSets, SCHOOL_NOTICE_COUNT } from "./phraseSets";
 import { STUDY_CEFR_LEVELS } from "../constants";
 import { filterEntries, isVerbItem, isVocabularyItem } from "../utils/vocabulary";
@@ -83,12 +83,54 @@ describe("French dataset", () => {
   it("is returned by getCatalog for fr-es", () => {
     expect(getCatalog("fr-es")).toHaveLength(frenchEntries.length);
     expect(getCatalog("en-es")).toHaveLength(allEntries.length);
+    expect(getCatalog("ca-es")).toHaveLength(catalanEntries.length);
   });
 
   it("assigns every CEFR study band", () => {
-    for (const catalog of [allEntries, frenchEntries]) {
+    for (const catalog of [allEntries, frenchEntries, catalanEntries]) {
       for (const level of STUDY_CEFR_LEVELS) {
         expect(catalog.some((entry) => entry.difficulty === level)).toBe(true);
+      }
+    }
+  });
+});
+
+describe("Catalan dataset", () => {
+  it("ships a playable CA→ES catalog with unique ids", () => {
+    expect(catalanEntries.length).toBeGreaterThan(900);
+    const ids = catalanEntries.map((entry) => entry.id);
+    expect(new Set(ids).size).toBe(ids.length);
+    expect(ids.every((id) => id.startsWith("ca-"))).toBe(true);
+    expect(countByCategory(catalanEntries, "nouns")).toBeGreaterThan(180);
+    expect(countByCategory(catalanEntries, "verbs")).toBeGreaterThan(180);
+    expect(countByCategory(catalanEntries, "adjectives")).toBeGreaterThan(70);
+    expect(countByCategory(catalanEntries, "questions")).toBeGreaterThan(50);
+    expect(countByCategory(catalanEntries, "openQuestions")).toBeGreaterThan(20);
+    expect(countByCategory(catalanEntries, "techQuestions")).toBeGreaterThan(10);
+    expect(countByCategory(catalanEntries, "schoolNotices")).toBeGreaterThan(15);
+  });
+
+  it("keeps Catalan verbs in the spoken periphrastic past", () => {
+    const verbs = catalanEntries.filter(isVerbItem);
+    const infinitives = verbs.map((verb) => verb.infinitive);
+    expect(new Set(infinitives).size).toBe(infinitives.length);
+    for (const verb of verbs) {
+      expect(verb.past, verb.id).toMatch(/\bva\b/);
+    }
+  });
+
+  it("keeps Catalan phrases spoken, without English or Spanish loans", () => {
+    const banned = /\b(nombro|detour|workstream|deliverable|locus|anyway|the|this|that)\b/i;
+    const phrases = catalanEntries.filter((entry) => !isVerbItem(entry) && isVocabularyItem(entry));
+    for (const entry of phrases) {
+      if (
+        entry.category === "questions" ||
+        entry.category === "positiveAnswers" ||
+        entry.category === "negativeAnswers" ||
+        entry.category === "openQuestions" ||
+        entry.category === "openAnswers"
+      ) {
+        expect(entry.term, entry.id).not.toMatch(banned);
       }
     }
   });
@@ -208,6 +250,7 @@ describe("category filtering", () => {
     for (const level of STUDY_CEFR_LEVELS) {
       expect(filterEntries(allEntries, "all", level).length).toBeGreaterThan(0);
       expect(filterEntries(frenchEntries, "all", level).length).toBeGreaterThan(0);
+      expect(filterEntries(catalanEntries, "all", level).length).toBeGreaterThan(0);
     }
   });
 

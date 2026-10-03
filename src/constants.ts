@@ -179,6 +179,27 @@ export const CATEGORY_LABELS_BY_PAIR: Record<LanguagePairId, Record<CategoryFilt
     openAnswers: "RÉPONSE",
     schoolNotices: "AVIS",
   },
+  "ca-es": {
+    all: "TOT",
+    nouns: "NOMS",
+    verbs: "VERBS",
+    adjectives: "ADJECTIUS",
+    connectors: "CONNECTORS",
+    pronouns: "PRONOMS",
+    prepositions: "PREPOSICIONS",
+    adverbs: "ADVERBIS",
+    phrases: "SÈRIES",
+    questions: "PREGUNTES",
+    positiveAnswers: "AFIRMATIU",
+    negativeAnswers: "NEGATIU",
+    techPhrases: "TECH",
+    techQuestions: "PREGUNTA",
+    techAnswers: "RESPOSTA",
+    openPhrases: "PARLAR",
+    openQuestions: "PREGUNTA",
+    openAnswers: "RESPOSTA",
+    schoolNotices: "AVÍS",
+  },
 };
 
 export const CATEGORY_LABELS = CATEGORY_LABELS_BY_PAIR["en-es"];
@@ -186,6 +207,7 @@ export const CATEGORY_LABELS = CATEGORY_LABELS_BY_PAIR["en-es"];
 export const VERB_FORM_LABELS: Record<LanguagePairId, readonly [string, string, string]> = {
   "en-es": ["INFINITIVE", "PAST", "PAST PARTICIPLE"],
   "fr-es": ["INFINITIF", "PASSÉ COMPOSÉ", "PARTICIPE PASSÉ"],
+  "ca-es": ["INFINITIU", "PASSAT", "PARTICIPI"],
 };
 
 export function getCategoryLabel(pair: LanguagePairId, category: CategoryFilter): string {
@@ -267,6 +289,7 @@ export const STUDY_MODE_OPTIONS: ReadonlyArray<{ value: StudyMode; label: string
 export const STUDY_MODE_KICKER: Record<LanguagePairId, Record<StudyMode, string>> = {
   "en-es": { study: "STUDY", test: "TEST" },
   "fr-es": { study: "ÉTUDE", test: "TEST" },
+  "ca-es": { study: "ESTUDI", test: "TEST" },
 };
 
 export const LANGUAGE_PAIRS: readonly LanguagePair[] = [
@@ -284,6 +307,14 @@ export const LANGUAGE_PAIRS: readonly LanguagePair[] = [
     target: "es",
     label: "Français → Español",
     shortLabel: "FR → ES",
+    available: true,
+  },
+  {
+    id: "ca-es",
+    source: "ca",
+    target: "es",
+    label: "Català → Espanyol",
+    shortLabel: "CA → ES",
     available: true,
   },
 ];

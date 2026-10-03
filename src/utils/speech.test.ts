@@ -64,6 +64,7 @@ describe("tts phrases", () => {
   it("uses British English and French locales", () => {
     expect(ttsLangForPair("en-es")).toBe("en-GB");
     expect(ttsLangForPair("fr-es")).toBe("fr-FR");
+    expect(ttsLangForPair("ca-es")).toBe("ca-ES");
     expect(ttsLangForQuiz("en-es", "forward")).toBe("en-GB");
     expect(ttsLangForQuiz("en-es", "reverse")).toBe("es-ES");
     expect(ttsLangForQuiz("fr-es", "forward")).toBe("fr-FR");
