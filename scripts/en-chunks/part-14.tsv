@@ -1,0 +1,418 @@
+V	verb-underpin	underpin	apuntalar
+V	verb-outweigh	outweigh	pesar más que
+V	verb-outstrip	outstrip	dejar atrás
+V	verb-outpace	outpace	adelantar
+V	verb-overhaul	overhaul	reformar de arriba abajo
+V	verb-override	override	prevalecer sobre
+V	verb-overrule	overrule	desestimar
+V	verb-overstep	overstep	extralimitarse
+V	verb-undercut	undercut	socavar los precios
+V	verb-underwrite	underwrite	avalar
+V	verb-undermine	undermine	socavar
+V	verb-underscore	underscore	subrayar
+V	verb-undertake	undertake	acometer
+V	verb-undergo	undergo	someterse a
+V	verb-overshadow	overshadow	eclipsar
+V	verb-overwhelm	overwhelm	abrumar
+V	verb-overstate	overstate	ponderar en exceso
+V	verb-understate	understate	quedarse corto
+V	verb-overplay	overplay	hinchar
+V	verb-underplay	underplay	restar importancia
+V	verb-shelve	shelve	aparcar
+V	verb-mothball	mothball	dejar en suspenso
+V	verb-fudge	fudge	tergiversar
+V	verb-prevaricate	prevaricate	escurrir el bulto
+V	verb-leapfrog	leapfrog	saltar por encima
+V	verb-green-light	green-light	dar luz verde
+V	verb-rubber-stamp	rubber-stamp	refrendar sin más
+V	verb-fast-track	fast-track	acelerar el trámite
+V	verb-backtrack	backtrack	desdecirse
+V	verb-backpedal	backpedal	echarse atrás
+V	verb-second-guess	second-guess	poner en tela de juicio
+V	verb-cherry-pick	cherry-pick	espigar a conveniencia
+V	verb-short-change	short-change	dar gato por liebre
+V	verb-shortlist	shortlist	incluir en la terna
+V	verb-headhunt	headhunt	cazar talentos
+V	verb-sandbag	sandbag	guardar baza
+V	verb-railroad	railroad	imponer a empujones
+V	verb-steamroll	steamroll	aplanar
+V	verb-bulldoze	bulldoze	pasar por encima
+V	verb-strong-arm	strong-arm	forzar a empujones
+V	verb-ring-fence	ring-fence	aislar patrimonialmente
+V	verb-earmark	earmark	afectar a un fin
+V	verb-front-load	front-load	cargar al inicio
+V	verb-back-load	back-load	cargar al final
+V	verb-drip-feed	drip-feed	dosificar
+V	verb-spoon-feed	spoon-feed	dar en cuchara
+V	verb-force-feed	force-feed	embutir
+V	verb-blacklist	blacklist	poner en lista negra
+V	verb-whitelist	whitelist	poner en lista blanca
+V	verb-red-flag	red-flag	marcar de alarma
+V	verb-snowball	snowball	crecer como bola de nieve
+V	verb-balloon	balloon	hincharse
+V	verb-mushroom	mushroom	brotar como setas
+V	verb-crater	crater	hundirse en picado
+V	verb-plunge	plunge	desplomarse
+V	verb-slump	slump	venirse abajo
+V	verb-tank	tank	hundirse
+V	verb-nosedive	nosedive	caer en picado
+V	verb-tailspin	tailspin	entrar en barrena
+V	verb-freefall	freefall	caer en caída libre
+V	verb-rebound	rebound	rebotar
+V	verb-rally	rally	reponerse
+V	verb-overtake	overtake	adelantar
+V	verb-overhang	overhang	amenazar desde arriba
+V	verb-overrun	overrun	desbordar
+V	verb-overdo	overdo	pasarse de la raya
+V	verb-overshoot	overshoot	pasarse de largo
+V	verb-undershoot	undershoot	quedarse corto
+V	verb-undersell	undersell	vender por debajo
+V	verb-offset	offset	compensar
+V	verb-forecast	forecast	pronosticar
+V	verb-recast	recast	refundir
+V	verb-proofread	proofread	corregir pruebas
+V	verb-misread	misread	leer mal
+V	verb-rewrite	rewrite	reescribir
+V	verb-overwrite	overwrite	sobrescribir
+V	verb-shed	shed	desprenderse de
+V	verb-thrust	thrust	empujar
+V	verb-upset	upset	trastocar
+V	verb-unwind	unwind	deshacer la posición
+V	verb-rewind	rewind	rebobinar
+V	verb-unbind	unbind	desligar
+V	verb-unstick	unstick	desatascar
+V	verb-misspeak	misspeak	hablar a destiempo
+V	verb-misspell	misspell	escribir mal
+V	verb-misspend	misspend	malgastar
+V	verb-mislead	mislead	inducir a error
+V	verb-mishear	mishear	oír mal
+V	verb-mislay	mislay	extraviar
+V	verb-outdo	outdo	superar
+V	verb-outgrow	outgrow	quedar pequeño
+V	verb-outrun	outrun	dejar atrás
+V	verb-outsell	outsell	vender más que
+V	verb-outspend	outspend	gastar más que
+V	verb-outbid	outbid	pujar por encima
+V	verb-foresee	foresee	prever
+V	verb-foretell	foretell	pronosticar
+V	verb-reframe	reframe	replantear
+V	verb-hone	hone	afilar
+V	verb-fine-tune	fine-tune	afinar
+V	verb-tweak	tweak	retocar
+V	verb-gazette	gazette	publicar en el boletín
+V	verb-table	table	someter a debate
+V	verb-second	second	secundar
+V	verb-repeal	repeal	derogar
+V	verb-revoke	revoke	revocar
+V	verb-overturn	overturn	anular
+V	verb-endorse	endorse	avalar
+V	verb-paper-over	paper-over	tapar las grietas
+V	verb-gloss-over	gloss-over	pasar por alto
+V	verb-skate-over	skate-over	rozar de pasada
+V	verb-shrug-off	shrug-off	quitarse de encima
+V	verb-brush-aside	brush-aside	despachar
+V	verb-set-forth	set-forth	exponer
+V	verb-weigh-up	weigh-up	sopesar
+V	verb-sound-out	sound-out	sondear
+V	verb-crowd-out	crowd-out	desplazar
+V	verb-freeze-out	freeze-out	dejar fuera
+V	verb-lock-out	lock-out	cerrar el paso
+V	verb-lock-in	lock-in	atar de por vida
+V	verb-box-in	box-in	acorralar
+V	verb-hem-in	hem-in	cercar
+V	verb-hive-off	hive-off	escindir
+V	verb-wall-off	wall-off	tabicar
+V	verb-walk-back	walk-back	retractarse de
+V	verb-row-back	row-back	recular
+V	verb-claw-back	claw-back	recuperar lo dado
+V	verb-write-down	write-down	sanear
+V	verb-write-off	write-off	castigar
+V	verb-spin-off	spin-off	escindir
+V	verb-carve-out	carve-out	segregar
+V	verb-phase-out	phase-out	retirar por etapas
+V	verb-phase-in	phase-in	introducir por etapas
+V	verb-roll-out	roll-out	desplegar
+V	verb-roll-back	roll-back	echar atrás
+V	verb-scale-back	scale-back	recortar
+V	verb-scale-up	scale-up	ampliar de escala
+V	verb-wind-down	wind-down	desmantelar con orden
+V	verb-wind-up	wind-up	liquidar
+V	verb-shut-down	shut-down	cerrar
+V	verb-start-up	start-up	poner en marcha
+V	verb-kick-start	kick-start	dar el empujón
+V	verb-jump-start	jump-start	poner en marcha de un golpe
+V	verb-fast-forward	fast-forward	avanzar de golpe
+V	verb-slow-walk	slow-walk	dar largas
+V	verb-run-down	run-down	dejar decaer
+V	verb-talk-down	talk-down	quitar hierro de palabra
+V	verb-talk-up	talk-up	ponderar de palabra
+V	verb-talk-round	talk-round	convencer a vueltas
+V	verb-talk-through	talk-through	repasar en voz alta
+V	verb-walk-through	walk-through	recorrer paso a paso
+V	verb-run-through	run-through	repasar de corrido
+V	verb-zero-in	zero-in	apuntar de lleno
+V	verb-home-in	home-in	fijar el blanco
+V	verb-zero-out	zero-out	dejar en cero
+V	verb-net-off	net-off	compensar
+V	verb-set-off	set-off	compensar
+V	verb-set-aside	set-aside	reservar
+V	verb-set-about	set-about	ponerse a
+V	verb-pit-against	pit-against	enfrentar
+V	verb-play-down	play-down	quitar hierro
+V	verb-play-up	play-up	hinchar
+V	verb-play-off	play-off	enfrentar entre sí
+V	verb-fob-off	fob-off	despachar con evasivas
+V	verb-palm-off	palm-off	colar
+V	verb-fob-onto	fob-onto	cargar a otro
+V	verb-saddle-with	saddle-with	cargar con
+V	verb-saddle	saddle	cargar
+V	verb-saddle-on	saddle-on	imponer la carga
+V	verb-saddle-upon	saddle-upon	cargar sobre
+V	verb-saddle-onto	saddle-onto	echar encima
+V	verb-saddle-off	saddle-off	quitar la carga
+V	verb-unload	unload	deshacerse de
+V	verb-offload	offload	traspasar la carga
+V	verb-dump	dump	deshacerse a pérdidas
+V	verb-unload-onto	unload-onto	echar encima a
+V	verb-offload-onto	offload-onto	traspasar a
+V	verb-dump-onto	dump-onto	echar encima a
+V	verb-front-run	front-run	adelantarse al mercado
+V	verb-insider-deal	insider-deal	operar con información privilegiada
+V	verb-whistle-blow	whistle-blow	denunciar desde dentro
+V	verb-leak	leak	filtrar
+V	verb-brief	brief	poner al corriente
+V	verb-debrief	debrief	tomar declaración de vuelta
+V	verb-doorstep	doorstep	asaltar a la puerta
+V	verb-ambush	ambush	tender una celada
+V	verb-lowball	lowball	pujar a la baja
+V	verb-highball	highball	pujar al alza
+V	verb-low-ball	low-ball	ofrecer a la baja
+V	verb-high-ball	high-ball	pedir al alza
+V	verb-anchor	anchor	anclar
+V	verb-peg	peg	atar a un tipo
+V	verb-unpeg	unpeg	desatar del tipo
+V	verb-depeg	depeg	desvincular del tipo
+V	verb-repeg	repeg	volver a atar al tipo
+V	verb-cap	cap	poner tope
+V	verb-uncap	uncap	quitar el tope
+V	verb-floor	floor	poner suelo
+V	verb-collar	collar	poner banda
+V	verb-unhedge	unhedge	dejar sin cobertura
+V	verb-net	net	liquidar en neto
+V	verb-gross-up	gross-up	brutar
+V	verb-net-down	net-down	dejar en neto
+V	verb-write-up	write-up	revalorizar
+V	verb-mark-up	mark-up	marcar al alza
+V	verb-mark-down	mark-down	marcar a la baja
+V	verb-mark-to-market	mark-to-market	valorar a mercado
+V	verb-impair	impair	deteriorar
+V	verb-unimpair	unimpair	dejar sin deterioro
+V	verb-provision	provision	dotar
+V	verb-unprovision	unprovision	liberar la dotación
+V	verb-release	release	liberar
+V	verb-charge	charge	cargar
+V	verb-recharge	recharge	recargar
+V	verb-overcharge	overcharge	cobrar de más
+V	verb-undercharge	undercharge	cobrar de menos
+V	verb-surcharge	surcharge	recargar
+V	verb-claw	claw	arrebatar
+V	verb-recoup	recoup	resarcirse
+V	verb-recapture	recapture	recuperar
+V	verb-reclaim	reclaim	reclamar la devolución
+V	verb-clawback	clawback	reintegrar
+V	verb-escheat	escheat	revertir al fisco
+V	verb-disapply	disapply	dejar sin aplicación
+V	verb-sunset	sunset	dejar caducar
+V	verb-grandfather	grandfather	respetar derechos adquiridos
+V	verb-hard-wire	hard-wire	dejar grabado
+V	verb-soft-wire	soft-wire	dejar flexible
+V	verb-future-proof	future-proof	poner a prueba del porvenir
+V	verb-futureproof	futureproof	blindar de antemano
+V	verb-stress-test	stress-test	someter a prueba de estrés
+V	verb-road-test	road-test	poner a prueba en marcha
+V	verb-field-test	field-test	poner a prueba sobre el terreno
+V	verb-beta-test	beta-test	poner a prueba piloto
+V	verb-pilot	pilot	poner en piloto
+V	verb-trial	trial	ensayar
+V	verb-outflank	outflank	rebasar por el flanco
+V	verb-rollout	rollout	desplegar
+V	verb-soft-launch	soft-launch	lanzar en sordina
+V	verb-hard-launch	hard-launch	lanzar a bombo
+V	verb-soft-open	soft-open	abrir en sordina
+V	verb-hard-close	hard-close	cerrar en firme
+V	verb-soft-close	soft-close	cerrar en sordina
+V	verb-hard-stop	hard-stop	parar en seco
+V	verb-soft-stop	soft-stop	parar con tiento
+V	verb-spike	spike	archivar de un golpe
+V	verb-outmanoeuvre	outmanoeuvre	desbordar
+V	verb-bin	bin	tirar a la papelera
+V	verb-can	can	dar carpetazo
+V	verb-axe	axe	destituir de un tajo
+V	verb-scrap	scrap	echar al desguace
+V	verb-junk	junk	tirar al desecho
+V	verb-ditch	ditch	abandonar
+V	verb-jettison	jettison	alijar
+V	verb-jettison-off	jettison-off	echar por la borda
+V	verb-warehouse	warehouse	guardar en almacén
+V	verb-stockpile	stockpile	acopiar
+V	verb-hoard	hoard	atesorar
+V	verb-squirrel	squirrel	esconder para después
+V	verb-squirrel-away	squirrel-away	esconder a buen recaudo
+V	verb-ringfence	ringfence	poner cortafuegos
+V	verb-firewall	firewall	tabicar el riesgo
+V	verb-silo	silo	encerrar en silo
+V	verb-unsilo	unsilo	sacar del silo
+V	verb-silo-off	silo-off	aislar en silo
+V	verb-redistrict	redistrict	redibujar distritos
+V	verb-firewall-off	firewall-off	aislar con muro
+V	verb-chinese-wall	chinese-wall	alzar muralla china
+V	verb-gag	gag	amordazar
+V	verb-ungag	ungag	quitar la mordaza
+V	verb-gag-order	gag-order	imponer silencio
+V	verb-injunct	injunct	interdecir
+V	verb-restrain	restrain	coartar
+V	verb-unstay	unstay	alzar la suspensión
+V	verb-adjourn	adjourn	aplazar la sesión
+V	verb-prorogue	prorogue	cerrar la legislatura
+V	verb-unseat	unseat	desalojar del escaño
+V	verb-prorogate	prorogate	prorrogar
+V	verb-whip	whip	imponer disciplina de voto
+V	verb-unwhip	unwhip	levantar la disciplina
+V	verb-pair	pair	emparejar ausencias
+V	verb-unpair	unpair	desemparejar
+V	verb-cloture	cloture	cerrar el debate
+V	verb-outvote	outvote	ganar por votos
+V	verb-timetable	timetable	poner calendario
+V	verb-steamroller	steamroller	aplanar el trámite
+V	verb-guillotine	guillotine	cortar el debate
+V	verb-kangaroo	kangaroo	saltar enmiendas
+V	verb-closure	closure	acordar el cierre
+V	verb-oversee	oversee	supervisar
+V	verb-overlook	overlook	pasar por alto
+V	verb-upgrade	upgrade	mejorar de categoría
+V	verb-update	update	poner al día
+V	verb-unfold	unfold	desarrollarse
+V	verb-unravel	unravel	desentrañar
+V	verb-unveil	unveil	desvelar
+V	verb-outlast	outlast	durar más que
+V	verb-outnumber	outnumber	superar en número
+V	verb-outperform	outperform	superar en rendimiento
+V	verb-reassess	reassess	reevaluar
+V	verb-rethink	rethink	repensar
+V	verb-reshuffle	reshuffle	reordenar
+V	verb-restructure	restructure	reestructurar
+V	verb-realign	realign	realinear
+V	verb-reallocate	reallocate	reasignar
+V	verb-renegotiate	renegotiate	renegociar
+V	verb-reimburse	reimburse	reembolsar
+V	verb-broker	broker	mediar
+V	verb-spearhead	spearhead	encabezar
+V	verb-phase out	phase out	retirar por fases
+V	verb-phase in	phase in	introducir por fases
+V	verb-roll out	roll out	desplegar
+V	verb-roll back	roll back	echar atrás
+V	verb-scale back	scale back	reducir de escala
+V	verb-scale up	scale up	ampliar de escala
+V	verb-step down	step down	dimitir
+V	verb-step up	step up	intensificar
+V	verb-step aside	step aside	apartarse
+V	verb-step in	step in	intervenir
+V	verb-stand down	stand down	retirarse
+V	verb-stand by	stand by	mantenerse firme
+V	verb-stand for	stand for	significar
+V	verb-back down	back down	ceder
+V	verb-back out	back out	echarse atrás
+V	verb-back off	back off	recular
+V	verb-call off	call off	suspender
+V	verb-call out	call out	señalar en público
+V	verb-call in	call in	llamar a consulta
+V	verb-call for	call for	reclamar
+V	verb-crack down	crack down	apretar las tuercas
+V	verb-clamp down	clamp down	poner coto
+V	verb-write off	write off	dar de baja
+V	verb-take over	take over	tomar el control
+V	verb-take on	take on	asumir
+V	verb-take up	take up	retomar
+V	verb-take apart	take apart	desmontar
+V	verb-bring about	bring about	provocar
+V	verb-bring forward	bring forward	adelantar
+V	verb-bring in	bring in	introducir
+V	verb-bring out	bring out	sacar a la luz
+V	verb-put forward	put forward	plantear
+V	verb-put off	put off	aplazar
+V	verb-put through	put through	sacar adelante
+V	verb-put across	put across	hacer entender
+V	verb-put aside	put aside	apartar
+V	verb-get across	get across	hacer llegar
+V	verb-get away with	get away with	salirse con la suya
+V	verb-get on with	get on with	seguir con
+V	verb-come under	come under	verse sometido a
+V	verb-come down to	come down to	reducirse a
+V	verb-come up with	come up with	dar con
+V	verb-come out with	come out with	soltar
+V	verb-go along with	go along with	secundar
+V	verb-go through with	go through with	llevar a cabo
+V	verb-go back on	go back on	desdecirse de
+V	verb-hold off	hold off	contener
+V	verb-hold out	hold out	resistir
+V	verb-hold back	hold back	contener
+V	verb-hold on	hold on	aferrarse
+V	verb-turn down	turn down	rechazar
+V	verb-turn out	turn out	resultar
+V	verb-turn around	turn around	darle la vuelta
+V	verb-turn over	turn over	entregar
+V	verb-turn up	turn up	comparecer
+V	verb-carry out	carry out	llevar a cabo
+V	verb-carry on	carry on	seguir adelante
+V	verb-follow through	follow through	llevar hasta el final
+V	verb-follow up	follow up	dar seguimiento
+V	verb-look into	look into	indagar
+V	verb-look over	look over	repasar
+V	verb-see through	see through	calarlo
+V	verb-see to	see to	ocuparse de
+V	verb-see about	see about	encargarse de
+V	verb-set out	set out	exponer
+V	verb-set off	set off	desencadenar
+V	verb-set aside	set aside	reservar
+V	verb-set about	set about	ponerse a
+V	verb-set in	set in	instalarse
+V	verb-lay off	lay off	despedir
+V	verb-lay out	lay out	exponer
+V	verb-lay down	lay down	sentar
+V	verb-wind up	wind up	acabar
+V	verb-wind down	wind down	ir relajándose
+V	verb-spin	spin	sesgar
+V	verb-flag	flag	señalar
+V	verb-tap	tap	echar mano de
+V	verb-sound out	sound out	sondear
+V	verb-flesh out	flesh out	desarrollar
+V	verb-iron out	iron out	allanar
+V	verb-rule out	rule out	descartar
+V	verb-single out	single out	señalar
+V	verb-spell out	spell out	dejar sentado
+V	verb-map out	map out	trazar
+V	verb-play down	play down	quitar importancia
+V	verb-play up	play up	hacer hincapié
+V	verb-water down	water down	diluir
+V	verb-ratchet up	ratchet up	subir de tono
+V	verb-double down	double down	redoblar la apuesta
+V	verb-walk back	walk back	desdecirse de
+V	verb-row back	row back	dar marcha atrás
+V	verb-push back	push back	plantarse
+V	verb-push through	push through	sacar adelante
+V	verb-fall short	fall short	quedarse corto
+V	verb-fall behind	fall behind	quedarse atrás
+V	verb-live up to	live up to	estar a la altura de
+V	verb-measure up	measure up	dar la talla
+V	verb-gauge	gauge	calibrar
+V	verb-lobby	lobby	presionar en los pasillos
+V	verb-tone down	tone down	bajar el tono
+V	verb-beef up	beef up	reforzar
+V	verb-shore up	shore up	apuntalar
+V	verb-paper over	paper over	tapar las grietas
+V	verb-gloss over	gloss over	pasar por alto
+V	verb-talk down	talk down	menospreciar
+V	verb-talk up	talk up	ponderar
+V	verb-clock off	clock off	fichar la salida
+V	verb-phone in	phone in	hacer de trámite
+V	verb-write in	write in	escribir para opinar

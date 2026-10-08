@@ -1,0 +1,800 @@
+W	adjective-original	adjectives	original	original
+W	adjective-typical	adjectives	typical	típico
+W	adjective-similar	adjectives	similar	parecido
+W	adjective-different	adjectives	different	diferente
+W	adjective-equal	adjectives	equal	igual
+W	adjective-extra	adjectives	extra	extra
+W	adjective-perfect	adjectives	perfect	perfecto
+W	adjective-excellent	adjectives	excellent	excelente
+W	adjective-terrible	adjectives	terrible	terrible
+W	adjective-awful	adjectives	awful	horrible
+W	adjective-wonderful	adjectives	wonderful	maravilloso
+W	adjective-amazing	adjectives	amazing	asombroso
+W	adjective-ordinary	adjectives	ordinary	ordinario
+W	adjective-unique	adjectives	unique	único
+W	adjective-rare	adjectives	rare	raro
+W	adjective-sudden	adjectives	sudden	repentino
+W	adjective-daily	adjectives	daily	diario
+W	adjective-current	adjectives	current	actual
+W	adjective-previous	adjectives	previous	anterior
+W	adjective-absent	adjectives	absent	ausente
+W	adjective-able	adjectives	able	capaz
+W	adjective-likely	adjectives	likely	probable
+W	adjective-willing	adjectives	willing	dispuesto
+W	adjective-responsible	adjectives	responsible	responsable
+W	adjective-independent	adjectives	independent	independiente
+W	adjective-professional	adjectives	professional	profesional
+W	adjective-legal	adjectives	legal	legal
+W	adjective-illegal	adjectives	illegal	ilegal
+W	adjective-medical	adjectives	medical	médico
+W	adjective-physical	adjectives	physical	físico
+W	adjective-mental	adjectives	mental	mental
+W	adjective-cultural	adjectives	cultural	cultural
+W	adjective-religious	adjectives	religious	religioso
+W	adjective-scientific	adjectives	scientific	científico
+W	adjective-technical	adjectives	technical	técnico
+W	adjective-digital	adjectives	digital	digital
+W	adjective-traditional	adjectives	traditional	tradicional
+W	adjective-global	adjectives	global	mundial
+W	adjective-foreign	adjectives	foreign	extranjero
+W	adjective-rural	adjectives	rural	rural
+W	adjective-urban	adjectives	urban	urbano
+W	adjective-financial	adjectives	financial	financiero
+W	adjective-practical	adjectives	practical	práctico
+W	adjective-visual	adjectives	visual	visual
+W	adjective-musical	adjectives	musical	musical
+W	adjective-historical	adjectives	historical	histórico
+W	adjective-military	adjectives	military	militar
+W	adjective-human	adjectives	human	humano
+W	adjective-positive	adjectives	positive	positivo
+W	adjective-negative	adjectives	negative	negativo
+W	adjective-active	adjectives	active	activo
+W	adjective-formal	adjectives	formal	formal
+W	adjective-successful	adjectives	successful	exitoso
+W	adjective-broken	adjectives	broken	roto
+W	adjective-frozen	adjectives	frozen	congelado
+W	adjective-sour	adjectives	sour	ácido
+W	adjective-silent	adjectives	silent	silencioso
+W	adjective-curious	adjectives	curious	curioso
+W	adjective-creative	adjectives	creative	creativo
+W	adjective-talented	adjectives	talented	talentoso
+W	adjective-experienced	adjectives	experienced	experimentado
+W	adjective-married	adjectives	married	casado
+W	adjective-single	adjectives	single	soltero
+W	adjective-adult	adjectives	adult	adulto
+W	adjective-central	adjectives	central	central
+W	adjective-secret	adjectives	secret	secreto
+W	adjective-familiar	adjectives	familiar	familiar
+W	adjective-enormous	adjectives	enormous	enorme
+W	adjective-major	adjectives	major	principal
+W	adjective-minor	adjectives	minor	menor
+W	adverb-tonight	adverbs	tonight	esta noche
+W	adverb-later	adverbs	later	más tarde
+W	adverb-currently	adverbs	currently	actualmente
+W	adverb-regularly	adverbs	regularly	regularmente
+W	adverb-occasionally	adverbs	occasionally	de vez en cuando
+W	adverb-frequently	adverbs	frequently	frecuentemente
+W	adverb-rarely	adverbs	rarely	rara vez
+W	adverb-forever	adverbs	forever	para siempre
+W	adverb-actually	adverbs	actually	en realidad
+W	adverb-obviously	adverbs	obviously	obviamente
+W	adverb-unfortunately	adverbs	unfortunately	desgraciadamente
+W	adverb-luckily	adverbs	luckily	afortunadamente
+W	adverb-hopefully	adverbs	hopefully	ojalá
+W	adverb-honestly	adverbs	honestly	honestamente
+W	adverb-basically	adverbs	basically	básicamente
+W	adverb-mainly	adverbs	mainly	principalmente
+W	adverb-mostly	adverbs	mostly	sobre todo
+W	adverb-partly	adverbs	partly	en parte
+W	adverb-fully	adverbs	fully	plenamente
+W	adverb-slightly	adverbs	slightly	ligeramente
+W	adverb-gradually	adverbs	gradually	gradualmente
+W	adverb-eventually	adverbs	eventually	al final
+W	adverb-previously	adverbs	previously	previamente
+W	adverb-originally	adverbs	originally	originalmente
+W	adverb-personally	adverbs	personally	personalmente
+W	adverb-definitely	adverbs	definitely	definitivamente
+W	adverb-absolutely	adverbs	absolutely	absolutamente
+W	adverb-totally	adverbs	totally	totalmente
+W	adverb-perfectly	adverbs	perfectly	perfectamente
+W	adverb-properly	adverbs	properly	correctamente
+W	adverb-correctly	adverbs	correctly	correctamente
+W	adverb-equally	adverbs	equally	igualmente
+W	adverb-similarly	adverbs	similarly	de forma similar
+W	adverb-separately	adverbs	separately	por separado
+W	adverb-nearby	adverbs	nearby	cerca
+W	adverb-online	adverbs	online	en línea
+W	adverb-constantly	adverbs	constantly	constantemente
+W	adverb-indeed	adverbs	indeed	en efecto
+W	adverb-apparently	adverbs	apparently	al parecer
+W	adverb-surprisingly	adverbs	surprisingly	sorprendentemente
+W	connector-so-as-to	connectors	so as to	a fin de
+W	connector-in-order-that	connectors	in order that	a fin de que
+W	connector-for-fear-that	connectors	for fear that	por miedo a que
+W	connector-lest	connectors	lest	no sea que
+W	connector-with-a-view-to	connectors	with a view to	con vistas a
+W	connector-for-the-purpose-of	connectors	for the purpose of	con el fin de
+W	connector-so-as-not-to	connectors	so as not to	para no
+W	connector-that-s-why	connectors	that's why	por eso
+W	connector-hence	connectors	hence	de ahí
+W	connector-consequently	connectors	consequently	en consecuencia
+W	connector-accordingly	connectors	accordingly	por consiguiente
+W	connector-so-much-so-that	connectors	so much so that	hasta el punto de que
+W	connector-as-a-consequence	connectors	as a consequence	como consecuencia
+W	connector-thereby	connectors	thereby	con ello
+W	connector-for-this-reason	connectors	for this reason	por esta razón
+W	connector-on-the-contrary	connectors	on the contrary	al contrario
+W	connector-by-contrast	connectors	by contrast	por contraste
+W	connector-conversely	connectors	conversely	a la inversa
+W	connector-unlike	connectors	unlike	a diferencia de
+W	connector-instead-of	connectors	instead of	en lugar de
+W	connector-even-so	connectors	even so	aun así
+W	connector-all-the-same	connectors	all the same	aun así
+W	connector-notwithstanding	connectors	notwithstanding	no obstante
+W	connector-furthermore	connectors	furthermore	además
+W	connector-in-addition	connectors	in addition	además
+W	connector-also	connectors	also	también
+W	connector-what-s-more	connectors	what's more	es más
+W	connector-likewise	connectors	likewise	igualmente
+W	connector-then	connectors	then	luego
+W	connector-given-that	connectors	given that	dado que
+W	connector-in-view-of	connectors	in view of	habida cuenta de
+W	connector-inasmuch-as	connectors	inasmuch as	en la medida en que
+W	connector-insofar-as	connectors	insofar as	en tanto que
+W	connector-seeing-that	connectors	seeing that	visto que
+W	connector-on-account-of	connectors	on account of	a causa de
+W	connector-in-other-words	connectors	in other words	dicho de otro modo
+W	connector-namely	connectors	namely	a saber
+W	connector-in-particular	connectors	in particular	en particular
+W	connector-that-is-to-say	connectors	that is to say	es decir
+W	connector-to-conclude	connectors	to conclude	para concluir
+W	connector-in-conclusion	connectors	in conclusion	en conclusión
+W	connector-in-short	connectors	in short	en resumen
+W	connector-all-in-all	connectors	all in all	en conjunto
+W	connector-except-if	connectors	except if	salvo si
+W	connector-only-if	connectors	only if	solo si
+W	connector-beforehand	connectors	beforehand	de antemano
+W	connector-firstly	connectors	firstly	en primer lugar
+W	connector-as-for	connectors	as for	en cuanto a
+W	connector-afterwards	connectors	afterwards	después
+W	connector-lastly	connectors	lastly	por último
+W	noun-plight	nouns	plight	aprieto
+W	noun-knell	nouns	knell	tañido fúnebre
+W	noun-thrall	nouns	thrall	servidumbre
+W	noun-welter	nouns	welter	revoltijo
+W	noun-slew	nouns	slew	sinnúmero
+W	noun-throe	nouns	throe	coletazo
+W	noun-weal	nouns	weal	bienestar común
+W	noun-woe	nouns	woe	desdicha
+W	noun-blight	nouns	blight	tizón
+W	noun-bane	nouns	bane	azote
+W	noun-behest	nouns	behest	mandato
+W	noun-dearth	nouns	dearth	carestía
+W	noun-dross	nouns	dross	hez
+W	noun-dirge	nouns	dirge	endecha
+W	noun-doldrums	nouns	doldrums	marasmo
+W	noun-dudgeon	nouns	dudgeon	mohína
+W	noun-comeuppance	nouns	comeuppance	escarmiento
+W	noun-clout	nouns	clout	ascendiente
+W	noun-chicanery	nouns	chicanery	trapacería
+W	noun-canard	nouns	canard	bulo
+W	noun-byword	nouns	byword	dechado
+W	noun-brouhaha	nouns	brouhaha	alharaca
+W	noun-brinkmanship	nouns	brinkmanship	temeridad calculada
+W	noun-bluster	nouns	bluster	fanfarronería
+W	noun-bauble	nouns	bauble	oropel
+W	noun-balk	nouns	balk	tropiezo
+W	noun-bedlam	nouns	bedlam	desbarajuste
+W	noun-leeway	nouns	leeway	holgura
+W	noun-backlash	nouns	backlash	contragolpe
+W	noun-upshot	nouns	upshot	desenlace
+W	noun-drawback	nouns	drawback	pega
+W	noun-foothold	nouns	foothold	asidero
+W	noun-shortcoming	nouns	shortcoming	merma
+W	noun-loophole	nouns	loophole	resquicio
+W	noun-deadlock	nouns	deadlock	punto muerto
+W	noun-stalemate	nouns	stalemate	tablas
+W	noun-gridlock	nouns	gridlock	atasco total
+W	noun-bottleneck	nouns	bottleneck	embudo
+W	noun-watershed	nouns	watershed	hito decisivo
+W	noun-hallmark	nouns	hallmark	sello distintivo
+W	noun-touchstone	nouns	touchstone	piedra de toque
+W	noun-yardstick	nouns	yardstick	rasero
+W	noun-linchpin	nouns	linchpin	quicio
+W	noun-mainspring	nouns	mainspring	resorte
+W	noun-mainstay	nouns	mainstay	sostén
+W	noun-kingpin	nouns	kingpin	cabecilla
+W	noun-figurehead	nouns	figurehead	testaferro
+W	noun-scapegoat	nouns	scapegoat	chivo expiatorio
+W	noun-stooge	nouns	stooge	títere
+W	noun-hireling	nouns	hireling	mercenario a sueldo
+W	noun-underling	nouns	underling	subalterno
+W	noun-upstart	nouns	upstart	advenedizo
+W	noun-aftermath	nouns	aftermath	secuelas
+W	noun-afterthought	nouns	afterthought	ocurrencia tardía
+W	noun-oversight	nouns	oversight	descuido
+W	noun-insight	nouns	insight	perspicacia
+W	noun-hindsight	nouns	hindsight	visión a toro pasado
+W	noun-foresight	nouns	foresight	previsión
+W	noun-outlay	nouns	outlay	desembolso
+W	noun-outcry	nouns	outcry	clamor
+W	noun-outburst	nouns	outburst	arrebato
+W	noun-outset	nouns	outset	arranque
+W	noun-onset	nouns	onset	irrupción
+W	noun-upturn	nouns	upturn	repunte
+W	noun-downturn	nouns	downturn	bajón
+W	noun-setback	nouns	setback	revés
+W	noun-windfall	nouns	windfall	maná caído
+W	noun-godsend	nouns	godsend	bendición inesperada
+W	noun-boon	nouns	boon	merced
+W	noun-gadfly	nouns	gadfly	tábano
+W	noun-whereabouts	nouns	whereabouts	paradero
+W	noun-wrongdoing	nouns	wrongdoing	fechoría
+W	noun-wrongdoer	nouns	wrongdoer	malhechor
+W	noun-writ	nouns	writ	auto judicial
+W	noun-plea	nouns	plea	alegato
+W	noun-plaint	nouns	plaint	querella
+W	noun-grievance	nouns	grievance	agravio
+W	noun-grouse	nouns	grouse	refunfuño
+W	noun-gripe	nouns	gripe	quejumbre
+W	noun-grudge	nouns	grudge	rencor
+W	noun-spite	nouns	spite	despecho
+W	noun-spleen	nouns	spleen	hiel
+W	noun-umbrage	nouns	umbrage	ofensa
+W	noun-pique	nouns	pique	picadillo de honor
+W	noun-huff	nouns	huff	berrinche
+W	noun-tiff	nouns	tiff	rifirrafe
+W	noun-spat	nouns	spat	altercado
+W	noun-row	nouns	row	reyerta
+W	noun-fray	nouns	fray	refriega
+W	noun-scuffle	nouns	scuffle	forcejeo
+W	noun-skirmish	nouns	skirmish	escaramuza
+W	noun-onslaught	nouns	onslaught	acometida
+W	noun-onrush	nouns	onrush	embestida
+W	noun-ruckus	nouns	ruckus	jaleo
+W	noun-rumpus	nouns	rumpus	zipizape
+W	noun-hullabaloo	nouns	hullabaloo	vocerío
+W	noun-hoopla	nouns	hoopla	bombo
+W	noun-ballyhoo	nouns	ballyhoo	faramalla
+W	noun-ado	nouns	ado	aspaviento
+W	noun-palaver	nouns	palaver	palabrería
+W	noun-twaddle	nouns	twaddle	cháchara
+W	noun-piffle	nouns	piffle	paparrucha
+W	noun-drivel	nouns	drivel	galimatías
+W	noun-hogwash	nouns	hogwash	disparate
+W	noun-bunkum	nouns	bunkum	charlatanería
+W	noun-claptrap	nouns	claptrap	huequería
+W	noun-humbug	nouns	humbug	embeleco
+W	noun-sham	nouns	sham	farsa
+W	noun-hoax	nouns	hoax	engaño
+W	noun-ruse	nouns	ruse	ardid
+W	noun-ploy	nouns	ploy	treta
+W	noun-gambit	nouns	gambit	jugada maestra
+W	noun-feint	nouns	feint	amago
+W	noun-dodge	nouns	dodge	evasiva
+W	noun-stall	nouns	stall	dilación
+W	noun-filibuster	nouns	filibuster	obstruccionismo
+W	noun-stonewalling	nouns	stonewalling	bloqueo deliberado
+W	noun-hedge	nouns	hedge	tapujo
+W	noun-quibble	nouns	quibble	tiquismiquis
+W	noun-cavil	nouns	cavil	reparo capcioso
+W	noun-hitch	nouns	hitch	contratiempo
+W	noun-snag	nouns	snag	escollo
+W	noun-snarl	nouns	snarl	enredo
+W	noun-tangle	nouns	tangle	maraña
+W	noun-muddle	nouns	muddle	embrollo
+W	noun-pickle	nouns	pickle	apuro
+W	noun-bind	nouns	bind	atolladero
+W	noun-scrape	nouns	scrape	lance comprometido
+W	noun-pinch	nouns	pinch	estrechez
+W	noun-crunch	nouns	crunch	apuro extremo
+W	noun-squeeze	nouns	squeeze	apretón
+W	noun-strait	nouns	strait	aprieto grave
+W	noun-quandary	nouns	quandary	encrucijada
+W	noun-predicament	nouns	predicament	trance
+W	noun-imbroglio	nouns	imbroglio	lío político
+W	noun-quagmire	nouns	quagmire	lodazal
+W	noun-morass	nouns	morass	ciénaga
+W	noun-mire	nouns	mire	fango
+W	noun-slough	nouns	slough	cenagal
+W	noun-bog	nouns	bog	tremedal
+W	noun-fen	nouns	fen	marjal
+W	noun-heath	nouns	heath	brezal
+W	noun-moor	nouns	moor	páramo
+W	noun-wold	nouns	wold	paramera
+W	noun-copse	nouns	copse	soto
+W	noun-thicket	nouns	thicket	matorral
+W	noun-bracken	nouns	bracken	helechal
+W	noun-glade	nouns	glade	claro del bosque
+W	noun-glen	nouns	glen	cañada
+W	noun-dale	nouns	dale	vega
+W	noun-dell	nouns	dell	hondonada
+W	noun-hollow	nouns	hollow	oquedad
+W	noun-nook	nouns	nook	recoveco
+W	noun-cranny	nouns	cranny	rendija
+W	noun-cleft	nouns	cleft	hendidura
+W	noun-rift	nouns	rift	grieta
+W	noun-chasm	nouns	chasm	sima
+W	noun-gulf	nouns	gulf	abismo
+W	noun-brink	nouns	brink	borde
+W	noun-verge	nouns	verge	linde
+W	noun-cusp	nouns	cusp	umbral crítico
+W	noun-hearth	nouns	hearth	lar
+W	noun-homestead	nouns	homestead	solariego
+W	noun-stronghold	nouns	stronghold	plaza fuerte
+W	noun-toehold	nouns	toehold	asidero mínimo
+W	noun-handhold	nouns	handhold	asidero de mano
+W	noun-lodestar	nouns	lodestar	norte
+W	noun-cynosure	nouns	cynosure	polo de miradas
+W	noun-keystone	nouns	keystone	dovela clave
+W	noun-cornerstone	nouns	cornerstone	piedra angular
+W	noun-bedrock	nouns	bedrock	cimiento
+W	noun-groundwork	nouns	groundwork	cimientos
+W	noun-scaffold	nouns	scaffold	andamio
+W	noun-undercurrent	nouns	undercurrent	corriente soterrada
+W	noun-undertow	nouns	undertow	resaca
+W	noun-groundswell	nouns	groundswell	oleada de fondo
+W	noun-surge	nouns	surge	oleada súbita
+W	noun-spate	nouns	spate	riada
+W	noun-drought	nouns	drought	sequía
+W	noun-flood	nouns	flood	inundación
+W	noun-gadabout	nouns	gadabout	calavera
+W	noun-wastrel	nouns	wastrel	derrochador
+W	noun-spendthrift	nouns	spendthrift	manirroto
+W	noun-skinflint	nouns	skinflint	agarrado
+W	noun-tightwad	nouns	tightwad	tacaño
+W	noun-cheapskate	nouns	cheapskate	rata
+W	noun-hoarder	nouns	hoarder	acaparador
+W	noun-layabout	nouns	layabout	holgazán
+W	noun-slacker	nouns	slacker	gandul
+W	noun-shirker	nouns	shirker	escaqueado
+W	noun-malingerer	nouns	malingerer	simulador
+W	noun-timeserver	nouns	timeserver	acomodaticio
+W	noun-trimmer	nouns	trimmer	veleta política
+W	noun-turncoat	nouns	turncoat	tránsfuga
+W	noun-quisling	nouns	quisling	colaboracionista
+W	noun-stool-pigeon	nouns	stool pigeon	soplón
+W	noun-snitch	nouns	snitch	chivato
+W	noun-busybody	nouns	busybody	entrometido
+W	noun-meddler	nouns	meddler	metomentodo
+W	noun-heckler	nouns	heckler	abucheador
+W	noun-firebrand	nouns	firebrand	agitador
+W	noun-rabble-rouser	nouns	rabble-rouser	alborotador
+W	noun-ringleader	nouns	ringleader	instigador
+W	noun-straw-man	nouns	straw man	hombre de paja
+W	noun-stalking-horse	nouns	stalking horse	tapadera
+W	noun-cat-s-paw	nouns	cat's-paw	instrumento ajeno
+W	noun-fall-guy	nouns	fall guy	cabeza de turco
+W	noun-whipping-boy	nouns	whipping boy	azotado vicario
+W	noun-doormat	nouns	doormat	felpudo humano
+W	noun-yes-man	nouns	yes-man	pelota
+W	noun-toady	nouns	toady	adulador rastrero
+W	noun-fawner	nouns	fawner	arrastrado
+W	noun-bootlicker	nouns	bootlicker	lamebotas
+W	noun-hanger-on	nouns	hanger-on	gorrón
+W	noun-sponger	nouns	sponger	aprovechado
+W	noun-freeloader	nouns	freeloader	gorrista
+W	noun-cadger	nouns	cadger	pedigüeño
+W	noun-pauper	nouns	pauper	indigente
+W	noun-waif	nouns	waif	desamparado
+W	noun-foundling	nouns	foundling	expósito
+W	noun-wayfarer	nouns	wayfarer	caminante
+W	noun-sojourner	nouns	sojourner	transeúnte
+W	noun-castaway	nouns	castaway	náufrago
+W	noun-outcast	nouns	outcast	paria
+W	noun-outlaw	nouns	outlaw	proscrito
+W	noun-knave	nouns	knave	bribón
+W	noun-varlet	nouns	varlet	pillo
+W	noun-blackguard	nouns	blackguard	canalla
+W	noun-scoundrel	nouns	scoundrel	tunante
+W	noun-miscreant	nouns	miscreant	malhechor de marca
+W	noun-bellwether	nouns	bellwether	indicador adelantado
+W	noun-bulwark	nouns	bulwark	baluarte
+W	noun-heirloom	nouns	heirloom	alhaja de familia
+W	noun-gauntlet	nouns	gauntlet	guantelete
+W	noun-pittance	nouns	pittance	limosna mísera
+W	noun-ordeal	nouns	ordeal	calvario
+W	noun-hindrance	nouns	hindrance	estorbo
+W	noun-fetter	nouns	fetter	grillete
+W	noun-anvil	nouns	anvil	yunque
+W	noun-apothecary	nouns	apothecary	boticario
+W	noun-eaves	nouns	eaves	alero
+W	noun-embers	nouns	embers	rescoldo
+W	noun-ewer	nouns	ewer	aguamanil
+W	noun-hassock	nouns	hassock	almohadón
+W	noun-hemlock	nouns	hemlock	cicuta
+W	noun-ken	nouns	ken	alcance
+W	noun-lees	nouns	lees	posos
+W	noun-loam	nouns	loam	marga
+W	noun-maelstrom	nouns	maelstrom	vórtice
+W	noun-moat	nouns	moat	foso
+W	noun-mote	nouns	mote	brizna
+W	noun-nape	nouns	nape	nuca
+W	noun-notch	nouns	notch	muesca
+W	noun-pallet	nouns	pallet	jergón
+W	noun-pang	nouns	pang	punzada
+W	noun-peat	nouns	peat	turba
+W	noun-pestle	nouns	pestle	mano de mortero
+W	noun-pew	nouns	pew	banco de templo
+W	noun-quiver	nouns	quiver	carcaj
+W	noun-rampart	nouns	rampart	muralla
+W	noun-scree	nouns	scree	pedregal
+W	noun-sward	nouns	sward	césped natural
+W	noun-tussock	nouns	tussock	macolla
+W	noun-wain	nouns	wain	carro de labranza
+W	noun-wicket	nouns	wicket	portillo
+W	noun-withe	nouns	withe	mimbre
+W	noun-yawl	nouns	yawl	yola
+W	noun-yoke	nouns	yoke	yugo
+W	noun-kith	nouns	kith	parentela
+W	noun-barrow	nouns	barrow	túmulo
+W	noun-cairn	nouns	cairn	mojón de piedras
+W	noun-crag	nouns	crag	risco
+W	noun-ford	nouns	ford	vado
+W	noun-gale	nouns	gale	vendaval
+W	noun-grit	nouns	grit	agallas
+W	noun-guise	nouns	guise	disfraz
+W	noun-hackles	nouns	hackles	erizamiento
+W	noun-haven	nouns	haven	fondeadero
+W	noun-helm	nouns	helm	timón
+W	noun-holt	nouns	holt	soto umbrío
+W	noun-husk	nouns	husk	cáscara
+W	noun-ilk	nouns	ilk	calaña
+W	noun-inlet	nouns	inlet	cala
+W	noun-ire	nouns	ire	saña
+W	noun-jaunt	nouns	jaunt	excursión breve
+W	noun-jolt	nouns	jolt	sacudida
+W	noun-keel	nouns	keel	quilla
+W	noun-knack	nouns	knack	maña
+W	noun-knoll	nouns	knoll	altozano
+W	noun-lair	nouns	lair	guarida
+W	noun-latch	nouns	latch	pestillo
+W	noun-ledge	nouns	ledge	repisa
+W	noun-lee	nouns	lee	sotavento
+W	noun-levy	nouns	levy	derrama
+W	noun-lien	nouns	lien	derecho de retención
+W	noun-lore	nouns	lore	saber heredado
+W	noun-lull	nouns	lull	tregua breve
+W	noun-lure	nouns	lure	señuelo
+W	noun-mantle	nouns	mantle	manto
+W	noun-mead	nouns	mead	pradera
+W	noun-muzzle	nouns	muzzle	bozal
+W	noun-oath	nouns	oath	juramento solemne
+W	adjective-abject	adjectives	abject	abyecto
+W	adjective-addled	adjectives	addled	aturdido
+W	adjective-adroit	adjectives	adroit	diestro
+W	adjective-aghast	adjectives	aghast	estupefacto
+W	adjective-ajar	adjectives	ajar	entreabierto
+W	adjective-akimbo	adjectives	akimbo	en jarras
+W	adjective-askew	adjectives	askew	torcido
+W	adjective-awry	adjectives	awry	desviado
+W	adjective-bald-faced	adjectives	bald-faced	descarado
+W	adjective-baleful	adjectives	baleful	funesto
+W	adjective-balky	adjectives	balky	reacio
+W	adjective-barren	adjectives	barren	yermo
+W	adjective-bawdy	adjectives	bawdy	verde
+W	adjective-bedraggled	adjectives	bedraggled	andrajoso
+W	adjective-begrudging	adjectives	begrudging	a regañadientes
+W	adjective-beguiling	adjectives	beguiling	seductor
+W	adjective-beholden	adjectives	beholden	deudor
+W	adjective-bemused	adjectives	bemused	perplejo
+W	adjective-benighted	adjectives	benighted	ignorante
+W	adjective-bereft	adjectives	bereft	despojado
+W	adjective-besotted	adjectives	besotted	embelesado
+W	adjective-bewildered	adjectives	bewildered	desconcertado
+W	adjective-bleak	adjectives	bleak	lúgubre
+W	adjective-blighted	adjectives	blighted	arruinado
+W	adjective-blithe	adjectives	blithe	despreocupado
+W	adjective-blunt	adjectives	blunt	seco
+W	adjective-boastful	adjectives	boastful	jactancioso
+W	adjective-boisterous	adjectives	boisterous	bullanguero
+W	adjective-bone-idle	adjectives	bone-idle	haragán de solemnidad
+W	adjective-bookish	adjectives	bookish	libresco
+W	adjective-boorish	adjectives	boorish	zafio
+W	adjective-bootless	adjectives	bootless	vano
+W	adjective-brackish	adjectives	brackish	salobre
+W	adjective-brash	adjectives	brash	osado
+W	adjective-brazen	adjectives	brazen	descarado
+W	adjective-bristling	adjectives	bristling	erizado
+W	adjective-brittle	adjectives	brittle	quebradizo
+W	adjective-brooding	adjectives	brooding	sombrío
+W	adjective-brusque	adjectives	brusque	seco de maneras
+W	adjective-bumptious	adjectives	bumptious	presuntuoso
+W	adjective-bungling	adjectives	bungling	chapucero
+W	adjective-burdensome	adjectives	burdensome	oneroso
+W	adjective-burnished	adjectives	burnished	bruñido
+W	adjective-bygone	adjectives	bygone	de antaño
+W	adjective-cagey	adjectives	cagey	cauteloso
+W	adjective-callous	adjectives	callous	insensible
+W	adjective-callow	adjectives	callow	imberbe
+W	adjective-canny	adjectives	canny	astuto
+W	adjective-cantankerous	adjectives	cantankerous	cascarrabias
+W	adjective-carping	adjectives	carping	reparón
+W	adjective-cast-iron	adjectives	cast-iron	inquebrantable
+W	adjective-catty	adjectives	catty	malicioso
+W	adjective-chary	adjectives	chary	receloso
+W	adjective-chastened	adjectives	chastened	escarmentado
+W	adjective-cheeky	adjectives	cheeky	fresco
+W	adjective-cheerless	adjectives	cheerless	lóbrego
+W	adjective-chintzy	adjectives	chintzy	chabacano
+W	adjective-chipper	adjectives	chipper	alegre
+W	adjective-choosy	adjectives	choosy	exigente
+W	adjective-churlish	adjectives	churlish	grosero
+W	adjective-clannish	adjectives	clannish	cerrado de grupo
+W	adjective-cloying	adjectives	cloying	empalagoso
+W	adjective-clumsy	adjectives	clumsy	torpe
+W	adjective-coarse	adjectives	coarse	tosco
+W	adjective-cockeyed	adjectives	cockeyed	descabellado
+W	adjective-cocky	adjectives	cocky	creído
+W	adjective-cold-blooded	adjectives	cold-blooded	a sangre fría
+W	adjective-coltish	adjectives	coltish	retozón
+W	adjective-comely	adjectives	comely	apuesto
+W	adjective-commonplace	adjectives	commonplace	vulgar
+W	adjective-compelling	adjectives	compelling	apremiante
+W	adjective-conceited	adjectives	conceited	engreído
+W	adjective-condign	adjectives	condign	merecido
+W	adjective-conniving	adjectives	conniving	solapado
+W	adjective-contrived	adjectives	contrived	forzado
+W	adjective-corny	adjectives	corny	ñoño
+W	adjective-cussed	adjectives	cussed	tozudo
+W	adjective-cutthroat	adjectives	cutthroat	despiadado
+W	adjective-daft	adjectives	daft	lelo
+W	adjective-dainty	adjectives	dainty	delicado
+W	adjective-dank	adjectives	dank	húmedo y frío
+W	adjective-dapper	adjectives	dapper	acicalado
+W	adjective-dastardly	adjectives	dastardly	cobarde y vil
+W	adjective-dauntless	adjectives	dauntless	intrépido
+W	adjective-dawdling	adjectives	dawdling	remolón
+W	adjective-deadpan	adjectives	deadpan	inmutable
+W	adjective-deathly	adjectives	deathly	sepulcral
+W	adjective-deep-seated	adjectives	deep-seated	arraigado
+W	adjective-deft	adjectives	deft	hábil
+W	adjective-dejected	adjectives	dejected	abatido
+W	adjective-demure	adjectives	demure	recatado
+W	adjective-devilish	adjectives	devilish	endiablado
+W	adjective-devious	adjectives	devious	artero
+W	adjective-devoid	adjectives	devoid	desprovisto
+W	adjective-dicey	adjectives	dicey	arriesgado
+W	adjective-dire	adjectives	dire	acuciante
+W	adjective-disdainful	adjectives	disdainful	desdeñoso
+W	adjective-disjointed	adjectives	disjointed	deslavazado
+W	adjective-dismal	adjectives	dismal	tétrico
+W	adjective-dismayed	adjectives	dismayed	consternado
+W	adjective-disparaging	adjectives	disparaging	despectivo
+W	adjective-dispirited	adjectives	dispirited	desalentado
+W	adjective-distraught	adjectives	distraught	fuera de sí
+W	adjective-dogged	adjectives	dogged	tenaz
+W	adjective-doleful	adjectives	doleful	plañidero
+W	adjective-doltish	adjectives	doltish	zote
+W	adjective-downcast	adjectives	downcast	cabizbajo
+W	adjective-downright	adjectives	downright	redondo
+W	adjective-drab	adjectives	drab	soso
+W	adjective-draughty	adjectives	draughty	expuesto a corrientes
+W	adjective-dread	adjectives	dread	temible
+W	adjective-dreary	adjectives	dreary	tedioso
+W	adjective-droll	adjectives	droll	chocarrero
+W	adjective-drowsy	adjectives	drowsy	soñoliento
+W	adjective-dry-eyed	adjectives	dry-eyed	sin una lágrima
+W	adjective-dull-witted	adjectives	dull-witted	corto de entendederas
+W	adjective-dumbfounded	adjectives	dumbfounded	pasmado
+W	adjective-dusky	adjectives	dusky	pardusco
+W	adjective-dutiful	adjectives	dutiful	cumplidor
+W	adjective-dwindling	adjectives	dwindling	menguante
+W	adjective-earthy	adjectives	earthy	terrenal
+W	adjective-easygoing	adjectives	easygoing	de trato llano
+W	adjective-eerie	adjectives	eerie	escalofriante
+W	adjective-eggheaded	adjectives	eggheaded	intelectualoide
+W	adjective-empty-handed	adjectives	empty-handed	con las manos vacías
+W	adjective-enamored	adjectives	enamored	prendado
+W	adjective-encumbered	adjectives	encumbered	gravado
+W	adjective-engrossed	adjectives	engrossed	absorto
+W	adjective-ensconced	adjectives	ensconced	anidado
+W	adjective-entangled	adjectives	entangled	enredado
+W	adjective-enthralled	adjectives	enthralled	cautivado
+W	adjective-entrenched	adjectives	entrenched	atrincherado
+W	adjective-errant	adjectives	errant	descarriado
+W	adjective-erstwhile	adjectives	erstwhile	antiguo
+W	adjective-estranged	adjectives	estranged	enemistado
+W	adjective-even-handed	adjectives	even-handed	imparcial
+W	adjective-everlasting	adjectives	everlasting	perenne
+W	adjective-fabled	adjectives	fabled	de leyenda
+W	adjective-fainthearted	adjectives	fainthearted	pusilánime
+W	adjective-fair-minded	adjectives	fair-minded	ecuánime
+W	adjective-fallow	adjectives	fallow	en barbecho
+W	adjective-faltering	adjectives	faltering	vacilante
+W	adjective-fanciful	adjectives	fanciful	caprichoso
+W	adjective-far-fetched	adjectives	far-fetched	traído por los pelos
+W	adjective-far-flung	adjectives	far-flung	remoto
+W	adjective-fateful	adjectives	fateful	decisivo
+W	adjective-fathomless	adjectives	fathomless	insondable
+W	adjective-faultfinding	adjectives	faultfinding	criticón
+W	adjective-feckless	adjectives	feckless	inepto
+W	adjective-feeble	adjectives	feeble	endeble
+W	adjective-feigned	adjectives	feigned	fingido
+W	adjective-festering	adjectives	festering	enquistado
+W	adjective-fetching	adjectives	fetching	agraciado
+W	adjective-fickle	adjectives	fickle	voluble
+W	adjective-fidgety	adjectives	fidgety	inquieto
+W	adjective-fiendish	adjectives	fiendish	endiablado
+W	adjective-finicky	adjectives	finicky	tiquismiquis
+W	adjective-firsthand	adjectives	firsthand	de primera mano
+W	adjective-fishy	adjectives	fishy	sospechoso
+W	adjective-fitful	adjectives	fitful	entrecortado
+W	adjective-flagging	adjectives	flagging	languideciente
+W	adjective-flaky	adjectives	flaky	poco formal
+W	adjective-flashy	adjectives	flashy	vistoso
+W	adjective-fleeting	adjectives	fleeting	fugaz
+W	adjective-flighty	adjectives	flighty	veleidoso
+W	adjective-flimsy	adjectives	flimsy	endeble
+W	adjective-flinty	adjectives	flinty	pétreo
+W	adjective-flippant	adjectives	flippant	ligero de lengua
+W	adjective-flustered	adjectives	flustered	azorado
+W	adjective-fly-by-night	adjectives	fly-by-night	de poco fiar
+W	adjective-folksy	adjectives	folksy	llano
+W	adjective-foolhardy	adjectives	foolhardy	temerario
+W	adjective-foolproof	adjectives	foolproof	a prueba de torpes
+W	adjective-footloose	adjectives	footloose	sin ataduras
+W	adjective-forbidding	adjectives	forbidding	adusto
+W	adjective-forlorn	adjectives	forlorn	desolado
+W	adjective-forthcoming	adjectives	forthcoming	próximo a decirse
+W	adjective-forthright	adjectives	forthright	franco
+W	adjective-fraught	adjectives	fraught	preñado
+W	adjective-freakish	adjectives	freakish	caprichoso
+W	adjective-freewheeling	adjectives	freewheeling	sin rienda
+W	adjective-fretful	adjectives	fretful	quejumbroso
+W	adjective-frosty	adjectives	frosty	hieloso
+W	adjective-frowzy	adjectives	frowzy	desaliñado
+W	adjective-fruitless	adjectives	fruitless	estéril
+W	adjective-frumpy	adjectives	frumpy	hortera
+W	adjective-fulsome	adjectives	fulsome	empalagoso
+W	adjective-gawky	adjectives	gawky	desgarbado
+W	adjective-glib	adjectives	glib	labioso
+W	adjective-glum	adjectives	glum	ceñudo
+W	adjective-godforsaken	adjectives	godforsaken	olvidado de Dios
+W	adjective-gormless	adjectives	gormless	bobo
+W	adjective-graceless	adjectives	graceless	desairado
+W	adjective-grim	adjectives	grim	acerbo
+W	adjective-gritty	adjectives	gritty	corajudo
+W	adjective-groggy	adjectives	groggy	atontado
+W	adjective-grudging	adjectives	grudging	de mala gana
+W	adjective-grueling	adjectives	grueling	extenuante
+W	adjective-gruff	adjectives	gruff	huraño
+W	adjective-hackneyed	adjectives	hackneyed	trillado
+W	adjective-haggard	adjectives	haggard	macilento
+W	adjective-hair-raising	adjectives	hair-raising	de pelo de punta
+W	adjective-half-baked	adjectives	half-baked	a medio cocer
+W	adjective-halfhearted	adjectives	halfhearted	tibio
+W	adjective-ham-fisted	adjectives	ham-fisted	patoso
+W	adjective-hamstrung	adjectives	hamstrung	maniatado
+W	adjective-hapless	adjectives	hapless	desdichado
+W	adjective-hard-bitten	adjectives	hard-bitten	curtido
+W	adjective-hard-boiled	adjectives	hard-boiled	duro de pelar
+W	adjective-hardheaded	adjectives	hardheaded	testarudo
+W	adjective-hardhearted	adjectives	hardhearted	de entraña dura
+W	adjective-harried	adjectives	harried	acosado
+W	adjective-haughty	adjectives	haughty	altanero
+W	adjective-headstrong	adjectives	headstrong	cabezota
+W	adjective-heady	adjectives	heady	embriagador
+W	adjective-heartfelt	adjectives	heartfelt	sentido
+W	adjective-heartsick	adjectives	heartsick	desolado de corazón
+W	adjective-heavy-handed	adjectives	heavy-handed	desmañado
+W	adjective-heedless	adjectives	heedless	desatento
+W	adjective-heinous	adjectives	heinous	nefando
+W	adjective-hell-bent	adjectives	hell-bent	empeñado a toda costa
+W	adjective-hidebound	adjectives	hidebound	cerril
+W	adjective-high-handed	adjectives	high-handed	autoritario
+W	adjective-high-strung	adjectives	high-strung	de nervios finos
+W	adjective-hoary	adjectives	hoary	canoso
+W	adjective-homespun	adjectives	homespun	casero
+W	adjective-huffy	adjectives	huffy	picado
+W	adjective-hulking	adjectives	hulking	descomunal
+W	adjective-humdrum	adjectives	humdrum	soso y rutinario
+W	adjective-ill-advised	adjectives	ill-advised	desaconsejado
+W	adjective-ill-fated	adjectives	ill-fated	malhadado
+W	adjective-ill-gotten	adjectives	ill-gotten	malhabido
+W	adjective-ill-starred	adjectives	ill-starred	aciago
+W	adjective-ill-tempered	adjectives	ill-tempered	de mal genio
+W	adjective-imperious	adjectives	imperious	soberbio
+W	adjective-impish	adjectives	impish	pícaro
+W	adjective-ingrained	adjectives	ingrained	arraigado
+W	adjective-insipid	adjectives	insipid	insulso
+W	adjective-irksome	adjectives	irksome	enojoso
+W	adjective-ironclad	adjectives	ironclad	férreo
+W	adjective-jaundiced	adjectives	jaundiced	prevendido
+W	adjective-jaunty	adjectives	jaunty	desenvuelto
+W	adjective-jejune	adjectives	jejune	huero
+W	adjective-jinxed	adjectives	jinxed	gafe
+W	adjective-jittery	adjectives	jittery	de nervios
+W	adjective-knavish	adjectives	knavish	bellaco
+W	adjective-lackadaisical	adjectives	lackadaisical	desidioso
+W	adjective-lackluster	adjectives	lackluster	deslucido
+W	adjective-laden	adjectives	laden	cargado
+W	adjective-laggard	adjectives	laggard	rezagado
+W	adjective-lank	adjectives	lank	escuálido
+W	adjective-leery	adjectives	leery	receloso
+W	adjective-level-headed	adjectives	level-headed	sesudo
+W	adjective-lily-livered	adjectives	lily-livered	gallina
+W	adjective-listless	adjectives	listless	lánguido
+W	adjective-lithe	adjectives	lithe	ágil
+W	adjective-livid	adjectives	livid	lívido de ira
+W	adjective-loath	adjectives	loath	renuente
+W	adjective-loathsome	adjectives	loathsome	abominable
+W	adjective-long-winded	adjectives	long-winded	prolijo
+W	adjective-lopsided	adjectives	lopsided	descompensado
+W	adjective-loutish	adjectives	loutish	ordinario
+W	adjective-lovelorn	adjectives	lovelorn	desamado
+W	adjective-lukewarm	adjectives	lukewarm	tibio
+W	adjective-lumbering	adjectives	lumbering	pesado de movimientos
+W	adjective-lurid	adjectives	lurid	chillón
+W	adjective-aloof	adjectives	aloof	distante
+W	adjective-assiduous	adjectives	assiduous	constante
+W	adjective-austere	adjectives	austere	severo
+W	adjective-barmy	adjectives	barmy	chiflado
+W	adjective-craven	adjectives	craven	cobarde
+W	adjective-curt	adjectives	curt	cortante
+W	adjective-dappled	adjectives	dappled	moteado
+W	adjective-dowdy	adjectives	dowdy	desaliñado
+W	adjective-froward	adjectives	froward	reacio
+W	adjective-gaunt	adjectives	gaunt	demacrado
+W	adjective-gnarled	adjectives	gnarled	nudoso
+W	adjective-haphazard	adjectives	haphazard	a troche y moche
+W	adjective-hardy	adjectives	hardy	recio
+W	adjective-headlong	adjectives	headlong	precipitado
+W	adjective-homely	adjectives	homely	casero
+W	adjective-hotheaded	adjectives	hotheaded	impetuoso
+W	adjective-iffy	adjectives	iffy	dudoso
+W	adjective-jaded	adjectives	jaded	hastiado
+W	adjective-kempt	adjectives	kempt	arreglado
+W	adjective-knotty	adjectives	knotty	enmarañado
+W	adjective-lax	adjectives	lax	flojo
+W	adjective-lewd	adjectives	lewd	lascivo
+W	adjective-lonesome	adjectives	lonesome	solitario
+W	adjective-madcap	adjectives	madcap	alocado
+W	adjective-mangy	adjectives	mangy	sarnoso
+W	adjective-meek	adjectives	meek	manso
+W	adjective-mirthless	adjectives	mirthless	sin gozo
+W	adjective-morose	adjectives	morose	huraño
+W	adjective-murky	adjectives	murky	turbio
+W	adjective-musty	adjectives	musty	rancio
+W	adjective-nettlesome	adjectives	nettlesome	picajoso
+W	adjective-newfangled	adjectives	newfangled	novedoso
+W	adjective-nimble	adjectives	nimble	ligero
+W	adjective-nippy	adjectives	nippy	cortante de frío
+W	adjective-nonchalant	adjectives	nonchalant	desenfadado
+W	adjective-nondescript	adjectives	nondescript	anodino
+W	adjective-nosy	adjectives	nosy	fisgón
+W	adjective-oafish	adjectives	oafish	zote
+W	adjective-obtuse	adjectives	obtuse	torpe de entendimiento
+W	adjective-offhand	adjectives	offhand	despreocupado
+W	adjective-onerous	adjectives	onerous	gravoso
+W	adjective-openhanded	adjectives	openhanded	dadivoso
+W	adjective-ornery	adjectives	ornery	regañón
+W	adjective-outlandish	adjectives	outlandish	extravagante
+W	adjective-overbearing	adjectives	overbearing	imperioso
+W	adjective-overwrought	adjectives	overwrought	sobrepasado
+W	adjective-paltry	adjectives	paltry	mísero
+W	adjective-peevish	adjectives	peevish	quisquilloso
+W	adjective-pert	adjectives	pert	desenvuelto
+W	adjective-petty	adjectives	petty	mezquino
+W	adjective-pithy	adjectives	pithy	conciso
+W	adjective-plucky	adjectives	plucky	valiente
+W	adjective-prickly	adjectives	prickly	erizado
+W	adjective-prim	adjectives	prim	estirado
+W	adjective-puckish	adjectives	puckish	travieso
+W	adjective-queasy	adjectives	queasy	mareado
+W	adjective-rakish	adjectives	rakish	airoso
+W	adjective-rash	adjectives	rash	temerario
+W	adjective-restive	adjectives	restive	inquieto
+W	adjective-ritzy	adjectives	ritzy	ostentoso
+W	adjective-roguish	adjectives	roguish	pícaro
+W	adjective-rowdy	adjectives	rowdy	alborotado
+W	adjective-rueful	adjectives	rueful	compungido
+W	adjective-rugged	adjectives	rugged	escabroso
+W	adjective-ruthless	adjectives	ruthless	despiadado
+W	adjective-sartorial	adjectives	sartorial	de vestir
+W	adjective-seedy	adjectives	seedy	sórdido
+W	adjective-shifty	adjectives	shifty	escurridizo
+W	adjective-shoddy	adjectives	shoddy	chapucero
+W	adjective-shrewd	adjectives	shrewd	perspicaz
+W	adjective-skimpy	adjectives	skimpy	escaso
+W	adjective-sly	adjectives	sly	taimado

@@ -4,6 +4,7 @@ import { buildFrenchC1Words } from "./c1/frenchBanks";
 import { buildFrenchC2Words } from "./c2/frenchBanks";
 import { extraFrenchVocabulary } from "./frenchVocabularyMore";
 import { extraFrenchVocabularyPlus } from "./frenchVocabularyPlus";
+import { extraFrenchVocabularyParity } from "./frenchVocabularyParity";
 import { expandPhraseSets, expandTechPhraseSets, expandOpenPhraseSets, expandSchoolNoticeSets } from "./phraseSets";
 import { slugify } from "./slug";
 
@@ -263,6 +264,7 @@ const baseFrenchVocabulary: VocabularyItem[] = [
   ...coreFrenchVocabulary,
   ...extraFrenchVocabulary,
   ...extraFrenchVocabularyPlus,
+  ...extraFrenchVocabularyParity,
 ];
 
 const frenchC2Words = buildFrenchC2Words(new Set(baseFrenchVocabulary.map((item) => item.id)));

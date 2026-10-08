@@ -1,0 +1,800 @@
+W	negative-legal-privilege	negativeAnswers	No, there's nothing confidential about it, or that protection has already been lost.	No, no hay nada confidencial, o esa protección ya se ha perdido.
+W	question-recused	questions	Have you stepped aside because of a conflict?	¿Se ha apartado usted por un conflicto de interés?
+W	positive-recused	positiveAnswers	Yes, a fair-minded observer would doubt I could stay impartial.	Sí, un observador imparcial dudaría de que yo pudiera serlo.
+W	negative-recused	negativeAnswers	No, I see no reason to stand down.	No, no veo motivo para apartarme.
+W	question-waived-privilege	questions	Have you given up the confidentiality of that document?	¿Ha renunciado a la confidencialidad de ese documento?
+W	positive-waived-privilege	positiveAnswers	Yes, once part of it was shared, the rest on the same subject went with it.	Sí, una vez compartida una parte, el resto del mismo asunto fue con ella.
+W	negative-waived-privilege	negativeAnswers	No, we're still treating it as confidential; only a sliver was shown.	No, seguimos teniéndolo por confidencial; solo se mostró una franja.
+W	question-fiduciary-duty	questions	Are they bound to put your interests first?	¿Están obligados a poner primero sus intereses?
+W	positive-fiduciary-duty	positiveAnswers	Yes, they owe you loyalty, not just ordinary care between equals.	Sí, le deben lealtad, no solo el cuidado ordinario entre iguales.
+W	negative-fiduciary-duty	negativeAnswers	No, it's a straightforward commercial relationship.	No, es una relación comercial de lo más corriente.
+W	question-in-contempt	questions	Have we openly defied a clear order?	¿Hemos desafiado abiertamente una orden clara?
+W	positive-in-contempt	positiveAnswers	Yes, we knew what was required and we ignored it.	Sí, sabíamos lo que se pedía y lo ignoramos.
+W	negative-in-contempt	negativeAnswers	No, we've largely complied, or there was never a clear order to break.	No, en lo sustancial hemos cumplido, o nunca hubo una orden clara que romper.
+W	question-libellous	questions	Would that remark be defamatory in print?	¿Sería esa observación difamatoria por escrito?
+W	positive-libellous	positiveAnswers	Yes, it paints someone in a damaging light and it was published.	Sí, deja a alguien en mal lugar y se ha publicado.
+W	negative-libellous	negativeAnswers	No, it's fair comment on a public matter, or it's simply true.	No, es una crítica justa sobre un asunto público, o es sencillamente verdad.
+W	question-have-quorum	questions	Have we enough people here to take a decision?	¿Hay aquí gente bastante para decidir?
+W	positive-have-quorum	positiveAnswers	Yes, we have the numbers and a vote would stand.	Sí, tenemos el número y una votación valdría.
+W	negative-have-quorum	negativeAnswers	No, we're short; any vote would be worthless.	No, nos faltan; cualquier votación no serviría de nada.
+W	question-statute-barred	questions	Has the time to bring this simply run out?	¿Se ha agotado ya el plazo para plantearlo?
+W	positive-statute-barred	positiveAnswers	Yes, the clock ran down and it's too late.	Sí, el reloj se paró y es demasiado tarde.
+W	negative-statute-barred	negativeAnswers	No, time never started, or it was interrupted in time.	No, el plazo no empezó, o se interrumpió a tiempo.
+W	question-vice-of-consent	questions	Was their consent actually tainted?	¿Estuvo de verdad viciado su consentimiento?
+W	positive-vice-of-consent	positiveAnswers	Yes, by a mistake, a deception or pressure that goes to the heart of it.	Sí, por un error, un engaño o una presión que llega al meollo.
+W	negative-vice-of-consent	negativeAnswers	No, they agreed freely, knowing what they were doing.	No, aceptaron con libertad, sabiendo lo que hacían.
+W	question-de-jure	questions	Is that how it stands on paper?	¿Es así como queda sobre el papel?
+W	positive-de-jure	positiveAnswers	Yes, that's the official position, whatever is happening on the ground.	Sí, esa es la posición oficial, pase lo que pase sobre el terreno.
+W	negative-de-jure	negativeAnswers	No, that's only the situation in practice, with no formal title behind it.	No, es solo la situación de hecho, sin título formal detrás.
+W	question-de-facto	questions	Is that only how things stand in practice?	¿Es solo como están las cosas de hecho?
+W	positive-de-facto	positiveAnswers	Yes, it's possession or habit, with nothing formal underneath.	Sí, es posesión o costumbre, sin nada formal debajo.
+W	negative-de-facto	negativeAnswers	No, there's a proper title behind it as well.	No, también hay un título de verdad detrás.
+W	question-sine-die	questions	Have they put this off indefinitely?	¿Lo han aplazado sine die?
+W	positive-sine-die	positiveAnswers	Yes, it's been adjourned with no date to come back.	Sí, se aplaza sin fecha de vuelta.
+W	negative-sine-die	negativeAnswers	No, there's already a date to resume.	No, ya hay fecha para reanudar.
+W	question-a-priori	questions	Are you treating that as something we can know without looking at the facts?	¿Lo trata como algo que se puede saber sin mirar los hechos?
+W	positive-a-priori	positiveAnswers	Yes, I'm putting it as knowable independently of experience.	Sí, lo planteo como cognoscible con independencia de la experiencia.
+W	negative-a-priori	negativeAnswers	No, it's an empirical claim that stands or falls on the evidence.	No, es una tesis empírica que se sostiene o cae con los hechos.
+W	question-post-hoc	questions	Are you treating what came after as what caused it?	¿Trata lo que vino después como si lo hubiera causado?
+W	positive-post-hoc	positiveAnswers	Yes, mere succession is being dressed up as causation.	Sí, se disfraza una mera sucesión de causalidad.
+W	negative-post-hoc	negativeAnswers	No, I'm pointing to a real mechanism, not just the order of events.	No, señalo un mecanismo de verdad, no solo el orden de los hechos.
+W	question-reductio-ad-absurdum	questions	Are you reducing that to absurdity?	¿Lo reduce usted al absurdo?
+W	positive-reductio-ad-absurdum	positiveAnswers	Yes, the thesis leads to a contradiction, so it has to be dropped.	Sí, la tesis lleva a una contradicción, así que hay que soltarla.
+W	negative-reductio-ad-absurdum	negativeAnswers	No, I'm not deriving an absurdity; I'm denying the premise outright.	No, no extraigo un absurdo; niego de entrada la premisa.
+W	question-occams-razor	questions	Should Occam's razor decide this?	¿Debe decidirlo la navaja de Ockham?
+W	positive-occams-razor	positiveAnswers	Yes, the simpler account that still explains the facts is the one to prefer.	Sí, hay que preferir la explicación más sencilla que aún salve los hechos.
+W	negative-occams-razor	negativeAnswers	No, the extra pieces are doing work we actually need.	No, las piezas de más hacen un trabajo que de verdad hace falta.
+W	question-overton-window	questions	Are you trying to shift the Overton window?	¿Intenta desplazar la ventana de Overton?
+W	positive-overton-window	positiveAnswers	Yes, I'm moving the bounds of what will later count as sayable.	Sí, muevo los límites de lo que más adelante contará como decible.
+W	negative-overton-window	negativeAnswers	No, I'm arguing inside what people already find acceptable.	No, argumento dentro de lo que la gente ya da por aceptable.
+W	question-moral-hazard	questions	Does this structure create moral hazard?	¿Crea esta estructura riesgo moral?
+W	positive-moral-hazard	positiveAnswers	Yes, they keep the profit and dump the loss on everyone else, so recklessness pays.	Sí, se quedan con la ganancia y cargan la pérdida a los demás, así que la imprudencia paga.
+W	negative-moral-hazard	negativeAnswers	No, they still carry enough risk for the incentives to stay aligned.	No, aún cargan con bastante riesgo para que los incentivos sigan alineados.
+W	question-regulatory-capture	questions	Has the industry ended up writing its own rules?	¿Ha acabado el sector escribiendo sus propias normas?
+W	positive-regulatory-capture	positiveAnswers	Yes, the people being regulated are in substance drafting what binds them.	Sí, quienes están regulados redactan en sustancia lo que los ata.
+W	negative-regulatory-capture	negativeAnswers	No, the regulator still has a mind of its own and will push back when it must.	No, el regulador sigue teniendo criterio propio y plantará cara cuando haga falta.
+W	question-rent-seeking	questions	Is this rent-seeking?	¿Es búsqueda de rentas?
+W	positive-rent-seeking	positiveAnswers	Yes, they're spending their energy capturing a transfer rather than creating anything.	Sí, gastan la energía en capturar una transferencia en vez de crear nada.
+W	negative-rent-seeking	negativeAnswers	No, the activity actually produces a surplus, not a mere transfer.	No, la actividad produce de verdad un excedente, no una mera transferencia.
+W	question-principal-agent	questions	Are they pursuing their own interest at the expense of the people they represent?	¿Persiguen su propio interés a costa de quienes representan?
+W	positive-principal-agent	positiveAnswers	Yes, their private incentives pull away from the people they act for, and the information is uneven.	Sí, sus incentivos privados se apartan de quienes actúan por ellos, y la información es desigual.
+W	negative-principal-agent	negativeAnswers	No, they're visibly aligned with the people they represent.	No, están visiblemente alineados con quienes representan.
+W	question-poison-pill	questions	Is that clause there just to scare off a buyer?	¿Está esa cláusula solo para ahuyentar a un comprador?
+W	positive-poison-pill	positiveAnswers	Yes, it's designed to dilute or deter anyone who comes in uninvited.	Sí, está pensada para diluir o disuadir a quien llegue sin que lo llamen.
+W	negative-poison-pill	negativeAnswers	No, it has a commercial reason of its own, quite apart from any bid.	No, tiene una razón comercial propia, al margen de cualquier oferta.
+W	question-golden-parachute	questions	Is there a golden parachute in the contract?	¿Hay un paracaídas dorado en el contrato?
+W	positive-golden-parachute	positiveAnswers	Yes, a change of control triggers a lavish exit payment.	Sí, el cambio de control dispara una indemnización de salida desmesurada.
+W	negative-golden-parachute	negativeAnswers	No, the leaving package is ordinary and doesn't depend on a bid.	No, la salida se compensa de modo ordinario y no depende de ninguna oferta.
+W	question-information-barrier	questions	Have the two teams been walled off from each other?	¿Han incomunicado a los dos equipos?
+W	positive-information-barrier	positiveAnswers	Yes, they're kept apart so sensitive information can't leak across.	Sí, se los mantiene aparte para que no se filtre información sensible.
+W	negative-information-barrier	negativeAnswers	No, information is free to flow; no wall has been put up.	No, la información puede circular; no se ha levantado ningún muro.
+W	question-inside-information	questions	Is that still private and price-sensitive?	¿Sigue siendo privado y capaz de mover el precio?
+W	positive-inside-information	positiveAnswers	Yes, it's precise, not public, and it would move the price if it got out.	Sí, es preciso, no es público, y movería el precio si saliera.
+W	negative-inside-information	negativeAnswers	No, it's already public, or it wouldn't move the price.	No, ya es público, o no movería el precio.
+W	question-insider-dealing	questions	Did someone trade on information the market didn't have?	¿Ha operado alguien con información que el mercado no tenía?
+W	positive-insider-dealing	positiveAnswers	Yes, a person who had that private information dealt on the back of it.	Sí, quien tenía esa información privada ha operado sobre ella.
+W	negative-insider-dealing	negativeAnswers	No, no private information was used, or they have a legitimate explanation.	No, no se usó información privada, o tienen una explicación legítima.
+W	question-market-abuse	questions	Were they actually trying to rig the market?	¿Intentaban de verdad falsear el mercado?
+W	positive-market-abuse	positiveAnswers	Yes, they were manipulating the price or leaking what they shouldn't, not merely driving a hard bargain.	Sí, manipulaban el precio o filtraban lo que no debían, no era solo un trato duro.
+W	negative-market-abuse	negativeAnswers	No, the conduct stays within ordinary trading and disclosure.	No, la conducta se queda en la negociación y la difusión ordinarias.
+W	question-force-majeure	questions	Was this genuinely beyond anyone's control?	¿Estuvo esto de verdad fuera de todo control?
+W	positive-force-majeure	positiveAnswers	Yes, it was unforeseeable, irresistible and came from outside.	Sí, era imprevisible, irresistible y vino de fuera.
+W	negative-force-majeure	negativeAnswers	No, it was a commercial risk they should have seen coming and allocated.	No, era un riesgo comercial que debieron ver venir y repartir.
+W	question-caveat-emptor	questions	Is it still a case of buyer beware?	¿Sigue siendo cosa de que se cuide el comprador?
+W	positive-caveat-emptor	positiveAnswers	Yes, the buyer bears the risk of defects that weren't covered.	Sí, el comprador carga con los defectos que no estaban cubiertos.
+W	negative-caveat-emptor	negativeAnswers	No, implied warranties have already displaced that old rule.	No, las garantías implícitas ya han desplazado esa vieja regla.
+W	question-quid-pro-quo	questions	Is there a real quid pro quo here?	¿Hay un quid pro quo de verdad aquí?
+W	positive-quid-pro-quo	positiveAnswers	Yes, each side is giving something; it isn't a one-way gift.	Sí, cada uno da algo; no es un regalo de un solo sentido.
+W	negative-quid-pro-quo	negativeAnswers	No, one side is simply giving, with nothing coming back.	No, uno simplemente da, sin nada a cambio.
+W	question-prima-facie	questions	Is there at least a case to answer on the face of it?	¿Hay al menos un caso que contestar a primera vista?
+W	positive-prima-facie	positiveAnswers	Yes, if nobody answers, that material would carry the day.	Sí, si nadie responde, ese material se impondría.
+W	negative-prima-facie	negativeAnswers	No, it doesn't even raise a case worth taking further.	No, ni siquiera plantea un asunto que merezca seguir.
+W	question-res-ipsa-loquitur	questions	Doesn't the accident speak for itself?	¿No habla el accidente por sí solo?
+W	positive-res-ipsa-loquitur	positiveAnswers	Yes, that sort of thing doesn't ordinarily happen unless someone was careless, and they had control of it.	Sí, esas cosas no suelen ocurrir si nadie ha sido descuidado, y ellos lo controlaban.
+W	negative-res-ipsa-loquitur	negativeAnswers	No, an innocent explanation is still open; carelessness still has to be shown in the ordinary way.	No, aún cabe una explicación inocente; el descuido hay que mostrarlo por la vía ordinaria.
+W	question-mens-rea	questions	Did they actually mean to do it?	¿Lo hicieron de verdad a propósito?
+W	positive-mens-rea	positiveAnswers	Yes, they intended it, or they were reckless in the relevant sense.	Sí, lo quisieron, o fueron imprudentes en el sentido que cuenta.
+W	negative-mens-rea	negativeAnswers	No, the mind wasn't there; the act alone will not do.	No, no estaba la intención; el acto solo no basta.
+W	question-actus-reus	questions	Did the act itself actually happen?	¿Ocurrió de verdad el acto mismo?
+W	positive-actus-reus	positiveAnswers	Yes, they did the thing, or failed to do it, in the circumstances that matter.	Sí, lo hicieron, o dejaron de hacerlo, en las circunstancias que importan.
+W	negative-actus-reus	negativeAnswers	No, that part isn't made out; intention can't stand on its own.	No, esa parte no está hecha; la intención no se sostiene sola.
+W	question-double-jeopardy	questions	Would that mean trying them twice for the same thing?	¿Sería juzgarlos dos veces por lo mismo?
+W	positive-double-jeopardy	positiveAnswers	Yes, you don't get a second go at the same offence.	Sí, no cabe un segundo intento por la misma infracción.
+W	negative-double-jeopardy	negativeAnswers	No, it's a distinct charge, or the earlier proceedings never decided the merits.	No, es un cargo distinto, o el primer proceso no decidió el fondo.
+W	question-habeas-corpus	questions	Can they be brought before a judge to test whether they can be held?	¿Se les puede llevar ante un juez para comprobar si se les puede retener?
+W	positive-habeas-corpus	positiveAnswers	Yes, a judge can look at the detention and say whether it stands.	Sí, un juez puede mirar la detención y decir si se sostiene.
+W	negative-habeas-corpus	negativeAnswers	No, that route isn't open here, or another exclusive path has to be used.	No, esa vía no cabe aquí, o hay que usar otra, exclusiva.
+W	question-stare-decisis	questions	Are we bound by how this was decided last time?	¿Nos ata cómo se decidió esto la última vez?
+W	positive-stare-decisis	positiveAnswers	Yes, the earlier decision is the same in every material respect and has to be followed.	Sí, la decisión de entonces calza de lleno y hay que seguirla.
+W	negative-stare-decisis	negativeAnswers	No, this case is different enough, or we sit somewhere that may depart.	No, este caso se distingue lo bastante, o estamos donde cabe apartarse.
+W	question-sisyphean	questions	Is the labour Sisyphean?	¿Es un trabajo de Sísifo?
+W	positive-sisyphean	positiveAnswers	Yes, each gain is undone before it can accumulate.	Sí, cada ganancia se deshace antes de poder acumularse.
+W	negative-sisyphean	negativeAnswers	No, progress will hold; it isn't rolling back every night.	No, el avance se sostendrá; no rueda atrás cada noche.
+W	question-quixotic	questions	Is that aim quixotic?	¿Es quijotesco ese designio?
+W	positive-quixotic	positiveAnswers	Yes, it's noble in intention and hopeless as a practical project.	Sí, es noble de intención e inútil como proyecto práctico.
+W	negative-quixotic	negativeAnswers	No, it's arduous but, on a fair view of the means, attainable.	No, es arduo pero, a la vista de los medios, alcanzable.
+W	question-aporia	questions	Are we in an aporia?	¿Estamos en una aporía?
+W	positive-aporia	positiveAnswers	Yes, equally compelling considerations block every path of thought.	Sí, consideraciones igualmente cogentes bloquean toda vía de pensamiento.
+W	negative-aporia	negativeAnswers	No, a way through remains once one premise is dropped.	No, queda una salida una vez soltada una premisa.
+W	question-performative-contradiction	questions	Is that a performative contradiction?	¿Es una contradicción performativa?
+W	positive-performative-contradiction	positiveAnswers	Yes, the very act of asserting it falsifies what is being asserted.	Sí, el acto mismo de afirmarlo falsifica lo que se afirma.
+W	negative-performative-contradiction	negativeAnswers	No, the speech-act and the proposition can both be true together.	No, el acto de habla y la proposición pueden ser verdaderos a la vez.
+W	question-category-error	questions	Is that a category error?	¿Es un error de categoría?
+W	positive-category-error	positiveAnswers	Yes, a predicate proper to one logical type is being applied to another.	Sí, se aplica a un tipo lógico un predicado propio de otro.
+W	negative-category-error	negativeAnswers	No, the subject is of the type that the predicate takes.	No, el sujeto es del tipo que el predicado admite.
+W	question-reached-an-impasse	questions	Have the negotiations reached an impasse?	¿Han llegado las negociaciones a un impasse?
+W	positive-reached-an-impasse	positiveAnswers	Yes, neither side can move without abandoning something non-negotiable.	Sí, ninguna parte puede moverse sin abandonar algo no negociable.
+W	negative-reached-an-impasse	negativeAnswers	No, a residual zone of possible agreement remains.	No, queda una zona residual de acuerdo posible.
+W	question-zero-sum	questions	Is the interaction strictly zero-sum?	¿Es la interacción estrictamente de suma cero?
+W	positive-zero-sum	positiveAnswers	Yes, one party's gain is exactly the other's loss.	Sí, la ganancia de uno es exactamente la pérdida del otro.
+W	negative-zero-sum	negativeAnswers	No, there's a cooperative surplus; both can be made better off.	No, hay un excedente cooperativo; ambos pueden salir ganando.
+W	question-prisoners-dilemma	questions	Are we in a prisoner's dilemma?	¿Estamos en un dilema del prisionero?
+W	positive-prisoners-dilemma	positiveAnswers	Yes, each of us is better off defecting, even though we'd both be better off cooperating.	Sí, a cada uno le conviene desertar, aunque a ambos nos iría mejor cooperando.
+W	negative-prisoners-dilemma	negativeAnswers	No, cooperation actually holds as a stable outcome here.	No, aquí la cooperación se sostiene de verdad como resultado estable.
+W	question-slippery-slope	questions	Is that a slippery-slope argument?	¿Es un argumento de pendiente resbaladiza?
+W	positive-slippery-slope	positiveAnswers	Yes, it treats the first step as if it already committed us to an ugly last step.	Sí, trata el primer paso como si ya nos hubiera comprometido a un último paso feo.
+W	negative-slippery-slope	negativeAnswers	No, each later step is independently justified, not inferred from the first.	No, cada paso siguiente se justifica por sí, y no se infiere del primero.
+W	question-tu-quoque	questions	Is that a tu quoque?	¿Es un tu quoque?
+W	positive-tu-quoque	positiveAnswers	Yes, alleged hypocrisy is offered as if it answered the substance.	Sí, se ofrece una hipocresía alegada como si respondiera al fondo.
+W	negative-tu-quoque	negativeAnswers	No, I'm meeting the argument on its merits, not on the speaker's consistency.	No, enfrento el argumento en su mérito, no en la coherencia del orador.
+W	question-steel-manning	questions	Are you steel-manning the opposing case?	¿Toma el argumento contrario en su forma más fuerte?
+W	positive-steel-manning	positiveAnswers	Yes, I'm taking it in its strongest form before I attack it.	Sí, lo tomo en su máxima fuerza antes de atacarlo.
+W	negative-steel-manning	negativeAnswers	No, I'm attacking a weaker restatement than the one actually advanced.	No, ataco una reformulación más débil que la que de verdad se avanzó.
+W	question-onus-probandi	questions	Is it on you to prove it?	¿Le toca a usted probarlo?
+W	positive-onus-probandi	positiveAnswers	Yes, the burden is mine; they need only rebut.	Sí, la carga es mía; a ellos les basta con rebatir.
+W	negative-onus-probandi	negativeAnswers	No, a presumption already works in my favour; they have to displace it.	No, ya opera una presunción a mi favor; a ellos les toca desvirtuarla.
+W	question-res-judicata	questions	Has this already been settled once and for all?	¿Está esto ya zanjado de una vez por todas?
+W	positive-res-judicata	positiveAnswers	Yes, the same people, the same quarrel and the same object have already been finally decided.	Sí, las mismas personas, la misma disputa y el mismo objeto ya se decidieron de forma definitiva.
+W	negative-res-judicata	negativeAnswers	No, it isn't the same people, quarrel or object, so the matter is still live.	No, no son las mismas personas, la misma disputa o el mismo objeto, así que el asunto sigue vivo.
+W	question-lis-pendens	questions	Is the same dispute already being heard somewhere else?	¿Se está oyendo ya el mismo litigio en otro sitio?
+W	positive-lis-pendens	positiveAnswers	Yes, the same quarrel is already before another body that can hear it.	Sí, la misma disputa ya está ante otra instancia que puede oírla.
+W	negative-lis-pendens	negativeAnswers	No, nothing parallel is under way, or they're not after the same thing.	No, no hay nada paralelo en marcha, o no persiguen lo mismo.
+W	question-forum-shopping	questions	Are they just picking the venue that suits them?	¿Eligen solo el foro que les conviene?
+W	positive-forum-shopping	positiveAnswers	Yes, they're choosing the place for the result, not because it naturally belongs there.	Sí, eligen el sitio por el resultado, no porque le corresponda de natural.
+W	negative-forum-shopping	negativeAnswers	No, this is the natural place for it; there's a real connection.	No, este es el sitio natural; hay un vínculo de verdad.
+W	question-chilling-effect	questions	Would that measure have a chilling effect?	¿Tendría esa medida un efecto disuasorio?
+W	positive-chilling-effect	positiveAnswers	Yes, it would frighten people out of saying things they're entitled to say.	Sí, asustaría a gente que tiene derecho a hablar.
+W	negative-chilling-effect	negativeAnswers	No, it's tightly drawn and wouldn't deter anyone acting within the law.	No, está estrechamente acotada y no disuadiría a quien actúa dentro de la ley.
+W	question-prior-restraint	questions	Are they trying to stop it before it's even said?	¿Intentan atajarlo antes incluso de que se diga?
+W	positive-prior-restraint	positiveAnswers	Yes, it censors the speech before publication rather than sanctioning it afterwards.	Sí, censura el discurso antes de publicarlo, en vez de sancionarlo después.
+W	negative-prior-restraint	negativeAnswers	No, any sanction would come after the fact; nothing is stopped in advance.	No, cualquier sanción vendría a posteriori; nada se ataja de antemano.
+W	question-proportionality-test	questions	Does the measure go further than it needs to?	¿Va la medida más lejos de lo necesario?
+W	positive-proportionality-test	positiveAnswers	Yes, it's unsuitable, unnecessary, or heavier than the legitimate aim requires.	Sí, es inadecuada, innecesaria, o más pesada de lo que exige el fin legítimo.
+W	negative-proportionality-test	negativeAnswers	No, it's suitable, necessary and strictly proportionate to that aim.	No, es adecuada, necesaria y estrictamente proporcional a ese fin.
+W	question-margin-of-appreciation	questions	Do they still have some room to judge this for themselves?	¿Les queda aún margen para juzgarlo por sí mismos?
+W	positive-margin-of-appreciation	positiveAnswers	Yes, the state retains some latitude where no European consensus is established.	Sí, el Estado conserva cierta latitud donde no hay consenso europeo asentado.
+W	negative-margin-of-appreciation	negativeAnswers	No, the standard is uniform and any remaining latitude is vanishingly narrow.	No, el estándar es uniforme y el margen que quede es estrecho hasta desvanecerse.
+W	question-acte-clair	questions	Is the point so obvious that we needn't send it anywhere else?	¿Es el punto tan evidente que no hace falta mandarlo a otro sitio?
+W	positive-acte-clair	positiveAnswers	Yes, the European point is so clear that no reasonable doubt remains.	Sí, el punto europeo es tan claro que no queda duda razonable.
+W	negative-acte-clair	negativeAnswers	No, the point is still unsettled; it still needs to go up.	No, el punto no está zanjado; aún hay que subirlo.
+W	question-pacta-sunt-servanda	questions	Does a deal still have to be honoured as struck?	¿Hay que honrar el trato tal como se cerró?
+W	positive-pacta-sunt-servanda	positiveAnswers	Yes, the bargain has to be performed as it was made.	Sí, el pacto hay que cumplirlo tal como se hizo.
+W	negative-pacta-sunt-servanda	negativeAnswers	No, there's a recognised reason to walk away or recast it.	No, hay una razón reconocida para marcharse o rehacerlo.
+W	question-rebus-sic-stantibus	questions	Have things changed so much that the original deal no longer makes sense?	¿Han cambiado tanto las cosas que el trato original ya no tiene sentido?
+W	positive-rebus-sic-stantibus	positiveAnswers	Yes, the ground has shifted so far that performing it would be a different bargain.	Sí, el terreno ha cambiado tanto que cumplirlo sería otro trato.
+W	negative-rebus-sic-stantibus	negativeAnswers	No, the change was foreseeable, or it doesn't go to the heart of the deal.	No, el cambio era previsible, o no llega al corazón del pacto.
+W	question-clean-hands	questions	Have they behaved well enough to ask for a favour of this kind?	¿Se han portado lo bastante bien para pedir un favor de este tipo?
+W	positive-clean-hands	positiveAnswers	Yes, their own conduct in the transaction is unimpeachable.	Sí, su propia conducta en la operación es irreprochable.
+W	negative-clean-hands	negativeAnswers	No, their related misconduct would bar a favour of this kind.	No, su conducta conexa impediría una medida de este tipo.
+W	question-estoppel	questions	Have they said something they can't now go back on?	¿Han dicho algo de lo que ya no pueden desdecirse?
+W	positive-estoppel	positiveAnswers	Yes, the other side relied on it and is worse off for having done so.	Sí, la otra parte se fió y ha salido peor por haberlo hecho.
+W	negative-estoppel	negativeAnswers	No, nothing clear was said, or nobody acted to their cost on the back of it.	No, no se dijo nada claro, o nadie actuó en su perjuicio fiándose de ello.
+W	question-unjust-enrichment	questions	Have they been left better off at someone else's expense, with no good reason?	¿Han salido ganando a costa de otro, sin una buena razón?
+W	positive-unjust-enrichment	positiveAnswers	Yes, they gained at the other person's expense and there's no proper reason for it.	Sí, ganaron a costa del otro y no hay una razón de verdad.
+W	negative-unjust-enrichment	negativeAnswers	No, a contract, a gift or a legal duty explains the transfer.	No, un contrato, un regalo o una obligación legal explica la transferencia.
+W	question-specific-performance	questions	Can they actually be made to do the thing they promised, rather than just pay?	¿Se les puede obligar de verdad a hacer lo prometido, y no solo a pagar?
+W	positive-specific-performance	positiveAnswers	Yes, money would be a poor substitute for this unique obligation.	Sí, el dinero sería un mal sustituto de esta obligación única.
+W	negative-specific-performance	negativeAnswers	No, nobody would force them to do the thing itself; money would do.	No, nadie los forzaría a hacer la cosa misma; bastaría el dinero.
+W	question-vicarious-liability	questions	Are they on the hook for what someone else did?	¿Responden de lo que ha hecho otro?
+W	positive-vicarious-liability	positiveAnswers	Yes, it was done in the course of the job, so the employer answers.	Sí, se hizo en el ejercicio del trabajo, así que responde el empleador.
+W	negative-vicarious-liability	negativeAnswers	No, they were off on a personal errand, well outside the job.	No, fue un desvío personal, fuera del trabajo.
+W	question-strict-liability	questions	Can they be held responsible even if they weren't careless?	¿Se les puede hacer responsables aunque no hayan sido descuidados?
+W	positive-strict-liability	positiveAnswers	Yes, showing they did the act is enough; you don't have to show fault.	Sí, basta con mostrar que hicieron el acto; no hace falta mostrar culpa.
+W	negative-strict-liability	negativeAnswers	No, carelessness or another fault still has to be shown.	No, el descuido u otra culpa sigue teniendo que mostrarse.
+W	question-jus-cogens	questions	Is that one of those rules no country can bargain away?	¿Es una de esas normas de las que ningún país puede pactar en contra?
+W	positive-jus-cogens	positiveAnswers	Yes, it's treated as untouchable, and no side-deal can set it aside.	Sí, se tiene por intangible, y ningún pacto lateral puede apartarla.
+W	negative-jus-cogens	negativeAnswers	No, it's ordinary treaty language and the parties can agree otherwise between themselves.	No, es derecho convencional ordinario y las partes pueden acordar otra cosa entre sí.
+W	question-non-refoulement	questions	Would sending them back put them in real danger?	¿Devolverlos los pondría en un peligro real?
+W	positive-non-refoulement	positiveAnswers	Yes, there's a genuine risk of the harm this protection is meant to prevent.	Sí, hay un riesgo verdadero del daño que esta protección pretende evitar.
+W	negative-non-refoulement	negativeAnswers	No, that protection doesn't arise on these facts, or a recognised exception applies.	No, esa protección no se dispara en estos hechos, o cabe una excepción reconocida.
+W	question-c2x-hold-water	questions	Does that argument still hold water?	¿Se sostiene todavía ese argumento?
+W	positive-c2x-hold-water	positiveAnswers	Yes, it still stands even after what we have learned since.	Sí, sigue en pie aun con lo que hemos sabido luego.
+W	negative-c2x-hold-water	negativeAnswers	No, what we have learned since knocks the bottom out of it.	No, lo que hemos sabido luego le hunde el fondo.
+W	question-c2x-cut-ice	questions	Does that distinction still cut any ice?	¿Esa distinción sigue teniendo peso?
+W	positive-c2x-cut-ice	positiveAnswers	Yes, people still treat it as a difference that matters.	Sí, la gente aún la trata como una diferencia que importa.
+W	negative-c2x-cut-ice	negativeAnswers	No, it is a difference of words and nothing more.	No, es una diferencia de palabras y nada más.
+W	question-c2x-begs-off	questions	Are they begging off the question that actually matters?	¿Se escabullen de la pregunta que de verdad importa?
+W	positive-c2x-begs-off	positiveAnswers	Yes, they keep circling it and never land on it.	Sí, dan vueltas y no aterrizan nunca.
+W	negative-c2x-begs-off	negativeAnswers	No, they answered the thing we asked.	No, respondieron a lo que se les preguntó.
+W	question-c2x-moves-goal	questions	Are they moving the goalposts after the fact?	¿Mueven los postes a posteriori?
+W	positive-c2x-moves-goal	positiveAnswers	Yes, they changed the test once we had already met the old one.	Sí, cambiaron el rasero cuando el viejo ya se había cumplido.
+W	negative-c2x-moves-goal	negativeAnswers	No, they are still using the same test they set at the start.	No, siguen usando el rasero que fijaron al principio.
+W	question-c2x-speaks-both	questions	Are they speaking out of both sides of their mouth?	¿Dicen una cosa y la contraria?
+W	positive-c2x-speaks-both	positiveAnswers	Yes, the two promises cannot both be kept.	Sí, las dos promesas no pueden cumplirse a la vez.
+W	negative-c2x-speaks-both	negativeAnswers	No, they mean one thing first and the other later.	No, quieren decir una primero y la otra después.
+W	question-c2x-paper-tiger	questions	Is that threat a paper tiger?	¿Es esa amenaza un tigre de papel?
+W	positive-c2x-paper-tiger	positiveAnswers	Yes, they can roar all they like; they cannot actually do it.	Sí, pueden rugir cuanto quieran; de hecho no pueden hacer nada.
+W	negative-c2x-paper-tiger	negativeAnswers	No, they can follow through, and they already have.	No, pueden cumplirla, y ya lo han hecho.
+W	question-c2x-live-issue	questions	Is this still a live issue, or has it gone stale?	¿Sigue viva la cuestión, o ya se ha enfriado?
+W	positive-c2x-live-issue	positiveAnswers	Yes, it still changes what we can do from here.	Sí, aún cambia lo que podemos hacer a partir de aquí.
+W	negative-c2x-live-issue	negativeAnswers	No, events have overtaken it and nothing hangs on it now.	No, los hechos la han rebasado y ya no pende nada de ella.
+W	question-c2x-open-door	questions	Are they pushing at an open door?	¿Empujan una puerta que ya está abierta?
+W	positive-c2x-open-door	positiveAnswers	Yes, we already agree and they are wasting their breath.	Sí, ya estamos de acuerdo y pierden el aliento.
+W	negative-c2x-open-door	negativeAnswers	No, we still disagree and they have to make the point.	No, aún disentimos y tienen que sentar el punto.
+W	question-c2x-last-ditch	questions	Is this a last-ditch attempt?	¿Es un intento de última hora?
+W	positive-c2x-last-ditch	positiveAnswers	Yes, they only reached for it after everything else had failed.	Sí, solo echaron mano de él cuando todo lo demás había fallado.
+W	negative-c2x-last-ditch	negativeAnswers	No, they put it on the table from the start as a point in its own right.	No, lo pusieron sobre la mesa desde el principio, como un punto por sí solo.
+W	question-c2x-window-dress	questions	Is the concession mere window-dressing?	¿Es la concesión mero escaparate?
+W	positive-c2x-window-dress	positiveAnswers	Yes, it leaves the real refusal exactly where it was.	Sí, deja el rechazo verdadero exactamente donde estaba.
+W	negative-c2x-window-dress	negativeAnswers	No, it actually changes the decision they will take.	No, cambia de verdad la decisión que tomarán.
+W	question-c2x-heavy-weather	questions	Are they making heavy weather of a narrow point?	¿Le dan mil vueltas a un punto estrecho?
+W	positive-c2x-heavy-weather	positiveAnswers	Yes, they are spending far too much energy on something that barely matters.	Sí, gastan demasiada energía en algo que apenas importa.
+W	negative-c2x-heavy-weather	negativeAnswers	No, the point actually carries the rest of the argument, so they have to take it slowly.	No, el punto carga el resto del argumento, y hay que tomarlo despacio.
+W	question-c2x-own-petard	questions	Have they been hoist with their own petard?	¿Han caído en su propia trampa?
+W	positive-c2x-own-petard	positiveAnswers	Yes, the standard they insisted on has now turned around and bitten them.	Sí, la norma que tanto urgieron se ha vuelto y les ha mordido.
+W	negative-c2x-own-petard	negativeAnswers	No, the standard they pressed does not even reach these facts.	No, la norma que urgieron ni siquiera alcanza estos hechos.
+W	question-c2x-red-herring	questions	Is that objection a red herring?	¿Es esa objeción una pista falsa?
+W	positive-c2x-red-herring	positiveAnswers	Yes, it pulls us off the only point that can actually settle this.	Sí, nos aparta del único punto que puede zanjar esto.
+W	negative-c2x-red-herring	negativeAnswers	No, the outcome really does turn on that point.	No, el resultado pende de verdad de ese punto.
+W	question-c2x-shadow-boxing	questions	Are we shadow-boxing?	¿Boxeamos contra una sombra?
+W	positive-c2x-shadow-boxing	positiveAnswers	Yes, neither of us has named the claim the other has to meet.	Sí, nadie ha nombrado aún la tesis que el otro debe afrontar.
+W	negative-c2x-shadow-boxing	negativeAnswers	No, we have both named the claims and we can decide them.	No, ambos hemos nombrado las tesis y se pueden decidir.
+W	question-c2x-open-goal	questions	Have they missed an open goal?	¿Han fallado un gol cantado?
+W	positive-c2x-open-goal	positiveAnswers	Yes, a complete answer was sitting there and they never took it.	Sí, había una respuesta cabal y no la tomaron.
+W	negative-c2x-open-goal	negativeAnswers	No, the opening they describe was never really there.	No, la apertura que describen no existió de verdad.
+W	question-c2x-strained-reading	questions	Is that a strained reading of the text?	¿Es una lectura forzada del texto?
+W	positive-c2x-strained-reading	positiveAnswers	Yes, they are loading the words with more than those words will naturally bear.	Sí, cargan las palabras con más de lo que aguantan de natural.
+W	negative-c2x-strained-reading	negativeAnswers	No, that is how those words are ordinarily used in this kind of writing.	No, así se usan de ordinario esas palabras en este tipo de escrito.
+W	question-c2x-after-the-event	questions	Is this reasoning after the event?	¿Es un razonamiento construido a toro pasado?
+W	positive-c2x-after-the-event	positiveAnswers	Yes, they built the justification once they already knew the result.	Sí, armaron la justificación cuando ya conocían el resultado.
+W	negative-c2x-after-the-event	negativeAnswers	No, they wrote the reasons down before the result was in.	No, escribieron los motivos antes de que el resultado estuviera.
+W	question-c2x-below-the-line	questions	Does that sit below the line of what we can decide?	¿Queda eso fuera de lo que podemos decidir?
+W	positive-c2x-below-the-line	positiveAnswers	Yes, it belongs to someone else and it is not ours to settle.	Sí, corresponde a otros y no nos toca zanjarlo.
+W	negative-c2x-below-the-line	negativeAnswers	No, it sits squarely inside what we were asked to settle.	No, entra de lleno en lo que se nos pidió zanjar.
+W	question-c2x-colourable	questions	Is the stated aim a cloak for another purpose?	¿Es el fin declarado un manto para otro designio?
+W	positive-c2x-colourable	positiveAnswers	Yes, the advertised aim is cover for a different design.	Sí, el fin pregonado tapa un designio distinto.
+W	negative-c2x-colourable	negativeAnswers	No, the advertised aim is the true and only purpose they are pursuing.	No, el fin pregonado es el único que persiguen.
+W	question-c2x-still-birth	questions	Was the request still-born?	¿Nació muerta la petición?
+W	positive-c2x-still-birth	positiveAnswers	Yes, a condition they needed was never met, so nothing ever took effect.	Sí, nunca se cumplió una condición necesaria, así que nada surtió efecto.
+W	negative-c2x-still-birth	negativeAnswers	No, it was live at the start and only later ran out of road.	No, estaba viva al principio y solo después se quedó sin camino.
+W	question-c2x-double-count	questions	Are they asking us to count the same harm twice?	¿Piden que el mismo daño se cuente dos veces?
+W	positive-c2x-double-count	positiveAnswers	Yes, the two items are the same loss wearing different names.	Sí, los dos apartados son la misma pérdida con otro nombre.
+W	negative-c2x-double-count	negativeAnswers	No, they make good two different kinds of harm.	No, resarcen dos clases de daño distintas.
+W	question-c2x-without-foundation	questions	Is the allegation without foundation?	¿Carece de fundamento la alegación?
+W	positive-c2x-without-foundation	positiveAnswers	Yes, there is nothing solid to hang it on.	Sí, no hay nada sólido donde colgarla.
+W	negative-c2x-without-foundation	negativeAnswers	No, there is enough there to require an answer.	No, hay bastante para exigir una respuesta.
+W	question-c2x-spent-force	questions	Has that old argument become a spent force?	¿Ha quedado ese argumento viejo en fuerza agotada?
+W	positive-c2x-spent-force	positiveAnswers	Yes, later thinking has emptied it of anything we still have to follow.	Sí, lo pensado después lo ha vaciado de cuanto aún debiéramos seguir.
+W	negative-c2x-spent-force	negativeAnswers	No, the heart of it still governs a point that comes up here.	No, su núcleo sigue gobernando un punto que aquí surge.
+W	question-c2x-in-terrorem	questions	Is that figure meant to frighten them into performing, rather than to measure the likely loss?	¿Busca esa cifra amedrentarlos para que cumplan, en vez de medir la pérdida probable?
+W	positive-c2x-in-terrorem	positiveAnswers	Yes, it is a scarecrow, not a genuine guess at the harm.	Sí, es un espantajo, no una previsión sincera del daño.
+W	negative-c2x-in-terrorem	negativeAnswers	No, it is a genuine attempt to put a number on the likely loss.	No, es un intento sincero de poner cifra a la pérdida probable.
+W	question-c2x-gone-moot	questions	Has the point gone moot?	¿Ha quedado el punto sin objeto?
+W	positive-c2x-gone-moot	positiveAnswers	Yes, something later has drained it of any remaining consequence.	Sí, algo posterior le ha quitado toda consecuencia.
+W	negative-c2x-gone-moot	negativeAnswers	No, it still has a consequence we have to decide.	No, aún tiene una consecuencia que debemos decidir.
+W	question-c2x-self-licking	questions	Is this a self-licking lollipop?	¿Es un proceso que solo sirve para lamerse a sí mismo?
+W	positive-c2x-self-licking	positiveAnswers	Yes, the process exists only to justify going on, and it produces nothing outward.	Sí, existe para justificar que siga y no produce nada hacia fuera.
+W	negative-c2x-self-licking	negativeAnswers	No, it produces something real, quite apart from keeping itself alive.	No, produce algo real, aparte de mantenerse vivo.
+W	question-c2x-dry-run	questions	Was that meeting only a dry run?	¿Fue esa reunión solo un ensayo?
+W	positive-c2x-dry-run	positiveAnswers	Yes, nothing decided there can bind anyone here.	Sí, nada de lo allí decidido puede vincular a nadie aquí.
+W	negative-c2x-dry-run	negativeAnswers	No, a real decision was taken and it still stands.	No, se tomó una decisión de verdad y sigue en pie.
+W	question-c2x-half-a-loaf	questions	Is half a loaf being offered as if it were the whole?	¿Ofrecen media hogaza como si fuera el pan entero?
+W	positive-c2x-half-a-loaf	positiveAnswers	Yes, the concession covers only a sliver of what was asked for.	Sí, la concesión solo cubre una orilla de lo pedido.
+W	negative-c2x-half-a-loaf	negativeAnswers	No, the concession meets the request in substance.	No, la concesión cubre de fondo lo pedido.
+W	question-c2x-in-limbo	questions	Is the request left hanging, with no path either way?	¿Queda la petición colgando, sin vía en ningún sentido?
+W	positive-c2x-in-limbo	positiveAnswers	Yes, there is no way to a decision and no way to drop it either.	Sí, no hay vía hacia una decisión ni modo de dejarla.
+W	negative-c2x-in-limbo	negativeAnswers	No, it is on the list and it will be decided in the ordinary way.	No, está en la lista y se resolverá por el cauce ordinario.
+W	question-c2x-needle-move	questions	Does any of this actually move the needle?	¿Mueve esto de verdad la aguja?
+W	positive-c2x-needle-move	positiveAnswers	Yes, if we accept it, it changes the decision we would otherwise take.	Sí, de aceptarlo cambia la decisión que tomaríamos.
+W	negative-c2x-needle-move	negativeAnswers	No, even at its strongest it leaves the decision untouched.	No, aun en su mejor versión la decisión queda igual.
+W	question-c2x-talking-book	questions	Are they talking through the book?	¿Son las citas mero adorno del repertorio?
+W	positive-c2x-talking-book	positiveAnswers	Yes, the quotations are decoration and do not support the claim.	Sí, no sostienen la tesis.
+W	negative-c2x-talking-book	negativeAnswers	No, each quotation actually matches the claim they are making.	No, cada cita calza de verdad con la tesis que sostienen.
+W	question-c2x-closed-mind	questions	Has the decision-maker closed their mind?	¿Ha cerrado el ánimo quien decide?
+W	positive-c2x-closed-mind	positiveAnswers	Yes, the later comments could not have been received with any willingness to be moved.	Sí, los comentarios tardíos no pudieron recibirse con ganas de ceder.
+W	negative-c2x-closed-mind	negativeAnswers	No, the later comments were weighed and could have changed the result.	No, se sopesaron y habrían podido cambiar el resultado.
+W	question-c2x-rubber-stamp	questions	Was the review a rubber stamp?	¿Fue el control un sello de goma?
+W	positive-c2x-rubber-stamp	positiveAnswers	Yes, nobody brought an independent mind to the merits.	Sí, nadie aplicó un criterio independiente al fondo.
+W	negative-c2x-rubber-stamp	negativeAnswers	No, the reviewer remade the decision on the material in front of them.	No, quien revisó rehizo la decisión sobre lo que tenía delante.
+W	question-c2x-poisoned-well	questions	Have they poisoned the well?	¿Han envenenado el pozo?
+W	positive-c2x-poisoned-well	positiveAnswers	Yes, the earlier smear is designed to make any later answer unbelievable.	Sí, el baldón primero busca hacer inverosímil cualquier respuesta ulterior.
+W	negative-c2x-poisoned-well	negativeAnswers	No, the earlier remark does not stop us weighing a later answer.	No, el dicho primero no impide sopesar una respuesta después.
+W	question-c2x-in-the-wings	questions	Is a better point waiting in the wings?	¿Hay un argumento mejor esperando entre bastidores?
+W	positive-c2x-in-the-wings	positiveAnswers	Yes, and it should have led, not arrived as an afterthought.	Sí, y debió ir de primero, no de coleo.
+W	negative-c2x-in-the-wings	negativeAnswers	No, what they have argued is the whole of the case they have.	No, lo que han argumentado es todo el caso que tienen.
+W	question-c2x-overtaken	questions	Has what they asked for been overtaken?	¿Ha quedado superado lo que pidieron?
+W	positive-c2x-overtaken	positiveAnswers	Yes, granting it now would act on a situation that no longer exists.	Sí, otorgarlo ahora obraría sobre una situación que ya no existe.
+W	negative-c2x-overtaken	negativeAnswers	No, it would still bite on a situation that is present and live.	No, seguiría mordiendo una situación presente y viva.
+W	question-c2x-thin-ice-now	questions	Are they on thin ice with that concession?	¿Pisan hielo fino con esa concesión?
+W	positive-c2x-thin-ice-now	positiveAnswers	Yes, it gives away a premise they still need for a later point.	Sí, entregan una premisa que aún necesitan más adelante.
+W	negative-c2x-thin-ice-now	negativeAnswers	No, the later point stands without the premise they have given away.	No, el punto ulterior se sostiene sin la premisa cedida.
+W	question-c2x-two-ways	questions	Can that conclusion be read two ways?	¿Se puede leer esa conclusión de dos modos?
+W	positive-c2x-two-ways	positiveAnswers	Yes, and only one of those ways supports the decision they made.	Sí, y solo uno sostiene la decisión que tomaron.
+W	negative-c2x-two-ways	negativeAnswers	No, in this context it will bear only one meaning.	No, en este contexto solo admite un sentido.
+W	question-c2x-below-stairs	questions	Is that just housekeeping, rather than a question of fairness?	¿Es eso intendencia, y no una cuestión de equidad?
+W	positive-c2x-below-stairs	positiveAnswers	Yes, it is housekeeping and nothing more.	Sí, es menaje y nada más.
+W	negative-c2x-below-stairs	negativeAnswers	No, it goes to whether people were treated fairly in the room.	No, atañe a si se trató con equidad a la gente en la sala.
+W	question-c2x-shot-across	questions	Was that a shot across the bows rather than a real threat?	¿Fue un cañonazo de aviso y no una amenaza de verdad?
+W	positive-c2x-shot-across	positiveAnswers	Yes, it was a warning without any present intention to act.	Sí, fue aviso sin ánimo presente de actuar.
+W	negative-c2x-shot-across	negativeAnswers	No, they meant it and they were ready to act.	No, lo decían en serio y estaban dispuestos a actuar.
+W	question-c2x-in-the-round	questions	Have they considered the matter in the round?	¿Han mirado el asunto en conjunto?
+W	positive-c2x-in-the-round	positiveAnswers	Yes, they weighed the competing factors against each other, not in isolation.	Sí, sopesaron los factores contrarios entre sí, no aislados.
+W	negative-c2x-in-the-round	negativeAnswers	No, a material factor was parked on its own and never put in the balance.	No, un factor esencial quedó aparcado y nunca entró en la balanza.
+W	question-c2x-for-the-record	questions	Is that observation only for the record?	¿Es esa observación solo para constancia?
+W	positive-c2x-for-the-record	positiveAnswers	Yes, they are not asking anyone to decide anything on the back of it.	Sí, no piden que se decida nada a partir de ella.
+W	negative-c2x-for-the-record	negativeAnswers	No, they still want a decision on that point.	No, siguen queriendo una decisión sobre ese punto.
+W	question-c2x-dead-air	questions	Is there dead air in the reasoning?	¿Hay un silencio muerto en el razonamiento?
+W	positive-c2x-dead-air	positiveAnswers	Yes, a necessary step is missing between what they found and where they ended up.	Sí, falta un peldaño entre lo que hallaron y donde acabaron.
+W	negative-c2x-dead-air	negativeAnswers	No, each step is spelled out and the result follows.	No, cada peldaño está dicho y el resultado se sigue.
+W	question-c2x-false-scent	questions	Have they been put on a false scent?	¿Los han puesto sobre una pista falsa?
+W	positive-c2x-false-scent	positiveAnswers	Yes, the timeline they were given is wrong at the only date that matters.	Sí, la cronología que les dieron falla en la única fecha que importa.
+W	negative-c2x-false-scent	negativeAnswers	No, the timeline is accurate at every date that matters.	No, la cronología es cabal en cada fecha que importa.
+W	question-c2x-in-one-breath	questions	Do they take two inconsistent positions in one breath?	¿Sostienen dos posturas incompatibles en un mismo aliento?
+W	positive-c2x-in-one-breath	positiveAnswers	Yes, the two sentences cannot stand together.	Sí, las dos frases no pueden convivir.
+W	negative-c2x-in-one-breath	negativeAnswers	No, the second sentence qualifies the first without contradicting it.	No, la segunda matiza la primera sin contradecirla.
+W	question-c2x-below-radar	questions	Was the point slipped in below the radar?	¿Se coló el punto por debajo del radar?
+W	positive-c2x-below-radar	positiveAnswers	Yes, nobody flagged it and the other side never had a fair chance to answer it.	Sí, nadie lo señaló y la otra parte no tuvo ocasión justa de contestarlo.
+W	negative-c2x-below-radar	negativeAnswers	No, it was clearly flagged and fully answered.	No, se señaló con claridad y se contestó por entero.
+W	question-c2x-spent-cartridge	questions	Is that argument a spent cartridge?	¿Es ese argumento un cartucho gastado?
+W	positive-c2x-spent-cartridge	positiveAnswers	Yes, they fired it in an earlier round and it has nothing left to do here.	Sí, se disparó en una ronda anterior y aquí ya no hace nada.
+W	negative-c2x-spent-cartridge	negativeAnswers	No, it still has work to do on a point that remains live.	No, aún tiene trabajo en un punto que sigue vivo.
+W	question-c2x-open-and-shut	questions	Is this being sold as open-and-shut when it is not?	¿La venden como evidente cuando no lo es?
+W	positive-c2x-open-and-shut	positiveAnswers	Yes, there is a real contest on a point they have brushed aside.	Sí, queda un debate real sobre un punto barrido de un plumazo.
+W	negative-c2x-open-and-shut	negativeAnswers	No, once you read the papers there is no contest left.	No, leídos los papeles ya no queda debate.
+W	question-c2x-in-the-margin	questions	Does that point live only in the margin?	¿Vive ese punto solo en el margen?
+W	positive-c2x-in-the-margin	positiveAnswers	Yes, it is a footnote to a matter that is decided on other points.	Sí, es una nota a pie de un asunto decidido por otros puntos.
+W	negative-c2x-in-the-margin	negativeAnswers	No, it is one of the points on which the matter is actually decided.	No, es uno de los puntos por los que de verdad se decide.
+W	question-c2x-cold-comfort	questions	Is that assurance cold comfort?	¿Es ese aseguramiento un consuelo frío?
+W	positive-c2x-cold-comfort	positiveAnswers	Yes, if they break it there is no way to make them keep it.	Sí, si lo incumplen no hay modo de hacerles cumplirlo.
+W	negative-c2x-cold-comfort	negativeAnswers	No, if they break it there is a real way to hold them to it.	No, si lo incumplen hay un modo real de exigirles que lo cumplan.
+W	question-c2x-through-the-back	questions	Are they coming through the back door?	¿Entran por la puerta de atrás?
+W	positive-c2x-through-the-back	positiveAnswers	Yes, they are asking for the same thing under a label that was already refused.	Sí, piden lo mismo bajo un rótulo ya rechazado.
+W	negative-c2x-through-the-back	negativeAnswers	No, what they want now is different in kind from what was refused.	No, lo que ahora quieren es de otra índole que lo rechazado.
+W	question-c2x-on-stilts	questions	Is that conclusion on stilts?	¿Va esa conclusión sobre zancos?
+W	positive-c2x-on-stilts	positiveAnswers	Yes, it floats above the facts and they do not hold it up.	Sí, flota por encima de los hechos y estos no la sostienen.
+W	negative-c2x-on-stilts	negativeAnswers	No, each fact is a plank in the conclusion.	No, cada hecho es un tablón de la conclusión.
+W	question-c2x-no-answer	questions	Have they given no answer to the point?	¿No han dado respuesta al punto?
+W	positive-c2x-no-answer	positiveAnswers	Yes, what they said is a change of subject, not a meeting of the point.	Sí, lo dicho cambia de tema y no enfrenta el punto.
+W	negative-c2x-no-answer	negativeAnswers	No, they met the point, even if only briefly.	No, enfrentan el punto, aunque sea en breve.
+W	question-c2x-live-ammunition	questions	Is that quotation live ammunition, or a blank?	¿Es esa cita munición viva, o de fogueo?
+W	positive-c2x-live-ammunition	positiveAnswers	Yes, it settles a point that comes up here in the same form.	Sí, zanja un punto que aquí surge de la misma forma.
+W	negative-c2x-live-ammunition	negativeAnswers	No, the point it settled does not come up here at all.	No, el punto que zanjó no surge aquí de forma alguna.
+W	question-c2x-afterthought	questions	Is the new point an afterthought?	¿Es el punto nuevo un añadido tardío?
+W	positive-c2x-afterthought	positiveAnswers	Yes, it appears for the first time after the evidence was already closed.	Sí, aparece por primera vez tras haberse cerrado ya las pruebas.
+W	negative-c2x-afterthought	negativeAnswers	No, it was on the page from the start, even if they developed it late.	No, ya estaba en la página desde el principio, aunque se desarrolló tarde.
+W	question-c2x-hollow-ring	questions	Does that apology have a hollow ring?	¿Suena a hueco esa disculpa?
+W	positive-c2x-hollow-ring	positiveAnswers	Yes, they offer it without withdrawing the words they are being asked to take back.	Sí, se ofrece sin retirar las palabras que se les pide que retiren.
+W	negative-c2x-hollow-ring	negativeAnswers	No, they withdraw the words and the apology actually mends it.	No, retira las palabras y de verdad repara.
+W	question-c2x-in-default	questions	Have they missed a deadline that was meant to shut the door?	¿Han faltado a un plazo que debía cerrar la puerta?
+W	positive-c2x-in-default	positiveAnswers	Yes, they did not take the step in time and the penalty has already bitten.	Sí, el trámite no se hizo a tiempo y la sanción ya ha mordido.
+W	negative-c2x-in-default	negativeAnswers	No, they took the step in time, or time was extended before it ran out.	No, se hizo a tiempo, o el plazo se alargó antes de vencer.
+W	question-c2x-set-piece	questions	Is this a set-piece that ignores the facts in front of us?	¿Es un número ensayado que ignora los hechos que tenemos delante?
+W	positive-c2x-set-piece	positiveAnswers	Yes, they could make this speech anywhere and it never touches these facts.	Sí, podrían dar este discurso en cualquier parte y no toca estos hechos.
+W	negative-c2x-set-piece	negativeAnswers	No, it is built on details that belong only to this matter.	No, se construye sobre detalles propios de este asunto.
+W	question-c2x-quiet-life	questions	Are they buying a quiet life rather than standing on a right?	¿Compran la tranquilidad en vez de sostener un derecho?
+W	positive-c2x-quiet-life	positiveAnswers	Yes, the settlement gives up a claim that was ready to be argued out.	Sí, el acuerdo entrega una pretensión ya madura para debatirse.
+W	negative-c2x-quiet-life	negativeAnswers	No, the settlement reflects a real risk on both sides.	No, refleja un riesgo verdadero de ambos lados.
+W	question-c2x-in-the-weeds	questions	Have we got lost in the weeds?	¿Nos hemos perdido en la maleza?
+W	positive-c2x-in-the-weeds	positiveAnswers	Yes, the detail no longer serves the question we have to decide.	Sí, el detalle ya no sirve a la pregunta que hay que decidir.
+W	negative-c2x-in-the-weeds	negativeAnswers	No, the detail is the only way the question can be decided.	No, el detalle es el único modo de decidirla.
+W	question-c2x-full-and-frank	questions	Did they put everything material on the table?	¿Pusieron sobre la mesa todo lo que importaba?
+W	positive-c2x-full-and-frank	positiveAnswers	Yes, every fact that mattered and was known at the time was put forward.	Sí, todo hecho útil entonces conocido se adelantó.
+W	negative-c2x-full-and-frank	negativeAnswers	No, a fact that mattered and was known at the time was held back.	No, se retuvo un hecho útil entonces conocido.
+W	question-c2x-balance-of-convenience	questions	Does the balance of harm favour stopping them now?	¿Inclina el balance del daño a detenerlos ahora?
+W	positive-c2x-balance-of-convenience	positiveAnswers	Yes, the harm of letting it run cannot be put right with money, and that outweighs the harm of stopping it.	Sí, el daño de dejarlo correr no se repara con dinero, y pesa más que el de detenerlo.
+W	negative-c2x-balance-of-convenience	negativeAnswers	No, money would put it right, or the harm of stopping them is the greater.	No, el dinero lo pondría en su sitio, o el daño de detenerlos es mayor.
+W	question-c2x-serious-issue	questions	Is there a serious question worth arguing out?	¿Hay una cuestión seria que merezca debatirse?
+W	positive-c2x-serious-issue	positiveAnswers	Yes, the claim is not frivolous and it has a real chance on the papers.	Sí, la pretensión no es fútil y tiene una posibilidad real sobre los papeles.
+W	negative-c2x-serious-issue	negativeAnswers	No, even taken at its highest it has no real chance.	No, aun en su mejor versión no tiene posibilidad real.
+W	question-c2x-keep-as-is	questions	Should we leave things as they stand until the merits are decided?	¿Debemos dejar las cosas como están hasta que se decida el fondo?
+W	positive-c2x-keep-as-is	positiveAnswers	Yes, leaving things as they stand does the least damage until then.	Sí, dejarlas como están es lo menos dañino hasta entonces.
+W	negative-c2x-keep-as-is	negativeAnswers	No, leaving things as they stand would inflict the very harm the claim is brought to stop.	No, dejarlas como están infligiría el daño mismo que la pretensión busca atajar.
+W	question-c2x-undertaking	questions	If this temporary stop turns out to be wrong, can they make good the loss?	Si esta pausa temporal resultara injusta, ¿pueden resarcir la pérdida?
+W	positive-c2x-undertaking	positiveAnswers	Yes, they can cover any loss the stop may wrongly cause.	Sí, pueden cubrir cualquier pérdida que la pausa causara de modo injusto.
+W	negative-c2x-undertaking	negativeAnswers	No, they could not cover that loss if the stop later fell away.	No, no podrían cubrirla si la pausa cayera después.
+W	question-c2x-clearing-the-deck	questions	Are they only clearing the decks?	¿Solo están despejando la cubierta?
+W	positive-c2x-clearing-the-deck	positiveAnswers	Yes, the concession is tactical and leaves the real fight for another day.	Sí, la concesión es táctica y deja la pelea verdadera para otro día.
+W	negative-c2x-clearing-the-deck	negativeAnswers	No, they are genuinely abandoning that part of the case.	No, es un abandono verdadero de esa parte del asunto.
+W	question-c2x-in-isolation	questions	Is the sentence being read in isolation?	¿Se lee la frase arrancada de su entorno?
+W	positive-c2x-in-isolation	positiveAnswers	Yes, the surrounding text gives it a meaning they have stripped out.	Sí, el texto de alrededor le da un sentido que ellos han recortado.
+W	negative-c2x-in-isolation	negativeAnswers	No, the surrounding text confirms the meaning they assign.	No, el texto de alrededor confirma el sentido que le dan.
+W	question-c2x-tests-the-papers	questions	Does this exercise actually test the papers, or is it mere rhetoric?	¿Pone esto a prueba los papeles, o es mero aparato oratorio?
+W	positive-c2x-tests-the-papers	positiveAnswers	Yes, it tests a claim against the documents.	Sí, pone a prueba una tesis contra los documentos.
+W	negative-c2x-tests-the-papers	negativeAnswers	No, it is a speech unattached to any document.	No, es un discurso suelto de todo documento.
+W	question-c2x-without-notice	questions	Did they get this decided behind the other side's back when they could have given warning?	¿Hicieron decidir esto a espaldas de la otra parte cuando podían avisar?
+W	positive-c2x-without-notice	positiveAnswers	Yes, there was time and a way to warn them, and neither was used.	Sí, había tiempo y modo de avisar y no se usó ninguno.
+W	negative-c2x-without-notice	negativeAnswers	No, warning was impossible, or it would have defeated the whole point.	No, avisar era imposible, o habría frustrado todo el propósito.
+W	question-c2x-return-date	questions	Has the date for coming back become academic?	¿Ha quedado baldía la fecha de vuelta?
+W	positive-c2x-return-date	positiveAnswers	Yes, what they asked for has already had its whole effect and there is nothing left to undo.	Sí, lo que pedían ya produjo todo su efecto y no queda nada que deshacer.
+W	negative-c2x-return-date	negativeAnswers	No, there is still a live part that can be lifted or kept.	No, queda una parte viva que se puede alzar o mantener.
+W	question-c2x-constructive-ambiguity	questions	Has the wording been left deliberately two-edged?	¿Se ha dejado el tenor deliberadamente de doble filo?
+W	positive-c2x-constructive-ambiguity	positiveAnswers	Yes, the ambiguity is the bargain that lets both sides sign.	Sí, la ambigüedad es el trato que permite firmar a ambos.
+W	negative-c2x-constructive-ambiguity	negativeAnswers	No, each working phrase has one agreed meaning.	No, cada frase que opera tiene un solo sentido convenido.
+W	question-c2x-non-paper	questions	Is this an unofficial text rather than a proposal on the table?	¿Es un texto oficioso y no una propuesta sobre la mesa?
+W	positive-c2x-non-paper	positiveAnswers	Yes, it can be withdrawn without anyone having to disown a filed draft.	Sí, puede retirarse sin que nadie tenga que desmentir un borrador presentado.
+W	negative-c2x-non-paper	negativeAnswers	No, it is a formal proposal that is now on the record.	No, es una propuesta formal que ya consta.
+W	question-c2x-landing-zone	questions	Have we found a band of outcomes both sides can live with?	¿Hemos hallado una franja de resultados que ambos puedan aguantar?
+W	positive-c2x-landing-zone	positiveAnswers	Yes, there is a band of outcomes neither will walk away from.	Sí, hay una franja de la que ninguno se irá.
+W	negative-c2x-landing-zone	negativeAnswers	No, the bands do not overlap; there is no place to land.	No, las franjas no se solapan; no hay dónde aterrizar.
+W	question-c2x-walk-away	questions	Is that their walk-away point?	¿Es ese su umbral de marcha?
+W	positive-c2x-walk-away	positiveAnswers	Yes, below that figure they would rather have no deal.	Sí, por debajo de esa cifra preferirían no haber trato.
+W	negative-c2x-walk-away	negativeAnswers	No, they still have room to move if the rest of the package improves.	No, aún les queda margen si el resto del paquete mejora.
+W	question-c2x-face-saving	questions	Is a face-saving formula still available?	¿Queda aún una fórmula que les salve la cara?
+W	positive-c2x-face-saving	positiveAnswers	Yes, a form of words can let them concede without appearing to fold.	Sí, un tenor puede dejarles ceder sin parecer que se pliegan.
+W	negative-c2x-face-saving	negativeAnswers	No, any concession now would be read as a rout, and they will not sign it.	No, cualquier cesión se leería como una derrota, y no la firmarán.
+W	question-c2x-track-two	questions	Is this an unofficial back-channel that cannot bind the principals?	¿Es un cauce oficioso que no puede vincular a los mandantes?
+W	positive-c2x-track-two	positiveAnswers	Yes, it is unofficial and cannot bind those who hold the mandate.	Sí, es oficioso y no puede vincular a quienes tienen el mandato.
+W	negative-c2x-track-two	negativeAnswers	No, the people in the room have authority to commit their side.	No, quienes están en la sala tienen poder para comprometer a su lado.
+W	question-c2x-reserve-rights	questions	Are they reserving their position?	¿Se reservan su postura?
+W	positive-c2x-reserve-rights	positiveAnswers	Yes, nothing said today is meant as a give-away.	Sí, nada de lo dicho hoy ha de tomarse por renuncia.
+W	negative-c2x-reserve-rights	negativeAnswers	No, they have chosen a course and cannot now blow hot and cold.	No, han elegido un rumbo y ya no pueden soplar a un tiempo caliente y frío.
+W	question-c2x-gentlemen-deal	questions	Is this only a gentlemen's agreement?	¿No es más que un pacto de caballeros?
+W	positive-c2x-gentlemen-deal	positiveAnswers	Yes, it is a matter of honour and nobody can sue on it.	Sí, es cosa de honra y nadie puede demandar por ello.
+W	negative-c2x-gentlemen-deal	negativeAnswers	No, the words were meant to create a real, binding bargain.	No, las palabras pretendían crear un trato de verdad, que obliga.
+W	question-c2x-silence-as-yes	questions	Is silence being treated as assent?	¿Se toma el silencio por asentimiento?
+W	positive-c2x-silence-as-yes	positiveAnswers	Yes, a reply was called for by a date, and none came.	Sí, se pedía respuesta para una fecha y no llegó ninguna.
+W	negative-c2x-silence-as-yes	negativeAnswers	No, silence in this setting cannot be read as agreement.	No, el silencio, en este marco, no se lee como acuerdo.
+W	question-c2x-nothing-agreed	questions	Does nothing bind until the whole document is signed?	¿Nada vincula hasta que se firme el documento entero?
+W	positive-c2x-nothing-agreed	positiveAnswers	Yes, no part binds until the whole thing is signed.	Sí, ninguna parte vincula hasta que se firme el todo.
+W	negative-c2x-nothing-agreed	negativeAnswers	No, several heads have already been carved out as binding.	No, varios capítulos ya se han desgajado como vinculantes.
+W	question-c2x-side-letter	questions	Is the real bargain in a side letter?	¿Está el trato verdadero en una carta colateral?
+W	positive-c2x-side-letter	positiveAnswers	Yes, the published text is incomplete without that letter.	Sí, el texto publicado queda incompleto sin esa carta.
+W	negative-c2x-side-letter	negativeAnswers	No, the letter is explanatory and does not change the published text.	No, la carta es explicativa y no altera el texto publicado.
+W	question-c2x-sunset-date	questions	Does the power die of its own force on a fixed date?	¿Muere la facultad por sí sola en una fecha fija?
+W	positive-c2x-sunset-date	positiveAnswers	Yes, after that date there is nothing left to exercise.	Sí, pasada esa fecha ya no queda nada que ejercer.
+W	negative-c2x-sunset-date	negativeAnswers	No, it continues until it is expressly taken away.	No, sigue hasta que se retire de modo expreso.
+W	question-c2x-grandfathered	questions	Is the old practice kept for what is already under way?	¿Queda la práctica vieja amparada para lo ya en curso?
+W	positive-c2x-grandfathered	positiveAnswers	Yes, existing operations keep their old régime; only new ones take the new rule.	Sí, lo que ya opera conserva el régimen antiguo; solo lo nuevo toma la regla nueva.
+W	negative-c2x-grandfathered	negativeAnswers	No, the new rule bites on existing operations as well.	No, la regla nueva muerde también sobre lo ya en curso.
+W	question-c2x-time-essence	questions	Is time of the essence here?	¿Es el tiempo de la esencia aquí?
+W	positive-c2x-time-essence	positiveAnswers	Yes, missing the date itself ends the bargain.	Sí, fallar la fecha rompe el trato mismo.
+W	negative-c2x-time-essence	negativeAnswers	No, missing the date only opens a claim for the loss, and the deal still stands.	No, fallar la fecha solo abre una pretensión por la pérdida, y el trato sigue.
+W	question-c2x-best-endeavours	questions	Do they owe their utmost endeavours, or only reasonable ones?	¿Deben el máximo empeño, o solo un empeño razonable?
+W	positive-c2x-best-endeavours	positiveAnswers	Yes, they must take every step a careful person in their place could take, cost notwithstanding.	Sí, han de tomar todas las medidas que una persona prudente en su lugar podría tomar, cueste lo que cueste.
+W	negative-c2x-best-endeavours	negativeAnswers	No, they need only take steps that are reasonable in the circumstances.	No, solo han de tomar las medidas razonables a la vista de las circunstancias.
+W	question-c2x-entire-agreement	questions	Does the writing shut out the earlier side assurances?	¿Cierra lo escrito las seguridades laterales anteriores?
+W	positive-c2x-entire-agreement	positiveAnswers	Yes, the writing is the whole bargain and earlier assurances are excluded.	Sí, lo escrito es todo el trato y quedan fuera las seguridades anteriores.
+W	negative-c2x-entire-agreement	negativeAnswers	No, a lie or a side warranty still sits outside it.	No, una mentira o una garantía colateral sigue fuera de su alcance.
+W	question-c2x-sever-the-void	questions	Can the void limb be cut away and the rest saved?	¿Puede cercenarse el miembro nulo y salvarse el resto?
+W	positive-c2x-sever-the-void	positiveAnswers	Yes, the rest works without that limb and they would have agreed it that way.	Sí, el resto funciona sin ese miembro y lo habrían convenido así.
+W	negative-c2x-sever-the-void	negativeAnswers	No, the void limb is so tangled that the whole thing falls.	No, el miembro nulo está tan enredado que cae el todo.
+W	question-c2x-cherry-pick	questions	Are they picking only the passages that smile on them?	¿Entresacan solo los pasajes que les sonríen?
+W	positive-c2x-cherry-pick	positiveAnswers	Yes, they cite only those passages and bury the rest.	Sí, entierran el resto.
+W	negative-c2x-cherry-pick	negativeAnswers	No, they have put the unhelpful passages in and met them.	No, han puesto los pasajes incómodos y los han afrontado.
+W	question-c2x-counts-against	questions	Is the thesis so framed that nothing could count against it?	¿Está la tesis trabada de tal modo que nada podría contar en su contra?
+W	positive-c2x-counts-against	positiveAnswers	Yes, no finding anyone can imagine would be allowed to tell against it.	Sí, ninguna constatación concebible se admitiría en su contra.
+W	negative-c2x-counts-against	negativeAnswers	No, they have named the finding that would make them drop it.	No, han nombrado la constatación que les haría abandonarla.
+W	question-c2x-free-rider	questions	Are they taking the benefit of a standard they will not themselves observe?	¿Se aprovechan de una norma que ellos no observarán?
+W	positive-c2x-free-rider	positiveAnswers	Yes, they harvest the benefit of a line they ask others to hold and will not hold.	Sí, recogen el provecho de una raya que piden a los demás y no aguantarán.
+W	negative-c2x-free-rider	negativeAnswers	No, they bear the same burden as those they ask to hold the line.	No, cargan con el mismo peso que aquellos a quienes piden que aguanten.
+W	question-c2x-perverse-nudge	questions	Does the incentive point the wrong way?	¿Empuja el incentivo en el sentido contrario?
+W	positive-c2x-perverse-nudge	positiveAnswers	Yes, the agent is paid more for the very conduct we say we want less of.	Sí, se paga más al agente precisamente por la conducta de la que decimos querer menos.
+W	negative-c2x-perverse-nudge	negativeAnswers	No, the pay-off falls when the unwanted conduct rises.	No, la paga baja cuando sube la conducta indeseada.
+W	question-c2x-path-locked	questions	Are later steps now dearer because of the first step taken?	¿Encareció el primer paso los que vienen detrás?
+W	positive-c2x-path-locked	positiveAnswers	Yes, later steps are now more costly than they would have been from a different start.	Sí, los pasos siguientes cuestan ya más que si se hubiera partido de otro sitio.
+W	negative-c2x-path-locked	negativeAnswers	No, a different path can still be taken at no greater cost.	No, aún se puede tomar otro sendero sin sobrecoste.
+W	question-c2x-open-texture	questions	Is the core of the rule clear, but the borderline still in need of judgment?	¿Es claro el núcleo de la regla, pero el linde aún pide juicio?
+W	positive-c2x-open-texture	positiveAnswers	Yes, the core is clear but the edges will need a fresh judgment.	Sí, el núcleo es claro pero los bordes pedirán un juicio nuevo.
+W	negative-c2x-open-texture	negativeAnswers	No, the rule is closed and these facts fall cleanly inside or outside it.	No, la regla está cerrada y estos hechos caen nítidamente dentro o fuera.
+W	question-c2x-veil-ignorance	questions	Would they still choose this rule if they did not know which seat they would occupy?	¿Elegirían aún esta regla si no supieran qué puesto ocuparían?
+W	positive-c2x-veil-ignorance	positiveAnswers	Yes, it would be chosen without knowing which station one would occupy.	Sí, se elegiría sin saber qué puesto se ocuparía.
+W	negative-c2x-veil-ignorance	negativeAnswers	No, it is attractive only from a station already occupied.	No, solo atrae desde un puesto ya ocupado.
+W	question-c2x-deep-split	questions	Is this a deep disagreement rather than a missing fact?	¿Es un desacuerdo hondo, y no un hecho que falta?
+W	positive-c2x-deep-split	positiveAnswers	Yes, they share the facts and still cannot find a common standard of judgment.	Sí, comparten los hechos y aun así no hallan un rasero común.
+W	negative-c2x-deep-split	negativeAnswers	No, once a missing fact is supplied the disagreement will dissolve.	No, en cuanto se aporte un hecho que falta, el desacuerdo se disolverá.
+W	question-c2x-no-common-scale	questions	Is there no common scale on which these goods can be traded off?	¿No hay escala común en la que estos bienes se compensen?
+W	positive-c2x-no-common-scale	positiveAnswers	Yes, a gain in one cannot be said to offset a loss in the other.	Sí, una ganancia de uno no puede decirse que compense una pérdida del otro.
+W	negative-c2x-no-common-scale	negativeAnswers	No, a common scale has been agreed and a trade-off can be stated.	No, se ha convenido una escala común y cabe enunciar un trueque.
+W	question-c2x-henry-viii	questions	Can the government rewrite the main law by a simple order?	¿Puede el gobierno reescribir la ley principal por un simple decreto?
+W	positive-c2x-henry-viii	positiveAnswers	Yes, they can change the main text without going back to Parliament.	Sí, pueden cambiar el texto principal sin volver al Parlamento.
+W	negative-c2x-henry-viii	negativeAnswers	No, any change to the main text still needs a fresh vote in Parliament.	No, cualquier cambio del texto principal sigue exigiendo un voto nuevo en el Parlamento.
+W	question-c2x-wrecking-amendment	questions	Is that change meant to sink the whole proposal?	¿Busca ese cambio hundir toda la propuesta?
+W	positive-c2x-wrecking-amendment	positiveAnswers	Yes, it is designed to make the proposal unworkable rather than to improve it.	Sí, está pensado para hacerla inaplicable en vez de mejorarla.
+W	negative-c2x-wrecking-amendment	negativeAnswers	No, it is a genuine attempt to cure a defect without killing the proposal.	No, es un intento sincero de curar un defecto sin matar la propuesta.
+W	question-c2x-wasted-costs	questions	Should the wasted bill fall on the advisers rather than on the person they represent?	¿Debe la factura baldía caer sobre los asesores y no sobre la persona a la que representan?
+W	positive-c2x-wasted-costs	positiveAnswers	Yes, the waste came from the advisers' own careless or improper conduct.	Sí, el desperdicio vino de la conducta descuidada o impropia de los asesores mismos.
+W	negative-c2x-wasted-costs	negativeAnswers	No, the waste belongs to the matter itself, and the bill follows that matter in the ordinary way.	No, el desperdicio es el del asunto mismo, y la factura sigue ese asunto por el cauce ordinario.
+W	question-c2x-anti-suit	questions	Should we stop them from suing abroad?	¿Debemos impedirles demandar fuera?
+W	positive-c2x-anti-suit	positiveAnswers	Yes, they promised to bring any fight here and they have broken that promise.	Sí, prometieron traer cualquier pelea aquí y han roto esa promesa.
+W	negative-c2x-anti-suit	negativeAnswers	No, the foreign court should be left to decide whether it will hear the matter.	No, hay que dejar al tribunal extranjero que decida si oirá el asunto.
+W	tech-question-git	techQuestions	What is Git?	¿Qué es Git?
+W	tech-answer-git	techAnswers	Git is a version control system. We use it to track changes and work on the same codebase.	Git es un sistema de control de versiones. Lo usamos para seguir los cambios y trabajar sobre el mismo código.
+W	tech-question-pull-request	techQuestions	What is a pull request?	¿Qué es un pull request?
+W	tech-answer-pull-request	techAnswers	A pull request is a proposal to merge my branch into the main branch after review.	Un pull request es una propuesta para fusionar mi rama en la rama principal después de la revisión.
+W	tech-question-api	techQuestions	What is an API?	¿Qué es una API?
+W	tech-answer-api	techAnswers	An API lets two systems talk to each other. The frontend calls it to get or send data.	Una API permite que dos sistemas se comuniquen. El frontend la llama para obtener o enviar datos.
+W	tech-question-frontend-backend	techQuestions	What's the difference between frontend and backend?	¿Cuál es la diferencia entre frontend y backend?
+W	tech-answer-frontend-backend	techAnswers	Frontend is what the user sees. Backend is the server, the database, and the business logic.	El frontend es lo que ve el usuario. El backend es el servidor, la base de datos y la lógica de negocio.
+W	tech-question-debugging	techQuestions	How do you debug a problem?	¿Cómo depuras un problema?
+W	tech-answer-debugging	techAnswers	I reproduce it, check the logs, isolate the cause, then fix it and test again.	Lo reproduzco, miro los logs, aíslo la causa, lo corrijo y vuelvo a probar.
+W	tech-question-code-review	techQuestions	What is a code review?	¿Qué es una revisión de código?
+W	tech-answer-code-review	techAnswers	It's when a teammate reads my changes before they are merged, to catch bugs and keep the code consistent.	Es cuando un compañero lee mis cambios antes de fusionarlos, para detectar errores y mantener el código coherente.
+W	tech-question-sql	techQuestions	What is SQL?	¿Qué es SQL?
+W	tech-answer-sql	techAnswers	SQL is the language we use to query and update data in a relational database.	SQL es el lenguaje que usamos para consultar y actualizar datos en una base relacional.
+W	tech-question-deploy	techQuestions	What does deploy mean?	¿Qué significa desplegar?
+W	tech-answer-deploy	techAnswers	Deploying means shipping a new version of the app to a server so users can use it.	Desplegar es publicar una versión nueva de la aplicación en un servidor para que los usuarios la usen.
+W	tech-question-rest	techQuestions	What is REST?	¿Qué es REST?
+W	tech-answer-rest	techAnswers	REST is a style for designing APIs around resources, using HTTP methods like GET, POST, PUT, and DELETE.	REST es un estilo para diseñar APIs alrededor de recursos, con métodos HTTP como GET, POST, PUT y DELETE.
+W	tech-question-bug-vs-feature	techQuestions	What's the difference between a bug and a feature?	¿Cuál es la diferencia entre un bug y una funcionalidad?
+W	tech-answer-bug-vs-feature	techAnswers	A bug is something that doesn't work as intended. A feature is new behaviour we planned to add.	Un bug es algo que no funciona como se esperaba. Una funcionalidad es un comportamiento nuevo que planeamos añadir.
+W	tech-question-standup	techQuestions	What is a stand-up?	¿Qué es un stand-up?
+W	tech-answer-standup	techAnswers	A short daily meeting where the team shares what they did, what they will do, and any blockers.	Es una reunión diaria breve donde el equipo comparte qué hizo, qué va a hacer y si hay bloqueos.
+W	tech-question-docker	techQuestions	What is Docker?	¿Qué es Docker?
+W	tech-answer-docker	techAnswers	Docker packages an app with its dependencies so it runs the same way on every machine.	Docker empaqueta una aplicación con sus dependencias para que funcione igual en cada máquina.
+W	tech-question-html	techQuestions	What is HTML?	¿Qué es HTML?
+W	tech-answer-html	techAnswers	HTML is the markup language that gives a web page its structure: headings, paragraphs, links, and forms.	HTML es el lenguaje de marcado que da estructura a una página: títulos, párrafos, enlaces y formularios.
+W	tech-question-css	techQuestions	What is CSS?	¿Qué es CSS?
+W	tech-answer-css	techAnswers	CSS is the language we use to style the page: layout, colours, spacing, and fonts.	CSS es el lenguaje que usamos para dar estilo a la página: diseño, colores, espacios y tipografías.
+W	tech-question-javascript	techQuestions	What is JavaScript?	¿Qué es JavaScript?
+W	tech-answer-javascript	techAnswers	JavaScript makes the page interactive. It runs in the browser and talks to APIs when we need data.	JavaScript hace la página interactiva. Se ejecuta en el navegador y habla con APIs cuando necesitamos datos.
+W	tech-question-commit	techQuestions	What is a commit?	¿Qué es un commit?
+W	tech-answer-commit	techAnswers	A commit is a saved snapshot of my changes, with a message that explains what I did.	Un commit es una instantánea guardada de mis cambios, con un mensaje que explica qué hice.
+W	tech-question-branch	techQuestions	What is a branch?	¿Qué es una rama?
+W	tech-answer-branch	techAnswers	A branch is a separate line of work, so I can build a feature without changing the main code.	Una rama es una línea de trabajo aparte, para construir una funcionalidad sin cambiar el código principal.
+W	tech-question-ticket	techQuestions	What is a ticket?	¿Qué es un ticket?
+W	tech-answer-ticket	techAnswers	A ticket is a tracked piece of work — a bug, a task, or a feature — that the team can assign and follow.	Un ticket es un trabajo registrado — un bug, una tarea o una funcionalidad — que el equipo puede asignar y seguir.
+W	tech-question-localhost	techQuestions	What is localhost?	¿Qué es localhost?
+W	tech-answer-localhost	techAnswers	Localhost is my own machine. The app runs there while I develop, before we deploy it.	Localhost es mi propia máquina. Ahí corre la aplicación mientras desarrollo, antes de desplegarla.
+W	tech-question-json	techQuestions	What is JSON?	¿Qué es JSON?
+W	tech-answer-json	techAnswers	JSON is a simple text format for sending data, often between the frontend and an API.	JSON es un formato de texto simple para enviar datos, a menudo entre el frontend y una API.
+W	tech-question-http	techQuestions	What is HTTP?	¿Qué es HTTP?
+W	tech-answer-http	techAnswers	HTTP is the protocol the browser uses to talk to a server, to request pages and send data.	HTTP es el protocolo que usa el navegador para hablar con el servidor, pedir páginas y enviar datos.
+W	tech-question-typescript	techQuestions	What is TypeScript?	¿Qué es TypeScript?
+W	tech-answer-typescript	techAnswers	TypeScript is JavaScript with types. It helps catch errors before the code runs.	TypeScript es JavaScript con tipos. Ayuda a detectar errores antes de que el código se ejecute.
+W	tech-question-npm	techQuestions	What is npm?	¿Qué es npm?
+W	tech-answer-npm	techAnswers	npm is the package manager for JavaScript. We use it to install the libraries the project needs.	npm es el gestor de paquetes de JavaScript. Lo usamos para instalar las librerías que el proyecto necesita.
+W	tech-question-unit-test	techQuestions	What is a unit test?	¿Qué es un test unitario?
+W	tech-answer-unit-test	techAnswers	A unit test checks a small piece of code on its own, so we know it still works after we change it.	Un test unitario comprueba una pieza pequeña de código por separado, para saber que sigue funcionando después de un cambio.
+W	tech-question-sprint	techQuestions	What is a sprint?	¿Qué es un sprint?
+W	tech-answer-sprint	techAnswers	A sprint is a short work cycle, usually one or two weeks, with a clear set of tasks to finish.	Un sprint es un ciclo de trabajo corto, normalmente una o dos semanas, con un conjunto claro de tareas a terminar.
+W	tech-question-blocker	techQuestions	What is a blocker?	¿Qué es un blocker?
+W	tech-answer-blocker	techAnswers	A blocker is anything that stops me from making progress, so I raise it in the stand-up.	Un blocker es cualquier cosa que me impide avanzar, así que lo comento en el stand-up.
+W	tech-question-merge-conflict	techQuestions	How do you resolve a merge conflict?	¿Cómo resuelves un conflicto de fusión?
+W	tech-answer-merge-conflict	techAnswers	I open the file, compare both changes, keep the correct code, then commit the result.	Abro el archivo, comparo ambos cambios, dejo el código correcto y hago commit del resultado.
+W	tech-question-fetch-vs-pull	techQuestions	What's the difference between git fetch and git pull?	¿Cuál es la diferencia entre git fetch y git pull?
+W	tech-answer-fetch-vs-pull	techAnswers	git fetch downloads remote changes without merging. git pull fetches and then merges into my current branch.	git fetch descarga los cambios remotos sin fusionar. git pull hace el fetch y luego fusiona en mi rama actual.
+W	tech-question-ci-cd	techQuestions	What is CI/CD?	¿Qué es CI/CD?
+W	tech-answer-ci-cd	techAnswers	CI/CD automates the build, test, and deploy steps so every change can be checked and shipped reliably.	CI/CD automatiza el build, los tests y el despliegue, para que cada cambio se compruebe y se publique de forma fiable.
+W	tech-question-auth-vs-authz	techQuestions	What's the difference between authentication and authorization?	¿Cuál es la diferencia entre autenticación y autorización?
+W	tech-answer-auth-vs-authz	techAnswers	Authentication is proving who you are. Authorization is what you're allowed to do.	La autenticación es demostrar quién eres. La autorización es lo que tienes permitido hacer.
+W	tech-question-backlog	techQuestions	What is a backlog?	¿Qué es un backlog?
+W	tech-answer-backlog	techAnswers	A backlog is the ordered list of work the team still has to do: bugs, tasks, and features.	Un backlog es la lista ordenada del trabajo que el equipo aún tiene que hacer: bugs, tareas y funcionalidades.
+W	tech-question-ide	techQuestions	What is an IDE?	¿Qué es un IDE?
+W	tech-answer-ide	techAnswers	An IDE is the app I write code in, with an editor, a terminal, and a debugger in one place.	Un IDE es la aplicación en la que escribo código, con editor, terminal y depurador en un solo sitio.
+W	tech-question-terminal	techQuestions	What is the terminal?	¿Qué es la terminal?
+W	tech-answer-terminal	techAnswers	The terminal is a text window where I run commands, like git, npm, or scripts.	La terminal es una ventana de texto donde ejecuto comandos, como git, npm o scripts.
+W	tech-question-logs	techQuestions	What are logs?	¿Qué son los logs?
+W	tech-answer-logs	techAnswers	Logs are messages the app writes while it runs. I read them to see errors and what happened.	Los logs son mensajes que escribe la aplicación mientras corre. Los leo para ver errores y qué pasó.
+W	tech-question-agile	techQuestions	What is Agile?	¿Qué es Agile?
+W	tech-answer-agile	techAnswers	Agile is a way of working in short cycles, with frequent feedback, instead of delivering everything at the end.	Agile es una forma de trabajar en ciclos cortos, con feedback frecuente, en lugar de entregar todo al final.
+W	tech-question-scrum	techQuestions	What is Scrum?	¿Qué es Scrum?
+W	tech-answer-scrum	techAnswers	Scrum is an Agile framework with sprints, a backlog, stand-ups, and a review at the end of each sprint.	Scrum es un marco Agile con sprints, backlog, stand-ups y una revisión al final de cada sprint.
+W	tech-question-env-var	techQuestions	What is an environment variable?	¿Qué es una variable de entorno?
+W	tech-answer-env-var	techAnswers	It's a setting outside the code, like an API key or a database URL, so we don't hard-code secrets.	Es un ajuste fuera del código, como una clave de API o la URL de una base, para no dejar secretos escritos en el código.
+W	tech-question-staging-prod	techQuestions	What's the difference between staging and production?	¿Cuál es la diferencia entre staging y producción?
+W	tech-answer-staging-prod	techAnswers	Staging is a copy of production for final tests. Production is the live system that users actually use.	Staging es una copia de producción para las pruebas finales. Producción es el sistema real que usan los usuarios.
+W	tech-question-rollback	techQuestions	What does rollback mean?	¿Qué significa rollback?
+W	tech-answer-rollback	techAnswers	A rollback is going back to the previous working version after a bad deploy.	Un rollback es volver a la versión anterior que funcionaba después de un mal despliegue.
+W	tech-question-hotfix	techQuestions	What is a hotfix?	¿Qué es un hotfix?
+W	tech-answer-hotfix	techAnswers	A hotfix is an urgent fix we ship fast, usually for a serious bug in production.	Un hotfix es una corrección urgente que publicamos rápido, normalmente por un bug grave en producción.
+W	tech-question-pair-programming	techQuestions	What is pair programming?	¿Qué es el pair programming?
+W	tech-answer-pair-programming	techAnswers	Two people work on the same code at once: one types, the other reviews and thinks aloud.	Dos personas trabajan en el mismo código a la vez: una escribe y la otra revisa y piensa en voz alta.
+W	tech-question-refactoring	techQuestions	What does refactor mean?	¿Qué significa refactorizar?
+W	tech-answer-refactoring	techAnswers	Refactoring is improving the code without changing what it does, so it's easier to read and change later.	Refactorizar es mejorar el código sin cambiar lo que hace, para que sea más fácil de leer y de cambiar después.
+W	tech-question-cache	techQuestions	What is a cache?	¿Qué es una caché?
+W	tech-answer-cache	techAnswers	A cache stores data we already fetched, so the next request is faster and we hit the server less.	Una caché guarda datos que ya pedimos, para que la siguiente petición sea más rápida y golpeemos menos el servidor.
+W	tech-question-library-vs-framework	techQuestions	What's the difference between a library and a framework?	¿Cuál es la diferencia entre una librería y un framework?
+W	tech-answer-library-vs-framework	techAnswers	A library is a tool I call from my code. A framework calls my code and sets the structure of the app.	Una librería es una herramienta que llamo desde mi código. Un framework llama a mi código y marca la estructura de la aplicación.
+W	tech-question-status-404	techQuestions	What does a 404 mean?	¿Qué significa un 404?
+W	tech-answer-status-404	techAnswers	A 404 means the server couldn't find the resource. The URL is wrong, or the page no longer exists.	Un 404 significa que el servidor no encontró el recurso. La URL está mal o la página ya no existe.
+W	tech-question-merge-vs-rebase	techQuestions	What's the difference between merge and rebase?	¿Cuál es la diferencia entre merge y rebase?
+W	tech-answer-merge-vs-rebase	techAnswers	Merge joins two branches and keeps the history. Rebase replays my commits on top of another branch for a linear history.	Merge une dos ramas y conserva el historial. Rebase vuelve a aplicar mis commits encima de otra rama para un historial lineal.
+W	tech-question-technical-debt	techQuestions	What is technical debt, as opposed to a mere bug?	¿Qué es la deuda técnica, frente a un simple bug?
+W	tech-answer-technical-debt	techAnswers	It is a design shortcut that still works, but whose interest is paid in slower change later. A bug is incorrect behaviour now; debt is a future cost we accepted.	Es un atajo de diseño que aún funciona, pero cuyos intereses se pagan en cambios más lentos después. Un bug es comportamiento incorrecto ahora; la deuda es un coste futuro que aceptamos.
+W	tech-question-dry	techQuestions	What does DRY mean?	¿Qué significa DRY?
+W	tech-answer-dry	techAnswers	DRY means Don't Repeat Yourself: we extract shared logic instead of copying the same code.	DRY significa Don't Repeat Yourself: extraemos la lógica compartida en lugar de copiar el mismo código.
+W	tech-question-production-bug	techQuestions	How do you handle a bug in production?	¿Cómo gestionas un bug en producción?
+W	tech-answer-production-bug	techAnswers	I confirm the impact, roll back or ship a hotfix if needed, then find the cause and add a test so it doesn't come back.	Confirmo el impacto, hago rollback o un hotfix si hace falta, luego busco la causa y añado un test para que no vuelva.
+W	tech-question-class-vs-object	techQuestions	What's the difference between a class and an object?	¿Cuál es la diferencia entre una clase y un objeto?
+W	tech-answer-class-vs-object	techAnswers	A class is the blueprint. An object is a concrete instance created from that class.	Una clase es el plano. Un objeto es una instancia concreta creada a partir de esa clase.
+W	tech-question-repo	techQuestions	What is a repository?	¿Qué es un repositorio?
+W	tech-answer-repo	techAnswers	A repository, or repo, is where the project's code and its Git history live.	Un repositorio, o repo, es donde viven el código del proyecto y su historial de Git.
+W	tech-question-browser	techQuestions	What is a browser?	¿Qué es un navegador?
+W	tech-answer-browser	techAnswers	A browser is the app that loads web pages, like Chrome, Firefox, or Edge.	Un navegador es la aplicación que carga las páginas web, como Chrome, Firefox o Edge.
+W	tech-question-database	techQuestions	What is a database?	¿Qué es una base de datos?
+W	tech-answer-database	techAnswers	A database stores data in a structured way so the app can read and update it later.	Una base de datos guarda información de forma estructurada para que la aplicación pueda leerla y actualizarla.
+W	tech-question-cloud	techQuestions	What is the cloud?	¿Qué es la nube?
+W	tech-answer-cloud	techAnswers	The cloud is servers we rent from a provider, so we don't host the app on our own machines.	La nube son servidores que alquilamos a un proveedor, para no alojar la aplicación en nuestras propias máquinas.
+W	tech-question-endpoint	techQuestions	What is an endpoint?	¿Qué es un endpoint?
+W	tech-answer-endpoint	techAnswers	An endpoint is a specific URL on an API, like GET /users, that does one job.	Un endpoint es una URL concreta de una API, como GET /users, que hace una sola cosa.
+W	tech-question-https	techQuestions	What is HTTPS?	¿Qué es HTTPS?
+W	tech-answer-https	techAnswers	HTTPS is HTTP with encryption. It protects data in transit between the browser and the server.	HTTPS es HTTP con cifrado. Protege los datos en tránsito entre el navegador y el servidor.
+W	tech-question-cookie	techQuestions	What is a cookie?	¿Qué es una cookie?
+W	tech-answer-cookie	techAnswers	A cookie is a small piece of data the server stores in the browser, often to keep a user signed in.	Una cookie es un dato pequeño que el servidor guarda en el navegador, a menudo para mantener al usuario conectado.
+W	tech-question-query	techQuestions	What is a query?	¿Qué es una query?
+W	tech-answer-query	techAnswers	A query is a request for data, for example an SQL statement or a search in the database.	Una query es una petición de datos, por ejemplo una instrucción SQL o una búsqueda en la base.
+W	tech-question-mock	techQuestions	What is a mock?	¿Qué es un mock?
+W	tech-answer-mock	techAnswers	A mock is a fake stand-in for a real service in tests, so we can check our code without calling the real API.	Un mock es un sustituto falso de un servicio real en los tests, para probar nuestro código sin llamar a la API de verdad.
+W	tech-question-timeout	techQuestions	What is a timeout?	¿Qué es un timeout?
+W	tech-answer-timeout	techAnswers	A timeout is the maximum time we wait for a response before we stop and treat the request as failed.	Un timeout es el tiempo máximo que esperamos una respuesta antes de cortar y dar la petición por fallida.
+W	tech-question-jwt	techQuestions	What is a JWT, and what must you verify before trusting it?	¿Qué es un JWT y qué hay que verificar antes de fiarse de él?
+W	tech-answer-jwt	techAnswers	A JWT is a signed token issued after login. You verify the signature, the expiry, and the claims before treating it as proof of identity.	Un JWT es un token firmado que se emite tras el login. Hay que verificar la firma, la caducidad y las claims antes de tomarlo como prueba de identidad.
+W	tech-question-cors	techQuestions	What is CORS, and why does a preflight happen?	¿Qué es CORS y por qué hay un preflight?
+W	tech-answer-cors	techAnswers	CORS is a browser rule that blocks cross-origin calls unless the server opts in. A preflight OPTIONS request checks the method and headers before the real call is sent.	CORS es una regla del navegador que bloquea las llamadas cross-origin salvo que el servidor se adhiera. Un preflight OPTIONS comprueba el método y las cabeceras antes de la llamada real.
+W	tech-question-microservice	techQuestions	What trade-off does a microservice architecture actually buy?	¿Qué compromiso compra de verdad una arquitectura de microservicios?
+W	tech-answer-microservice	techAnswers	Independent deploy and scale per service, at the cost of network failure modes and operational complexity you did not have in a modular monolith.	Despliegue y escala independientes por servicio, a costa de fallos de red y una complejidad operativa que un monolito modular no tenía.
+W	tech-question-null-vs-undefined	techQuestions	What's the difference between null and undefined in JavaScript?	¿Cuál es la diferencia entre null y undefined en JavaScript?
+W	tech-answer-null-vs-undefined	techAnswers	Undefined means the value was never set. Null is an intentional empty value we assigned.	Undefined significa que el valor nunca se asignó. Null es un valor vacío que pusimos a propósito.
+W	tech-question-sql-injection	techQuestions	What is SQL injection, and how do you prevent it?	¿Qué es la inyección SQL y cómo la evitas?
+W	tech-answer-sql-injection	techAnswers	It's when untrusted input is mixed into an SQL string. We prevent it with parameterized queries, never by concatenating user input.	Es cuando una entrada no fiable se mezcla en una cadena SQL. Se evita con consultas parametrizadas, nunca concatenando lo que escribe el usuario.
+W	tech-question-cap-theorem	techQuestions	What has this postcard done that a letter would have been too proud to do?	¿Qué ha hecho esta postal que una carta habría sido demasiado orgullosa para hacer?
+W	tech-answer-cap-theorem	techAnswers	It has said the weather and left the quarrel unnamed. Pride would have written a case; the card only proves you were still thinking of them.	Ha dicho el tiempo y ha dejado la pelea sin nombre. El orgullo habría escrito un caso; la postal solo prueba que aún pensaba en ellos.
+W	tech-question-eventual-consistency	techQuestions	How do you ask for the money back without turning the note into a summons?	¿Cómo se pide el dinero de vuelta sin convertir la nota en una citación?
+W	tech-answer-eventual-consistency	techAnswers	I would name the sum, the date, and the friendship, and stop before the threat. A reminder that already sounds like court will be answered in kind.	Nombraría la suma, la fecha y la amistad, y me detendría antes de la amenaza. Un recordatorio que ya suena a juzgado se contestará en la misma moneda.
+W	tech-question-idempotency	techQuestions	Where has this wedding speech started performing for the room instead of the pair?	¿Dónde este discurso de boda ha empezado a actuar para la sala en vez de para la pareja?
+W	tech-answer-idempotency	techAnswers	It starts when the jokes turn to look at the tables. A speech that wants a laugh more than a witness has already left the couple behind.	Empieza cuando los chistes se vuelven a mirar las mesas. Un discurso que quiere la risa más que un testigo ya ha dejado atrás a los novios.
+W	tech-question-two-phase-commit	techQuestions	What should the first line of a late birthday letter refuse to do?	¿Qué debe negarse a hacer la primera línea de una carta de cumpleaños tardía?
+W	tech-answer-two-phase-commit	techAnswers	It should refuse to explain the delay at length. A long excuse makes the day smaller than the apology, and they will hear only the lateness.	Debe negarse a explicar el retraso por extenso. Una disculpa larga hace el día más chico que la disculpa, y solo se oirá la tardanza.
+W	tech-question-vector-clock	techQuestions	How would you ask a neighbour to keep the piano down without writing a complaint?	¿Cómo pediría al vecino que baje el piano sin escribir una queja?
+W	tech-answer-vector-clock	techAnswers	I would name the hour I sleep and the pleasure I take in the playing, then stop. A catalogue of nights will sound like a file, and they will close the lid for spite.	Nombraría la hora a la que duermo y el gusto que me da oírlo, y me detendría. Un catálogo de noches sonará a expediente, y cerrarán la tapa por despecho.
+W	tech-question-bloom-filter	techQuestions	What has this travel diary lost by polishing every evening into a scene?	¿Qué ha perdido este diario de viaje al pulir cada noche como una escena?
+W	tech-answer-bloom-filter	techAnswers	It has lost the day's crumbs: the wrong street, the cold coffee, the name half-heard. A page that already looks published will not remember how the city actually felt.	Ha perdido las migas del día: la calle equivocada, el café frío, el nombre a medias. Una página que ya parece publicada no recordará cómo se sintió de verdad la ciudad.
+W	tech-question-circuit-breaker	techQuestions	How do you refuse a loan to a friend without writing a sermon?	¿Cómo se niega un préstamo a un amigo sin escribir un sermón?
+W	tech-answer-circuit-breaker	techAnswers	I would say that I cannot, and that the friendship is not the sum. A lecture on their spending will be remembered longer than the no, and worse.	Diría que no puedo, y que la amistad no es la suma. Un sermón sobre sus gastos se recordará más que el no, y peor.
+W	tech-question-cqrs	techQuestions	Where has this house advertisement started lying with adjectives?	¿Dónde este anuncio de casa ha empezado a mentir con adjetivos?
+W	tech-answer-cqrs	techAnswers	It starts when 'quiet' means a road you cannot see from the photos. A buyer who arrives for quiet and finds the lorries will not forgive the rest of the truth.	Empieza cuando «tranquilo» significa una carretera que las fotos no muestran. Un comprador que vino por la calma y halla los camiones no perdonará el resto de la verdad.
+W	tech-question-saga-pattern	techQuestions	What should a note left on the kitchen table refuse to settle overnight?	¿Qué debe negarse a zanjarse por la noche un recado dejado en la mesa?
+W	tech-answer-saga-pattern	techAnswers	It should refuse the whole argument. A sentence that tries the case at midnight will still be on the table at breakfast, colder and less fair.	Debe negarse a toda la pelea. Una frase que juzga el caso a medianoche seguirá en la mesa al desayuno, más fría y menos justa.
+W	tech-question-backpressure	techQuestions	How would you introduce two people in a letter without forcing a friendship on them?	¿Cómo presentaría a dos personas en una carta sin imponerles una amistad?
+W	tech-answer-backpressure	techAnswers	I would name why each might care, and leave the meeting unscripted. A letter that already imagines them as allies will make both of them wary.	Diría por qué a cada una podría importarle, y dejaría el encuentro sin guion. Una carta que ya los imagina aliados pondrá recelosos a los dos.
+W	tech-question-consensus-raft	techQuestions	What has this museum label done that the painting did not ask for?	¿Qué ha hecho esta cartela de museo que el cuadro no pidió?
+W	tech-answer-consensus-raft	techAnswers	It has told us what to feel before we have looked. A label that spends the emotion leaves the canvas doing the furniture.	Nos ha dicho qué sentir antes de que hayamos mirado. Una cartela que gasta la emoción deja el lienzo haciendo de mueble.
+W	tech-question-quorum	techQuestions	How do you end a long correspondence without slamming the drawer?	¿Cómo se cierra una correspondencia larga sin dar un portazo al cajón?
+W	tech-answer-quorum	techAnswers	I would thank them for the years and leave one door unlatched. A last letter that itemises every slight is a lock, and they will hear it click.	Les daría las gracias por los años y dejaría una puerta sin cerrar del todo. Una última carta que enumera cada agravio es un cerrojo, y se oirá el clic.
+W	tech-question-c2t-withdraw-kindly	techQuestions	How would you take back last week's offer and still leave the letter kind?	¿Cómo retiraría la oferta de la semana pasada sin agriar el resto de la carta?
+W	tech-answer-c2t-withdraw-kindly	techAnswers	I would thank them for waiting and cancel only the terms. If the warmth leaves with the terms, they will think I have gone off them.	Les daría las gracias por haber esperado y anularía solo las condiciones. Si el calor se va con las condiciones, pensarán que he dejado de quererlos a ellos.
+W	tech-question-c2t-complaint-pitch	techQuestions	Where does this complaint start sounding like a tantrum rather than a case?	¿Dónde esta queja empieza a sonar a berrinche y no a un caso?
+W	tech-answer-c2t-complaint-pitch	techAnswers	It starts where the facts stop and the adjectives take over. A tired reader will grant you the dates, not the outrage.	Empieza donde cesan los hechos y entran los adjetivos. Un lector cansado le concederá las fechas, no el enojo.
+W	tech-question-c2t-condolence-spare	techQuestions	What should a condolence letter refuse to explain?	¿Qué debe negarse a explicar una carta de pésame?
+W	tech-answer-c2t-condolence-spare	techAnswers	It should refuse to explain the death, or to hang a lesson on it. The only work it has is to say that the person was seen, and that you remain.	Debe negarse a explicar la muerte y a colgarle una lección. Solo tiene que decir que a esa persona se la vio, y que usted sigue ahí.
+W	tech-question-c2t-reference-honest	techQuestions	How do you write a reference that is honest without being a knife?	¿Cómo se escribe una recomendación honrada sin que sea un cuchillo?
+W	tech-answer-c2t-reference-honest	techAnswers	I would praise what I can stand behind and stay silent on the rest. A faint adjective in a loud letter is already a warning, and they will hear it.	Alabaría lo que puedo sostener y callaría el resto. Un adjetivo pálido en una carta sonora ya es un aviso, y se oirá.
+W	tech-question-c2t-careful-no	techQuestions	How would you say no to the invitation without inventing a clash of diaries?	¿Cómo diría que no a la invitación sin inventar un choque de agendas?
+W	tech-answer-c2t-careful-no	techAnswers	I would thank them, name the pleasure I would have taken, and stop. A fabricated prior engagement is a small lie that later needs a second letter.	Daría las gracias, nombraría el gusto que habría tenido, y me detendría. Un compromiso fabricado es una mentira chica que luego pide una segunda carta.
+W	tech-question-c2t-minutes-human	techQuestions	What would keep this minutes line human without turning it into a sketch?	¿Qué mantendría humana esta línea del acta sin volverla una escena?
+W	tech-answer-c2t-minutes-human	techAnswers	Name the disagreement and the decision, and leave the heat out. A joke in the minutes will outlive the room and embarrass someone who was trying to think.	Nómbrese el desacuerdo y la decisión, y déjese fuera el calor. Un chiste en el acta sobrevivirá a la sala y pondrá en aprieto a quien intentaba pensar.
+W	tech-question-c2t-resignation-grace	techQuestions	Where should the grace sit in a resignation that is not a love letter?	¿Dónde debe posarse la gracia en una dimisión que no es una carta de amor?
+W	tech-answer-c2t-resignation-grace	techAnswers	It should sit on the work and the people, not on the exit. Blessing the door on the way out sounds like a threat dressed as courtesy.	Debe posarse en el trabajo y en la gente, no en la salida. Bendecir la puerta al irse suena a amenaza vestida de cortesía.
+W	tech-question-c2t-apology-clean	techQuestions	What has this apology done that still leaves the wound open?	¿Qué ha hecho esta disculpa que deja la herida abierta?
+W	tech-answer-c2t-apology-clean	techAnswers	It has explained the motive and skipped the harm. Until the harm is named, the letter is a defence, not an apology.	Ha explicado el móvil y se ha saltado el daño. Mientras el daño no se nombre, la carta es una defensa, no una disculpa.
+W	tech-question-c2t-thanks-unowed	techQuestions	How do you thank someone who will hate being thanked?	¿Cómo se da las gracias a alguien que odiará que se las den?
+W	tech-answer-c2t-thanks-unowed	techAnswers	I would keep it short, private, and specific to what they did. A public flourish would tax them twice.	Sería breve, en privado y concreto sobre lo que hizo. Un ademán público le cobraría dos veces.
+W	tech-question-c2t-follow-up-silence	techQuestions	What work is the silence doing in a follow-up that already said the ask?	¿Qué trabajo hace el silencio en un recordatorio que ya dijo el pedido?
+W	tech-answer-c2t-follow-up-silence	techAnswers	It is giving them a face-saving interval, not applying a second press. Another paragraph of reasons will read as neediness dressed as courtesy.	Les deja un intervalo para salvar la cara, no aplica una segunda presión. Otro párrafo de razones se leerá como necesidad vestida de cortesía.
+W	tech-question-c2t-cover-spare	techQuestions	What should a covering note refuse to do for the pages it introduces?	¿Qué debe negarse a hacer una nota de envío por las páginas que presenta?
+W	tech-answer-c2t-cover-spare	techAnswers	It should refuse to sell them, or to tell the reader what to feel. The pages either hold or they do not; the note is only a hand at the door.	Debe negarse a venderlas y a decirle al lector qué sentir. Las páginas se sostienen o no; la nota es solo una mano en la puerta.
+W	tech-question-c2t-retract-blurb	techQuestions	How do you retract a blurb without insulting the book you once praised?	¿Cómo se retira una solapa sin insultar el libro que uno alabó?
+W	tech-answer-c2t-retract-blurb	techAnswers	I would say the book is no longer the one I can stand behind, and leave the earlier praise in the past tense. A sneer at the author now would make the first letter look bought.	Diría que el libro ya no es el que puedo sostener, y dejaría el elogio en pretérito. Una mueca al autor ahora haría que la primera carta pareciera comprada.
+W	tech-question-c2t-letter-editor	techQuestions	Where does this letter to the editor spend its credit too early?	¿Dónde esta carta al director gasta demasiado pronto su crédito?
+W	tech-answer-c2t-letter-editor	techAnswers	It spends it on the opponent's manners and never reaches the error. By the third sentence the paper has a quarrel, not a correction.	Lo gasta en los modos del adversario y no llega nunca al error. En la tercera frase el periódico tiene una pelea, no una rectificación.
+W	tech-question-c2t-neighbour-note	techQuestions	How would you put the request about the wall so it does not sound like a writ?	¿Cómo plantearía lo del muro para que no suene a requerimiento?
+W	tech-answer-c2t-neighbour-note	techAnswers	I would start from the shared street and the shared weather, then name the crack. A first sentence of rights will make a neighbour into a party.	Partiría de la calle compartida y del tiempo compartido, y luego nombraría la grieta. Una primera frase de derechos convertirá a un vecino en parte.
+W	tech-question-c2t-landlord-damp	techQuestions	What has the second paragraph of this damp letter actually asked for?	¿Qué ha pedido de verdad el segundo párrafo de esta carta sobre la humedad?
+W	tech-answer-c2t-landlord-damp	techAnswers	It has asked for sympathy, not for a date and a workman. The damp will still be there after they have pitied you.	Ha pedido lástima, no una fecha y un operario. La humedad seguirá ahí cuando le hayan tenido lástima.
+W	tech-question-c2t-cancel-stay	techQuestions	How do you cancel the room without sounding glad to be rid of them?	¿Cómo se anula la habitación sin parecer alegre de quitárselos de encima?
+W	tech-answer-c2t-cancel-stay	techAnswers	I would regret the stay I will miss and ask only for the charges to be confirmed. Cheerfulness here reads as a small victory over the house.	Lamentaría la estancia que voy a perderme y solo pediría que confirmen los cargos. El ánimo, aquí, se lee como una pequeña victoria sobre la casa.
+W	tech-question-c2t-withdraw-application	techQuestions	What should you keep when you withdraw an application you still respect?	¿Qué hay que conservar al retirar una solicitud que aún se respeta?
+W	tech-answer-c2t-withdraw-application	techAnswers	Keep the thanks and the sense that the post was real. A shrug at the role will follow you if the same people meet you later.	Consérvense las gracias y la sensación de que el puesto era de verdad. Un encogimiento de hombros sobre el cargo le seguirá si las mismas personas le ven después.
+W	tech-question-c2t-referee-decline	techQuestions	How do you decline to referee without damaging the candidate?	¿Cómo se rechaza ser aval sin dañar al candidato?
+W	tech-answer-c2t-referee-decline	techAnswers	I would say I cannot give the letter they need, and wish them a better-placed voice. Naming their weakness in the refusal would do the harm I was trying to avoid.	Diría que no puedo dar la carta que necesita, y le desearía una voz mejor situada. Nombrar su flaqueza en la negativa haría el daño que yo quería evitar.
+W	tech-question-c2t-condolence-work	techQuestions	What belongs in a condolence to a colleague that would be wrong in a family letter?	¿Qué cabe en un pésame a un colega que sería falso en una carta a la familia?
+W	tech-answer-c2t-condolence-work	techAnswers	A brief word about how they were in the work, if you knew that and nothing else. Invented intimacy with the private life will ring hollow on the kitchen table.	Una palabra breve sobre cómo era en el trabajo, si eso es lo que usted sabía y nada más. Una intimidad inventada con la vida privada sonará a hueco sobre la mesa de la cocina.
+W	tech-question-c2t-minutes-dissent	techQuestions	How do you record a dissent so it stays a record and not a score?	¿Cómo se consigna una disidencia para que siga siendo un acta y no un marcador?
+W	tech-answer-c2t-minutes-dissent	techAnswers	State the objection and the decision taken, in that order, without colour. A minutes line that winks at the winner will be read years later as a side.	Enúnciese la objeción y la decisión tomada, en ese orden, sin color. Una línea de acta que le guiña al ganador se leerá años después como un bando.
+W	tech-question-c2t-diplomatic-regret	techQuestions	How would you put the regret so the other chancery can still save face?	¿Cómo pondría el pesar para que la otra cancillería pueda aún salvar la cara?
+W	tech-answer-c2t-diplomatic-regret	techAnswers	I would regret the moment, not the person, and leave a door that does not creak. A lecture on their manners would force them to answer the lecture.	Lamentaría el momento, no a la persona, y dejaría una puerta que no chirríe. Una lección sobre sus modos les obligaría a contestar a la lección.
+W	tech-question-c2t-job-regret	techQuestions	What has this rejection letter done to the person it addresses?	¿Qué le ha hecho esta carta de rechazo a la persona a la que se dirige?
+W	tech-answer-c2t-job-regret	techAnswers	It has praised their effort and never said what was missing. They will leave the page thinking they were almost chosen, which is a kindness that later turns bitter.	Ha alabado el esfuerzo y no ha dicho nunca qué faltaba. Saldrá de la página creyendo que casi lo eligieron, una amabilidad que luego se vuelve amarga.
+W	tech-question-c2t-late-letter	techQuestions	How do you open a letter that should have gone a month ago?	¿Cómo se abre una carta que debió haberse ido hace un mes?
+W	tech-answer-c2t-late-letter	techAnswers	I would name the lateness in one clause and then do the real work. A page of apology eats the space where the thanks or the news should sit.	Nombraría el retraso en una cláusula y luego haría el trabajo de verdad. Una página de disculpas se come el sitio donde debían caber las gracias o la noticia.
+W	tech-question-c2t-return-gift	techQuestions	How do you return a gift without making the giver feel foolish?	¿Cómo se devuelve un regalo sin que quien lo dio se sienta necio?
+W	tech-answer-c2t-return-gift	techAnswers	I would keep the affection and explain only the practical bar. A joke at the object's expense will land on the hand that chose it.	Conservaría el afecto y solo explicaría el obstáculo práctico. Un chiste a costa del objeto caerá sobre la mano que lo eligió.
+W	tech-question-c2t-refuse-preface	techQuestions	What should a refusal to write the preface leave intact?	¿Qué debe dejar intacto un rechazo a escribir el prólogo?
+W	tech-answer-c2t-refuse-preface	techAnswers	It should leave intact the book's claim on other readers. Saying you are too busy, when you mean you cannot praise it, will leak later in a hallway.	Debe dejar intacta la pretensión del libro sobre otros lectores. Decir que uno está muy ocupado, cuando quiere decir que no puede alabarlo, se filtrará luego en un pasillo.
+W	tech-question-c2t-wedding-no	techQuestions	How would you decline the wedding so the couple still feel wanted?	¿Cómo declinaría la boda para que la pareja se sienta aún querida?
+W	tech-answer-c2t-wedding-no	techAnswers	I would bless the day and name a concrete joy I take in them. A paragraph about my travel woes will make the letter about me.	Bendeciría el día y nombraría una alegría concreta que me dan. Un párrafo sobre mis penas de viaje convertirá la carta en una carta sobre mí.
+W	tech-question-c2t-funeral-absent	techQuestions	What can a letter do when you cannot stand at the grave?	¿Qué puede una carta cuando uno no puede estar junto a la fosa?
+W	tech-answer-c2t-funeral-absent	techAnswers	It can put you in the room they will reread at night, if it is specific and unshowy. A telegram of general sorrow is a form that never sat down.	Puede ponerlo a usted en el cuarto que releerán de noche, si es precisa y sin aparato. Un telegrama de pena general es una fórmula que no se sentó nunca.
+W	tech-question-c2t-thank-host	techQuestions	Where does this thank-you to a host go wrong?	¿Dónde se tuerce este agradecimiento al anfitrión?
+W	tech-answer-c2t-thank-host	techAnswers	It lists the menu and forgets the atmosphere they actually made. A host remembers whether you were glad to be there, not whether the sauce was mentioned.	Enumera el menú y olvida el aire que de verdad hicieron. Un anfitrión recuerda si le alegró estar allí, no si se mencionó la salsa.
+W	tech-question-c2t-publisher-delay	techQuestions	How do you complain to a publisher without sounding like a petitioner with a whip?	¿Cómo se queja uno a un editor sin parecer un suplicante con látigo?
+W	tech-answer-c2t-publisher-delay	techAnswers	I would restate the agreed date and ask for the new one, once. Threats of a lawyer in the second sentence make the manuscript look like a grievance, not a book.	Recordaría la fecha pactada y pediría la nueva, una vez. Amenazas de abogado en la segunda frase convierten el manuscrito en un agravio, no en un libro.
+W	tech-question-c2t-withdraw-quote	techQuestions	How do you withdraw a quoted remark without looking shifty?	¿Cómo se retira una frase citada sin parecer escurridizo?
+W	tech-answer-c2t-withdraw-quote	techAnswers	I would say the remark no longer holds and give the shorter one that does. Hedging it into mist will make people hunt the original with more appetite.	Diría que la frase ya no se sostiene y daría la más corta que sí. Diluirla en niebla hará que busquen la original con más gana.
+W	tech-question-c2t-board-note	techQuestions	What should a note to the board refuse to perform?	¿Qué debe negarse a representar una nota al consejo?
+W	tech-answer-c2t-board-note	techAnswers	It should refuse to perform confidence it does not have. A glossy paragraph over a thin figure will be remembered when the figure breaks.	Debe negarse a representar una confianza que no tiene. Un párrafo lustroso sobre una cifra flaca se recordará cuando la cifra se rompa.
+W	tech-question-c2t-embassy-line	techQuestions	Where does this embassy note lose its usefulness?	¿Dónde pierde su utilidad esta nota de embajada?
+W	tech-answer-c2t-embassy-line	techAnswers	It loses it where it starts scoring points for the home audience. A note that cannot be shown to the other side is a press release wearing a crest.	La pierde en cuanto empieza a marcar tantos para el público de casa. Una nota que no se puede mostrar a la otra parte es un comunicado con escudo.
+W	tech-question-c2t-donation-no	techQuestions	How do you decline a request for money and still leave the cause standing?	¿Cómo se rechaza un pedido de dinero y se deja en pie la causa?
+W	tech-answer-c2t-donation-no	techAnswers	I would praise the work and name a limit that is about my purse, not their worth. A sermon on their methods would turn a no into a quarrel.	Alabaría el trabajo y nombraría un límite que habla de mi bolsillo, no de su valía. Un sermón sobre sus métodos convertiría el no en una pelea.
+W	tech-question-c2t-patronage-no	techQuestions	What has this refusal of patronage accidentally implied?	¿Qué ha dado a entender, sin querer, este rechazo de mecenazgo?
+W	tech-answer-c2t-patronage-no	techAnswers	It has implied that the project is thin, when you only meant you were the wrong name. A colder adjective at the project will travel farther than your diary intended.	Ha dado a entender que el proyecto es flaco, cuando solo quería decir que usted era el nombre equivocado. Un adjetivo más frío sobre el proyecto viajará más lejos de lo que su diario pretendía.
+W	tech-question-c2t-prize-no	techQuestions	How would you decline a prize without insulting the jury?	¿Cómo declinaría un premio sin insultar al jurado?
+W	tech-answer-c2t-prize-no	techAnswers	I would thank them for the reading and say the honour sits badly on this book. A manifesto against prizes will make them look like fools for offering.	Les daría las gracias por la lectura y diría que el honor le sienta mal a este libro. Un manifiesto contra los premios los hará parecer necios por haberlo ofrecido.
+W	tech-question-c2t-reprint-ask	techQuestions	How do you ask to reprint a page without sounding as if you have already taken it?	¿Cómo se pide reimprimir una página sin parecer que ya se la ha llevado?
+W	tech-answer-c2t-reprint-ask	techAnswers	I would name the use, the audience, and the credit I would give. A tone of fait accompli makes a permission into a mopping-up.	Nombraría el uso, el público y el crédito que daría. Un tono de hecho consumado convierte el permiso en un trapeado.
+W	tech-question-c2t-erratum-short	techQuestions	What should an erratum letter do besides admit the slip?	¿Qué debe hacer una carta de fe de erratas además de admitir el desliz?
+W	tech-answer-c2t-erratum-short	techAnswers	It should put the right figure or name where a stranger can use it. A paragraph of temperament about how busy you were is not an erratum.	Debe poner la cifra o el nombre cabales donde un extraño pueda usarlos. Un párrafo de humor sobre lo ocupado que estaba no es una fe de erratas.
+W	tech-question-c2t-staff-farewell	techQuestions	Where does a farewell to departing staff start to sound like a brochure?	¿Dónde un adiós al personal que se va empieza a sonar a folleto?
+W	tech-answer-c2t-staff-farewell	techAnswers	It starts when every name is 'invaluable' and no one is described. A single true detail about their work will outlast a page of glow.	Empieza cuando cada nombre es «invaluable» y a nadie se le describe. Un solo detalle cierto sobre su trabajo durará más que una página de brillo.
+W	tech-question-c2t-client-close	techQuestions	How do you close an account with a client you still wish well?	¿Cómo se cierra una cuenta con un cliente a quien aún se le desea bien?
+W	tech-answer-c2t-client-close	techAnswers	I would thank them for the years and state the end without a moral. A last little invoice of grievances will make the whole correspondence look like a prelude to that bill.	Les daría las gracias por los años y diría el final sin moraleja. Una última factura de agravios hará que toda la correspondencia parezca el preludio de esa nota.
+W	tech-question-c2t-invoice-query	techQuestions	How would you query an invoice so the other office can correct it without shame?	¿Cómo interrogaría una factura para que la otra oficina pueda corregirla sin vergüenza?
+W	tech-answer-c2t-invoice-query	techAnswers	I would point to the line and the date, and assume a slip. A tone of theft in the first sentence will make them defend the error.	Señalaría la línea y la fecha, y daría por hecho un desliz. Un tono de hurto en la primera frase les hará defender el error.
+W	tech-question-c2t-gentle-nudge	techQuestions	What has this gentle reminder actually done to the original request?	¿Qué le ha hecho de verdad este suave recordatorio al pedido original?
+W	tech-answer-c2t-gentle-nudge	techAnswers	It has restated the ask and added a clock that was not there. The gentleness is perfume; the new deadline is the sentence.	Ha vuelto a decir el pedido y ha añadido un reloj que no estaba. La suavidad es perfume; el nuevo plazo es la frase.
+W	tech-question-c2t-firmer-nudge	techQuestions	Where should the steel sit in a firmer reminder?	¿Dónde debe posarse el acero en un recordatorio más firme?
+W	tech-answer-c2t-firmer-nudge	techAnswers	It should sit in the date and the next step, not in the adjectives. Calling them unprofessional will make the file about honour, not about the missing paper.	Debe posarse en la fecha y el siguiente paso, no en los adjetivos. Llamarlos poco profesionales convertirá el expediente en una cuestión de honor, no del papel que falta.
+W	tech-question-c2t-short-reference	techQuestions	What can a short reference still do that a long one often undoes?	¿Qué puede hacer aún una recomendación breve que una larga suele deshacer?
+W	tech-answer-c2t-short-reference	techAnswers	It can name two things the person does well and stop. A third paragraph of temperament will dilute the two things that were usable.	Puede nombrar dos cosas que esa persona hace bien y detenerse. Un tercer párrafo de temperamento diluirá las dos cosas que servían.
+W	tech-question-c2t-character-note	techQuestions	How do you write a character note for someone you know only in one room?	¿Cómo se escribe una nota de conducta de alguien a quien solo se conoce en una sala?
+W	tech-answer-c2t-character-note	techAnswers	I would stay inside that room and say so. Borrowed stories from their other life will make the note look like gossip with a letterhead.	Me quedaría en esa sala y lo diría. Historias prestadas de su otra vida harán de la nota un cotilleo con membrete.
+W	tech-question-c2t-postpone-kindly	techQuestions	How would you postpone the meeting without making the other person feel shelved?	¿Cómo aplazaría la reunión sin que la otra persona se sienta arrumbada?
+W	tech-answer-c2t-postpone-kindly	techAnswers	I would name a new date in the same breath as the regret. An open postponement is a polite disappearance.	Nombraría una fecha nueva en el mismo aliento que el pesar. Un aplazamiento abierto es una desaparición cortés.
+W	tech-question-c2t-cancel-meeting	techQuestions	What should a cancellation do that a vague 'let's see' does not?	¿Qué debe hacer una cancelación que no hace un vago «ya veremos»?
+W	tech-answer-c2t-cancel-meeting	techAnswers	It should kill the hour so the other person can use it. Leaving a ghost slot in their diary is a small theft dressed as flexibility.	Debe matar la hora para que la otra persona pueda usarla. Dejarle un hueco fantasma en la agenda es un pequeño hurto vestido de flexibilidad.
+W	tech-question-c2t-silence-answer	techQuestions	What has your silence already said that a late letter will struggle to unsay?	¿Qué ha dicho ya su silencio que una carta tardía tendrá trabajo en desdecir?
+W	tech-answer-c2t-silence-answer	techAnswers	It has said that the matter was not urgent to you. A sudden warmth after three weeks will look like a change of weather, not of mind.	Ha dicho que el asunto no era urgente para usted. Un calor súbito a las tres semanas parecerá un cambio de tiempo, no de parecer.
+W	tech-question-c2t-open-letter	techQuestions	Where does this open letter stop being a letter and become a performance?	¿Dónde esta carta abierta deja de ser carta y se vuelve una actuación?
+W	tech-answer-c2t-open-letter	techAnswers	It stops when every sentence is aimed at the gallery behind the addressee. The named person becomes furniture for an argument they cannot answer in private.	Deja de serlo cuando cada frase apunta al patio que hay detrás del destinatario. La persona nombrada se vuelve mueble de un argumento al que no puede responder en privado.
+W	tech-question-c2t-travel-regret	techQuestions	How do you tell them you will miss the journey without making them feel abandoned?	¿Cómo les dice que se perderá el viaje sin que se sientan abandonados?
+W	tech-answer-c2t-travel-regret	techAnswers	I would put the loss on my side and keep their plans intact. Asking them to wait for a later season turns my change of heart into their burden.	Pondría la pérdida de mi lado y dejaría intactos sus planes. Pedirles que esperen a otra estación convierte mi cambio de ánimo en su carga.
+W	tech-question-c2t-interview-no	techQuestions	How would you decline the interview and still leave the journalist a usable close?	¿Cómo declinaría la entrevista y dejaría aún al periodista un cierre usable?
+W	tech-answer-c2t-interview-no	techAnswers	I would give one sentence they may print and then stop. A long no that argues the premise will become the story.	Daría una frase que pueda imprimir y luego me detendría. Un no largo que discuta la premisa se volverá la noticia.
+W	tech-question-c2t-blurb-refuse	techQuestions	What should a refusal to blurb protect besides your name?	¿Qué debe proteger un rechazo a poner solapa, además de su nombre?
+W	tech-answer-c2t-blurb-refuse	techAnswers	It should protect the book from a lukewarm sentence you would later regret seeing on a train. Silence is kinder than a faint adjective in public.	Debe proteger al libro de una frase tibia que luego lamentaría ver en un tren. El silencio es más amable que un adjetivo pálido en público.
+W	tech-question-c2t-intro-letter	techQuestions	How do you introduce two people by letter without overselling either?	¿Cómo se presenta por carta a dos personas sin vender de más a ninguna?
+W	tech-answer-c2t-intro-letter	techAnswers	I would say why each might want the hour, and stop before I invent a friendship. A matchmaker's flourish will make both of them wary of you.	Diría por qué cada una podría querer esa hora, y me detendría antes de inventar una amistad. Un ademán de casamentero hará que ambas recelen de usted.
+W	tech-question-c2t-hotel-bill	techQuestions	Where does this letter about the hotel bill lose the manager?	¿Dónde esta carta sobre la cuenta del hotel pierde al director?
+W	tech-answer-c2t-hotel-bill	techAnswers	It loses them when it starts narrating the holiday. They can fix a line on a bill; they cannot repair your weather.	Lo pierde cuando empieza a relatar las vacaciones. Puede enmendar una línea de la cuenta; no puede repararle a usted el tiempo.
+W	tech-question-c2t-concert-return	techQuestions	How do you return the tickets so the giver still feels the evening was a gift?	¿Cómo se devuelven las entradas para que quien las dio sienta aún que la noche era un regalo?
+W	tech-answer-c2t-concert-return	techAnswers	I would keep the thanks for the thought and explain only the clash. Sending them back with a review of the programme will look like a refusal of their taste.	Conservaría las gracias por el gesto y solo explicaría el impedimento. Devolverlas con una crítica del programa parecerá un rechazo de su gusto.
+W	tech-question-c2t-school-note	techQuestions	What should a note to the school do that a speech at the gate cannot?	¿Qué debe hacer una nota al colegio que no puede un discurso en la puerta?
+W	tech-answer-c2t-school-note	techAnswers	It should leave a date, a name, and a request that can be filed. Heat that works on the pavement becomes a problem once it is in the record.	Debe dejar una fecha, un nombre y un pedido que se pueda archivar. El calor que funciona en la acera se vuelve un problema una vez en el expediente.
+W	tech-question-c2t-grant-decline	techQuestions	How do you tell a grant-seeker no without closing the next year as well?	¿Cómo se le dice que no a quien pide una beca sin cerrar también el año que viene?
+W	tech-answer-c2t-grant-decline	techAnswers	I would say this round is not the fit, and leave the door on the work, not on a vague maybe. A soft eternal perhaps will keep them writing you letters you will not answer.	Diría que esta ronda no es el encaje, y dejaría la puerta en el trabajo, no en un vago quizá. Un quizá eterno y blando les hará escribirle cartas que usted no contestará.
+W	tech-question-c2t-committee-no	techQuestions	How would you leave the committee without making the remaining members feel dumped?	¿Cómo dejaría la comisión sin que quienes quedan se sientan abandonados?
+W	tech-answer-c2t-committee-no	techAnswers	I would thank them for the hours and name a successor if I have one. A speech about the committee's futility will turn a resignation into a verdict.	Les daría las gracias por las horas y nombraría un sucesor si lo tengo. Un discurso sobre la vanidad de la comisión convertirá una dimisión en un veredicto.
+W	tech-question-c2t-after-dinner	techQuestions	What has this after-dinner note actually thanked them for?	¿Por qué les ha dado las gracias de verdad esta nota del día siguiente?
+W	tech-answer-c2t-after-dinner	techAnswers	It has thanked them for the food and missed the conversation they steered. A host who risked a difficult table will feel the miss.	Les ha dado las gracias por la comida y ha perdido la conversación que ellos guiaron. Un anfitrión que arriesgó una mesa difícil notará el fallo.
+W	tech-question-c2t-borrowed-book	techQuestions	How do you ask for the book back without sounding like a librarian with a grudge?	¿Cómo se pide el libro de vuelta sin parecer un bibliotecario con rencor?
+W	tech-answer-c2t-borrowed-book	techAnswers	I would name the title and a week, and assume they meant to return it. A history of other unreturned things will make a friend into a case.	Nombraría el título y una semana, y daría por hecho que pensaban devolverlo. Un historial de otras cosas no devueltas convertirá a un amigo en un expediente.
+W	tech-question-c2t-loan-remind	techQuestions	Where does a reminder about money go wrong between friends?	¿Dónde se tuerce un recordatorio de dinero entre amigos?
+W	tech-answer-c2t-loan-remind	techAnswers	It goes wrong when it starts rehearsing the original kindness. The sum is enough; the moral makes the friendship the collateral.	Se tuerce cuando empieza a ensayar la amabilidad primera. Basta la suma; la moraleja convierte la amistad en la garantía.
+W	tech-question-c2t-missed-funeral	techQuestions	How do you write after missing the funeral without making the letter about your guilt?	¿Cómo se escribe tras faltar al funeral sin que la carta vaya de su culpa?
+W	tech-answer-c2t-missed-funeral	techAnswers	I would put their dead person in the centre and keep my absence to one clause. A page of my weather and trains will ask them to comfort me.	Pondría a su muerto en el centro y dejaría mi ausencia en una cláusula. Una página sobre mi tiempo y mis trenes les pedirá que me consuelen.
+W	tech-question-c2t-belated-thanks	techQuestions	What can a late thank-you still salvage?	¿Qué puede salvar aún un agradecimiento tardío?
+W	tech-answer-c2t-belated-thanks	techAnswers	It can still name the exact thing that stayed with you. Lateness plus vagueness is just a form that remembered itself.	Aún puede nombrar la cosa exacta que se le quedó. El retraso más lo vago es solo una fórmula que se acordó de sí misma.
+W	tech-question-c2t-too-warm-close	techQuestions	What has this too-warm closing done to an otherwise careful letter?	¿Qué le ha hecho este cierre demasiado cálido a una carta por lo demás cuidada?
+W	tech-answer-c2t-too-warm-close	techAnswers	It has promised a closeness the body of the letter never earned. They will believe the last line and then feel the drop when you next write like a stranger.	Ha prometido una cercanía que el cuerpo de la carta nunca ganó. Creerán la última línea y luego sentirán el bajón cuando usted escriba después como un extraño.
+W	tech-question-c2t-too-cold-close	techQuestions	Why does this chilly close sour a letter that was otherwise kind?	¿Por qué este cierre frío agriará una carta que por lo demás era amable?
+W	tech-answer-c2t-too-cold-close	techAnswers	Because the last taste is the one that stays. A sudden 'yours faithfully' after a human page will read as a withdrawal of the person, not of the form.	Porque el último sabor es el que se queda. Un súbito «le saluda atentamente» después de una página humana se leerá como un retiro de la persona, no de la forma.
+W	tech-question-c2t-ps-afterthought	techQuestions	What work is this postscript doing that the letter refused to do?	¿Qué trabajo hace esta posdata que la carta se negó a hacer?
+W	tech-answer-c2t-ps-afterthought	techAnswers	It is saying the true thing after the performance. If the postscript is the letter, the page above it is scenery.	Dice lo verdadero después de la función. Si la posdata es la carta, la página de arriba es decorado.
+W	tech-question-c2t-first-name-title	techQuestions	How do you choose between a first name and a title in a letter that must not presume?	¿Cómo se elige entre el nombre de pila y el tratamiento en una carta que no debe presumir?
+W	tech-answer-c2t-first-name-title	techAnswers	I would match the last tone they used with you, not the tone you wish they had. Jumping to a first name is a small invasion dressed as warmth.	Tomaría el último tono que usaron con usted, no el que usted hubiera querido. Saltar al nombre de pila es una pequeña invasión vestida de calor.
+W	tech-question-c2t-seasonal-padding	techQuestions	What has the seasonal opening done to a letter that needed to be short?	¿Qué le ha hecho la apertura estacional a una carta que debía ser breve?
+W	tech-answer-c2t-seasonal-padding	techAnswers	It has spent six lines on weather the other person can see. By the time you reach the ask, they are already tired of your pen.	Ha gastado seis líneas en un tiempo que la otra persona ya ve. Cuando llega al pedido, ya están cansados de su pluma.
+W	tech-question-c2t-we-in-letter	techQuestions	When does 'we' in a personal letter start to sound like a committee?	¿Cuándo el «nosotros» de una carta personal empieza a sonar a comisión?
+W	tech-answer-c2t-we-in-letter	techAnswers	It starts when you use it to hide a decision that was yours. A friend can answer a person; they cannot answer a royal we.	Empieza cuando lo usa para esconder una decisión que era suya. Un amigo puede responder a una persona; no puede responder a un nosotros de majestad.
+W	tech-question-c2t-last-line-weight	techQuestions	What has the last line of this letter actually decided?	¿Qué ha decidido de verdad la última línea de esta carta?
+W	tech-answer-c2t-last-line-weight	techAnswers	It has decided whether they will reread the kindness or the sting. Everything above it is now a corridor to that door.	Ha decidido si releerán la amabilidad o el pinchazo. Todo lo de arriba es ya un pasillo hacia esa puerta.
+W	tech-question-c2t-handwritten-weight	techQuestions	What does a handwritten page do that the same words in type cannot?	¿Qué hace una página manuscrita que no pueden las mismas palabras a máquina?
+W	tech-answer-c2t-handwritten-weight	techAnswers	It says you sat with the thing and did not outsource the discomfort. Typed condolences can still be true, but they arrive already wearing a suit.	Dice que usted se sentó con el asunto y no delegó la incomodidad. Un pésame mecanografiado puede ser cierto, pero llega ya de traje.
+W	tech-question-c2t-withheld-ending	techQuestions	What has the withheld ending actually given the reader?	¿Qué le ha dado de verdad al lector el final retenido?
+W	tech-answer-c2t-withheld-ending	techAnswers	It has given them the weight of the last hour without the relief of a verdict. They leave knowing the house, not the sentence the house was building toward.	Le ha dado el peso de la última hora sin el alivio de un veredicto. Se va conociendo la casa, no la frase que la casa estaba construyendo.
+W	tech-question-c2t-review-furniture	techQuestions	What has this review spent its last page admiring?	¿En qué ha gastado esta reseña su última página de admiración?
+W	tech-answer-c2t-review-furniture	techAnswers	It has admired the lamps and the weather and never said whether the novel thinks. Someone could cut out that page and still not know if the book stands.	Ha admirado las lámparas y el tiempo y no ha dicho nunca si la novela piensa. Alguien podría recortar esa página y seguir sin saber si el libro se sostiene.
+W	tech-question-c2t-scene-doorway	techQuestions	Where does this doorway scene start to do real work?	¿Dónde esta escena del umbral empieza a trabajar de verdad?
+W	tech-answer-c2t-scene-doorway	techAnswers	It starts when someone pauses with a hand on the wood and does not say why. A doorway that is only described as oak is still a catalogue.	Empieza cuando alguien se detiene con la mano en la madera y no dice por qué. Un umbral descrito solo como roble sigue siendo un catálogo.
+W	tech-question-c2t-metaphor-earns	techQuestions	How do you know a metaphor has earned its keep in the paragraph?	¿Cómo se sabe que una metáfora ha ganado su sitio en el párrafo?

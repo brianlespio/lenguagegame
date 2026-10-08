@@ -1,0 +1,800 @@
+W	pronoun-you-yourself	pronouns	you yourself	usted mismo
+W	pronoun-i-myself	pronouns	I myself	yo mismo
+W	pronoun-one-oneself	pronouns	one oneself	uno mismo
+W	pronoun-each-himself	pronouns	each himself	cada cual
+W	pronoun-no-man	pronouns	no man	nadie
+W	pronoun-no-woman	pronouns	no woman	ninguna
+W	pronoun-everyman	pronouns	everyman	el común de las gentes
+W	pronoun-any-man	pronouns	any man	cualquier hombre
+W	pronoun-any-woman	pronouns	any woman	cualquier mujer
+W	pronoun-every-man	pronouns	every man	todo hombre
+W	pronoun-every-woman	pronouns	every woman	toda mujer
+W	pronoun-some-man	pronouns	some man	algún hombre
+W	pronoun-some-woman	pronouns	some woman	alguna mujer
+W	pronoun-the-grantor	pronouns	the grantor	el otorgante
+W	pronoun-the-grantee	pronouns	the grantee	el cesionario
+W	pronoun-the-decedent	pronouns	the decedent	el causante
+W	pronoun-the-testator	pronouns	the testator	el testador
+W	pronoun-the-legatee	pronouns	the legatee	el legatario
+W	pronoun-the-assignor	pronouns	the assignor	el cedente
+W	pronoun-the-assignee	pronouns	the assignee	el cesionario
+W	pronoun-the-promisee	pronouns	the promisee	el acreedor de la promesa
+W	pronoun-the-promisor	pronouns	the promisor	el promitente
+W	pronoun-the-hereinabove	pronouns	the hereinabove	el antedicho
+W	pronoun-the-hereinafter-named	pronouns	the hereinafter named	el infra nombrado
+W	pronoun-yours-truly	pronouns	yours truly	un servidor
+W	pronoun-your-humble-servant	pronouns	your humble servant	su seguro servidor
+W	pronoun-the-writer	pronouns	the writer	el que suscribe
+W	pronoun-the-speaker	pronouns	the speaker	el que habla
+W	pronoun-the-present-writer	pronouns	the present writer	quien esto escribe
+W	pronoun-this-one	pronouns	this one	este
+W	pronoun-that-one	pronouns	that one	ese
+W	pronoun-yon	pronouns	yon	aquel
+W	pronoun-yonder-one	pronouns	yonder one	aquel de allá
+W	preposition-pursuant-to	prepositions	pursuant to	de conformidad con
+W	preposition-notwithstanding	prepositions	notwithstanding	no obstante
+W	preposition-inasmuch-as	prepositions	inasmuch as	por cuanto
+W	preposition-for-want-of	prepositions	for want of	a falta de
+W	preposition-at-variance-with	prepositions	at variance with	en desacuerdo con
+W	preposition-in-lieu-of	prepositions	in lieu of	en lugar de
+W	preposition-by-virtue-of	prepositions	by virtue of	en virtud de
+W	preposition-by-dint-of	prepositions	by dint of	a fuerza de
+W	preposition-in-keeping-with	prepositions	in keeping with	a tono con
+W	preposition-at-odds-with	prepositions	at odds with	a malas con
+W	preposition-in-defiance-of	prepositions	in defiance of	en desafío de
+W	preposition-with-a-view-to	prepositions	with a view to	con miras a
+W	preposition-with-an-eye-to	prepositions	with an eye to	con ojo a
+W	preposition-for-the-sake-of	prepositions	for the sake of	en pro de
+W	preposition-on-pain-of	prepositions	on pain of	so pena de
+W	preposition-under-pain-of	prepositions	under pain of	bajo pena de
+W	preposition-in-the-teeth-of	prepositions	in the teeth of	a contrapelo de
+W	preposition-in-the-face-of	prepositions	in the face of	ante
+W	preposition-in-the-wake-of	prepositions	in the wake of	a rueda de
+W	preposition-on-the-heels-of	prepositions	on the heels of	a los talones de
+W	preposition-at-the-behest-of	prepositions	at the behest of	a instancias de
+W	preposition-at-the-instance-of	prepositions	at the instance of	a instancia de
+W	preposition-by-order-of	prepositions	by order of	por orden de
+W	preposition-in-furtherance-of	prepositions	in furtherance of	en pro de
+W	preposition-in-pursuance-of	prepositions	in pursuance of	en cumplimiento de
+W	preposition-in-default-of	prepositions	in default of	a falta de
+W	preposition-in-the-absence-of	prepositions	in the absence of	en ausencia de
+W	preposition-for-lack-of	prepositions	for lack of	por falta de
+W	preposition-for-fear-of	prepositions	for fear of	por temor de
+W	preposition-for-love-of	prepositions	for love of	por amor de
+W	preposition-in-spite-of	prepositions	in spite of	a pesar de
+W	preposition-irrespective-of	prepositions	irrespective of	con independencia de
+W	preposition-regardless-of	prepositions	regardless of	sin mirar a
+W	preposition-short-of	prepositions	short of	a falta de
+W	preposition-shy-of	prepositions	shy of	por debajo de
+W	preposition-barring	prepositions	barring	salvo
+W	preposition-save	prepositions	save	salvo
+W	preposition-save-for	prepositions	save for	salvo
+W	preposition-excepting	prepositions	excepting	exceptuando
+W	preposition-failing	prepositions	failing	a falta de
+W	preposition-pending	prepositions	pending	en tanto se resuelve
+W	preposition-absent	prepositions	absent	a falta de
+W	preposition-anent	prepositions	anent	respecto de
+W	preposition-athwart	prepositions	athwart	a través de
+W	preposition-aslant	prepositions	aslant	al sesgo de
+W	preposition-aslope	prepositions	aslope	en pendiente de
+W	preposition-betwixt	prepositions	betwixt	entre
+W	preposition-unto	prepositions	unto	hasta
+W	preposition-vis-a-vis	prepositions	vis-à-vis	frente a
+W	preposition-a-propos-of	prepositions	à propos of	a propósito de
+W	preposition-as-regards	prepositions	as regards	en lo tocante a
+W	preposition-as-to	prepositions	as to	en cuanto a
+W	preposition-as-for	prepositions	as for	por lo que hace a
+W	preposition-as-per	prepositions	as per	según
+W	preposition-touching	prepositions	touching	tocante a
+W	preposition-respecting	prepositions	respecting	respecto de
+W	preposition-considering	prepositions	considering	habida cuenta de
+W	preposition-given	prepositions	given	dado
+W	preposition-granted	prepositions	granted	concedido
+W	preposition-ahead-of	prepositions	ahead of	por delante de
+W	preposition-along-with	prepositions	along with	junto con
+W	preposition-apart-from	prepositions	apart from	aparte de
+W	preposition-aside-from	prepositions	aside from	al margen de
+W	preposition-away-from	prepositions	away from	lejos de
+W	preposition-because-of	prepositions	because of	a causa de
+W	preposition-close-to	prepositions	close to	junto a
+W	preposition-contrary-to	prepositions	contrary to	en contra de
+W	preposition-depending-on	prepositions	depending on	según
+W	preposition-due-to	prepositions	due to	debido a
+W	preposition-except-for	prepositions	except for	excepto
+W	preposition-exclusive-of	prepositions	exclusive of	sin contar
+W	preposition-instead-of	prepositions	instead of	en vez de
+W	preposition-next-to	prepositions	next to	junto a
+W	preposition-on-account-of	prepositions	on account of	a cuenta de
+W	preposition-on-behalf-of	prepositions	on behalf of	en nombre de
+W	preposition-on-top-of	prepositions	on top of	encima de
+W	preposition-other-than	prepositions	other than	salvo
+W	preposition-out-of	prepositions	out of	fuera de
+W	preposition-outside-of	prepositions	outside of	fuera de
+W	preposition-owing-to	prepositions	owing to	debido a
+W	preposition-preliminary-to	prepositions	preliminary to	con carácter previo a
+W	preposition-previous-to	prepositions	previous to	antes de
+W	preposition-prior-to	prepositions	prior to	antes de
+W	preposition-relative-to	prepositions	relative to	respecto de
+W	preposition-subsequent-to	prepositions	subsequent to	después de
+W	preposition-thanks-to	prepositions	thanks to	gracias a
+W	preposition-together-with	prepositions	together with	juntamente con
+W	preposition-up-against	prepositions	up against	frente a
+W	preposition-up-to	prepositions	up to	hasta
+W	preposition-up-until	prepositions	up until	hasta
+W	preposition-void-of	prepositions	void of	desprovisto de
+W	preposition-wanting	prepositions	wanting	a falta de
+W	preposition-with-respect-to	prepositions	with respect to	con respecto a
+W	preposition-with-regard-to	prepositions	with regard to	con relación a
+W	preposition-with-reference-to	prepositions	with reference to	con referencia a
+W	preposition-in-respect-of	prepositions	in respect of	en punto a
+W	preposition-in-regard-to	prepositions	in regard to	en lo concerniente a
+W	preposition-in-reference-to	prepositions	in reference to	en referencia a
+W	preposition-in-relation-to	prepositions	in relation to	en relación con
+W	preposition-in-connection-with	prepositions	in connection with	en relación con
+W	preposition-in-accordance-with	prepositions	in accordance with	de acuerdo con
+W	preposition-in-agreement-with	prepositions	in agreement with	de acuerdo con
+W	preposition-in-line-with	prepositions	in line with	en línea con
+W	preposition-in-step-with	prepositions	in step with	al compás de
+W	preposition-in-concert-with	prepositions	in concert with	de consuno con
+W	preposition-in-conjunction-with	prepositions	in conjunction with	conjuntamente con
+W	preposition-in-combination-with	prepositions	in combination with	en combinación con
+W	preposition-in-company-with	prepositions	in company with	en compañía de
+W	preposition-in-common-with	prepositions	in common with	en común con
+W	preposition-in-comparison-with	prepositions	in comparison with	en comparación con
+W	preposition-in-contrast-to	prepositions	in contrast to	en contraste con
+W	preposition-in-contrast-with	prepositions	in contrast with	frente a
+W	preposition-in-exchange-for	prepositions	in exchange for	a cambio de
+W	preposition-in-return-for	prepositions	in return for	en pago de
+W	preposition-in-payment-of	prepositions	in payment of	en pago de
+W	preposition-in-settlement-of	prepositions	in settlement of	en finiquito de
+W	preposition-in-satisfaction-of	prepositions	in satisfaction of	en satisfacción de
+W	preposition-in-discharge-of	prepositions	in discharge of	en descargo de
+W	preposition-in-place-of	prepositions	in place of	en lugar de
+W	preposition-in-substitution-for	prepositions	in substitution for	en sustitución de
+W	preposition-in-addition-to	prepositions	in addition to	además de
+W	preposition-in-excess-of	prepositions	in excess of	por encima de
+W	preposition-in-advance-of	prepositions	in advance of	con antelación a
+W	preposition-in-back-of	prepositions	in back of	detrás de
+W	preposition-in-front-of	prepositions	in front of	delante de
+W	preposition-in-the-middle-of	prepositions	in the middle of	en medio de
+W	preposition-in-the-midst-of	prepositions	in the midst of	en medio de
+W	preposition-in-the-thick-of	prepositions	in the thick of	en lo más recio de
+W	preposition-in-the-heart-of	prepositions	in the heart of	en el corazón de
+W	preposition-in-the-course-of	prepositions	in the course of	en el transcurso de
+W	preposition-in-the-process-of	prepositions	in the process of	en vías de
+W	preposition-in-the-act-of	prepositions	in the act of	en el acto de
+W	preposition-in-the-habit-of	prepositions	in the habit of	en el hábito de
+W	preposition-in-danger-of	prepositions	in danger of	en peligro de
+W	preposition-in-fear-of	prepositions	in fear of	con temor de
+W	preposition-in-awe-of	prepositions	in awe of	con recelo de
+W	preposition-in-dread-of	prepositions	in dread of	con pavor de
+W	preposition-in-hope-of	prepositions	in hope of	con esperanza de
+W	preposition-in-expectation-of	prepositions	in expectation of	a la espera de
+W	preposition-in-anticipation-of	prepositions	in anticipation of	en previsión de
+W	preposition-in-token-of	prepositions	in token of	en señal de
+W	preposition-in-honour-of	prepositions	in honour of	en honor de
+W	preposition-in-memory-of	prepositions	in memory of	en memoria de
+W	preposition-in-praise-of	prepositions	in praise of	en loor de
+W	preposition-in-favour-of	prepositions	in favour of	a favor de
+W	preposition-in-support-of	prepositions	in support of	en apoyo de
+W	preposition-in-defence-of	prepositions	in defence of	en defensa de
+W	preposition-on-the-part-of	prepositions	on the part of	de parte de
+W	preposition-on-the-side-of	prepositions	on the side of	del lado de
+W	preposition-on-the-strength-of	prepositions	on the strength of	a fuerza de
+W	preposition-on-the-basis-of	prepositions	on the basis of	sobre la base de
+W	preposition-on-the-grounds-of	prepositions	on the grounds of	por motivo de
+W	preposition-on-the-occasion-of	prepositions	on the occasion of	con ocasión de
+W	preposition-on-the-subject-of	prepositions	on the subject of	sobre el particular de
+W	preposition-on-the-matter-of	prepositions	on the matter of	en el asunto de
+W	preposition-on-the-point-of	prepositions	on the point of	a punto de
+W	preposition-on-the-verge-of	prepositions	on the verge of	al borde de
+W	preposition-on-the-brink-of	prepositions	on the brink of	al borde de
+W	preposition-on-the-edge-of	prepositions	on the edge of	al filo de
+W	preposition-on-the-eve-of	prepositions	on the eve of	en vísperas de
+W	preposition-on-the-threshold-of	prepositions	on the threshold of	al umbral de
+W	preposition-at-the-mercy-of	prepositions	at the mercy of	a merced de
+W	preposition-at-the-expense-of	prepositions	at the expense of	a costa de
+W	preposition-at-the-cost-of	prepositions	at the cost of	a costa de
+W	preposition-at-the-risk-of	prepositions	at the risk of	a riesgo de
+W	preposition-at-the-hands-of	prepositions	at the hands of	a manos de
+W	preposition-at-the-foot-of	prepositions	at the foot of	al pie de
+W	preposition-at-the-head-of	prepositions	at the head of	al frente de
+W	preposition-at-the-top-of	prepositions	at the top of	en lo alto de
+W	preposition-at-the-bottom-of	prepositions	at the bottom of	al fondo de
+W	preposition-at-the-back-of	prepositions	at the back of	a espaldas de
+W	preposition-at-the-front-of	prepositions	at the front of	al frente de
+W	preposition-at-the-side-of	prepositions	at the side of	al lado de
+W	preposition-at-the-heart-of	prepositions	at the heart of	en el meollo de
+W	preposition-at-the-root-of	prepositions	at the root of	en la raíz de
+W	preposition-at-the-core-of	prepositions	at the core of	en el tuétano de
+W	preposition-by-means-of	prepositions	by means of	por medio de
+W	preposition-by-way-of	prepositions	by way of	a modo de
+W	preposition-by-force-of	prepositions	by force of	a fuerza de
+W	preposition-by-reason-of	prepositions	by reason of	por razón de
+W	preposition-by-right-of	prepositions	by right of	por derecho de
+W	preposition-by-leave-of	prepositions	by leave of	con licencia de
+W	preposition-by-consent-of	prepositions	by consent of	con consentimiento de
+W	preposition-by-authority-of	prepositions	by authority of	por autoridad de
+W	preposition-by-direction-of	prepositions	by direction of	por indicación de
+W	preposition-by-command-of	prepositions	by command of	por mandato de
+W	preposition-under-cover-of	prepositions	under cover of	al amparo de
+W	preposition-under-colour-of	prepositions	under colour of	con capa de
+W	preposition-under-guise-of	prepositions	under guise of	con disfraz de
+W	preposition-under-pretence-of	prepositions	under pretence of	con pretexto de
+W	preposition-under-the-pretence-of	prepositions	under the pretence of	con el pretexto de
+W	preposition-under-the-guise-of	prepositions	under the guise of	bajo la capa de
+W	preposition-under-the-cloak-of	prepositions	under the cloak of	bajo el manto de
+W	preposition-under-the-shadow-of	prepositions	under the shadow of	a la sombra de
+W	preposition-under-the-wing-of	prepositions	under the wing of	bajo el ala de
+W	preposition-under-the-thumb-of	prepositions	under the thumb of	bajo el yugo de
+W	preposition-under-the-heel-of	prepositions	under the heel of	bajo el talón de
+W	preposition-over-and-above	prepositions	over and above	por encima de
+W	preposition-over-against	prepositions	over against	frente a
+W	preposition-outwith	prepositions	outwith	fuera de
+W	preposition-from-among	prepositions	from among	de entre
+W	preposition-from-amongst	prepositions	from amongst	de entre
+W	preposition-from-between	prepositions	from between	de entre
+W	preposition-from-under	prepositions	from under	de debajo de
+W	preposition-from-above	prepositions	from above	de encima de
+W	preposition-from-beneath	prepositions	from beneath	de debajo de
+W	preposition-from-behind	prepositions	from behind	de detrás de
+W	preposition-from-beyond	prepositions	from beyond	de allende
+W	preposition-from-within	prepositions	from within	desde dentro de
+W	preposition-from-without	prepositions	from without	desde fuera de
+W	preposition-from-across	prepositions	from across	de allende
+W	preposition-subsequent-upon	prepositions	subsequent upon	a raíz de
+W	preposition-consequent-upon	prepositions	consequent upon	a consecuencia de
+W	preposition-attendant-upon	prepositions	attendant upon	anejo a
+W	preposition-incumbent-upon	prepositions	incumbent upon	incumbente a
+W	preposition-binding-upon	prepositions	binding upon	vinculante para
+W	preposition-dependent-upon	prepositions	dependent upon	pendiente de
+W	preposition-contingent-upon	prepositions	contingent upon	condicionado a
+W	preposition-conditional-upon	prepositions	conditional upon	condicionado a
+W	preposition-predicated-upon	prepositions	predicated upon	fundado en
+W	preposition-founded-upon	prepositions	founded upon	fundado en
+W	preposition-based-upon	prepositions	based upon	asentado en
+W	preposition-grounded-upon	prepositions	grounded upon	asentado en
+W	preposition-premised-upon	prepositions	premised upon	asentado en
+W	preposition-predicated-on	prepositions	predicated on	fundado en
+W	preposition-akin-to	prepositions	akin to	afín a
+W	preposition-allied-to	prepositions	allied to	afín a
+W	preposition-apropos-of	prepositions	apropos of	a propósito de
+W	preposition-back-of	prepositions	back of	detrás de
+W	preposition-further-to	prepositions	further to	en seguimiento de
+W	preposition-inside-of	prepositions	inside of	dentro de
+W	preposition-near-to	prepositions	near to	cerca de
+W	preposition-opposite-to	prepositions	opposite to	frente a
+W	preposition-preparatory-to	prepositions	preparatory to	en preparación de
+W	preposition-preparatory-for	prepositions	preparatory for	en preparación de
+W	preposition-pursuant-of	prepositions	pursuant of	en seguimiento de
+W	preposition-round-about	prepositions	round about	en torno a
+W	preposition-short-for	prepositions	short for	abreviatura de
+W	preposition-besides	prepositions	besides	además de
+W	preposition-amongst	prepositions	amongst	entre
+W	preposition-amidst	prepositions	amidst	en medio de
+W	preposition-across-from	prepositions	across from	enfrente de
+W	preposition-adjacent-to	prepositions	adjacent to	contiguo a
+W	preposition-contiguous-to	prepositions	contiguous to	lindante con
+W	preposition-proximate-to	prepositions	proximate to	próximo a
+W	preposition-antecedent-to	prepositions	antecedent to	anterior a
+W	preposition-posterior-to	prepositions	posterior to	posterior a
+W	preposition-anterior-to	prepositions	anterior to	anterior a
+W	preposition-for-and-on-behalf-of	prepositions	for and on behalf of	por y en nombre de
+W	preposition-for-and-in-consideration-of	prepositions	for and in consideration of	por y en contraprestación de
+W	preposition-in-and-around	prepositions	in and around	en y en torno a
+W	preposition-in-and-out-of	prepositions	in and out of	dentro y fuera de
+W	preposition-on-and-after	prepositions	on and after	a partir de
+W	preposition-on-or-about	prepositions	on or about	el o hacia el
+W	preposition-on-or-before	prepositions	on or before	el o antes del
+W	preposition-on-or-after	prepositions	on or after	el o después del
+W	preposition-as-from	prepositions	as from	a partir de
+W	preposition-as-of	prepositions	as of	a fecha de
+W	preposition-as-against	prepositions	as against	frente a
+W	preposition-as-between	prepositions	as between	entre
+W	preposition-but-for	prepositions	but for	de no ser por
+W	preposition-excepting-only	prepositions	excepting only	salvo únicamente
+W	preposition-failing-which	prepositions	failing which	a falta de lo cual
+W	preposition-for-and-against	prepositions	for and against	a favor y en contra de
+W	preposition-in-and-for	prepositions	in and for	en y para
+W	preposition-of-and-concerning	prepositions	of and concerning	de y relativo a
+W	preposition-to-and-including	prepositions	to and including	hasta e inclusive
+W	preposition-up-to-and-including	prepositions	up to and including	hasta e inclusive
+W	preposition-with-and-subject-to	prepositions	with and subject to	con y sujeto a
+W	preposition-sans	prepositions	sans	sin
+W	preposition-versus	prepositions	versus	contra
+W	preposition-circa	prepositions	circa	hacia
+W	preposition-mid	prepositions	mid	a mediados de
+W	preposition-neath	prepositions	neath	bajo
+W	preposition-o-er	prepositions	o'er	sobre
+W	preposition-to-the-detriment-of	prepositions	to the detriment of	en perjuicio de
+W	preposition-to-the-exclusion-of	prepositions	to the exclusion of	con exclusión de
+W	preposition-anear	prepositions	anear	cerca de
+W	preposition-anenst	prepositions	anenst	respecto de
+W	preposition-fornent	prepositions	fornent	frente a
+W	preposition-outbye	prepositions	outbye	allende
+W	preposition-inbye	prepositions	inbye	hacia dentro de
+W	preposition-withinside	prepositions	withinside	dentro de
+W	preposition-withoutside	prepositions	withoutside	fuera de
+W	preposition-alongside	prepositions	alongside	al costado de
+W	preposition-alongside-of	prepositions	alongside of	al costado de
+W	preposition-abeam-of	prepositions	abeam of	por el través de
+W	preposition-abaft-of	prepositions	abaft of	a popa de
+W	preposition-forward-of	prepositions	forward of	a proa de
+W	preposition-astern-of	prepositions	astern of	a popa de
+W	preposition-inboard-of	prepositions	inboard of	hacia el interior de
+W	preposition-outboard-of	prepositions	outboard of	hacia el exterior de
+W	preposition-to-windward-of	prepositions	to windward of	a barlovento de
+W	preposition-to-leeward-of	prepositions	to leeward of	a sotavento de
+W	preposition-seaward-of	prepositions	seaward of	al mar de
+W	preposition-landward-of	prepositions	landward of	a tierra de
+W	preposition-downstream-of	prepositions	downstream of	aguas abajo de
+W	preposition-upstream-of	prepositions	upstream of	aguas arriba de
+W	preposition-downriver-of	prepositions	downriver of	aguas abajo de
+W	preposition-upriver-of	prepositions	upriver of	aguas arriba de
+W	preposition-this-side-of	prepositions	this side of	de este lado de
+W	preposition-the-far-side-of	prepositions	the far side of	al otro lado de
+W	preposition-the-near-side-of	prepositions	the near side of	al lado de acá de
+W	preposition-hard-by	prepositions	hard by	junto a
+W	preposition-nigh-unto	prepositions	nigh unto	cerca de
+W	preposition-hard-upon	prepositions	hard upon	al filo de
+W	preposition-full-upon	prepositions	full upon	de lleno sobre
+W	preposition-smack-against	prepositions	smack against	de lleno contra
+W	preposition-bang-against	prepositions	bang against	de golpe contra
+W	preposition-flush-with	prepositions	flush with	a ras de
+W	preposition-level-with	prepositions	level with	a nivel de
+W	preposition-even-with	prepositions	even with	a la par de
+W	preposition-abreast-of	prepositions	abreast of	a la altura de
+W	preposition-in-the-lee-of	prepositions	in the lee of	a sotavento de
+W	noun-shortfall	nouns	shortfall	déficit
+W	noun-uptake	nouns	uptake	adopción
+W	noun-buy-in	nouns	buy-in	adhesión
+W	noun-trade-off	nouns	trade-off	contrapartida
+W	noun-knock-on	nouns	knock-on	efecto en cadena
+W	noun-spillover	nouns	spillover	efecto contagio
+W	noun-blowback	nouns	blowback	contragolpe político
+W	noun-pushback	nouns	pushback	rechazo frontal
+W	noun-walkout	nouns	walkout	abandono de sala
+W	noun-lockout	nouns	lockout	cierre patronal
+W	noun-stand-off	nouns	stand-off	impasse tenso
+W	noun-climbdown	nouns	climbdown	marcha atrás
+W	noun-about-turn	nouns	about-turn	giro de ciento ochenta
+W	noun-write-off	nouns	write-off	castigo contable
+W	noun-write-down	nouns	write-down	saneamiento
+W	noun-sell-off	nouns	sell-off	desinversión masiva
+W	noun-takeover	nouns	takeover	opa
+W	noun-spin-off	nouns	spin-off	escisión
+W	noun-carve-out	nouns	carve-out	segregación
+W	noun-headcount	nouns	headcount	plantilla
+W	noun-headroom	nouns	headroom	margen de maniobra
+W	noun-war-chest	nouns	war chest	caja de guerra
+W	noun-slush-fund	nouns	slush fund	fondo opaco
+W	noun-sinecure	nouns	sinecure	sinecura
+W	noun-incumbency	nouns	incumbency	titularidad del cargo
+W	noun-remit	nouns	remit	competencia
+W	noun-caseload	nouns	caseload	carga de expedientes
+W	noun-backlog	nouns	backlog	acumulación de pendientes
+W	noun-throughput	nouns	throughput	ritmo de tramitación
+W	noun-turnaround	nouns	turnaround	saneamiento exprés
+W	noun-lead-time	nouns	lead time	plazo de entrega
+W	noun-slippage	nouns	slippage	deslizamiento de plazos
+W	noun-overrun	nouns	overrun	desvío de coste
+W	noun-overspend	nouns	overspend	gasto de más
+W	noun-underspend	nouns	underspend	gasto de menos
+W	noun-mismatch	nouns	mismatch	desajuste
+W	noun-misalignment	nouns	misalignment	desalineación
+W	noun-disconnect	nouns	disconnect	desconexión
+W	noun-fault-line	nouns	fault line	línea de falla
+W	noun-flashpoint	nouns	flashpoint	punto de eclosión
+W	noun-tinderbox	nouns	tinderbox	polvorín
+W	noun-powder-keg	nouns	powder keg	barril de pólvora
+W	noun-tripwire	nouns	tripwire	disparador automático
+W	noun-tipping-point	nouns	tipping point	punto de no retorno
+W	noun-juncture	nouns	juncture	coyuntura
+W	noun-crossroads	nouns	crossroads	encrucijada
+W	noun-impasse	nouns	impasse	punto muerto
+W	noun-logjam	nouns	logjam	atasco de trámites
+W	noun-choke-point	nouns	choke point	cuello de botella
+W	noun-stranglehold	nouns	stranglehold	ahogo
+W	noun-leverage	nouns	leverage	apalancamiento
+W	noun-sway	nouns	sway	ascendiente
+W	noun-heft	nouns	heft	envergadura
+W	noun-firepower	nouns	firepower	musculatura financiera
+W	noun-footprint	nouns	footprint	huella operativa
+W	noun-bandwidth	nouns	bandwidth	capacidad de atención
+W	noun-uproar	nouns	uproar	alboroto
+W	noun-hue-and-cry	nouns	hue and cry	clamor público
+W	noun-secondment	nouns	secondment	comisión de servicios
+W	noun-furlough	nouns	furlough	excedencia forzosa
+W	noun-garden-leave	nouns	garden leave	permiso de exclusión retribuido
+W	noun-notice-period	nouns	notice period	preaviso
+W	noun-cooling-off	nouns	cooling-off	plazo de desistimiento
+W	noun-standstill	nouns	standstill	tregua contractual
+W	noun-surcharge	nouns	surcharge	recargo
+W	noun-clawback	nouns	clawback	reintegro
+W	noun-haircut	nouns	haircut	quita
+W	noun-bailout	nouns	bailout	rescate
+W	noun-bail-in	nouns	bail-in	recapitalización interna
+W	noun-fire-sale	nouns	fire sale	liquidación a pérdidas
+W	noun-going-concern	nouns	going concern	empresa en funcionamiento
+W	noun-goodwill	nouns	goodwill	fondo de comercio
+W	noun-whistleblower	nouns	whistleblower	denunciante interno
+W	noun-leak	nouns	leak	filtración
+W	noun-briefing	nouns	briefing	sesión informativa
+W	noun-backgrounder	nouns	backgrounder	nota de contexto
+W	noun-doorstep	nouns	doorstep	declaración a la puerta
+W	noun-soundbite	nouns	soundbite	frase hecha mediática
+W	noun-talking-point	nouns	talking point	argumento de campaña
+W	noun-holding-line	nouns	holding line	consigna de espera
+W	noun-watchdog	nouns	watchdog	organismo de vigilancia
+W	noun-ombudsman	nouns	ombudsman	defensor del pueblo
+W	noun-quango	nouns	quango	ente semipúblico
+W	noun-think-tank	nouns	think tank	laboratorio de ideas
+W	noun-task-force	nouns	task force	grupo de choque
+W	noun-working-party	nouns	working party	grupo de trabajo
+W	noun-steering-group	nouns	steering group	comité rector
+W	noun-standing-committee	nouns	standing committee	comisión permanente
+W	noun-select-committee	nouns	select committee	comisión de investigación
+W	noun-inquiry	nouns	inquiry	comisión de pesquisa
+W	noun-inquest	nouns	inquest	pesquisa judicial
+W	noun-hearing	nouns	hearing	vista
+W	noun-sitting	nouns	sitting	sesión plenaria
+W	noun-adjournment	nouns	adjournment	aplazamiento de sesión
+W	noun-deferral	nouns	deferral	diferimiento
+W	noun-stay	nouns	stay	suspensión cautelar
+W	noun-injunction	nouns	injunction	interdicto
+W	noun-restraining-order	nouns	restraining order	orden de alejamiento
+W	noun-gagging-order	nouns	gagging order	orden de silencio
+W	noun-super-injunction	nouns	super-injunction	superinterdicto
+W	noun-discovery	nouns	discovery	exhibición de pruebas
+W	noun-shortlist	nouns	shortlist	terna
+W	noun-longlist	nouns	longlist	lista amplia
+W	noun-run-off	nouns	run-off	segunda vuelta
+W	noun-recount	nouns	recount	recuento
+W	noun-hung-parliament	nouns	hung parliament	parlamento sin mayoría
+W	noun-hung-jury	nouns	hung jury	jurado en desacuerdo
+W	noun-landslide	nouns	landslide	paliza electoral
+W	noun-wipeout	nouns	wipeout	barrida
+W	noun-swing	nouns	swing	vuelco electoral
+W	noun-turnout	nouns	turnout	participación electoral
+W	noun-spoilt-ballot	nouns	spoilt ballot	voto nulo
+W	noun-postal-vote	nouns	postal vote	voto por correo
+W	noun-proxy-vote	nouns	proxy vote	voto por poder
+W	noun-three-line-whip	nouns	three-line whip	mandato de voto estricto
+W	noun-free-vote	nouns	free vote	voto en conciencia
+W	noun-pairing	nouns	pairing	emparejamiento de ausencias
+W	noun-by-election	nouns	by-election	elección parcial
+W	noun-snap-election	nouns	snap election	elección adelantada
+W	noun-caretaker-government	nouns	caretaker government	gobierno en funciones
+W	noun-no-confidence	nouns	no-confidence	moción de censura
+W	noun-censure-motion	nouns	censure motion	moción de reprobación
+W	noun-white-paper	nouns	white paper	libro blanco
+W	noun-green-paper	nouns	green paper	libro verde
+W	noun-command-paper	nouns	command paper	documento gubernamental
+W	noun-statutory-instrument	nouns	statutory instrument	reglamento con rango legal
+W	noun-sunset-clause	nouns	sunset clause	cláusula de caducidad
+W	noun-grandfathering	nouns	grandfathering	derechos adquiridos
+W	noun-wrecking-amendment	nouns	wrecking amendment	enmienda de torpedeo
+W	noun-reasoned-amendment	nouns	reasoned amendment	enmienda de totalidad
+W	noun-caveat	nouns	caveat	salvedad
+W	noun-proviso	nouns	proviso	condición resolutoria
+W	noun-rider	nouns	rider	cláusula adicional
+W	noun-small-print	nouns	small print	letra pequeña
+W	noun-get-out	nouns	get-out	cláusula de escape
+W	noun-break-clause	nouns	break clause	cláusula de resolución anticipada
+W	noun-lock-in	nouns	lock-in	período de permanencia
+W	noun-lock-up	nouns	lock-up	período de indisponibilidad
+W	noun-non-compete	nouns	non-compete	pacto de no competencia
+W	noun-sign-off	nouns	sign-off	visto bueno
+W	noun-go-ahead	nouns	go-ahead	luz verde
+W	noun-scorecard	nouns	scorecard	cuadro de mando
+W	noun-headline-figure	nouns	headline figure	cifra de portada
+W	noun-headline-rate	nouns	headline rate	tasa de portada
+W	noun-underlying-rate	nouns	underlying rate	tasa subyacente
+W	noun-controlling-stake	nouns	controlling stake	participación de control
+W	noun-blocking-stake	nouns	blocking stake	participación de bloqueo
+W	noun-golden-share	nouns	golden share	acción de oro
+W	noun-poison-pill	nouns	poison pill	píldora venenosa
+W	noun-white-knight	nouns	white knight	caballero blanco
+W	noun-dawn-raid	nouns	dawn raid	asalto al alba
+W	noun-concert-party	nouns	concert party	pacto de sindicación
+W	noun-receivership	nouns	receivership	administración concursal
+W	noun-winding-up	nouns	winding-up	liquidación societaria
+W	noun-stewardship	nouns	stewardship	tutela gestora
+W	noun-chairmanship	nouns	chairmanship	presidencia
+W	noun-speakership	nouns	speakership	presidencia de la cámara
+W	noun-rapporteurship	nouns	rapporteurship	ponentía
+W	noun-workload	nouns	workload	carga de trabajo
+W	noun-pipeline	nouns	pipeline	cartera de proyectos
+W	noun-runway	nouns	runway	colchón de caja
+W	noun-burn-rate	nouns	burn rate	ritmo de quema
+W	noun-revolving-door	nouns	revolving door	puerta giratoria
+W	noun-glass-ceiling	nouns	glass ceiling	techo de cristal
+W	noun-old-boy-network	nouns	old-boy network	camarilla de enchufes
+W	noun-golden-handshake	nouns	golden handshake	indemnización de oro
+W	noun-golden-parachute	nouns	golden parachute	paracaídas dorado
+W	noun-sweetheart-deal	nouns	sweetheart deal	trato de favor
+W	noun-pork-barrel	nouns	pork barrel	clientelismo presupuestario
+W	noun-cap	nouns	cap	tope
+W	noun-collar	nouns	collar	banda de precios
+W	noun-bracket	nouns	bracket	tramo
+W	noun-tier	nouns	tier	escalón
+W	noun-rung	nouns	rung	peldaño
+W	noun-windfall-tax	nouns	windfall tax	gravamen extraordinario
+W	noun-deep-background	nouns	deep background	fuente sin atribución
+W	noun-line-to-take	nouns	line to take	consigna
+W	noun-gag	nouns	gag	mordaza
+W	noun-disclosure-duty	nouns	disclosure duty	deber de revelación
+W	noun-public-interest	nouns	public interest	interés público
+W	noun-money-bill	nouns	money bill	proyecto de ley de crédito
+W	noun-enabling-act	nouns	enabling act	ley de habilitación
+W	noun-framework-law	nouns	framework law	ley marco
+W	noun-hardship-clause	nouns	hardship clause	cláusula de onerosidad
+W	noun-gagging-clause	nouns	gagging clause	cláusula de silencio
+W	noun-bottom-line	nouns	bottom line	resultado neto
+W	noun-top-line	nouns	top line	cifra de negocio
+W	noun-holdings	nouns	holdings	participaciones
+W	noun-stakeholding	nouns	stakeholding	tenencia de participación
+W	noun-tutelage	nouns	tutelage	tutela
+W	noun-wardship	nouns	wardship	guarda
+W	noun-trusteeship	nouns	trusteeship	fideicomiso
+W	noun-black-knight	nouns	black knight	caballero negro
+W	noun-cooling-off-period	nouns	cooling-off period	plazo de reflexión
+W	noun-notice-to-quit	nouns	notice to quit	requerimiento de desahucio
+W	noun-show-of-hands	nouns	show of hands	votación a mano alzada
+W	noun-roll-call	nouns	roll-call	votación nominal
+W	noun-voice-vote	nouns	voice vote	votación por asentimiento
+W	noun-casting-vote	nouns	casting vote	voto de calidad
+W	noun-proxy-battle	nouns	proxy battle	pugna de poderes
+W	noun-rights-issue	nouns	rights issue	ampliación de capital
+W	noun-scrip-issue	nouns	scrip issue	ampliación liberada
+W	noun-share-buyback	nouns	share buyback	recompra de acciones
+W	noun-dividend-strip	nouns	dividend strip	desgaje del dividendo
+W	noun-chinese-wall	nouns	Chinese wall	muralla china
+W	noun-ring-fence	nouns	ring-fence	cortafuegos patrimonial
+W	noun-safe-harbour	nouns	safe harbour	puerto seguro
+W	noun-safe-seat	nouns	safe seat	feudo electoral
+W	noun-marginal-seat	nouns	marginal seat	escaño bisagra
+W	noun-bellwether-seat	nouns	bellwether seat	escaño termómetro
+W	noun-rotten-borough	nouns	rotten borough	burgo podrido
+W	noun-pocket-borough	nouns	pocket borough	burgo de bolsillo
+W	noun-gerrymander	nouns	gerrymander	amaño de distritos
+W	noun-dog-whistle	nouns	dog-whistle	guiño cifrado
+W	noun-dead-cat	nouns	dead cat	cortina de humo
+W	noun-kite-flying	nouns	kite-flying	globo sonda
+W	noun-trial-balloon	nouns	trial balloon	globo de ensayo
+W	noun-straw-poll	nouns	straw poll	sondeo informal
+W	noun-exit-poll	nouns	exit poll	sondeo a pie de urna
+W	noun-opinion-former	nouns	opinion former	forjador de criterio
+W	noun-gatekeeper	nouns	gatekeeper	portero de acceso
+W	noun-rainmaker	nouns	rainmaker	captador de grandes cuentas
+W	noun-rainy-day-fund	nouns	rainy-day fund	colchón anticíclico
+W	noun-sinking-fund	nouns	sinking fund	fondo de amortización
+W	noun-escrow	nouns	escrow	depósito en garantía
+W	noun-earnest-money	nouns	earnest money	señal
+W	noun-retainer	nouns	retainer	provisión de fondos
+W	noun-success-fee	nouns	success fee	honorario de éxito
+W	noun-contingency-fee	nouns	contingency fee	cuota litis
+W	noun-brief	nouns	brief	encargo profesional
+W	noun-docket	nouns	docket	lista de causas
+W	noun-case-file	nouns	case file	pieza de autos
+W	noun-paper-trail	nouns	paper trail	rastro documental
+W	noun-audit-trail	nouns	audit trail	pista de auditoría
+W	noun-smoking-gun	nouns	smoking gun	prueba reina
+W	noun-red-flag	nouns	red flag	señal de alarma
+W	noun-yellow-card	nouns	yellow card	amonestación
+W	noun-red-card	nouns	red card	expulsión
+W	noun-own-goal	nouns	own goal	autogol político
+W	noun-banana-skin	nouns	banana skin	resbalón
+W	noun-banana-peel	nouns	banana peel	cáscara de plátano
+W	noun-hot-potato	nouns	hot potato	patata caliente
+W	noun-poisoned-chalice	nouns	poisoned chalice	cáliz envenenado
+W	noun-hospital-pass	nouns	hospital pass	balón envenenado
+W	noun-poisoned-well	nouns	poisoned well	pozo envenenado
+W	noun-fig-leaf	nouns	fig leaf	hoja de parra
+W	noun-smokescreen	nouns	smokescreen	cortina de humo
+W	noun-window-dressing	nouns	window dressing	maquillaje de cifras
+W	noun-creative-accounting	nouns	creative accounting	contabilidad creativa
+W	noun-off-books	nouns	off-books	fuera de libros
+W	noun-shadow-banking	nouns	shadow banking	banca en la sombra
+W	noun-shadow-cabinet	nouns	shadow cabinet	gabinete en la sombra
+W	noun-kitchen-cabinet	nouns	kitchen cabinet	camarilla de cocina
+W	noun-war-room	nouns	war room	cuartel de campaña
+W	noun-situation-room	nouns	situation room	sala de crisis
+W	noun-press-pack	nouns	press pack	jauría de prensa
+W	noun-lobby-fodder	nouns	lobby fodder	carne de cañón parlamentaria
+W	noun-cannon-fodder	nouns	cannon fodder	carne de cañón
+W	noun-rank-and-file	nouns	rank and file	base militante
+W	noun-grass-roots	nouns	grass roots	bases
+W	noun-astroturf	nouns	astroturf	movilización de cartón
+W	noun-astroturfing	nouns	astroturfing	movilización fingida
+W	noun-sock-puppet	nouns	sock puppet	títere de identidad falsa
+W	noun-front-organisation	nouns	front organisation	organización pantalla
+W	noun-cut-out	nouns	cut-out	intermediario opaco
+W	noun-go-between	nouns	go-between	intermediario
+W	noun-middleman	nouns	middleman	intermediario mercantil
+W	noun-gatekeeping	nouns	gatekeeping	control de acceso
+W	noun-capture	nouns	capture	captura del regulador
+W	noun-regulatory-capture	nouns	regulatory capture	captura regulatoria
+W	noun-mission-creep	nouns	mission creep	desvío de mandato
+W	noun-scope-creep	nouns	scope creep	ensanchamiento del encargo
+W	noun-feature-creep	nouns	feature creep	hinchazón de funciones
+W	noun-function-creep	nouns	function creep	deslizamiento de uso
+W	noun-mandate	nouns	mandate	encargo
+W	noun-terms-of-reference	nouns	terms of reference	mandato de la investigación
+W	noun-terms-of-trade	nouns	terms of trade	relación real de intercambio
+W	noun-terms-of-engagement	nouns	terms of engagement	condiciones de encargo
+W	noun-rules-of-engagement	nouns	rules of engagement	reglas de enfrentamiento
+W	noun-ground-rules	nouns	ground rules	reglas de juego
+W	noun-house-rules	nouns	house rules	reglamento interno
+W	noun-standing-orders	nouns	standing orders	reglamento de sesiones
+W	noun-order-paper	nouns	order paper	orden del día
+W	noun-order-of-business	nouns	order of business	orden de trabajos
+W	noun-business-of-the-house	nouns	business of the house	asuntos de la cámara
+W	noun-points-of-order	nouns	points of order	cuestiones de orden
+W	noun-point-of-order	nouns	point of order	cuestión de orden
+W	noun-point-of-privilege	nouns	point of privilege	cuestión de fuero
+W	noun-contempt	nouns	contempt	desacato
+W	noun-privilege-motion	nouns	privilege motion	moción de fuero
+W	noun-early-day-motion	nouns	early-day motion	moción de día próximo
+W	noun-ten-minute-rule	nouns	ten-minute rule	trámite de diez minutos
+W	noun-private-member-s-bill	nouns	private member's bill	proyecto de diputado
+W	noun-hybrid-bill	nouns	hybrid bill	proyecto mixto
+W	noun-money-resolution	nouns	money resolution	autorización de crédito
+W	noun-ways-and-means	nouns	ways and means	hacienda y gravámenes
+W	noun-supply-day	nouns	supply day	día de créditos
+W	noun-estimates-day	nouns	estimates day	día de presupuestos
+W	noun-queen-s-speech	nouns	queen's speech	discurso de la corona
+W	noun-king-s-speech	nouns	king's speech	discurso de la corona
+W	noun-gracious-speech	nouns	gracious speech	discurso de la corona
+W	noun-prorogation	nouns	prorogation	cierre de legislatura
+W	noun-dissolution	nouns	dissolution	disolución de la cámara
+W	noun-writ-of-election	nouns	writ of election	convocatoria electoral
+W	noun-returning-officer	nouns	returning officer	junta electoral
+W	noun-presiding-officer	nouns	presiding officer	presidente de mesa
+W	noun-teller	nouns	teller	escrutador
+W	noun-whip-s-office	nouns	whip's office	oficina de disciplina
+W	noun-usual-channels	nouns	usual channels	canales habituales
+W	noun-behind-the-chair	nouns	behind the chair	en los pasillos
+W	noun-smoke-filled-room	nouns	smoke-filled room	despacho cerrado
+W	noun-backroom-deal	nouns	backroom deal	apaño de pasillo
+W	noun-side-deal	nouns	side deal	acuerdo colateral
+W	noun-side-letter	nouns	side letter	carta colateral
+W	noun-memorandum-of-understanding	nouns	memorandum of understanding	acta de entendimiento
+W	noun-heads-of-terms	nouns	heads of terms	principios de acuerdo
+W	noun-term-sheet	nouns	term sheet	hoja de condiciones
+W	noun-letter-of-intent	nouns	letter of intent	carta de intenciones
+W	noun-comfort-letter	nouns	comfort letter	carta de confort
+W	noun-side-agreement	nouns	side agreement	pacto accesorio
+W	noun-lock-out-agreement	nouns	lock-out agreement	pacto de exclusividad
+W	noun-exclusivity	nouns	exclusivity	exclusividad
+W	noun-earn-out	nouns	earn-out	pago diferido por resultados
+W	noun-claw-in	nouns	claw-in	retención de bonus
+W	noun-malus	nouns	malus	ajuste negativo
+W	noun-deferred-bonus	nouns	deferred bonus	bonus diferido
+W	noun-golden-hello	nouns	golden hello	prima de fichaje
+W	noun-handcuff-clause	nouns	handcuff clause	cláusula de permanencia
+W	noun-garden-leave-clause	nouns	garden-leave clause	cláusula de exclusión
+W	noun-severance	nouns	severance	finiquito
+W	noun-redundancy	nouns	redundancy	despido por amortización
+W	noun-layoff	nouns	layoff	expediente de empleo
+W	noun-furlough-scheme	nouns	furlough scheme	erte
+W	noun-work-to-rule	nouns	work-to-rule	huelga de celo
+W	noun-go-slow	nouns	go-slow	huelga de ritmo
+W	noun-wildcat-strike	nouns	wildcat strike	huelga salvaje
+W	noun-sympathy-strike	nouns	sympathy strike	huelga de solidaridad
+W	noun-secondary-action	nouns	secondary action	acción de apoyo
+W	noun-picketing	nouns	picketing	piquete
+W	noun-flying-picket	nouns	flying picket	piquete volante
+W	noun-closed-shop	nouns	closed shop	sindicato obligatorio
+W	noun-check-off	nouns	check-off	descuento sindical
+W	noun-recognition	nouns	recognition	reconocimiento sindical
+W	noun-bargaining-unit	nouns	bargaining unit	unidad de negociación
+W	noun-pay-round	nouns	pay round	ronda salarial
+W	noun-pay-freeze	nouns	pay freeze	congelación salarial
+W	noun-pay-cap	nouns	pay cap	tope salarial
+W	noun-pay-drag	nouns	pay drag	arrastre fiscal
+W	noun-fiscal-drag	nouns	fiscal drag	progresividad en frío
+W	noun-bracket-creep	nouns	bracket creep	deslizamiento de tramos
+W	noun-tax-take	nouns	tax take	recaudación
+W	noun-tax-gap	nouns	tax gap	brecha fiscal
+W	noun-tax-wedge	nouns	tax wedge	cuña fiscal
+W	noun-tax-shelter	nouns	tax shelter	refugio fiscal
+W	noun-tax-haven	nouns	tax haven	paraíso fiscal
+W	noun-brass-plate	nouns	brass plate	despacho pantalla
+W	noun-letterbox-company	nouns	letterbox company	sociedad buzón
+W	noun-shell-company	nouns	shell company	sociedad pantalla
+W	noun-front-company	nouns	front company	empresa tapadera
+W	noun-nominee-shareholder	nouns	nominee shareholder	accionista fiduciario
+W	noun-beneficial-owner	nouns	beneficial owner	titular real
+W	noun-ultimate-owner	nouns	ultimate owner	último titular
+W	noun-person-of-significant-control	nouns	person of significant control	persona con control significativo
+W	noun-politically-exposed-person	nouns	politically exposed person	persona políticamente expuesta
+W	noun-source-of-wealth	nouns	source of wealth	origen del patrimonio
+W	noun-source-of-funds	nouns	source of funds	origen de los fondos
+W	noun-know-your-customer	nouns	know-your-customer	diligencia de cliente
+W	noun-enhanced-due-diligence	nouns	enhanced due diligence	diligencia reforzada
+W	noun-red-flag-report	nouns	red-flag report	informe de alerta
+W	noun-suspicious-activity-report	nouns	suspicious activity report	comunicación de operación sospechosa
+W	noun-tipping-off	nouns	tipping-off	aviso al investigado
+W	noun-safe-harbour-letter	nouns	safe-harbour letter	carta de puerto seguro
+W	noun-no-action-letter	nouns	no-action letter	carta de no actuación
+W	noun-comfort-opinion	nouns	comfort opinion	dictamen de confort
+W	noun-legal-opinion	nouns	legal opinion	dictamen jurídico
+W	noun-counsel-s-opinion	nouns	counsel's opinion	parecer del letrado
+W	noun-leading-counsel	nouns	leading counsel	letrado director
+W	noun-junior-counsel	nouns	junior counsel	letrado adjunto
+W	noun-silk	nouns	silk	letrado de prestigio
+W	noun-stuff-gown	nouns	stuff gown	toga menor
+W	noun-bench	nouns	bench	estrado
+W	noun-inns-of-court	nouns	inns of court	colegios de letrados
+W	noun-chambers	nouns	chambers	despacho de letrados
+W	noun-clerk-of-chambers	nouns	clerk of chambers	secretario de despacho
+W	noun-brief-fee	nouns	brief fee	honorario de encargo
+W	noun-refresher	nouns	refresher	honorario de continuación
+W	noun-wasted-costs	nouns	wasted costs	costas innecesarias
+W	noun-security-for-costs	nouns	security for costs	caución de costas
+W	noun-without-prejudice-save	nouns	without-prejudice save	reserva de costas
+W	noun-calderbank-offer	nouns	Calderbank offer	oferta reservada de costas
+W	noun-part-36-offer	nouns	Part 36 offer	oferta procesal de transacción
+W	noun-tomlin-order	nouns	Tomlin order	auto de transacción
+W	noun-consent-order	nouns	consent order	auto de conformidad
+W	noun-unless-order	nouns	unless order	apercibimiento de archivo
+W	noun-unless-notice	nouns	unless notice	requerimiento bajo apercibimiento
+W	noun-unless-direction	nouns	unless direction	providencia bajo apercibimiento
+W	adjective-far-reaching	adjectives	far-reaching	de largo alcance
+W	adjective-wide-ranging	adjectives	wide-ranging	de amplio espectro
+W	adjective-sweeping	adjectives	sweeping	de brocha gorda
+W	adjective-blanket	adjectives	blanket	generalizado
+W	adjective-across-the-board	adjectives	across-the-board	lineal
+W	adjective-unqualified	adjectives	unqualified	sin matices
+W	adjective-unreserved	adjectives	unreserved	sin reservas
+W	adjective-unequivocal	adjectives	unequivocal	sin ambages
+W	adjective-unambiguous	adjectives	unambiguous	sin doblez
+W	adjective-clear-cut	adjectives	clear-cut	nítido
+W	adjective-cut-and-dried	adjectives	cut-and-dried	zanjado
+W	adjective-open-and-shut	adjectives	open-and-shut	de cajón
+W	adjective-watertight	adjectives	watertight	inatacable
+W	adjective-airtight	adjectives	airtight	hermético
+W	adjective-bulletproof	adjectives	bulletproof	a prueba de balas
+W	adjective-fireproof	adjectives	fireproof	a prueba de fuego
+W	adjective-copper-bottomed	adjectives	copper-bottomed	de solvencia plena
+W	adjective-gilt-edged	adjectives	gilt-edged	de primera firma
+W	adjective-blue-chip	adjectives	blue-chip	de primer orden
+W	adjective-top-flight	adjectives	top-flight	de primera fila
+W	adjective-high-calibre	adjectives	high-calibre	de alto calibre
+W	adjective-heavyweight	adjectives	heavyweight	de peso pesado
+W	adjective-lightweight	adjectives	lightweight	de poco peso
+W	adjective-middleweight	adjectives	middleweight	de peso medio
+W	adjective-featherweight	adjectives	featherweight	de peso pluma
+W	adjective-paper-thin	adjectives	paper-thin	de papel
+W	adjective-skin-deep	adjectives	skin-deep	de puerta para afuera
+W	adjective-deep-rooted	adjectives	deep-rooted	de raíz honda
+W	adjective-long-standing	adjectives	long-standing	de larga data
+W	adjective-long-running	adjectives	long-running	de largo recorrido
+W	adjective-short-lived	adjectives	short-lived	de vida corta
+W	adjective-short-term	adjectives	short-term	de corto plazo
+W	adjective-medium-term	adjectives	medium-term	de medio plazo
+W	adjective-long-term	adjectives	long-term	de largo plazo
+W	adjective-near-term	adjectives	near-term	de plazo inmediato
+W	adjective-full-blown	adjectives	full-blown	en toda regla
+W	adjective-full-scale	adjectives	full-scale	a gran escala
+W	adjective-full-throated	adjectives	full-throated	a voz en cuello
+W	adjective-full-blooded	adjectives	full-blooded	sin tapujos
+W	adjective-half-hearted	adjectives	half-hearted	a medias
+W	adjective-wholehearted	adjectives	wholehearted	de corazón entero
+W	adjective-single-minded	adjectives	single-minded	de una pieza
+W	adjective-narrow-minded	adjectives	narrow-minded	de miras estrechas
+W	adjective-broad-minded	adjectives	broad-minded	de miras anchas
+W	adjective-open-minded	adjectives	open-minded	receptivo
+W	adjective-closed-minded	adjectives	closed-minded	cerrado de mollera
+W	adjective-even-tempered	adjectives	even-tempered	de temple parejo
+W	adjective-quick-tempered	adjectives	quick-tempered	de mecha corta
+W	adjective-short-tempered	adjectives	short-tempered	de genio vivo
+W	adjective-hot-tempered	adjectives	hot-tempered	de sangre caliente
+W	adjective-cool-headed	adjectives	cool-headed	de cabeza fría
+W	adjective-hard-nosed	adjectives	hard-nosed	de uña dura
+W	adjective-hard-edged	adjectives	hard-edged	de filo duro
+W	adjective-soft-spoken	adjectives	soft-spoken	de voz baja
+W	adjective-plain-spoken	adjectives	plain-spoken	de palabra llana
+W	adjective-outspoken	adjectives	outspoken	de palabra suelta
+W	adjective-soft-pedalled	adjectives	soft-pedalled	atenuado

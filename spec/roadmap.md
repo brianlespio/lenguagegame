@@ -24,7 +24,8 @@ No se hace ahora:
 - Matemáticas tiene el mismo contrato en su propio almacén (`mathtrainer.v1.*`, versión 2): fallo por carta, repaso, y `scoreNote` con la misma corrección de azar.
 - `addScore` de idiomas corta a 500 puntuaciones de todos los nombres. El de matemáticas corta a 80, también de todos.
 - `data-model.md` documenta `english` / `spanish`; el código usa `term` / `translation`. `quiz-spec.md` todavía dice que no hay puntuación ni escritura de `LearningProgress`, y las dos cosas ya existen.
-- Los pares son `en-es`, `fr-es` y `ca-es`. El destino es español. La puerta está en español.
+- Los pares son `en-es`, `fr-es`, `ca-es`, `eu-es` y `de-es`. El destino es español. La puerta está en español. El alemán está cableado y el menú lo deja en «Próximamente» hasta la paridad 89 % (`parity-spec.md`).
+- Frente al inglés (11.618): francés ~89 %, euskera ~9,5 %, catalán ~9,2 %, alemán publicado 0 % (~34 % en glosas). La oleada 32–37 iguala a todos al 89 %; después solo sube el inglés.
 - El estudio de idiomas muestra Previous, Next, REVEAL, TEST, SCORE, Auto Play, Voice y Fullscreen. El botón apagado baja la opacidad.
 - El banco de matemáticas tiene 96 cartas únicas y 138 enlaces. Ocho asignaturas no tienen ninguna carta: `poo`, `automatas`, `adquisicion`, `redes`, `bases`, `infra`, `distribuidos`, `software`.
 - Un nivel suelto de cálculo no llega a 20 preguntas. L1 son 14. Esa prueba no puede juzgar el nivel.
@@ -202,10 +203,72 @@ El flujo de Pages, antes de `npm run build`, ejecuta la suite de `entrenador-mat
 
 **Puerta.** `.github/workflows/deploy-pages.yml` invoca los tests de matemáticas. En local, `npm test` dentro de `entrenador-matematicas` termina en cero.
 
+## Fase 32 — Congelar el inglés y medir el 89 %
+
+Estado: hecha. Spec: `spec/parity-spec.md`. Código: `src/data/parity.ts`, `src/data/parity.test.ts`.
+
+Se fija la referencia de esta oleada: **11.618** cartas inglesas y el desglose por categoría de ese catálogo. `PARITY_RATIO = 0,89`. Meta total: **10.340**. Meta por categoría: `floor(count_en(c) × 0,89)`.
+
+Durante las fases 32–37 no se añaden cartas al inglés. El helper calcula los suelos desde el freeze y `assertEnglishFreeze` falla si el inglés cambia de tamaño o de desglose sin actualizar la spec.
+
+**Puerta.** `parity-spec.md` existe. Un test documenta `allEntries.length === 11618` y expone `TARGET_TOTAL` / `TARGET_CAT`. Francés, catalán, euskera y alemán se miden contra esos suelos, no contra un porcentaje informal.
+
+## Fase 33 — Francés: cerrar clases de palabra al suelo 89 %
+
+Estado: hecha. Spec: `parity-spec.md`. Código: `frenchVocabularyParity.ts`, `frenchVerbsParity.ts` (generados vía `scripts/gen-fr-parity.ts`).
+
+El francés tenía 10.343 cartas y todas las frases del inglés. Se ampliaron solo las clases de palabra hasta cada `TARGET_CAT` (+568 cartas). Total publicado tras la fase: **10.911**. `measureParity(frenchEntries).meetsParity === true`.
+
+Mismo pipeline TS. Prefijo `fr-`. Ids únicos. Frases al 100 % no se reescribieron. Inglés congelado.
+
+**Puerta.** `frenchEntries` cumple total ≥ 10.340 y cada `TARGET_CAT`. `parity.test.ts` y `dataset.test.ts` en verde.
+
+## Fase 34 — Alemán: glosas hasta el 89 % y menú encendido
+
+Spec que se actualiza: `parity-spec.md`, `product-spec.md`.
+
+Hoy hay ~3.999 glosas (~34 %) en `src/data/german/gloss-*.tsv` y el catálogo publicado es `[]` hasta el 100 %. Se completan glosas hasta cumplir total y suelos del 89 %. `germanCatalog` publica cuando el mapeo cumple ese contrato (ya no exige el 100 % del inglés). `LANGUAGE_PAIRS` marca `de-es` como `available: true`.
+
+Siguen las reglas de glosa ya usadas: alemán estándar, ß, nombres con mayúscula, perfecto hablado en verbos, significado alineado con el español de la fila inglesa.
+
+**Puerta.** `germanEntries.length >= 10340`, cada categoría ≥ `TARGET_CAT`, ids `de-*` únicos, menú alemán seleccionable, test de formas verbales en verde. Un catálogo por debajo del umbral sigue siendo vacío y el menú apagado.
+
+## Fase 35 — Catalán al 89 %
+
+Spec que se actualiza: `parity-spec.md`.
+
+Desde ~1.067 cartas hasta ≥ 10.340, con cada categoría en su suelo. Pipeline TS existente. Destino español. Pasado perifrástico en verbos. Sin préstamos ingleses en frases habladas (regla ya en `dataset.test.ts`).
+
+Orden de relleno recomendado: clases de palabra hasta el suelo, luego polar, abierta, técnica y avisos escolares. No se baja el euskera por debajo del catalán en ninguna categoría al terminar la fase 36; en esta fase el catalán puede adelantar.
+
+**Puerta.** `catalanEntries` cumple el contrato de `parity-spec.md`. Tests de ids `ca-*`, pasado con `va`, y frases sin loans, en verde.
+
+## Fase 36 — Euskera al 89 % (sin quedar bajo el catalán)
+
+Spec que se actualiza: `parity-spec.md`.
+
+Desde ~1.105 cartas hasta ≥ 10.340 y cada `TARGET_CAT`. Tras la ampliación, `count(eu, c) >= count(ca, c)` en todas las categorías (contrato que ya exige el dataset). Participio y pasado reconstruidos como ahora.
+
+**Puerta.** `basqueEntries` cumple paridad 89 % y sigue ≥ catalán categoría a categoría. Tests de formas verbales en verde.
+
+## Fase 37 — Cierre de la oleada 89 %; siguiente oleada solo inglés
+
+Spec que se actualiza: `parity-spec.md`, `product-spec.md`.
+
+Francés, alemán, catalán y euskera cumplen el contrato. La auditoría (canvas o tabla en spec) muestra ≥ 89 % en los cuatro. Se escribe al final de `parity-spec.md` el arranque de la **oleada siguiente**, sin ejecutarla aún:
+
+1. Subir solo el inglés por encima de 11.618.
+2. Congelar el nuevo total inglés.
+3. Empujar el resto hasta el nuevo umbral (otra vez por ratio o por paridad plena, según se decida al abrir esa oleada).
+
+**Puerta.** Los cuatro idiomas pasan el test de paridad 89 %. El inglés de referencia sigue en 11.618. No se ha empezado la subida del inglés en el mismo cambio que cierra esta fase.
+
 ## Orden
 
-Hechas: 21, 22 y 23, en los dos entrenadores para el almacén, el fallo y la nota por encima del azar.
+Hechas: 21, 22, 23, 29, 32 y 33.
 
-Hecha también la 29. Siguiente: 30, 26, 31, 27, 24, 25, 28.
+Siguiente en producto/UX (si se retoman): 30, 26, 31, 27, 24, 25, 28.
 
-La 27 ya puede abrirse: la 21 conserva `nextReview`. La 26 no reescribe el contenido de las cartas. La 28 espera a que la 31 ya pruebe matemáticas en el mismo flujo que publica.
+Oleada de bancos: **34 → 35 → 36 → 37** (32–33 hechas).
+
+Tras la 37: solo inglés por encima del 89 % de referencia; después el resto. La 27 ya puede abrirse en paralelo (no toca tamaños de banco). La 28 espera a la 31.

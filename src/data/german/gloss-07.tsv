@@ -1,0 +1,800 @@
+W	positive-pulling-leg	Ja, ich habe Sie absichtlich aufgezogen.
+W	negative-pulling-leg	Nein, ich meine es völlig ernst.
+W	question-lost-the-plot	Haben wir den Faden verloren?
+W	positive-lost-the-plot	Ja, wir sind klar vom eigentlichen Thema abgekommen.
+W	negative-lost-the-plot	Nein, wir sind noch bei der Substanz.
+W	question-worth-the-candle	Lohnt sich der Aufwand?
+W	positive-worth-the-candle	Ja, das Ergebnis rechtfertigt den Einsatz noch.
+W	negative-worth-the-candle	Nein, der Aufwand überwiegt, was wir davon hätten.
+W	question-beating-around	Reden Sie um den heißen Brei herum?
+W	positive-beating-around	Ja, ich umkreise den Punkt, statt ihn zu nennen.
+W	negative-beating-around	Nein, ich komme direkt zur Sache.
+W	question-getting-at	Wollen Sie auf etwas hinaus?
+W	positive-getting-at	Ja, ich steure auf einen konkreten Punkt zu.
+W	negative-getting-at	Nein, ich denke laut nach und lenke Sie nicht.
+W	question-out-of-line	Bin ich zu weit gegangen?
+W	positive-out-of-line	Ja, das ging über das hinaus, was die Lage zuließ.
+W	negative-out-of-line	Nein, die Bemerkung war berechtigt.
+W	question-thin-ice	Bewegen wir uns auf dünnem Eis?
+W	positive-thin-ice	Ja, das ist ein deutlich heikler Abschnitt.
+W	negative-thin-ice	Nein, wir können hier noch offen sprechen.
+W	question-saving-face	Versuchen Sie nur, das Gesicht zu wahren?
+W	positive-saving-face	Ja, mir geht es mehr darum, wie das ankommt, als um das Argument.
+W	negative-saving-face	Nein, ich streite noch um die Sache.
+W	question-moving-goalposts	Verschieben Sie die Torpfosten?
+W	positive-moving-goalposts	Ja, ich verschiebe das Kriterium im Nachhinein.
+W	negative-moving-goalposts	Nein, dieser Maßstab war von Anfang an der Auftrag.
+W	question-second-thoughts	Kommen Ihnen Zweifel?
+W	positive-second-thoughts	Ja, ich bin mir nicht mehr sicher, ob das die richtige Entscheidung ist.
+W	negative-second-thoughts	Nein, ich stehe zu der Entscheidung.
+W	question-cold-feet	Bekommen Sie kalte Füße?
+W	positive-cold-feet	Ja, mir schwindet im letzten Moment der Mut.
+W	negative-cold-feet	Nein, ich mache wie geplant weiter.
+W	question-overthinking-this	Denke ich das zu kompliziert?
+W	positive-overthinking-this	Ja, Sie laden mehr darauf, als es trägt.
+W	negative-overthinking-this	Nein, die Sorge ist berechtigt.
+W	question-missing-the-point	Geht mir das Wesentliche verloren?
+W	positive-missing-the-point	Ja, Ihnen entgeht leicht, worauf es hier wirklich ankommt.
+W	negative-missing-the-point	Nein, Sie haben den Kern erfasst.
+W	question-being-sarcastic	Sind Sie sarkastisch?
+W	positive-being-sarcastic	Ja, da war eine Kante, die ich voll beabsichtigt habe.
+W	negative-being-sarcastic	Nein, ich meine das wörtlich.
+W	question-winding-me-up	Ziehen Sie mich auf?
+W	positive-winding-me-up	Ja, ich necke Sie, aber ohne böse Absicht.
+W	negative-winding-me-up	Nein, der Punkt ist ernst gemeint.
+W	question-fair-assessment	Ist das eine faire Einschätzung?
+W	positive-fair-assessment	Ja, diese Lesart ist im Wesentlichen zutreffend.
+W	negative-fair-assessment	Nein, das glättet es zu stark.
+W	question-overstating-it	Übertreiben Sie das nicht?
+W	positive-overstating-it	Ja, ich habe die Behauptung vielleicht etwas zu hart angezogen.
+W	negative-overstating-it	Nein, wenn überhaupt, bleibt die Formulierung eher zurückhaltend.
+W	question-understatement	Ist das eine Untertreibung?
+W	positive-understatement	Ja, die Formulierung ist klar milder als die Tatsachen.
+W	negative-understatement	Nein, das ist in der richtigen Stärke gefasst.
+W	question-going-there	Gehen wir da jetzt rein?
+W	positive-going-there	Ja, dann öffnen wir das Thema besser richtig.
+W	negative-going-there	Nein, lassen wir dieses Terrain unberührt.
+W	question-off-the-record	Bleibt das inoffiziell?
+W	positive-off-the-record	Ja, das bleibt strikt unter uns.
+W	negative-off-the-record	Nein, Sie dürfen es zitieren.
+W	question-hill-to-die	Wollen Sie sich dafür wirklich schlagen?
+W	positive-hill-to-die	Ja, das ist der Punkt, den ich nicht aufgeben werde.
+W	negative-hill-to-die	Nein, den lasse ich durchgehen.
+W	question-elephant-in-room	Ignorieren wir den Elefanten im Raum?
+W	positive-elephant-in-room	Ja, wir umkreisen absichtlich das offensichtliche Thema.
+W	negative-elephant-in-room	Nein, wir werden das auf den Tisch legen.
+W	question-sugarcoating	Beschönigen Sie das?
+W	positive-sugarcoating	Ja, ich weiche die Kanten mehr ab, als die Tatsachen rechtfertigen.
+W	negative-sugarcoating	Nein, ich stelle es genau so dar, wie es ist.
+W	question-under-the-bus	Schieben Sie mir den Schwarzen Peter zu?
+W	positive-under-the-bus	Ja, ich lasse Sie dafür die Schuld tragen.
+W	negative-under-the-bus	Nein, ich behandle das Problem und weise Ihnen keine Schuld zu.
+W	question-nitpicking	Klauben Sie am Detail herum?
+W	positive-nitpicking	Ja, ich verweile bei einem Detail, das den Fall kaum bewegt.
+W	negative-nitpicking	Nein, dieses Detail ändert wirklich das Ergebnis.
+W	question-twisting-words	Verdrehen Sie meine Worte?
+W	positive-twisting-words	Ja, ich habe sie stärker zusammengedrückt, als sie vertragen.
+W	negative-twisting-words	Nein, das ist eine faire Lesart dessen, was Sie gesagt haben.
+W	question-in-denial	Verleugnen Sie die Realität?
+W	positive-in-denial	Ja, vielleicht weigere ich mich, es klar anzusehen.
+W	negative-in-denial	Nein, ich sehe die Lage ganz klar.
+W	question-burying-head	Stecken Sie den Kopf in den Sand?
+W	positive-burying-head	Ja, ich vermeide genau den Teil, der wehtut.
+W	negative-burying-head	Nein, ich gehe es auf einem anderen Weg an.
+W	question-too-soon-to-say	Ist es zu früh, das zu sagen?
+W	positive-too-soon-to-say	Ja, uns fehlt noch eine verlässliche Grundlage.
+W	negative-too-soon-to-say	Nein, wir haben schon genug, um uns festzulegen.
+W	question-jumping-the-gun	Greifen wir vor?
+W	positive-jumping-the-gun	Ja, wir handeln, bevor der Boden bereit ist.
+W	negative-jumping-the-gun	Nein, der Moment zum Handeln ist gekommen.
+W	question-cart-before-horse	Spannen wir das Pferd von hinten auf?
+W	positive-cart-before-horse	Ja, wir bringen die Reihenfolge durcheinander.
+W	negative-cart-before-horse	Nein, die Arbeitsreihenfolge stimmt.
+W	question-bitten-off	Haben Sie sich zu viel vorgenommen?
+W	positive-bitten-off	Ja, ich habe mehr übernommen, als ich realistisch tragen kann.
+W	negative-bitten-off	Nein, das liegt noch in dem, was ich schaffen kann.
+W	question-out-of-depth	Sind Sie überfordert?
+W	positive-out-of-depth	Ja, das liegt außerhalb dessen, was ich sicher beherrsche.
+W	negative-out-of-depth	Nein, ich finde mich noch zurecht.
+W	question-preaching-choir	Predigen Sie zum Chor?
+W	positive-preaching-choir	Ja, ich wiederhole einen Punkt, den wir schon teilen.
+W	negative-preaching-choir	Nein, es musste trotzdem festgehalten werden.
+W	question-put-foot-in-it	Habe ich ins Fettnäpfchen getreten?
+W	positive-put-foot-in-it	Ja, das ist ungeschickter gelandet, als Sie es meinten.
+W	negative-put-foot-in-it	Nein, daran hat sich niemand gestoßen.
+W	question-reading-between	Lesen Sie zwischen den Zeilen?
+W	positive-reading-between	Ja, ich nehme die Implikation und nicht den Wortlaut.
+W	negative-reading-between	Nein, ich nehme es streng wörtlich.
+W	question-implying-something	Deuten Sie etwas an?
+W	positive-implying-something	Ja, es gibt einen weiteren Punkt, den ich still lasse.
+W	negative-implying-something	Nein, ich meine genau das Gesagte, nichts daneben.
+W	question-testing-waters	Tasten Sie nur das Terrain ab?
+W	positive-testing-waters	Ja, ich sondiere, bevor ich mich festlege.
+W	negative-testing-waters	Nein, ich lege mich schon auf die Position fest.
+W	question-backpedaling	Treten Sie den Rückwärtsgang?
+W	positive-backpedaling	Ja, ich lockere eine Behauptung, die ich zu hoch angesetzt habe.
+W	negative-backpedaling	Nein, ich präzisiere, ich ziehe mich nicht zurück.
+W	question-doubling-down	Verdoppeln Sie den Einsatz?
+W	positive-doubling-down	Ja, ich härte die Position, statt sie zu relativieren.
+W	negative-doubling-down	Nein, ich bleibe offen für einen echten Gegenpunkt.
+W	question-walking-that-back	Nehmen Sie das zurück?
+W	positive-walking-that-back	Ja, ich ziehe einen Teil dessen zurück, was ich behauptet habe.
+W	negative-walking-that-back	Nein, ich stehe zu der Behauptung, wie sie steht.
+W	question-off-base	Liege ich daneben?
+W	positive-off-base	Ja, diese Lesart weicht etwas von den Tatsachen ab.
+W	negative-off-base	Nein, da sind Sie auf dem richtigen Weg.
+W	question-right-ballpark	Sind wir in der richtigen Größenordnung?
+W	positive-right-ballpark	Ja, die Größenordnung stimmt ungefähr.
+W	negative-right-ballpark	Nein, wir liegen weit außerhalb eines plausiblen Bereichs.
+W	question-split-the-difference	Teilen wir uns den Unterschied?
+W	positive-split-the-difference	Ja, die Mitte zu nehmen ist für mich in Ordnung.
+W	negative-split-the-difference	Nein, ich bleibe bei der Zahl, die ich schon genannt habe.
+W	question-calling-bluff	Schauen Sie meinen Bluff an?
+W	positive-calling-bluff	Ja, ich will sehen, ob Sie wirklich durchziehen.
+W	negative-calling-bluff	Nein, ich nehme Sie beim Wort.
+W	question-all-in-on-this	Gehen Sie bei dem hier volles Risiko?
+W	positive-all-in-on-this	Ja, ich setze den vollen Einsatz, ohne Absicherung.
+W	negative-all-in-on-this	Nein, ich habe noch substanzielle Vorbehalte.
+W	question-half-hearted	Ist das ein halbherziger Versuch?
+W	positive-half-hearted	Ja, der Einsatz geht eher den Dienstweg entlang.
+W	negative-half-hearted	Nein, ich stecke echtes Gewicht hinein.
+W	question-lip-service	Zahlen Sie nur Lippenbekenntnisse?
+W	positive-lip-service	Ja, die Zustimmung ist verbal und geht nicht weiter.
+W	negative-lip-service	Nein, ich beabsichtige, danach zu handeln.
+W	question-ticking-box	Haken wir nur ein Kästchen ab?
+W	positive-ticking-box	Ja, das ist eher Compliance-Theater als Substanz.
+W	negative-ticking-box	Nein, das verbessert wirklich das Ergebnis.
+W	question-just-optics	Geht es hier nur um die Optik?
+W	positive-just-optics	Ja, der Schein leistet mehr Arbeit als die Substanz.
+W	negative-just-optics	Nein, es ist die Substanz, die wir wirklich wollen.
+W	question-conflict-of-interest	Liegt ein Interessenkonflikt vor?
+W	positive-conflict-of-interest	Ja, das konkurrierende Interesse muss erklärt werden.
+W	negative-conflict-of-interest	Nein, nichts hier stellt mich in zwei Lager.
+W	question-above-board	Ist das sauber?
+W	positive-above-board	Ja, das Verfahren ist sauber und hält der Prüfung stand.
+W	negative-above-board	Nein, es gibt Fragen, die das nicht bequem beantwortet.
+W	question-cutting-corners	Nehmen wir Abkürzungen?
+W	positive-cutting-corners	Ja, wir überspringen Schritte, die wir beibehalten sollten.
+W	negative-cutting-corners	Nein, wir machen das nach dem richtigen Standard.
+W	question-papering-cracks	Überkleben wir die Risse?
+W	positive-papering-cracks	Ja, wir decken den Fehler zu, statt ihn zu beheben.
+W	negative-papering-cracks	Nein, wir beheben den Fehler wirklich.
+W	question-kicking-the-can	Schieben wir die Entscheidung vor uns her?
+W	positive-kicking-the-can	Ja, wir verschieben eine Entscheidung, die wir jetzt treffen könnten.
+W	negative-kicking-the-can	Nein, wir klären das in dieser Sitzung.
+W	question-missing-bigger-picture	Verlieren wir das große Bild?
+W	positive-missing-bigger-picture	Ja, wir verlieren uns im Detail und lassen den Rahmen fallen.
+W	negative-missing-bigger-picture	Nein, wir haben den weiteren Kontext noch im Blick.
+W	question-confirming-bias	Bestätigen Sie nur Ihre Voreingenommenheit?
+W	positive-confirming-bias	Ja, vielleicht wähle ich aus, was schon zu meiner Sicht passt.
+W	negative-confirming-bias	Nein, ich bleibe offen für ein Ergebnis, das gegen mich spricht.
+W	question-talking-past	Reden wir aneinander vorbei?
+W	positive-talking-past	Ja, wir beantworten Punkte, die der andere gar nicht gemacht hat.
+W	negative-talking-past	Nein, wir greifen wirklich dieselbe Sache auf.
+W	question-same-page	Sind wir auf derselben Seite?
+W	positive-same-page	Ja, wir teilen dieselbe Lesart, wo wir stehen.
+W	negative-same-page	Nein, wir weichen noch in der Grundlesart ab.
+W	question-aligned-on-this	Sind wir darin ausgerichtet?
+W	positive-aligned-on-this	Ja, unsere Positionen liegen jetzt beieinander.
+W	negative-aligned-on-this	Nein, zwischen uns bleibt eine substanzielle Lücke.
+W	question-pushing-back	Weisen Sie das zurück?
+W	positive-pushing-back	Ja, ich habe Einwände, die ich auf den Tisch legen will.
+W	negative-pushing-back	Nein, ich kläre nur die Begriffe.
+W	question-non-negotiable	Ist das nicht verhandelbar?
+W	positive-non-negotiable	Ja, diese Bedingung steht nicht zur Verhandlung.
+W	negative-non-negotiable	Nein, der Punkt ist noch diskutierbar.
+W	question-deal-breaker	Ist das ein Dealbreaker?
+W	positive-deal-breaker	Ja, diese Bedingung würde die Vereinbarung kippen.
+W	negative-deal-breaker	Nein, damit können wir leben, wie es steht.
+W	question-crossed-red-line	Habe ich eine rote Linie überschritten?
+W	positive-crossed-red-line	Ja, das ging über eine Grenze hinaus, die ich nicht als verhandelbar behandle.
+W	negative-crossed-red-line	Nein, das liegt noch in akzeptablen Grenzen.
+W	question-tone-deaf	War das taktlos?
+W	positive-tone-deaf	Ja, es hat nicht erfasst, wie das ankommen würde.
+W	negative-tone-deaf	Nein, der Kontext konnte das vernünftig tragen.
+W	question-poor-taste	War das geschmacklos?
+W	positive-poor-taste	Ja, die Bemerkung war für diesen Rahmen unangebracht.
+W	negative-poor-taste	Nein, sie lag im Rahmen eines Witzes.
+W	question-oversharing	Gebe ich zu viel von mir preis?
+W	positive-oversharing	Ja, das ist mehr persönliches Detail, als nötig war.
+W	negative-oversharing	Nein, dieser Kontext hilft dem Punkt wirklich.
+W	question-too-blunt	War ich zu direkt?
+W	positive-too-blunt	Ja, Sie haben es schroffer gefasst, als der Rahmen verlangte.
+W	negative-too-blunt	Nein, die Direktheit war schlicht Klarheit.
+W	question-more-diplomatic	Hätte ich diplomatischer sein sollen?
+W	positive-more-diplomatic	Ja, eine weichere Fassung wäre besser angekommen.
+W	negative-more-diplomatic	Nein, der direkte Ton war der richtige.
+W	question-taking-personally	Nehmen Sie das persönlich?
+W	positive-taking-personally	Ja, ich höre es als Kommentar über mich, nicht über die Arbeit.
+W	negative-taking-personally	Nein, ich bleibe beim Punkt, nicht bei mir.
+W	question-making-personal	Machen Sie das persönlich?
+W	positive-making-personal	Ja, ich bin von der Sache auf die Person übergegangen.
+W	negative-making-personal	Nein, ich bleibe bei den Tatsachen des Falls.
+W	question-bad-faith	Argumentieren Sie wider besseres Wissen?
+W	positive-bad-faith	Ja, ich argumentiere, um den Austausch zu gewinnen, nicht um die These zu prüfen.
+W	negative-bad-faith	Nein, ich stelle den Fall so dar, wie ich ihn wirklich sehe.
+W	question-changing-subject	Wechseln Sie das Thema, um sich zu drücken?
+W	positive-changing-subject	Ja, der Schwenk war eine Ablenkung, kein Parallelpunkt.
+W	negative-changing-subject	Nein, der Parallelpunkt betrifft wirklich dieselbe Sache.
+W	question-shifting-burden	Verschieben Sie die Beweislast?
+W	positive-shifting-burden	Ja, ich verlange, dass Sie eine These widerlegen, die ich nicht begründet habe.
+W	negative-shifting-burden	Nein, ich bitte Sie nur, zu belegen, was Sie behauptet haben.
+W	question-extraordinary-claim	Ist das nicht eine außergewöhnliche Behauptung?
+W	positive-extraordinary-claim	Ja, die Behauptung ist stark genug, um ungewöhnlich solides Rückgrat zu brauchen.
+W	negative-extraordinary-claim	Nein, die Stütze, die schon auf dem Tisch liegt, reicht aus.
+W	question-anecdotal	Ist das nicht bloß anekdotisch?
+W	positive-anecdotal	Ja, es ist ein Einzelfall, der als Muster verkauft wird.
+W	negative-anecdotal	Nein, dasselbe wiederholt sich, es ist nicht nur einmal.
+W	question-cherry-picking	Wählen Sie die Rosinen heraus?
+W	positive-cherry-picking	Ja, ich wähle die Fälle aus, die den Punkt illustrieren.
+W	negative-cherry-picking	Nein, die Stichprobe steht für das Ganze.
+W	question-correlation-cause	Verwechseln wir Korrelation mit Ursache?
+W	positive-correlation-cause	Ja, wir behandeln eine zeitliche Übereinstimmung wie einen Mechanismus.
+W	negative-correlation-cause	Nein, der Zusammenhang hier ist kausal, nicht bloß zufällig.
+W	question-fair-hearing	Bekomme ich wirklich Gehör?
+W	positive-fair-hearing	Ja, ich nehme Ihren Punkt vollständig auf.
+W	negative-fair-hearing	Nein, ich falle Ihnen immer wieder ins Wort, bevor Sie landen.
+W	question-talking-down	Reden Sie von oben herab zu mir?
+W	positive-talking-down	Ja, der Ton ist mehr Belehrung als Austausch.
+W	negative-talking-down	Nein, ich vereinfache die Begriffe, nicht die Person.
+W	question-being-patronising	Sind Sie herablassend?
+W	positive-being-patronising	Ja, ich habe gesprochen, als müsste man Sie führen.
+W	negative-being-patronising	Nein, ich spreche mit Ihnen auf Augenhöhe.
+W	question-economical-truth	Gehen Sie sparsam mit der Wahrheit um?
+W	positive-economical-truth	Ja, ich habe ein Detail ausgelassen, das das Bild verändert hätte.
+W	negative-economical-truth	Nein, das ist der Bericht vollständig.
+W	question-holding-back-info	Halten Sie etwas zurück?
+W	positive-holding-back-info	Ja, es gibt einen substanziellen Punkt, den ich noch nicht genannt habe.
+W	negative-holding-back-info	Nein, alles Relevante liegt schon auf dem Tisch.
+W	question-blindsided-you	Habe ich Sie überrumpelt?
+W	positive-blindsided-you	Ja, das kam ohne jede Vorwarnung.
+W	negative-blindsided-you	Nein, ich hatte es kommen sehen.
+W	question-lowballing	Drücken Sie mich nach unten?
+W	positive-lowballing	Ja, die Zahl ist ein Einstiegsgebot, nicht meine echte Größe.
+W	negative-lowballing	Nein, das ist die echte Zahl, zu der ich stehen kann.
+W	question-overpromising	Versprechen wir zu viel?
+W	positive-overpromising	Ja, wir verpflichten uns zu mehr, als wir liefern können.
+W	negative-overpromising	Nein, die Zusage liegt in dem, was wir wirklich einhalten können.
+W	question-underdelivering	Liefern wir zu wenig?
+W	positive-underdelivering	Ja, das Ergebnis bleibt hinter dem zurück, wozu wir uns verpflichtet haben.
+W	negative-underdelivering	Nein, wir sind noch auf der Bahn, die wir versprochen haben.
+W	question-last-word	Müssen Sie das letzte Wort haben?
+W	positive-last-word	Ja, mir fällt es schwer, einen Punkt unbeantwortet zu lassen.
+W	negative-last-word	Nein, ich bin fertig, und der Punkt kann so stehen.
+W	question-reading-situation	Lesen Sie die Lage richtig?
+W	positive-reading-situation	Ja, meine Lesart des Raums hält noch.
+W	negative-reading-situation	Nein, ich habe die Dynamik vielleicht falsch gelesen.
+W	question-letting-sleeping-dogs	Sollen wir schlafende Hunde liegen lassen?
+W	positive-letting-sleeping-dogs	Ja, es wieder zu öffnen würde mehr kosten, als es wert ist.
+W	negative-letting-sleeping-dogs	Nein, es liegen zu lassen lässt das Problem nur wachsen.
+W	question-c1x-burying-lede	Vergraben wir in dieser Notiz das Wesentliche?
+W	positive-c1x-burying-lede	Ja, die eigentliche Nachricht steckt noch im dritten Absatz.
+W	negative-c1x-burying-lede	Nein, wir führen schon mit dem, was wirklich zählt.
+W	question-c1x-both-ways	Wollen sie das Beste aus beiden Welten?
+W	positive-c1x-both-ways	Ja, sie wollen das Lob für den Mut und die Sicherheit des Vorsichtigen.
+W	negative-c1x-both-ways	Nein, sie haben eine Seite gewählt und leben damit.
+W	question-c1x-fence-sitting	Sitzen wir zu lange auf dem Zaun?
+W	positive-c1x-fence-sitting	Ja, die Verzögerung liest man inzwischen als Entscheidungsmangel.
+W	negative-c1x-fence-sitting	Nein, das Warten verschafft uns noch Tatsachen, die wir wirklich brauchen.
+W	question-c1x-taking-bait	Bin ich auf diesen Nebenbemerkungs-Köder hereingefallen?
+W	positive-c1x-taking-bait	Ja, ich bin einer Randbemerkung hinterher und habe den eigentlichen Vorwurf nicht beantwortet.
+W	negative-c1x-taking-bait	Nein, ich habe die Nebenbemerkung gelassen und bin beim Wesentlichen geblieben.
+W	question-c1x-playing-time	Spielen sie nur auf Zeit?
+W	positive-c1x-playing-time	Ja, jede neue Frage dient dem Aufschub, nicht einer echten Lücke.
+W	negative-c1x-playing-time	Nein, sie brauchen noch Tatsachen, die wir ihnen nicht gegeben haben.
+W	question-c1x-muddying	Trübt diese Erklärung das Wasser?
+W	positive-c1x-muddying	Ja, sie spaltet Haare, die die Entscheidung gar nicht braucht.
+W	negative-c1x-muddying	Nein, sie trennt zwei Dinge, die wir vermischt hatten.
+W	question-c1x-mountain-molehill	Machen wir aus diesem Abstand einen Berg?
+W	positive-c1x-mountain-molehill	Ja, der Abstand ist real, ändert aber die Entscheidung nicht.
+W	negative-c1x-mountain-molehill	Nein, der Abstand ist genau der Grund, warum wir noch nicht ja sagen können.
+W	question-c1x-adding-fuel	Würde das zu wiederholen nur Öl ins Feuer gießen?
+W	positive-c1x-adding-fuel	Ja, es noch einmal zu sagen würde die Leute ohne neue Tatsache festnageln.
+W	negative-c1x-adding-fuel	Nein, es muss trotzdem gesagt werden, weil es in der Akte fehlt.
+W	question-c1x-closing-ranks	Haben sie um den ersten Entwurf die Reihen geschlossen?
+W	positive-c1x-closing-ranks	Ja, jeder Widerspruch gilt jetzt als Illoyalität.
+W	negative-c1x-closing-ranks	Nein, sie nehmen noch echte Änderungen an der Substanz an.
+W	question-c1x-good-money	Werfen wir gutes Geld dem schlechten hinterher?
+W	positive-c1x-good-money	Ja, mehr auszugeben rettet kein Design, das schon gescheitert ist.
+W	negative-c1x-good-money	Nein, etwas mehr Aufwand bringt uns noch etwas Brauchbares.
+W	question-c1x-cut-losses	Sollen wir beim Pilotprojekt die Verluste begrenzen?
+W	positive-c1x-cut-losses	Ja, was wir noch gewinnen könnten, deckt das Chaos nicht mehr.
+W	negative-c1x-cut-losses	Nein, der Pilot lehrt uns noch etwas, das billigere Tests nicht liefern.
+W	question-c1x-grasping-straws	Greifen wir mit diesem Anhang nach Strohhalmen?
+W	positive-c1x-grasping-straws	Ja, der Anhang ist Restmüll, der wie ein Grund wirken soll.
+W	negative-c1x-grasping-straws	Nein, der Anhang ist die einzige unabhängige Prüfung, die wir haben.
+W	question-c1x-lipstick-pig	Ist die Umschrift nur Lippenstift auf dem Schwein?
+W	positive-c1x-lipstick-pig	Ja, das Gerüst ist dasselbe, und der Glanz ist nur Kosmetik.
+W	negative-c1x-lipstick-pig	Nein, die Umschrift verschiebt wirklich, wo das Argument landen muss.
+W	question-c1x-going-motions	Erfüllen wir in dieser Prüfung nur den Schein?
+W	positive-c1x-going-motions	Ja, das Ergebnis stand fest, bevor jemand die Unterlagen öffnete.
+W	negative-c1x-going-motions	Nein, etwas in den Unterlagen könnte den Entwurf noch kippen.
+W	question-c1x-phoning-in	Liefern sie diese Präsentation nur auf Sparflamme?
+W	positive-c1x-phoning-in	Ja, sie lesen Folien vor, die sie nicht noch einmal angesehen haben.
+W	negative-c1x-phoning-in	Nein, sie haben die Zahlen seit dem letzten Mal überarbeitet.
+W	question-c1x-trial-balloon	War der Vorschlag ein Versuchsballon?
+W	positive-c1x-trial-balloon	Ja, sie haben ihn losgelassen, um zu sehen, wer ihn abschießt.
+W	negative-c1x-trial-balloon	Nein, es war ein fester Vorschlag, den sie schriftlich setzen würden.
+W	question-c1x-overplaying	Übertreiben wir unsere Hand beim Zeitplan?
+W	positive-c1x-overplaying	Ja, wir fordern ein Datum, das der Rest der Arbeit nicht halten kann.
+W	negative-c1x-overplaying	Nein, das Datum ist eng, aber wir haben alles benannt, wovon es abhängt.
+W	question-c1x-powder-dry	Sollen wir unser Pulver bis Freitag trocken halten?
+W	positive-c1x-powder-dry	Ja, jetzt zu sprechen würde Hebelkraft verbrauchen, die wir noch brauchen.
+W	negative-c1x-powder-dry	Nein, bis Freitag zu schweigen wird als Ja gelesen.
+W	question-c1x-jumping-ship	Springen die Leute bei diesem Programm schon ab?
+W	positive-c1x-jumping-ship	Ja, zwei Verantwortliche haben leise um Versetzung gebeten.
+W	negative-c1x-jumping-ship	Nein, das Team ist angespannt, aber niemand hat um Abgang gebeten.
+W	question-c1x-falling-sword	Soll jemand in sein Schwert fallen?
+W	positive-c1x-falling-sword	Ja, ein Rücktritt gilt als Preis, um das zu schließen.
+W	negative-c1x-falling-sword	Nein, die Schuld wird geteilt, und niemand soll gehen.
+W	question-c1x-deaf-ears	Ist diese Warnung auf taube Ohren gestoßen?
+W	positive-c1x-deaf-ears	Ja, sie wurde notiert und im nächsten Entwurf ignoriert.
+W	negative-c1x-deaf-ears	Nein, der nächste Entwurf hat sich am markierten Punkt wirklich bewegt.
+W	question-c1x-hymn-sheet	Singen wir überhaupt vom selben Blatt?
+W	positive-c1x-hymn-sheet	Ja, was wir laut sagen und was geschrieben steht, stimmt jetzt überein.
+W	negative-c1x-hymn-sheet	Nein, im Raum laufen noch zwei Briefings, die nicht beide wahr sein können.
+W	question-c1x-apples-oranges	Sind diese beiden Zahlen überhaupt von derselben Art?
+W	positive-c1x-apples-oranges	Ja, sie messen dasselbe über denselben Zeitraum.
+W	negative-c1x-apples-oranges	Nein, eines ist eine Momentaufnahme und das andere eine Bewegung, also bricht der Vergleich.
+W	question-c1x-stretching-point	Dehnen wir dieses Zitat über das hinaus, was es trägt?
+W	positive-c1x-stretching-point	Ja, der Aufsatz trägt eine schwächere These als die, die wir daran gehängt haben.
+W	negative-c1x-stretching-point	Nein, die These, die wir daran gehängt haben, ist genau die der Autoren.
+W	question-c1x-taking-liberties	Haben sie sich Freiheiten mit dem Auftrag genommen?
+W	positive-c1x-taking-liberties	Ja, sie haben eine bequemere Frage beantwortet als die gestellte.
+W	negative-c1x-taking-liberties	Nein, sie sind in der Frage geblieben und haben nur die Reihenfolge der Punkte geändert.
+W	question-c1x-hogging-floor	Beanspruche ich in diesem Slot das Wort zu lange?
+W	positive-c1x-hogging-floor	Ja, ich habe meine Zeit verbraucht und sollte sie zurückgeben.
+W	negative-c1x-hogging-floor	Nein, man hat mich gebeten, diesen Slot zu nehmen, und ich bin noch beim Punkt.
+W	question-c1x-grandstanding	Ist dieser Beitrag bloß Show für die Galerie?
+W	positive-c1x-grandstanding	Ja, er zielt auf die Galerie und trifft den Punkt nie.
+W	negative-c1x-grandstanding	Nein, er trifft den Punkt und nennt einen Kostenpunkt, den das Papier übersprungen hat.
+W	question-c1x-point-scoring	Sind wir ins Punktejagen abgerutscht?
+W	positive-c1x-point-scoring	Ja, die letzten drei Beiträge zielten auf Personen, nicht auf den Entwurf.
+W	negative-c1x-point-scoring	Nein, die letzten Beiträge haben noch Text geschnitten und Personen in Ruhe gelassen.
+W	question-c1x-dirty-linen	Waschen wir schmutzige Wäsche, die woanders hingehört?
+W	positive-c1x-dirty-linen	Ja, das ist eine interne Personalsache und sollte den Raum verlassen.
+W	negative-c1x-dirty-linen	Nein, das Verhalten ist schon öffentlich, und wir müssen es hier behandeln.
+W	question-c1x-making-meal	Machen wir aus einem Rundungsunterschied ein Drama?
+W	positive-c1x-making-meal	Ja, der Unterschied liegt in der Toleranz, die die Methode schon erklärt hat.
+W	negative-c1x-making-meal	Nein, der Unterschied liegt außerhalb dieser Toleranz und braucht eine Anmerkung.
+W	question-c1x-labouring-point	Walde ich einen Punkt tot, der schon angekommen ist?
+W	positive-c1x-labouring-point	Ja, der Raum hat ihn verstanden, und ihn zu wiederholen irritiert nur.
+W	negative-c1x-labouring-point	Nein, die Hälfte des Raums hat noch die alte Formulierung vor sich.
+W	question-c1x-gilding-lily	Wäre ein weiteres Beispiel nur Vergoldung der Lilie?
+W	positive-c1x-gilding-lily	Ja, der Fall ist schon gemacht, und ein weiteres Beispiel ist Schmuck.
+W	negative-c1x-gilding-lily	Nein, wir brauchen ein weiteres, weil das erste bestritten wird.
+W	question-c1x-painted-corner	Haben wir uns mit diesem Versprechen in die Ecke gemalt?
+W	positive-c1x-painted-corner	Ja, das Versprechen lässt keinen ehrlichen Weg zurück zum Plan B, den wir noch brauchen.
+W	negative-c1x-painted-corner	Nein, das Versprechen ist eng genug, und der Plan B liegt noch darin.
+W	question-c1x-burning-bridges	Würde diese Antwort unsere Brücken verbrennen?
+W	positive-c1x-burning-bridges	Ja, der Ton würde eine Tür schließen, durch die wir noch gehen müssen.
+W	negative-c1x-burning-bridges	Nein, eine klare Antwort kann trotzdem einen Weg zurück an den Tisch lassen.
+W	question-c1x-cross-bridge	Lassen wir das, bis es wirklich eintritt?
+W	positive-c1x-cross-bridge	Ja, es jetzt zu planen ist Spekulation im Gewand eines Plans.
+W	negative-c1x-cross-bridge	Nein, wenn wir warten, bis es eintritt, haben wir keinen vereinbarten Weg.
+W	question-c1x-feelers-out	Haben sie bei der anderen Seite Fühler ausgestreckt?
+W	positive-c1x-feelers-out	Ja, ein informeller Kanal hat die Temperatur schon getestet.
+W	negative-c1x-feelers-out	Nein, sie sind absichtlich im formellen Kanal geblieben.
+W	question-c1x-taking-pulse	Haben wir den Puls der weiteren Gruppe genommen?
+W	positive-c1x-taking-pulse	Ja, die Sondierung war breit genug, um zu zeigen, wo der Widerstand sitzt.
+W	negative-c1x-taking-pulse	Nein, wir haben nur von denen gehört, die schon zustimmen.
+W	question-c1x-drawing-veil	Sollen wir über den früheren Entwurf den Schleier ziehen?
+W	positive-c1x-drawing-veil	Ja, ihn wieder zu verteilen würde einen schon beendeten Streit öffnen.
+W	negative-c1x-drawing-veil	Nein, der frühere Entwurf erklärt noch eine Wahl, die der neue still lässt.
+W	question-c1x-drawing-blank	Sind wir bei der fehlenden Quelle auf eine Wand gestoßen?
+W	positive-c1x-drawing-blank	Ja, die Spur endet, und das sollten wir sagen, statt aus dem Gedächtnis zu paraphrasieren.
+W	negative-c1x-drawing-blank	Nein, ein weiterer Katalog hat noch eine lebende Spur.
+W	question-c1x-coming-short	Sind wir beim dritten Teil des Auftrags zu kurz gekommen?
+W	positive-c1x-coming-short	Ja, Teil eins und zwei sind fertig, und Teil drei wird nur angedeutet.
+W	negative-c1x-coming-short	Nein, Teil drei ist beantwortet, nur knapper, als sie erwartet haben.
+W	question-c1x-wide-mark	War diese Schätzung weit daneben?
+W	positive-c1x-wide-mark	Ja, das Ergebnis hat die veröffentlichte Spanne klar verfehlt.
+W	negative-c1x-wide-mark	Nein, das Ergebnis liegt in der Spanne, sobald die späte Rechnung gebucht ist.
+W	question-c1x-beside-point	Geht dieser Einwand am Punkt vorbei, den wir entscheiden sollen?
+W	positive-c1x-beside-point	Ja, er ist interessant, ändert aber die Entscheidung nicht, die wir treffen müssen.
+W	negative-c1x-beside-point	Nein, er trifft eine Prämisse, auf der die Entscheidung noch ruht.
+W	question-c1x-neither-here	Ist der biografische Einschub hier weder Fisch noch Fleisch?
+W	positive-c1x-neither-here	Ja, er färbt den Raum und leistet für den Befund nichts.
+W	negative-c1x-neither-here	Nein, das ist die einzige Erklärung, die wir für das fehlende Jahr haben.
+W	question-c1x-curates-egg	Ist der Bericht nur stellenweise gut, und nur stellenweise?
+W	positive-c1x-curates-egg	Ja, zwei Kapitel halten, und der Rest sollte zurückgeschickt werden.
+W	negative-c1x-curates-egg	Nein, die schwächeren Kapitel tragen noch Befunde, die wir nicht fallen lassen können.
+W	question-c1x-faint-praise	Verdammmen sie das Papier mit schwachem Lob?
+W	positive-c1x-faint-praise	Ja, die Komplimente sind eine Art, Nein zu dem zu sagen, was wir gebeten haben.
+W	negative-c1x-faint-praise	Nein, die Komplimente sind echt, und der Vorbehalt ist klein.
+W	question-c1x-withering-vine	Welkt der Vorschlag am Rebstock?
+W	positive-c1x-withering-vine	Ja, seit dem letzten Umbau hat er keinen Eigentümer, und nichts bewegt sich.
+W	negative-c1x-withering-vine	Nein, ein neuer Eigentümer hat ihn aufgenommen, und ein Termin steht im Kalender.
+W	question-c1x-dead-water	Ist die Initiative tot im Wasser?
+W	positive-c1x-dead-water	Ja, wer sie getragen hat, ist ausgestiegen, und niemand ist nachgerückt.
+W	negative-c1x-dead-water	Nein, sie ist pausiert, nicht aufgegeben, und es gibt ein Startdatum.
+W	question-c1x-going-circles	Drehen wir uns bei der Formulierung im Kreis?
+W	positive-c1x-going-circles	Ja, die letzte Stunde hat denselben Streit ohne neuen Test wiederholt.
+W	negative-c1x-going-circles	Nein, jeder Durchgang hat eine Phrase gestrichen, und was bleibt, ist kleiner.
+W	question-c1x-chasing-tail	Jagen wir uns mit der fehlenden Zahl den Schwanz?
+W	positive-c1x-chasing-tail	Ja, die Zahl lässt sich aus dem, was wir haben, nicht rekonstruieren.
+W	negative-c1x-chasing-tail	Nein, ein weiteres Buch hat noch die Zeile, die sie schließen würde.
+W	question-c1x-reinvent-wheel	Erfinden wir ein Rad neu, das schon im Handbuch steht?
+W	positive-c1x-reinvent-wheel	Ja, das Handbuch regelt schon das Verfahren, das wir neu zeichnen.
+W	negative-c1x-reinvent-wheel	Nein, das Handbuch schweigt zu dieser Variante, und eine Notiz ist fällig.
+W	question-c1x-boiling-ocean	Versuchen wir in diesem ersten Durchgang den Ozean zu kochen?
+W	positive-c1x-boiling-ocean	Ja, der erste Durchgang will auch alle Nachbarakten mitentscheiden.
+W	negative-c1x-boiling-ocean	Nein, der erste Durchgang ist eingegrenzt, und die Nachbarn sind nur markiert.
+W	question-c1x-gold-plating	Ist das Vergoldung einer Anforderung, die schon erfüllt war?
+W	positive-c1x-gold-plating	Ja, der Extra-Schnörkel ist nicht verlangt und verzögert die Freigabe.
+W	negative-c1x-gold-plating	Nein, der Extra-Schritt macht die Anforderung überhaupt prüfbar.
+W	question-c1x-wrong-horse	Haben wir bei der Plattformwahl auf das falsche Pferd gesetzt?
+W	positive-c1x-wrong-horse	Ja, die Grenzen, die zählten, waren nicht die, die wir bewertet haben.
+W	negative-c1x-wrong-horse	Nein, die bewerteten halten noch, und der späte Schmerz kommt vom Bau, nicht von der Wahl.
+W	question-c1x-hedging-bets	Absichern sie sich in diesem Absatz nach allen Seiten?
+W	positive-c1x-hedging-bets	Ja, er ist so geschrieben, dass später jedes Ergebnis als beabsichtigt gelten kann.
+W	negative-c1x-hedging-bets	Nein, er nennt ein einziges Zielergebnis und einen einzigen Plan B.
+W	question-c1x-hare-hounds	Laufen sie mit einem Lager und jagen mit dem anderen?
+W	positive-c1x-hare-hounds	Ja, was sie privat und öffentlich sagen, kann nicht beides wahr sein.
+W	negative-c1x-hare-hounds	Nein, die private Linie ist eine Probe der öffentlichen, keine zweite Politik.
+W	question-c1x-options-open	Sollen wir bis zur nächsten Sitzung jede Option offen halten?
+W	positive-c1x-options-open	Ja, eine jetzt zu schließen wäre eine Vorliebe im Gewand einer Zwangsbedingung.
+W	negative-c1x-options-open	Nein, zwei Optionen sind schon tot und sollten vom Papier.
+W	question-c1x-gloves-off	Sind in diesem Austausch die Handschuhe ausgezogen?
+W	positive-c1x-gloves-off	Ja, die letzte Notiz hat die Höflichkeit fallen lassen und auf den Ruf gezielt.
+W	negative-c1x-gloves-off	Nein, die letzte Notiz ist scharf, bleibt aber bei der Akte, nicht bei der Person.
+W	question-c1x-below-belt	War diese Bemerkung unter der Gürtellinie?
+W	positive-c1x-below-belt	Ja, sie hat eine private Tatsache genutzt, die im Argument nichts zu suchen hatte.
+W	negative-c1x-below-belt	Nein, sie hat eine schon protokollierte Tatsache genutzt und an den Punkt gebunden.
+W	question-c1x-playing-man	Gehen wir auf die Person statt auf den Entwurf?
+W	positive-c1x-playing-man	Ja, der letzte Einwand galt dem Tonfall, nicht einem Satz.
+W	negative-c1x-playing-man	Nein, der Einwand nennt einen Satz und schlägt einen Ersatz vor.
+W	question-c1x-going-jugular	Gehen sie wegen eines Nebenfehlers an die Kehle?
+W	positive-c1x-going-jugular	Ja, sie behandeln einen Nebenfehler, als hätte er den ganzen Fall versenkt.
+W	negative-c1x-going-jugular	Nein, sie behandeln ihn als nebensächlich und bitten nur um eine Fußnote.
+W	question-c1x-playing-safe	Spielen wir das so sicher, dass es nichts mehr nützt?
+W	positive-c1x-playing-safe	Ja, die Vorbehalte haben den Rat aufgefressen und ein Achselzucken übrig gelassen.
+W	negative-c1x-playing-safe	Nein, die Vorbehalte markieren echte Unsicherheit, und der Rat zeigt noch wohin.
+W	question-c1x-playing-ear	Spielen wir die nächste Stunde nach Gehör?
+W	positive-c1x-playing-ear	Ja, ein Skript würde eine Sicherheit vortäuschen, die wir nicht verdient haben.
+W	negative-c1x-playing-ear	Nein, die nächste Stunde hat eine Abfolge, und Improvisation würde einen Zeugen verlieren.
+W	question-c1x-shooting-hip	Schießen sie bei den Zahlen aus der Hüfte?
+W	positive-c1x-shooting-hip	Ja, die Zahlen wurden im Raum gerundet und haben kein Arbeitsblatt dahinter.
+W	negative-c1x-shooting-hip	Nein, die Zahlen stammen aus einem Arbeitsblatt, das danach verteilt werden kann.
+W	question-c1x-caught-hop	Hat uns diese Frage auf dem falschen Fuß erwischt?
+W	positive-c1x-caught-hop	Ja, wir hatten die offensichtliche Nachfrage nicht vorbereitet, und das sah man.
+W	negative-c1x-caught-hop	Nein, die Nachfrage lag im Paket; wir brauchten nur eine Sekunde, sie zu finden.
+W	question-c1x-asleep-wheel	Sind wir beim Termin am Steuer eingeschlafen?
+W	positive-c1x-asleep-wheel	Ja, das Datum stand im Kalender, und niemand hatte die letzte Strecke.
+W	negative-c1x-asleep-wheel	Nein, jemand hatte die letzte Strecke, und der Rutsch kam von einem Blocker, den wir schon gemeldet hatten.
+W	question-c1x-eye-off-ball	Haben wir den Blick von der ursprünglichen Frage genommen?
+W	positive-c1x-eye-off-ball	Ja, wir sind in einen Nebenstreit abgerutscht, der nie auf dem Tisch lag.
+W	negative-c1x-eye-off-ball	Nein, dieser Nebenstreit ist genau das, worum die ursprüngliche Frage sich dreht.
+W	question-c1x-dropped-ball	Haben wir beim Versenden den Ball fallen lassen?
+W	positive-c1x-dropped-ball	Ja, das Papier ging ohne den Anhang raus, der dem Raum versprochen war.
+W	negative-c1x-dropped-ball	Nein, der Anhang ging in einer zweiten Mail, die der Raum inzwischen lesen konnte.
+W	question-c1x-letting-slide	Haben wir diese Unstimmigkeit zu lange durchgehen lassen?
+W	positive-c1x-letting-slide	Ja, drei Entwürfe haben sie getragen, und Schweigen ist jetzt eine Wahl.
+W	negative-c1x-letting-slide	Nein, sie wurde sofort markiert, und die Korrektur steckt in der Version, die heute Abend läuft.
+W	question-c1x-burying-hatchet	Sollen wir wegen der früheren Kränkung das Kriegsbeil begraben?
+W	positive-c1x-burying-hatchet	Ja, sie wieder zu öffnen kostet mehr, als die Kränkung noch wert ist.
+W	negative-c1x-burying-hatchet	Nein, die Kränkung formt noch, wie die Arbeit verteilt wird, und muss benannt werden.
+W	question-c1x-changing-horses	Wechseln wir mitten im Strom die Pferde bei der Methode?
+W	positive-c1x-changing-horses	Ja, die Methode jetzt zu tauschen würde die Uhr ohne besseres Ziel zurücksetzen.
+W	negative-c1x-changing-horses	Nein, der Wechsel wird von einem Fehler erzwungen, den die erste Methode nicht heilt.
+W	question-c1x-mixed-messages	Senden wir den Leuten oben gemischte Signale?
+W	positive-c1x-mixed-messages	Ja, was wir laut gesagt haben und das schriftliche Paket widersprechen sich noch.
+W	negative-c1x-mixed-messages	Nein, das mündliche Update verdichtet nur das Paket; die Richtung ist dieselbe.
+W	question-c1x-kicking-upstairs	Schieben wir das nur nach oben, um keine Entscheidung zu treffen?
+W	positive-c1x-kicking-upstairs	Ja, wir schicken es hoch ohne eine Frage, die sie wirklich beantworten können.
+W	negative-c1x-kicking-upstairs	Nein, sie müssen diese Ausgabe freigeben, also müssen wir fragen.
+W	question-c1x-parked-it	Haben sie die unbequeme Entscheidung in einem Anhang geparkt?
+W	positive-c1x-parked-it	Ja, sie ist dort versteckt, wo nur die Gründlichen die echte Wahl finden.
+W	negative-c1x-parked-it	Nein, der Anhang ist vorn markiert, und die Wahl ist oben benannt.
+W	question-mind-turning-down	Würde es Ihnen etwas ausmachen, das leiser zu stellen?
+W	positive-mind-turning-down	Überhaupt nicht.
+W	negative-mind-turning-down	Ich würde es lieber so lassen.
+W	question-possibly-leave-bag	Könnte ich meine Tasche vielleicht hier lassen?
+W	positive-possibly-leave-bag	Ja, natürlich.
+W	negative-possibly-leave-bag	Leider nicht.
+W	question-suppose-charger	Sie haben nicht zufällig ein Ladegerät?
+W	positive-suppose-charger	Ja, ich habe eins.
+W	negative-suppose-charger	Nein, tut mir leid.
+W	question-all-right-record	Wäre es in Ordnung, wenn ich das aufnehme?
+W	positive-all-right-record	Ja, bitte.
+W	negative-all-right-record	Ich hätte lieber, Sie täten es nicht.
+W	question-like-me-to-call	Soll ich Ihnen ein Taxi rufen?
+W	positive-like-me-to-call	Ja, bitte.
+W	negative-like-me-to-call	Nein, danke.
+W	question-still-up-for	Sind Sie für heute Abend noch dabei?
+W	positive-still-up-for	Ja, ich bin dabei.
+W	negative-still-up-for	Nein, ich muss passen.
+W	question-made-up-your-mind	Haben Sie sich schon entschieden?
+W	positive-made-up-your-mind	Ja, ich habe mich entschieden.
+W	negative-made-up-your-mind	Nein, ich überlege noch.
+W	question-rather-walk-there	Würden Sie lieber zu Fuß gehen?
+W	positive-rather-walk-there	Ja, ich gehe lieber zu Fuß.
+W	negative-rather-walk-there	Nein, ich nehme lieber die U-Bahn.
+W	question-manage-to-sleep	Haben Sie etwas Schlaf bekommen?
+W	positive-manage-to-sleep	Ja, ich habe ein paar Stunden geschlafen.
+W	negative-manage-to-sleep	Nein, ich habe kaum geschlafen.
+W	question-sorted-the-tickets	Haben Sie die Karten erledigt?
+W	positive-sorted-the-tickets	Ja, die sind fertig.
+W	negative-sorted-the-tickets	Nein, noch nicht.
+W	question-reckon-well-make-it	Glauben Sie, wir schaffen es?
+W	positive-reckon-well-make-it	Ja, ich denke schon.
+W	negative-reckon-well-make-it	Nein, wir kommen zu spät.
+W	question-in-favour-of-this	Sind Sie dafür?
+W	positive-in-favour-of-this	Ja, ich bin dafür.
+W	negative-in-favour-of-this	Nein, ich bin dagegen.
+W	question-would-you-say-so	Würden Sie sagen, das ist fair?
+W	positive-would-you-say-so	Ja, das würde ich sagen.
+W	negative-would-you-say-so	Nein, nicht wirklich.
+W	question-been-meaning-to-call	Wollten Sie eigentlich anrufen?
+W	positive-been-meaning-to-call	Ja, ich nehme mir das immer wieder vor.
+W	negative-been-meaning-to-call	Nein, daran hatte ich nicht gedacht.
+W	question-keep-in-touch-still	Bleiben wir in Kontakt?
+W	positive-keep-in-touch-still	Ja, lassen Sie uns in Kontakt bleiben.
+W	negative-keep-in-touch-still	Besser vorerst nicht.
+W	question-drop-you-home	Kann ich Sie nach Hause bringen?
+W	positive-drop-you-home	Ja, das wäre hilfreich.
+W	negative-drop-you-home	Nein, ich komme allein zurecht.
+W	question-pick-you-up-eight	Soll ich Sie um acht abholen?
+W	positive-pick-you-up-eight	Ja, perfekt.
+W	negative-pick-you-up-eight	Nein, ich komme allein.
+W	question-run-out-of-time	Ist uns die Zeit ausgegangen?
+W	positive-run-out-of-time	Ja, die Zeit ist um.
+W	negative-run-out-of-time	Nein, uns bleibt noch ein bisschen.
+W	question-count-on-you-tomorrow	Kann ich morgen auf Sie zählen?
+W	positive-count-on-you-tomorrow	Ja, ich bin da.
+W	negative-count-on-you-tomorrow	Nein, ich schaffe es nicht.
+W	question-get-round-to-it	Sind Sie dazu gekommen?
+W	positive-get-round-to-it	Ja, ich habe es endlich geschafft.
+W	negative-get-round-to-it	Nein, ich hatte keine Gelegenheit.
+W	question-come-up-with-idea	Ist Ihnen etwas eingefallen?
+W	positive-come-up-with-idea	Ja, ich habe eine Idee.
+W	negative-come-up-with-idea	Nein, noch nichts.
+W	question-work-this-out	Können wir das klären?
+W	positive-work-this-out	Ja, wir können das klären.
+W	negative-work-this-out	Nein, so nicht.
+W	question-let-you-know-soon	Soll ich Bescheid geben?
+W	positive-let-you-know-soon	Ja, bitte tun Sie das.
+W	negative-let-you-know-soon	Nein, machen Sie sich keine Mühe.
+W	question-get-back-to-you-today	Kann ich Ihnen heute antworten?
+W	positive-get-back-to-you-today	Ja, das ist in Ordnung.
+W	negative-get-back-to-you-today	Nein, ich brauche die Antwort jetzt.
+W	question-take-it-from-here	Soll ich ab hier übernehmen?
+W	positive-take-it-from-here	Ja, bitte tun Sie das.
+W	negative-take-it-from-here	Nein, ich mache weiter.
+W	question-leave-it-with-you	Kann ich das bei Ihnen lassen?
+W	positive-leave-it-with-you	Ja, lassen Sie es bei mir.
+W	negative-leave-it-with-you	Nein, ich hätte lieber, Sie behalten es.
+W	question-see-your-point	Sehen Sie, worauf ich hinauswill?
+W	positive-see-your-point	Ja, ich sehe, worauf Sie hinauswollen.
+W	negative-see-your-point	Nein, ich komme nicht mit.
+W	question-with-you-on-this	Sind Sie bei mir in dieser Sache?
+W	positive-with-you-on-this	Ja, ich bin bei Ihnen in dieser Sache.
+W	negative-with-you-on-this	Nein, ich sehe es anders.
+W	question-stick-to-the-plan	Bleiben wir beim Plan?
+W	positive-stick-to-the-plan	Ja, bleiben wir beim Plan.
+W	negative-stick-to-the-plan	Nein, wir sollten ihn ändern.
+W	question-go-along-with-that	Können Sie dem zustimmen?
+W	positive-go-along-with-that	Ja, damit kann ich leben.
+W	negative-go-along-with-that	Nein, das kann ich nicht akzeptieren.
+W	question-put-me-through	Könnten Sie mich mit ihr verbinden?
+W	positive-put-me-through	Ja, ich verbinde Sie.
+W	negative-put-me-through	Nein, sie ist nicht verfügbar.
+W	question-hold-this-for-me	Könnten Sie das kurz für mich halten?
+W	positive-hold-this-for-me	Ja, klar.
+W	negative-hold-this-for-me	Tut mir leid, ich habe die Hände voll.
+W	question-fill-me-in	Können Sie mich auf den Stand bringen?
+W	positive-fill-me-in	Ja, ich erkläre es Ihnen.
+W	negative-fill-me-in	Nein, ich habe die Einzelheiten nicht.
+W	question-catch-my-drift	Kommen Sie mit, worauf ich hinauswill?
+W	positive-catch-my-drift	Ja, ich habe es.
+W	negative-catch-my-drift	Nein, ich komme nicht mit.
+W	question-lost-track-of-time	Haben wir die Zeit aus dem Blick verloren?
+W	positive-lost-track-of-time	Ja, uns ist die Zeit entglitten.
+W	negative-lost-track-of-time	Nein, wir liegen gut.
+W	question-running-late-again	Kommen Sie zu spät?
+W	positive-running-late-again	Ja, ich komme etwas zu spät.
+W	negative-running-late-again	Nein, ich bin pünktlich.
+W	question-get-a-move-on	Sollen wir uns beeilen?
+W	positive-get-a-move-on	Ja, gehen wir.
+W	negative-get-a-move-on	Nein, es eilt nicht.
+W	question-wrap-this-up	Sollen wir das abschließen?
+W	positive-wrap-this-up	Ja, das reicht.
+W	negative-wrap-this-up	Nein, wir sind noch nicht fertig.
+W	question-call-it-a-day	Sollen wir für heute Schluss machen?
+W	positive-call-it-a-day	Ja, ich bin fertig.
+W	negative-call-it-a-day	Nein, noch ein bisschen.
+W	question-sleep-on-it	Wollen Sie eine Nacht darüber schlafen?
+W	positive-sleep-on-it	Ja, entscheiden wir morgen.
+W	negative-sleep-on-it	Nein, ich entscheide lieber jetzt.
+W	question-play-along-with-this	Könnten Sie mitspielen?
+W	positive-play-along-with-this	Ja, ich spiele mit.
+W	negative-play-along-with-this	Nein, ich werde nicht so tun.
+W	question-pass-this-on	Könnten Sie das weitergeben?
+W	positive-pass-this-on	Ja, ich gebe es weiter.
+W	negative-pass-this-on	Nein, lieber nicht.
+W	question-bring-this-up	Sollen wir das ansprechen?
+W	positive-bring-this-up	Ja, das muss gesagt werden.
+W	negative-bring-this-up	Nein, lassen Sie es vorerst.
+W	question-look-into-it	Werden Sie dem nachgehen?
+W	positive-look-into-it	Ja, ich schaue mir das an.
+W	negative-look-into-it	Nein, ich habe keine Zeit.
+W	question-follow-this-up	Sollen wir dem nachgehen?
+W	positive-follow-this-up	Ja, das sollten wir.
+W	negative-follow-this-up	Nein, lassen wir es.
+W	question-take-care-of-it	Können Sie sich darum kümmern?
+W	positive-take-care-of-it	Ja, ich übernehme das.
+W	negative-take-care-of-it	Nein, das kann ich nicht übernehmen.
+W	question-get-rid-of-it	Sollen wir das loswerden?
+W	positive-get-rid-of-it	Ja, weg damit.
+W	negative-get-rid-of-it	Nein, behalten wir es vorerst.
+W	question-do-without-it	Können wir darauf verzichten?
+W	positive-do-without-it	Ja, wir kommen zurecht.
+W	negative-do-without-it	Nein, wir brauchen es.
+W	question-make-do-with-this	Können wir uns damit behelfen?
+W	positive-make-do-with-this	Ja, das reicht.
+W	negative-make-do-with-this	Nein, das reicht nicht.
+W	question-put-up-with-it	Ertragen Sie das?
+W	positive-put-up-with-it	Ja, vorerst.
+W	negative-put-up-with-it	Nein, ich habe genug.
+W	question-looking-forward-to-it	Freuen Sie sich darauf?
+W	positive-looking-forward-to-it	Ja, ich kann es kaum erwarten.
+W	negative-looking-forward-to-it	Nein, ich fürchte mich etwas davor.
+W	question-settle-for-that	Würden Sie sich damit abfinden?
+W	positive-settle-for-that	Ja, damit kann ich leben.
+W	negative-settle-for-that	Nein, ich will mehr.
+W	question-turn-the-offer-down	Lehnen Sie das Angebot ab?
+W	positive-turn-the-offer-down	Ja, ich lehne ab.
+W	negative-turn-the-offer-down	Nein, ich nehme es an.
+W	question-thought-it-over	Haben Sie es sich gut überlegt?
+W	positive-thought-it-over	Ja, ich habe es mir gut überlegt.
+W	negative-thought-it-over	Nein, ich brauche mehr Zeit.
+W	question-squeeze-you-in	Können Sie mich noch einschieben?
+W	positive-squeeze-you-in	Ja, ich kann Sie unterbringen.
+W	negative-squeeze-you-in	Nein, ich bin voll ausgebucht.
+W	question-reschedule-this	Sollen wir den Termin verschieben?
+W	positive-reschedule-this	Ja, verschieben wir ihn.
+W	negative-reschedule-this	Nein, behalten wir ihn.
+W	question-bring-the-meeting-forward	Können wir die Sitzung vorziehen?
+W	positive-bring-the-meeting-forward	Ja, wir können sie vorziehen.
+W	negative-bring-the-meeting-forward	Nein, das geht nicht.
+W	question-fall-through	Ist es geplatzt?
+W	positive-fall-through	Ja, es ist abgesagt.
+W	negative-fall-through	Nein, es steht noch.
+W	question-going-to-plan	Läuft es nach Plan?
+W	positive-going-to-plan	Ja, bisher.
+W	negative-going-to-plan	Nein, wir sind auf ein Hindernis gestoßen.
+W	question-on-track	Sind wir im Plan?
+W	positive-on-track	Ja, wir sind im Plan.
+W	negative-on-track	Nein, wir geraten ins Hintertreffen.
+W	question-behind-schedule	Liegen wir hinter dem Zeitplan?
+W	positive-behind-schedule	Ja, wir liegen hinter dem Zeitplan.
+W	negative-behind-schedule	Nein, wir sind pünktlich.
+W	question-up-to-speed	Sind Sie auf dem Laufenden?
+W	positive-up-to-speed	Ja, ich bin auf dem Stand.
+W	negative-up-to-speed	Nein, ich brauche eine Einweisung.
+W	question-in-the-loop	Sind Sie im Bilde?
+W	positive-in-the-loop	Ja, ich bin in Kopie.
+W	negative-in-the-loop	Nein, niemand hat es mir gesagt.
+W	question-keep-me-posted	Können Sie mich auf dem Laufenden halten?
+W	positive-keep-me-posted	Ja, ich halte Sie auf dem Laufenden.
+W	negative-keep-me-posted	Nein, das kann ich vielleicht nicht.
+W	question-bear-with-me	Können Sie einen Moment warten?
+W	positive-bear-with-me	Ja, nehmen Sie sich Zeit.
+W	negative-bear-with-me	Nein, ich habe nicht viel Zeit.
+W	question-get-to-the-point	Soll ich zur Sache kommen?
+W	positive-get-to-the-point	Ja, bitte.
+W	negative-get-to-the-point	Nein, geben Sie mir zuerst den Hintergrund.
+W	question-miss-the-deadline	Werden wir den Termin verpassen?
+W	positive-miss-the-deadline	Ja, so sieht es aus.
+W	negative-miss-the-deadline	Nein, wir können es noch schaffen.
+W	question-push-deadline-back	Können wir den Termin nach hinten schieben?
+W	positive-push-deadline-back	Ja, wir können ihn verschieben.
+W	negative-push-deadline-back	Nein, er darf nicht verrutschen.
+W	question-take-the-lead	Übernehmen Sie die Führung?
+W	positive-take-the-lead	Ja, ich übernehme die Führung.
+W	negative-take-the-lead	Nein, lieber nicht.
+W	question-step-in-for-me	Können Sie für mich einspringen?
+W	positive-step-in-for-me	Ja, ich kann vertreten.
+W	negative-step-in-for-me	Nein, an dem Tag kann ich nicht.
+W	question-back-me-up	Werden Sie mich unterstützen?
+W	positive-back-me-up	Ja, ich stehe hinter Ihnen.
+W	negative-back-me-up	Nein, das kann ich nicht unterstützen.
+W	question-cover-for-me	Können Sie mich decken?
+W	positive-cover-for-me	Ja, ich decke Sie.
+W	negative-cover-for-me	Nein, ich kann nicht lügen.
+W	question-swap-with-me	Können wir tauschen?
+W	positive-swap-with-me	Ja, das ist in Ordnung.
+W	negative-swap-with-me	Nein, ich brauche meinen Slot.
+W	question-working-from-home	Arbeiten Sie von zu Hause?
+W	positive-working-from-home	Ja, ich arbeite von zu Hause.
+W	negative-working-from-home	Nein, ich bin im Büro.
+W	question-commuting-today	Pendeln Sie heute?
+W	positive-commuting-today	Ja, ich pendle heute.
+W	negative-commuting-today	Nein, ich bleibe hier.
+W	question-fully-booked	Sind Sie voll ausgebucht?
+W	positive-fully-booked	Ja, ich bin voll ausgebucht.
+W	negative-fully-booked	Nein, ich habe noch einen Slot.
+W	question-last-minute-change	War das eine Änderung in letzter Minute?
+W	positive-last-minute-change	Ja, das war es.
+W	negative-last-minute-change	Nein, das war geplant.
+W	question-take-a-rain-check	Kann ich auf einen anderen Termin ausweichen?
+W	positive-take-a-rain-check	Ja, ein anderes Mal.
+W	negative-take-a-rain-check	Nein, jetzt oder nie.
+W	question-grab-a-bite	Sollen wir etwas essen?
+W	positive-grab-a-bite	Ja, ich verhungere.
+W	negative-grab-a-bite	Nein, ich habe gerade gegessen.
+W	question-get-hold-of-her	Haben Sie sie erreicht?
+W	positive-get-hold-of-her	Ja, ich habe mit ihr gesprochen.
+W	negative-get-hold-of-her	Nein, ich konnte sie nicht erreichen.
+W	question-come-round-tonight	Kommen Sie heute Abend vorbei?
+W	positive-come-round-tonight	Ja, ich schaue vorbei.
+W	negative-come-round-tonight	Nein, heute Abend kann ich nicht.
+W	question-keep-you-long	Halte ich Sie auf?
+W	positive-keep-you-long	Ja, ich muss wirklich gehen.
+W	negative-keep-you-long	Nein, ich habe Zeit.
+W	question-look-after-this	Könnten Sie darauf aufpassen?
+W	positive-look-after-this	Ja, ich behalte es im Auge.
+W	negative-look-after-this	Nein, ich kann nicht bleiben.
+W	question-had-a-word	Haben Sie mit ihm gesprochen?
+W	positive-had-a-word	Ja, ich habe mit ihm gesprochen.
+W	negative-had-a-word	Nein, noch nicht.
+W	question-get-the-hang	Haben Sie den Dreh raus?
+W	positive-get-the-hang	Ja, ich komme rein.
+W	negative-get-the-hang	Nein, ich bin noch verloren.
+W	question-made-myself-clear	Habe ich mich klar ausgedrückt?
+W	positive-made-myself-clear	Ja, vollkommen.
+W	negative-made-myself-clear	Nein, könnten Sie das noch einmal sagen?
+W	question-by-any-chance-free	Sind Sie später zufällig frei?
+W	positive-by-any-chance-free	Ja, ich bin später frei.
+W	negative-by-any-chance-free	Nein, ich bin gebunden.
+W	question-b2x-postpone-launch	Wäre es vernünftig, den Start zu verschieben?
+W	positive-b2x-postpone-launch	Ja, eine kurze Verzögerung würde die Qualität der Freigabe schützen.
+W	negative-b2x-postpone-launch	Nein, wir sollten das ursprüngliche Datum halten und stattdessen das Extra streichen.
+W	question-b2x-underestimated-load	Haben wir die Arbeitslast unterschätzt?
+W	positive-b2x-underestimated-load	Ja, die restlichen Aufgaben brauchen länger, als wir zuerst eingeplant haben.
+W	negative-b2x-underestimated-load	Nein, die Schätzung wirkt noch realistisch, wenn wir konzentriert bleiben.
+W	question-b2x-sign-off-today	Können Sie das heute freigeben?
+W	positive-b2x-sign-off-today	Ja, ich habe genug, um es heute Nachmittag zu genehmigen.
+W	negative-b2x-sign-off-today	Nein, ich brauche zuerst eine klarere Kostenaufstellung.
+W	question-b2x-escalate-client	Sollen wir das an den Kunden eskalieren?
+W	positive-b2x-escalate-client	Ja, sie müssen es von uns hören, bevor die Verzögerung offensichtlich wird.
+W	negative-b2x-escalate-client	Nein, wir können es noch auffangen, wenn wir die Reihenfolge umbauen.
+W	question-b2x-figures-checked	Wurden die Zahlen gegen die Quelldatei doppelt geprüft?
+W	positive-b2x-figures-checked	Ja, sie stimmen bis zur letzten Zeile mit der Quelle überein.
+W	negative-b2x-figures-checked	Nein, ich würde sie nicht verteilen, bis jemand sie abgestimmt hat.
+W	question-b2x-copy-manager	Hätten Sie etwas dagegen, wenn ich Ihre Führungskraft in die Antwort setze?
+W	positive-b2x-copy-manager	Ja, ich hätte lieber, das bleibt unter uns, bis wir einen Vorschlag haben.
+W	negative-b2x-copy-manager	Nein, setzen Sie sie ruhig in Kopie, damit die Entscheidung sichtbar ist.
+W	question-b2x-proposal-table	Liegt der Vorschlag noch auf dem Tisch?
+W	positive-b2x-proposal-table	Ja, er bleibt bis Freitag Geschäftsschluss offen.
+W	negative-b2x-proposal-table	Nein, sie haben ihn nach der letzten Kostenrevision zurückgezogen.
+W	question-b2x-enough-margin	Haben wir uns im Zeitplan genug Spielraum gelassen?
+W	positive-b2x-enough-margin	Ja, es bleibt noch ein Puffer von zwei Tagen, falls etwas verrutscht.
+W	negative-b2x-enough-margin	Nein, eine verspätete Lieferung würde die ganze Abfolge verschieben.
+W	question-b2x-approve-week	Könnten Sie die Ausgabe diese Woche genehmigen?
+W	positive-b2x-approve-week	Ja, ich kann unterschreiben, sobald die Finanzen die Position verbucht haben.
+W	negative-b2x-approve-week	Nein, das muss auf die Budgetbesprechung nächster Woche warten.
+W	question-b2x-circulate-minutes	Sollen wir das Protokoll so verteilen, wie es steht?
+W	positive-b2x-circulate-minutes	Ja, es ist genau genug, um es heute Abend zu schicken.
+W	negative-b2x-circulate-minutes	Nein, zwei Aktionsverantwortliche müssen zuerst noch benannt werden.
+W	question-b2x-looked-at-draft	Hatten Sie Gelegenheit, den Entwurf anzusehen?
+W	positive-b2x-looked-at-draft	Ja, ich habe ihn gestern Abend gelesen, und die Struktur hält.
+W	negative-b2x-looked-at-draft	Nein, ich habe ihn noch nicht geöffnet, also warten Sie nicht auf meine Kommentare.
+W	question-b2x-take-minutes	Wären Sie bereit, diesmal das Protokoll zu führen?
+W	positive-b2x-take-minutes	Ja, ich kann es übernehmen, wenn jemand anderes den Vorsitz führt.
+W	negative-b2x-take-minutes	Nein, ich präsentiere, also möchte ich nicht beides machen.
+W	question-b2x-negotiate-deadline	Gibt es Spielraum, den Termin zu verhandeln?
+W	positive-b2x-negotiate-deadline	Ja, sie akzeptieren Freitag, wenn wir heute schriftlich bestätigen.
+W	negative-b2x-negotiate-deadline	Nein, sie waren klar: Donnerstag ist der letzte akzeptable Tag.
+W	question-b2x-extra-cost	Haben wir die Extra-Kosten für den Kurier berücksichtigt?
+W	positive-b2x-extra-cost	Ja, sie stecken schon in der überarbeiteten Summe.
+W	negative-b2x-extra-cost	Nein, diese Position fehlt noch in der Tabelle.
+W	question-b2x-defend-meeting	Sind Sie bereit, das im Lenkungsausschuss zu verteidigen?
+W	positive-b2x-defend-meeting	Ja, ich kann ihnen die Zahlen und den Kompromiss erklären.
+W	negative-b2x-defend-meeting	Nein, ich hätte lieber, Sie präsentieren es, weil die Zahlen Ihnen gehören.
+W	question-b2x-hold-booking	Wäre es nicht sicherer, die Reservierung bis Freitag zu halten?
+W	positive-b2x-hold-booking	Ja, eine Stornierung nach Freitag würde uns die Anzahlung kosten.
+W	negative-b2x-hold-booking	Nein, wir sollten jetzt bestätigen, sonst verlieren wir den Slot.
+W	question-b2x-venue-writing	Haben sie den Ort schriftlich bestätigt?
+W	positive-b2x-venue-writing	Ja, die Bestätigung kam heute Morgen mit den Zeiten.
+W	negative-b2x-venue-writing	Nein, wir haben nur eine mündliche Reservierung, auf die ich mich nicht verlassen würde.

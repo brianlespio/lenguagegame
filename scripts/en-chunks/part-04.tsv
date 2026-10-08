@@ -1,0 +1,800 @@
+W	adjective-hard-hitting	adjectives	hard-hitting	de golpe seco
+W	adjective-hard-won	adjectives	hard-won	ganado con uñas
+W	adjective-hard-earned	adjectives	hard-earned	ganado con sudor
+W	adjective-well-earned	adjectives	well-earned	bien merecido
+W	adjective-well-founded	adjectives	well-founded	fundado
+W	adjective-ill-founded	adjectives	ill-founded	infundado
+W	adjective-well-grounded	adjectives	well-grounded	asentado
+W	adjective-ill-grounded	adjectives	ill-grounded	mal asentado
+W	adjective-well-worn	adjectives	well-worn	trillado
+W	adjective-time-worn	adjectives	time-worn	de tanto uso
+W	adjective-time-honoured	adjectives	time-honoured	consagrado por el uso
+W	adjective-battle-hardened	adjectives	battle-hardened	curtido en lid
+W	adjective-battle-scarred	adjectives	battle-scarred	marcado por la lid
+W	adjective-war-weary	adjectives	war-weary	hastiado de lid
+W	adjective-travel-weary	adjectives	travel-weary	molido de viaje
+W	adjective-world-weary	adjectives	world-weary	hastiado del mundo
+W	adjective-careworn	adjectives	careworn	ajado de cuitas
+W	adjective-woebegone	adjectives	woebegone	compungido
+W	adjective-downbeat	adjectives	downbeat	apagado
+W	adjective-upbeat	adjectives	upbeat	animoso
+W	adjective-offbeat	adjectives	offbeat	desconcertante
+W	adjective-off-key	adjectives	off-key	desafinado
+W	adjective-off-colour	adjectives	off-colour	de mal gusto
+W	adjective-off-limits	adjectives	off-limits	vedado
+W	adjective-off-piste	adjectives	off-piste	fuera de pista
+W	adjective-off-script	adjectives	off-script	fuera de guion
+W	adjective-off-message	adjectives	off-message	fuera de consigna
+W	adjective-on-message	adjectives	on-message	fiel a la consigna
+W	adjective-on-brief	adjectives	on-brief	ajustado al encargo
+W	adjective-off-brief	adjectives	off-brief	fuera del encargo
+W	adjective-on-side	adjectives	on-side	alineado
+W	adjective-off-side	adjectives	off-side	desalineado
+W	adjective-onside	adjectives	onside	del lado propio
+W	adjective-offside	adjectives	offside	en fuera de juego
+W	adjective-in-house	adjectives	in-house	interno
+W	adjective-out-of-house	adjectives	out-of-house	externo
+W	adjective-in-built	adjectives	in-built	incorporado
+W	adjective-built-in	adjectives	built-in	integrado
+W	adjective-bolt-on	adjectives	bolt-on	añadido
+W	adjective-add-on	adjectives	add-on	accesorio
+W	adjective-stand-alone	adjectives	stand-alone	autónomo
+W	adjective-self-standing	adjectives	self-standing	con entidad propia
+W	adjective-self-contained	adjectives	self-contained	cerrado en sí
+W	adjective-self-serving	adjectives	self-serving	interesado
+W	adjective-self-dealing	adjectives	self-dealing	de trato consigo mismo
+W	adjective-self-regarding	adjectives	self-regarding	ombliguista
+W	adjective-other-regarding	adjectives	other-regarding	ajeno al propio provecho
+W	adjective-public-spirited	adjectives	public-spirited	de espíritu cívico
+W	adjective-civic-minded	adjectives	civic-minded	de talante cívico
+W	adjective-party-political	adjectives	party-political	de partido
+W	adjective-cross-party	adjectives	cross-party	transversal
+W	adjective-all-party	adjectives	all-party	de todos los grupos
+W	adjective-non-partisan	adjectives	non-partisan	sin color
+W	adjective-bipartisan	adjectives	bipartisan	de ambos lados
+W	adjective-unilateral	adjectives	unilateral	de una sola parte
+W	adjective-bilateral	adjectives	bilateral	de dos partes
+W	adjective-multilateral	adjectives	multilateral	de varias partes
+W	adjective-plurilateral	adjectives	plurilateral	de varias plazas
+W	adjective-sector-wide	adjectives	sector-wide	de todo el ramo
+W	adjective-industry-wide	adjectives	industry-wide	de todo el sector
+W	adjective-firm-wide	adjectives	firm-wide	de toda la firma
+W	adjective-group-wide	adjectives	group-wide	de todo el grupo
+W	adjective-service-wide	adjectives	service-wide	de todo el servicio
+W	adjective-economy-wide	adjectives	economy-wide	de toda la economía
+W	adjective-system-wide	adjectives	system-wide	de todo el sistema
+W	adjective-market-wide	adjectives	market-wide	de todo el mercado
+W	adjective-cabinet-wide	adjectives	cabinet-wide	de todo el gabinete
+W	adjective-campus-wide	adjectives	campus-wide	de todo el recinto
+W	adjective-force-wide	adjectives	force-wide	de toda la fuerza
+W	adjective-fleet-wide	adjectives	fleet-wide	de toda la flota
+W	adjective-network-wide	adjectives	network-wide	de toda la red
+W	adjective-board-level	adjectives	board-level	de consejo
+W	adjective-c-suite	adjectives	C-suite	de alta dirección
+W	adjective-front-line	adjectives	front-line	de primera línea
+W	adjective-back-office	adjectives	back-office	de retaguardia
+W	adjective-middle-office	adjectives	middle-office	de control interno
+W	adjective-front-office	adjectives	front-office	de cara al cliente
+W	adjective-client-facing	adjectives	client-facing	de trato con el cliente
+W	adjective-customer-facing	adjectives	customer-facing	de ventanilla
+W	adjective-outward-facing	adjectives	outward-facing	de cara afuera
+W	adjective-inward-facing	adjectives	inward-facing	de cara adentro
+W	adjective-backward-looking	adjectives	backward-looking	vuelto al pasado
+W	adjective-forward-looking	adjectives	forward-looking	vuelto al porvenir
+W	adjective-inward-looking	adjectives	inward-looking	ensimismado
+W	adjective-outward-looking	adjectives	outward-looking	abierto al exterior
+W	adjective-short-sighted	adjectives	short-sighted	corto de miras
+W	adjective-far-sighted	adjectives	far-sighted	de larga vista
+W	adjective-clear-sighted	adjectives	clear-sighted	de vista clara
+W	adjective-dim-sighted	adjectives	dim-sighted	de vista corta
+W	adjective-near-sighted	adjectives	near-sighted	miope de plazo
+W	adjective-long-sighted	adjectives	long-sighted	previsor
+W	adjective-clear-eyed	adjectives	clear-eyed	sin vendas
+W	adjective-starry-eyed	adjectives	starry-eyed	iluso
+W	adjective-wide-eyed	adjectives	wide-eyed	pasmado
+W	adjective-bleary-eyed	adjectives	bleary-eyed	ojeroso
+W	adjective-hollow-eyed	adjectives	hollow-eyed	de ojos hundidos
+W	adjective-tight-lipped	adjectives	tight-lipped	de labios sellados
+W	adjective-loose-lipped	adjectives	loose-lipped	de lengua suelta
+W	adjective-thin-lipped	adjectives	thin-lipped	de labio prieto
+W	adjective-thin-skinned	adjectives	thin-skinned	de cutis fino
+W	adjective-thick-skinned	adjectives	thick-skinned	de cutis grueso
+W	adjective-thick-headed	adjectives	thick-headed	duro de mollera
+W	adjective-hot-headed	adjectives	hot-headed	de cabeza caliente
+W	adjective-empty-headed	adjectives	empty-headed	hueco de mollera
+W	adjective-wrong-headed	adjectives	wrong-headed	descaminado
+W	adjective-pig-headed	adjectives	pig-headed	testarudo
+W	adjective-bull-headed	adjectives	bull-headed	de testa de toro
+W	adjective-hard-headed	adjectives	hard-headed	de cabeza dura
+W	adjective-soft-headed	adjectives	soft-headed	blandengue
+W	adjective-light-headed	adjectives	light-headed	aturdido
+W	adjective-clear-headed	adjectives	clear-headed	despejado
+W	adjective-muddle-headed	adjectives	muddle-headed	revuelto de ideas
+W	adjective-woolly-headed	adjectives	woolly-headed	de mollera lanuda
+W	adjective-woolly	adjectives	woolly	vago de contornos
+W	adjective-fuzzy	adjectives	fuzzy	borroso
+W	adjective-blurry	adjectives	blurry	desdibujado
+W	adjective-opaque	adjectives	opaque	opaco de sentido
+W	adjective-cloudy	adjectives	cloudy	nublado de sentido
+W	adjective-foggy	adjectives	foggy	brumoso
+W	adjective-hazy	adjectives	hazy	neblinoso
+W	adjective-misty	adjectives	misty	velado
+W	adjective-smoky	adjectives	smoky	ahumado
+W	adjective-sooty	adjectives	sooty	tiznado
+W	adjective-grimy	adjectives	grimy	mugriento
+W	adjective-dingy	adjectives	dingy	sórdido
+W	adjective-seamy	adjectives	seamy	sórdido de envés
+W	adjective-squalid	adjectives	squalid	sórdido
+W	adjective-mean	adjectives	mean	mezquino
+W	adjective-niggardly	adjectives	niggardly	cicatero
+W	adjective-cheeseparing	adjectives	cheeseparing	de tacañería
+W	adjective-penny-pinching	adjectives	penny-pinching	de céntimo
+W	adjective-close-fisted	adjectives	close-fisted	de puño cerrado
+W	adjective-open-handed	adjectives	open-handed	de mano larga
+W	adjective-tight-fisted	adjectives	tight-fisted	de puño prieto
+W	adjective-free-handed	adjectives	free-handed	de mano suelta
+W	adjective-light-handed	adjectives	light-handed	de mano ligera
+W	adjective-sure-footed	adjectives	sure-footed	de pie seguro
+W	adjective-flat-footed	adjectives	flat-footed	de pie plano
+W	adjective-light-footed	adjectives	light-footed	de pie ligero
+W	adjective-lead-footed	adjectives	lead-footed	de pie de plomo
+W	adjective-fleet-footed	adjectives	fleet-footed	de pie veloz
+W	adjective-slow-footed	adjectives	slow-footed	de pie tardo
+W	adjective-cold-eyed	adjectives	cold-eyed	de ojo frío
+W	adjective-hard-eyed	adjectives	hard-eyed	de ojo duro
+W	adjective-beady-eyed	adjectives	beady-eyed	de ojo avizor
+W	adjective-sharp-eyed	adjectives	sharp-eyed	de ojo fino
+W	adjective-keen-eyed	adjectives	keen-eyed	de ojo agudo
+W	adjective-eagle-eyed	adjectives	eagle-eyed	de ojo de lince
+W	adjective-lynx-eyed	adjectives	lynx-eyed	de vista de lince
+W	adjective-hawk-eyed	adjectives	hawk-eyed	de ojo de azor
+W	adjective-mole-eyed	adjectives	mole-eyed	de ojo de topo
+W	adjective-owlish	adjectives	owlish	de aire de búho
+W	adjective-foxy	adjectives	foxy	zorruno
+W	adjective-wolfish	adjectives	wolfish	lobuno
+W	adjective-sheepish	adjectives	sheepish	avergonzado
+W	adjective-mulish	adjectives	mulish	de mula
+W	adjective-asinine	adjectives	asinine	de asno
+W	adjective-bovine	adjectives	bovine	de buey
+W	adjective-feline	adjectives	feline	de trato gatuno
+W	adjective-vulpine	adjectives	vulpine	zorruno
+W	adjective-leonine	adjectives	leonine	de aire de león
+W	adjective-bearish	adjectives	bearish	bajista
+W	adjective-bullish	adjectives	bullish	alcista
+W	adjective-skittish	adjectives	skittish	arisco de mercado
+W	adjective-choppy	adjectives	choppy	picado
+W	adjective-choppy-market	adjectives	choppy-market	de mercado picado
+W	adjective-range-bound	adjectives	range-bound	acotado en banda
+W	adjective-overbought	adjectives	overbought	sobrecomprado
+W	adjective-oversold	adjectives	oversold	sobrevendido
+W	adjective-overheated	adjectives	overheated	recalentado
+W	adjective-overstretched	adjectives	overstretched	estirado de más
+W	adjective-overlevered	adjectives	overlevered	sobreapalancado
+W	adjective-underlevered	adjectives	underlevered	subapalancado
+W	adjective-undercapitalised	adjectives	undercapitalised	subcapitalizado
+W	adjective-overcapitalised	adjectives	overcapitalised	sobrecapitalizado
+W	adjective-cash-rich	adjectives	cash-rich	holgado de caja
+W	adjective-cash-poor	adjectives	cash-poor	corto de caja
+W	adjective-cash-strapped	adjectives	cash-strapped	ahogado de caja
+W	adjective-credit-starved	adjectives	credit-starved	privado de crédito
+W	adjective-creditworthy	adjectives	creditworthy	de solvencia acreditada
+W	adjective-uncreditworthy	adjectives	uncreditworthy	de solvencia dudosa
+W	adjective-investment-grade	adjectives	investment-grade	de grado de inversión
+W	adjective-junk-rated	adjectives	junk-rated	de bono basura
+W	adjective-fallen-angel	adjectives	fallen-angel	ángel caído
+W	adjective-distressed	adjectives	distressed	en apuros
+W	adjective-non-performing	adjectives	non-performing	moroso
+W	adjective-performing	adjectives	performing	al corriente
+W	adjective-sub-prime	adjectives	sub-prime	de alto riesgo
+W	adjective-prime	adjectives	prime	de primer riesgo
+W	adjective-unsecured	adjectives	unsecured	sin garantía
+W	adjective-secured	adjectives	secured	con garantía
+W	adjective-senior	adjectives	senior	preferente
+W	adjective-junior	adjectives	junior	subordinado
+W	adjective-subordinated	adjectives	subordinated	subordinado
+W	adjective-pari-passu	adjectives	pari-passu	a la par
+W	adjective-unsecured-creditor	adjectives	unsecured-creditor	qui<fim-middle>rografario
+W	adjective-preferential	adjectives	preferential	privilegiado
+W	adjective-contingent	adjectives	contingent	eventual
+W	adjective-crystallised	adjectives	crystallised	cristalizado
+W	adjective-unquantified	adjectives	unquantified	sin cuantificar
+W	adjective-unbudgeted	adjectives	unbudgeted	fuera de presupuesto
+W	adjective-off-balance-sheet	adjectives	off-balance-sheet	fuera de balance
+W	adjective-on-balance-sheet	adjectives	on-balance-sheet	en balance
+W	adjective-mark-to-market	adjectives	mark-to-market	a valor de mercado
+W	adjective-mark-to-model	adjectives	mark-to-model	a valor de modelo
+W	adjective-held-to-maturity	adjectives	held-to-maturity	a vencimiento
+W	adjective-available-for-sale	adjectives	available-for-sale	disponible para la venta
+W	adjective-going-concern	adjectives	going-concern	en funcionamiento
+W	adjective-gone-concern	adjectives	gone-concern	en liquidación
+W	adjective-solvent	adjectives	solvent	solvente
+W	adjective-insolvent	adjectives	insolvent	quebrado
+W	adjective-cash-flow-positive	adjectives	cash-flow-positive	con caja positiva
+W	adjective-cash-flow-negative	adjectives	cash-flow-negative	con caja negativa
+W	adjective-loss-making	adjectives	loss-making	deficitario
+W	adjective-loss-making-unit	adjectives	loss-making-unit	unidad deficitaria
+W	adjective-profit-making	adjectives	profit-making	con beneficios
+W	adjective-break-even	adjectives	break-even	en umbral de rentabilidad
+W	adjective-above-budget	adjectives	above-budget	por encima de presupuesto
+W	adjective-below-budget	adjectives	below-budget	por debajo de presupuesto
+W	adjective-on-budget	adjectives	on-budget	ajustado a presupuesto
+W	adjective-over-quota	adjectives	over-quota	por encima de cupo
+W	adjective-under-quota	adjectives	under-quota	por debajo de cupo
+W	adjective-quota-bound	adjectives	quota-bound	atado a cupo
+W	adjective-cap-bound	adjectives	cap-bound	atado a tope
+W	adjective-floor-bound	adjectives	floor-bound	atado a suelo
+W	adverb-starkly	adverbs	starkly	de modo tajante
+W	adverb-sharply	adverbs	sharply	en picado
+W	adverb-steeply	adverbs	steeply	en pendiente viva
+W	adverb-flatly	adverbs	flatly	de plano
+W	adverb-roundly	adverbs	roundly	sin ambages
+W	adverb-soundly	adverbs	soundly	de modo cabal
+W	adverb-squarely	adverbs	squarely	de lleno
+W	adverb-narrowly	adverbs	narrowly	por los pelos
+W	adverb-thinly	adverbs	thinly	con escaso fundamento
+W	adverb-thickly	adverbs	thickly	a capas
+W	adverb-densely	adverbs	densely	a densas
+W	adverb-sparsely	adverbs	sparsely	con parquedad
+W	adverb-unevenly	adverbs	unevenly	de forma desigual
+W	adverb-evenly	adverbs	evenly	por igual
+W	adverb-chiefly	adverbs	chiefly	sobre todo
+W	adverb-purportedly	adverbs	purportedly	según se pretende
+W	adverb-allegedly	adverbs	allegedly	según se alega
+W	adverb-reportedly	adverbs	reportedly	según se informa
+W	adverb-reputedly	adverbs	reputedly	según fama
+W	adverb-putatively	adverbs	putatively	según se tiene por
+W	adverb-tacitly	adverbs	tacitly	de modo tácito
+W	adverb-impliedly	adverbs	impliedly	de modo implícito
+W	adverb-inferentially	adverbs	inferentially	por inferencia
+W	adverb-conversely	adverbs	conversely	a la inversa
+W	adverb-inversely	adverbs	inversely	en razón inversa
+W	adverb-proportionately	adverbs	proportionately	en proporción
+W	adverb-disproportionately	adverbs	disproportionately	fuera de proporción
+W	adverb-year-on-year	adverbs	year-on-year	interanual
+W	adverb-month-on-month	adverbs	month-on-month	intermensual
+W	adverb-quarter-on-quarter	adverbs	quarter-on-quarter	intertrimestral
+W	adverb-week-on-week	adverbs	week-on-week	intersemanal
+W	adverb-like-for-like	adverbs	like-for-like	en términos comparables
+W	adverb-across-the-board	adverbs	across the board	de forma lineal
+W	adverb-industry-wide	adverbs	industry-wide	en todo el sector
+W	adverb-firm-wide	adverbs	firm-wide	en toda la firma
+W	adverb-group-wide	adverbs	group-wide	en todo el grupo
+W	adverb-system-wide	adverbs	system-wide	en todo el sistema
+W	adverb-market-wide	adverbs	market-wide	en todo el mercado
+W	adverb-economy-wide	adverbs	economy-wide	en toda la economía
+W	adverb-service-wide	adverbs	service-wide	en todo el servicio
+W	adverb-cabinet-wide	adverbs	cabinet-wide	en todo el gabinete
+W	adverb-force-wide	adverbs	force-wide	en toda la fuerza
+W	adverb-fleet-wide	adverbs	fleet-wide	en toda la flota
+W	adverb-network-wide	adverbs	network-wide	en toda la red
+W	adverb-campus-wide	adverbs	campus-wide	en todo el recinto
+W	adverb-sector-wide	adverbs	sector-wide	en todo el ramo
+W	adverb-on-the-record	adverbs	on the record	para que conste
+W	adverb-off-camera	adverbs	off camera	fuera de cámara
+W	adverb-on-camera	adverbs	on camera	ante la cámara
+W	adverb-off-air	adverbs	off air	fuera de antena
+W	adverb-on-air	adverbs	on air	en antena
+W	adverb-off-the-books	adverbs	off the books	fuera de libros
+W	adverb-on-the-books	adverbs	on the books	en libros
+W	adverb-under-the-table	adverbs	under the table	bajo cuerda
+W	adverb-above-board	adverbs	above board	a la luz
+W	adverb-under-the-counter	adverbs	under the counter	bajo el mostrador
+W	adverb-over-the-counter	adverbs	over the counter	sin receta
+W	adverb-off-the-cuff	adverbs	off the cuff	de improviso
+W	adverb-off-the-peg	adverbs	off the peg	de confección
+W	adverb-off-the-shelf	adverbs	off the shelf	de catálogo
+W	adverb-off-the-grid	adverbs	off the grid	fuera de red
+W	adverb-in-real-time	adverbs	in real time	al hilo
+W	adverb-in-slow-motion	adverbs	in slow motion	a cámara lenta
+W	adverb-in-lockstep	adverbs	in lockstep	al unísono
+W	adverb-out-of-step	adverbs	out of step	desacompasado
+W	adverb-in-sync	adverbs	in sync	en compás
+W	adverb-out-of-sync	adverbs	out of sync	descompasado
+W	adverb-in-phase	adverbs	in phase	en fase
+W	adverb-out-of-phase	adverbs	out of phase	desfasado
+W	adverb-in-chorus	adverbs	in chorus	a coro
+W	adverb-in-unison	adverbs	in unison	al unísono
+W	adverb-with-one-voice	adverbs	with one voice	a una voz
+W	adverb-with-one-accord	adverbs	with one accord	de común acuerdo
+W	adverb-as-one	adverbs	as one	como un solo hombre
+W	adverb-as-a-body	adverbs	as a body	en cuerpo
+W	adverb-as-a-bloc	adverbs	as a bloc	en bloque
+W	adverb-to-a-man	adverbs	to a man	hasta el último
+W	adverb-to-a-woman	adverbs	to a woman	hasta la última
+W	adverb-to-the-last	adverbs	to the last	hasta el último trance
+W	adverb-to-the-letter	adverbs	to the letter	al pie de la letra
+W	adverb-to-the-day	adverbs	to the day	al día
+W	adverb-to-the-hour	adverbs	to the hour	a la hora
+W	adverb-to-the-minute	adverbs	to the minute	al minuto
+W	adverb-to-the-second	adverbs	to the second	al segundo
+W	adverb-on-the-dot	adverbs	on the dot	en punto
+W	adverb-on-the-nail	adverbs	on the nail	al contado
+W	adverb-on-the-button	adverbs	on the button	en el clavo
+W	adverb-on-the-nose	adverbs	on the nose	en el clavo
+W	adverb-bang-on	adverbs	bang on	justo en el clavo
+W	adverb-spot-on	adverbs	spot on	clavado
+W	adverb-dead-on	adverbs	dead on	en el blanco
+W	adverb-dead-right	adverbs	dead right	de lleno en lo cierto
+W	adverb-dead-wrong	adverbs	dead wrong	de lleno en lo falso
+W	adverb-dead-ahead	adverbs	dead ahead	de frente
+W	adverb-dead-set	adverbs	dead set	empeñado
+W	adverb-hands-down	adverbs	hands down	sin despeinarse
+W	adverb-handsomely	adverbs	handsomely	holgadamente
+W	adverb-comfortably	adverbs	comfortably	con holgura
+W	adverb-with-ease	adverbs	with ease	sin despeinarse
+W	adverb-with-flying-colours	adverbs	with flying colours	con nota
+W	adverb-by-a-whisker	adverbs	by a whisker	por un pelo
+W	adverb-by-a-hair	adverbs	by a hair	por un pelo
+W	adverb-by-a-nose	adverbs	by a nose	por una nariz
+W	adverb-by-a-mile	adverbs	by a mile	por un palmo largo
+W	adverb-by-a-long-chalk	adverbs	by a long chalk	de largo
+W	adverb-by-a-long-shot	adverbs	by a long shot	de lejos
+W	adverb-by-a-long-way	adverbs	by a long way	de largo
+W	adverb-by-some-distance	adverbs	by some distance	con distancia
+W	adverb-by-some-margin	adverbs	by some margin	con margen
+W	adverb-by-a-wide-margin	adverbs	by a wide margin	con holgura
+W	adverb-by-a-narrow-margin	adverbs	by a narrow margin	por un margen estrecho
+W	adverb-by-the-slimmest-of-margins	adverbs	by the slimmest of margins	por el margen más flaco
+W	adverb-only-just	adverbs	only just	por los pelos
+W	adverb-just-shy	adverbs	just shy	por debajo
+W	adverb-just-short	adverbs	just short	escaso
+W	adverb-just-under	adverbs	just under	ligeramente por debajo
+W	adverb-just-over	adverbs	just over	ligeramente por encima
+W	adverb-just-north	adverbs	just north	ligeramente al alza
+W	adverb-just-south	adverbs	just south	ligeramente a la baja
+W	adverb-due-north	adverbs	due north	rumbo norte
+W	adverb-due-south	adverbs	due south	rumbo sur
+W	adverb-due-east	adverbs	due east	rumbo este
+W	adverb-due-west	adverbs	due west	rumbo oeste
+W	adverb-front-and-centre	adverbs	front and centre	en primer plano
+W	adverb-centre-stage	adverbs	centre stage	en el centro del tablado
+W	adverb-off-stage	adverbs	off-stage	entre bastidores
+W	adverb-backstage	adverbs	backstage	tras el telón
+W	adverb-off-piste	adverbs	off-piste	fuera de pista
+W	adverb-off-script	adverbs	off-script	fuera de guion
+W	adverb-off-message	adverbs	off-message	fuera de consigna
+W	adverb-on-message	adverbs	on-message	a la consigna
+W	adverb-on-brief	adverbs	on-brief	al encargo
+W	adverb-off-brief	adverbs	off-brief	fuera del encargo
+W	adverb-seasonally	adverbs	seasonally	en términos desestacionalizados
+W	adverb-headline	adverbs	headline	en cifra de portada
+W	adverb-underlying	adverbs	underlying	en tasa subyacente
+W	adverb-core	adverbs	core	en tasa nuclear
+W	adverb-nominally	adverbs	nominally	en términos corrientes
+W	adverb-in-real-terms	adverbs	in real terms	en términos reales
+W	adverb-in-cash-terms	adverbs	in cash terms	en términos de caja
+W	adverb-in-volume-terms	adverbs	in volume terms	en términos de volumen
+W	adverb-in-value-terms	adverbs	in value terms	en términos de valor
+W	adverb-in-unit-terms	adverbs	in unit terms	en unidades
+W	adverb-on-a-like-for-like-basis	adverbs	on a like-for-like basis	en base comparable
+W	adverb-on-an-annualised-basis	adverbs	on an annualised basis	en tasa anualizada
+W	adverb-on-a-seasonally-adjusted-basis	adverbs	on a seasonally adjusted basis	en serie desestacionalizada
+W	adverb-on-a-rolling-basis	adverbs	on a rolling basis	en media móvil
+W	adverb-on-a-trailing-basis	adverbs	on a trailing basis	en los últimos doce meses
+W	adverb-on-a-run-rate-basis	adverbs	on a run-rate basis	en ritmo anualizado
+W	adverb-on-a-pro-rata-basis	adverbs	on a pro-rata basis	a prorrata
+W	adverb-on-a-time-weighted-basis	adverbs	on a time-weighted basis	ponderado por tiempo
+W	adverb-on-a-money-weighted-basis	adverbs	on a money-weighted basis	ponderado por caja
+W	adverb-ex-dividend	adverbs	ex dividend	sin dividendo
+W	adverb-cum-dividend	adverbs	cum dividend	con dividendo
+W	adverb-ex-rights	adverbs	ex rights	sin derechos
+W	adverb-cum-rights	adverbs	cum rights	con derechos
+W	adverb-ex-coupon	adverbs	ex coupon	sin cupón
+W	adverb-cum-coupon	adverbs	cum coupon	con cupón
+W	adverb-at-par	adverbs	at par	a la par
+W	adverb-above-par	adverbs	above par	sobre la par
+W	adverb-below-par	adverbs	below par	bajo la par
+W	adverb-at-a-premium	adverbs	at a premium	con prima
+W	adverb-at-a-discount	adverbs	at a discount	con descuento
+W	adverb-in-the-money	adverbs	in the money	dentro de dinero
+W	adverb-out-of-the-money	adverbs	out of the money	fuera de dinero
+W	adverb-at-the-money	adverbs	at the money	en el dinero
+W	adverb-deep-in-the-money	adverbs	deep in the money	muy dentro de dinero
+W	adverb-deep-out-of-the-money	adverbs	deep out of the money	muy fuera de dinero
+W	adverb-mark-to-market	adverbs	mark to market	a valor de mercado
+W	adverb-mark-to-model	adverbs	mark to model	a valor de modelo
+W	adverb-held-to-maturity	adverbs	held to maturity	a vencimiento
+W	adverb-on-sight	adverbs	on sight	a la vista
+W	adverb-at-sight	adverbs	at sight	a la vista
+W	adverb-after-sight	adverbs	after sight	a plazo vista
+W	adverb-on-demand	adverbs	on demand	a la vista
+W	adverb-at-call	adverbs	at call	a la vista
+W	adverb-on-tick	adverbs	on tick	al instante
+W	adverb-in-arrears	adverbs	in arrears	a mes vencido
+W	adverb-in-advance	adverbs	in advance	por adelantado
+W	adverb-up-front	adverbs	up front	por adelantado
+W	adverb-upfront	adverbs	upfront	a cuenta
+W	adverb-in-specie	adverbs	in specie	en especie
+W	adverb-in-cash	adverbs	in cash	en metálico
+W	adverb-in-settlement	adverbs	in settlement	en finiquito
+W	adverb-without-prejudice	adverbs	without prejudice	sin perjuicio
+W	adverb-with-prejudice	adverbs	with prejudice	con efecto de cosa juzgada
+W	adverb-subject-to-contract	adverbs	subject to contract	salvo contrato
+W	adverb-subject-to-survey	adverbs	subject to survey	salvo inspección
+W	adverb-subject-to-finance	adverbs	subject to finance	salvo financiación
+W	adverb-subject-always	adverbs	subject always	siempre sujeto
+W	adverb-strictly-without-prejudice	adverbs	strictly without prejudice	en estricta reserva de derechos
+W	adverb-for-the-avoidance-of-doubt	adverbs	for the avoidance of doubt	a mayor abundamiento
+W	adverb-for-completeness	adverbs	for completeness	por exhaustividad
+W	adverb-on-deep-background	adverbs	on deep background	sin atribución
+W	adverb-on-background	adverbs	on background	como contexto
+W	adverb-not-for-attribution	adverbs	not for attribution	sin atribución
+W	adverb-not-for-quotation	adverbs	not for quotation	sin cita
+W	adverb-embargoed	adverbs	embargoed	bajo embargo informativo
+W	adverb-unembargoed	adverbs	unembargoed	sin embargo informativo
+W	adverb-under-embargo	adverbs	under embargo	bajo embargo
+W	adverb-off-diary	adverbs	off diary	fuera de agenda
+W	adverb-on-diary	adverbs	on diary	en agenda
+W	adverb-lobby-terms	adverbs	lobby terms	en términos de pasillo
+W	adverb-gallery-terms	adverbs	gallery terms	en términos de tribuna
+W	adverb-in-camera	adverbs	in camera	a puerta cerrada
+W	adverb-in-open-court	adverbs	in open court	en audiencia pública
+W	adverb-in-chambers	adverbs	in chambers	en despacho
+W	adverb-ex-parte	adverbs	ex parte	a instancia de una parte
+W	adverb-inter-partes	adverbs	inter partes	entre partes
+W	adverb-sua-sponte	adverbs	sua sponte	de oficio
+W	adverb-proprio-motu	adverbs	proprio motu	de propio impulso
+W	adverb-nemo-iudex	adverbs	nemo iudex	nadie juez de su causa
+W	adverb-sub-silentio	adverbs	sub silentio	en silencio
+W	adverb-obiter	adverbs	obiter	de pasada
+W	adverb-per-incuriam	adverbs	per incuriam	por descuido
+W	adverb-per-curiam	adverbs	per curiam	por el tribunal
+W	adverb-en-banc	adverbs	en banc	en pleno
+W	adverb-de-novo	adverbs	de novo	de nuevo
+W	adverb-nunc-pro-tunc	adverbs	nunc pro tunc	con efecto retroactivo
+W	adverb-ab-initio	adverbs	ab initio	desde el origen
+W	adverb-ex-tunc	adverbs	ex tunc	desde entonces
+W	adverb-ex-nunc	adverbs	ex nunc	desde ahora
+W	adverb-ad-hoc	adverbs	ad hoc	para el caso
+W	adverb-ad-litem	adverbs	ad litem	para el pleito
+W	adverb-pro-tem	adverbs	pro tem	con carácter interino
+W	adverb-pro-tempore	adverbs	pro tempore	con carácter interino
+W	adverb-sine-die	adverbs	sine die	sin fecha
+W	adverb-sine-qua-non	adverbs	sine qua non	sin lo cual no
+W	adverb-pari-passu	adverbs	pari passu	a la par
+W	adverb-pro-rata	adverbs	pro rata	a prorrata
+W	adverb-pro-tanto	adverbs	pro tanto	en esa medida
+W	adverb-in-limine	adverbs	in limine	de entrada
+W	adverb-in-pectore	adverbs	in pectore	en el pecho
+W	adverb-sotto-voce	adverbs	sotto voce	en voz baja
+W	adverb-viva-voce	adverbs	viva voce	de viva voz
+W	adverb-verbatim	adverbs	verbatim	palabra por palabra
+W	adverb-literatim	adverbs	literatim	letra por letra
+W	adverb-seriatim	adverbs	seriatim	uno por uno
+W	adverb-passim	adverbs	passim	aquí y allá
+W	adverb-ibidem	adverbs	ibidem	en el mismo lugar
+W	adverb-op-cit	adverbs	op cit	en la obra citada
+W	adverb-loc-cit	adverbs	loc cit	en el lugar citado
+W	adverb-cf	adverbs	cf	cfr.
+W	adverb-q-v	adverbs	q.v.	véase
+W	adverb-viz	adverbs	viz.	a saber
+W	adverb-scilicet	adverbs	scilicet	a saber
+W	adverb-id-est	adverbs	id est	esto es
+W	adverb-exempli-gratia	adverbs	exempli gratia	por ejemplo
+W	adverb-et-al	adverbs	et al	y otros
+W	adverb-et-seq	adverbs	et seq	y siguientes
+W	adverb-ff	adverbs	ff	y siguientes
+W	connector-against-this-backdrop	connectors	against this backdrop	contra este telón
+W	connector-viewed-in-this-light	connectors	viewed in this light	visto a esta luz
+W	connector-seen-in-this-light	connectors	seen in this light	mirado a esta luz
+W	connector-from-this-vantage	connectors	from this vantage	desde este otero
+W	connector-from-that-standpoint	connectors	from that standpoint	desde ese sitial
+W	connector-on-that-footing	connectors	on that footing	sobre ese pie
+W	connector-on-this-reading	connectors	on this reading	en esta lectura
+W	connector-on-that-reading	connectors	on that reading	en esa lectura
+W	connector-under-that-interpretation	connectors	under that interpretation	bajo esa lectura
+W	connector-by-that-measure	connectors	by that measure	con ese rasero
+W	connector-by-that-standard	connectors	by that standard	con ese listón
+W	connector-on-those-terms	connectors	on those terms	en esos términos
+W	connector-in-those-terms	connectors	in those terms	en esos términos
+W	connector-put-in-those-terms	connectors	put in those terms	dicho en esos términos
+W	connector-so-framed	connectors	so framed	así planteado
+W	connector-so-understood	connectors	so understood	así entendido
+W	connector-so-construed	connectors	so construed	así interpretado
+W	connector-read-thus	connectors	read thus	leído así
+W	connector-taken-thus	connectors	taken thus	tomado así
+W	connector-taken-together	connectors	taken together	tomado en conjunto
+W	connector-taken-as-a-whole	connectors	taken as a whole	tomado en bloque
+W	connector-taken-in-isolation	connectors	taken in isolation	tomado aisladamente
+W	connector-viewed-as-a-whole	connectors	viewed as a whole	visto en bloque
+W	connector-looked-at-another-way	connectors	looked at another way	mirado de otro modo
+W	connector-seen-from-that-angle	connectors	seen from that angle	visto desde ese ángulo
+W	connector-on-a-related-note	connectors	on a related note	en nota afín
+W	connector-on-a-separate-note	connectors	on a separate note	en nota aparte
+W	connector-on-a-different-note	connectors	on a different note	en otro tenor
+W	connector-turning-now-to	connectors	turning now to	pasando ahora a
+W	connector-leaving-aside	connectors	leaving aside	dejando a un lado
+W	connector-setting-aside	connectors	setting aside	poniendo a un lado
+W	connector-quite-apart-from-that	connectors	quite apart from that	aparte del todo de eso
+W	connector-to-compound-matters	connectors	to compound matters	para colmo
+W	connector-adding-to-this	connectors	adding to this	sumado a esto
+W	connector-added-to-this	connectors	added to this	añadido a esto
+W	connector-allied-to-this	connectors	allied to this	aliado a esto
+W	connector-coupled-with-this	connectors	coupled with this	unido a esto
+W	connector-in-tandem-with-this	connectors	in tandem with this	a la par de esto
+W	connector-in-parallel-with-this	connectors	in parallel with this	en paralelo a esto
+W	connector-alongside-this	connectors	alongside this	junto a esto
+W	connector-this-aside	connectors	this aside	esto aparte
+W	connector-that-aside	connectors	that aside	eso aparte
+W	connector-that-notwithstanding	connectors	that notwithstanding	ello no obstante
+W	connector-these-caveats-aside	connectors	these caveats aside	estas salvedades aparte
+W	connector-subject-to-that	connectors	subject to that	sujeto a ello
+W	connector-without-prejudice-to-that	connectors	without prejudice to that	sin perjuicio de ello
+W	connector-the-upshot-being	connectors	the upshot being	siendo el desenlace
+W	connector-the-implication-being	connectors	the implication being	siendo la implicación
+W	connector-the-inference-being	connectors	the inference being	siendo la inferencia
+W	connector-the-corollary-being	connectors	the corollary being	siendo el corolario
+W	connector-the-result-being	connectors	the result being	siendo el resultado
+W	connector-the-effect-being	connectors	the effect being	siendo el efecto
+W	connector-from-which-it-may-be-inferred	connectors	from which it may be inferred	de lo que cabe inferir
+W	connector-it-may-be-inferred-that	connectors	it may be inferred that	cabe inferir que
+W	connector-it-may-be-concluded-that	connectors	it may be concluded that	cabe concluir que
+W	connector-it-may-be-deduced-that	connectors	it may be deduced that	cabe deducir que
+W	connector-it-may-be-gathered-that	connectors	it may be gathered that	cabe colegir que
+W	connector-one-is-led-to-conclude	connectors	one is led to conclude	uno se ve llevado a concluir
+W	connector-the-record-shows-that	connectors	the record shows that	consta que
+W	connector-the-figures-indicate-that	connectors	the figures indicate that	las cifras indican que
+W	connector-the-data-point-to	connectors	the data point to	los datos apuntan a
+W	connector-on-the-available-evidence	connectors	on the available evidence	a la vista de lo acreditado
+W	connector-on-present-showing	connectors	on present showing	al estado actual
+W	connector-as-matters-stand	connectors	as matters stand	al estado de las cosas
+W	connector-as-things-stand	connectors	as things stand	tal como están las cosas
+W	connector-as-the-law-stands	connectors	as the law stands	tal como está el derecho
+W	connector-as-the-record-stands	connectors	as the record stands	tal como consta
+W	connector-at-this-juncture	connectors	at this juncture	en esta coyuntura
+W	connector-at-that-juncture	connectors	at that juncture	en aquella coyuntura
+W	connector-at-this-stage-of-the-argument	connectors	at this stage of the argument	en este tramo del argumento
+W	connector-for-present-purposes	connectors	for present purposes	a los efectos presentes
+W	connector-for-these-purposes	connectors	for these purposes	a estos efectos
+W	connector-for-the-sake-of-the-argument	connectors	for the sake of the argument	a efectos de argumentar
+W	connector-assuming-for-the-moment	connectors	assuming for the moment	suponiendo por un instante
+W	connector-taking-that-as-given	connectors	taking that as given	dando eso por sentado
+W	connector-taking-that-as-read	connectors	taking that as read	dando eso por sabido
+W	connector-that-being-granted	connectors	that being granted	concedido ello
+W	connector-that-being-assumed	connectors	that being assumed	supuesto ello
+W	connector-on-that-assumption	connectors	on that assumption	bajo ese supuesto
+W	connector-on-those-assumptions	connectors	on those assumptions	bajo esos supuestos
+W	connector-proceeding-on-that-basis	connectors	proceeding on that basis	partiendo de esa base
+W	connector-proceeding-from-that	connectors	proceeding from that	partiendo de ello
+W	connector-from-there-it-follows	connectors	from there it follows	de ahí se sigue
+W	connector-a-further-question-arises	connectors	a further question arises	surge otra cuestión
+W	connector-this-raises-the-question	connectors	this raises the question	esto plantea la cuestión
+W	connector-this-invites-the-question	connectors	this invites the question	esto invita a preguntar
+W	connector-this-prompts-the-question	connectors	this prompts the question	esto mueve a preguntar
+W	connector-this-leaves-open-the-question	connectors	this leaves open the question	esto deja abierta la cuestión
+W	connector-this-remains-to-be-seen	connectors	this remains to be seen	esto queda por ver
+W	connector-whether-that-is-so	connectors	whether that is so	si ello es así
+W	connector-if-that-is-right	connectors	if that is right	si ello es cierto
+W	connector-if-that-analysis-is-sound	connectors	if that analysis is sound	si ese análisis es sólido
+W	connector-if-the-premise-holds	connectors	if the premise holds	si la premisa se sostiene
+W	connector-the-contention-being	connectors	the contention being	siendo la tesis
+W	connector-the-claim-being	connectors	the claim being	siendo la pretensión
+W	connector-the-objection-being	connectors	the objection being	siendo la objeción
+W	connector-the-difficulty-being	connectors	the difficulty being	siendo la dificultad
+W	connector-where-this-leaves-us	connectors	where this leaves us	donde esto nos deja
+W	connector-what-this-means-is	connectors	what this means is	lo que esto significa es
+W	connector-what-that-entails-is	connectors	what that entails is	lo que ello entraña es
+W	connector-what-follows-from-this	connectors	what follows from this	lo que de esto se sigue
+W	connector-in-practical-terms	connectors	in practical terms	en términos prácticos
+W	connector-in-operational-terms	connectors	in operational terms	en términos operativos
+W	connector-in-policy-terms	connectors	in policy terms	en términos de política
+W	connector-in-legal-terms	connectors	in legal terms	en términos jurídicos
+W	connector-in-economic-terms	connectors	in economic terms	en términos económicos
+W	connector-in-political-terms	connectors	in political terms	en términos políticos
+W	connector-in-historical-terms	connectors	in historical terms	en términos históricos
+W	connector-in-statistical-terms	connectors	in statistical terms	en términos estadísticos
+W	connector-in-quantitative-terms	connectors	in quantitative terms	en términos cuantitativos
+W	connector-in-qualitative-terms	connectors	in qualitative terms	en términos cualitativos
+W	connector-in-relative-terms	connectors	in relative terms	en términos relativos
+W	connector-in-absolute-terms	connectors	in absolute terms	en términos absolutos
+W	connector-in-net-terms	connectors	in net terms	en términos netos
+W	connector-in-gross-terms	connectors	in gross terms	en términos brutos
+W	connector-in-real-terms	connectors	in real terms	en términos reales
+W	connector-in-nominal-terms	connectors	in nominal terms	en términos nominales
+W	connector-other-things-equal	connectors	other things equal	siendo lo demás igual
+W	connector-all-else-equal	connectors	all else equal	siendo lo demás igual
+W	connector-holding-other-factors-constant	connectors	holding other factors constant	manteniendo lo demás constante
+W	connector-controlling-for-that	connectors	controlling for that	controlando por ello
+W	connector-allowing-for-that	connectors	allowing for that	haciendo merced a ello
+W	connector-after-allowing-for	connectors	after allowing for	tras hacer merced a
+W	connector-net-of-that	connectors	net of that	neto de ello
+W	connector-gross-of-that	connectors	gross of that	bruto de ello
+W	connector-set-against-that	connectors	set against that	puesto frente a ello
+W	connector-weighed-against-that	connectors	weighed against that	pesado frente a ello
+W	connector-balanced-against-that	connectors	balanced against that	equilibrado frente a ello
+W	connector-offset-against-that	connectors	offset against that	compensado frente a ello
+W	connector-on-the-understanding-that	connectors	on the understanding that	en el entendimiento de que
+W	connector-on-the-footing-that	connectors	on the footing that	sobre el pie de que
+W	connector-on-the-premise-that	connectors	on the premise that	sobre la premisa de que
+W	connector-on-the-supposition-that	connectors	on the supposition that	bajo la suposición de que
+W	connector-on-the-hypothesis-that	connectors	on the hypothesis that	bajo la hipótesis de que
+W	connector-under-the-heading-of	connectors	under the heading of	bajo el epígrafe de
+W	connector-under-the-rubric-of	connectors	under the rubric of	bajo la rúbrica de
+W	connector-under-the-banner-of	connectors	under the banner of	bajo la enseña de
+W	connector-purportedly-because	connectors	purportedly because	según se pretende porque
+W	connector-allegedly-because	connectors	allegedly because	según se alega porque
+W	connector-reportedly-because	connectors	reportedly because	según se informa porque
+W	connector-by-some-accounts	connectors	by some accounts	según algunas versiones
+W	connector-by-other-accounts	connectors	by other accounts	según otras versiones
+W	connector-on-one-telling	connectors	on one telling	según un relato
+W	connector-on-another-telling	connectors	on another telling	según otro relato
+W	connector-on-a-rival-reading	connectors	on a rival reading	en lectura rival
+W	connector-on-a-competing-view	connectors	on a competing view	en tesis rival
+W	connector-on-a-dissenting-view	connectors	on a dissenting view	en voto particular
+W	connector-on-the-prevailing-view	connectors	on the prevailing view	en la tesis dominante
+W	connector-on-the-received-view	connectors	on the received view	en la tesis recibida
+W	connector-on-the-orthodox-view	connectors	on the orthodox view	en la tesis ortodoxa
+W	connector-against-received-wisdom	connectors	against received wisdom	contra el saber recibido
+W	connector-against-the-received-view	connectors	against the received view	contra la tesis recibida
+W	connector-pace-that-view	connectors	pace that view	con respeto a esa tesis
+W	connector-contra-that-view	connectors	contra that view	frente a esa tesis
+W	connector-as-matters-now-stand	connectors	as matters now stand	al estado actual de las cosas
+W	connector-as-the-figures-now-stand	connectors	as the figures now stand	al estado actual de las cifras
+W	connector-on-current-form	connectors	on current form	a la forma actual
+W	connector-on-present-form	connectors	on present form	a la forma presente
+W	connector-on-that-showing	connectors	on that showing	a esa muestra
+W	connector-on-this-showing	connectors	on this showing	a esta muestra
+W	connector-so-far-as-appears	connectors	so far as appears	por lo que aparece
+W	connector-so-far-as-can-be-seen	connectors	so far as can be seen	por lo que se alcanza a ver
+W	connector-so-far-as-known	connectors	so far as known	por lo que se sabe
+W	connector-so-far-as-material	connectors	so far as material	en lo que es de cargo
+W	connector-so-far-as-relevant	connectors	so far as relevant	en lo que es pertinente
+W	connector-so-far-as-concerns	connectors	so far as concerns	en lo que atañe
+W	connector-insofar-as-material	connectors	insofar as material	en cuanto es de cargo
+W	connector-insofar-as-relevant	connectors	insofar as relevant	en cuanto es pertinente
+W	connector-to-the-extent-material	connectors	to the extent material	en la medida de cargo
+W	connector-to-the-extent-relevant	connectors	to the extent relevant	en la medida pertinente
+W	connector-to-the-extent-known	connectors	to the extent known	en la medida conocida
+W	connector-to-that-limited-extent	connectors	to that limited extent	en esa medida limitada
+W	connector-only-to-that-extent	connectors	only to that extent	solo en esa medida
+W	connector-if-and-to-the-extent-that	connectors	if and to the extent that	si y en la medida en que
+W	connector-if-and-insofar-as	connectors	if and insofar as	si y en cuanto
+W	connector-save-insofar-as	connectors	save insofar as	salvo en cuanto
+W	connector-except-insofar-as	connectors	except insofar as	excepto en cuanto
+W	connector-unless-and-until	connectors	unless and until	salvo y hasta que
+W	connector-if-and-when	connectors	if and when	si y cuando
+W	connector-when-and-if	connectors	when and if	cuando y si
+W	connector-as-and-when	connectors	as and when	según y cuando
+W	connector-as-and-if	connectors	as and if	según y si
+W	connector-now-and-if	connectors	now and if	ahora y si
+W	connector-then-and-only-then	connectors	then and only then	entonces y solo entonces
+W	connector-if-then	connectors	if then	si entonces
+W	connector-only-then	connectors	only then	solo entonces
+W	connector-not-until-then	connectors	not until then	no hasta entonces
+W	connector-not-before-then	connectors	not before then	no antes de entonces
+W	connector-not-a-moment-before	connectors	not a moment before	ni un instante antes
+W	connector-not-a-moment-later	connectors	not a moment later	ni un instante después
+W	connector-no-sooner-than	connectors	no sooner than	no antes de
+W	connector-no-later-than	connectors	no later than	no más tarde de
+W	connector-at-the-latest	connectors	at the latest	a más tardar
+W	connector-at-the-earliest	connectors	at the earliest	como muy pronto
+W	connector-not-later-than	connectors	not later than	no más tarde de
+W	connector-not-earlier-than	connectors	not earlier than	no antes de
+W	connector-from-and-after	connectors	from and after	desde y a partir de
+W	connector-from-and-including	connectors	from and including	desde e inclusive
+W	connector-to-but-excluding	connectors	to but excluding	hasta pero exclusive
+W	connector-up-to-but-excluding	connectors	up to but excluding	hasta exclusive
+W	connector-through-and-including	connectors	through and including	hasta e inclusive
+W	connector-with-effect-from	connectors	with effect from	con efectos desde
+W	connector-with-immediate-effect	connectors	with immediate effect	con efectos inmediatos
+W	connector-with-retrospective-effect	connectors	with retrospective effect	con efectos retroactivos
+W	connector-with-prospective-effect	connectors	with prospective effect	con efectos hacia adelante
+W	connector-without-retrospective-effect	connectors	without retrospective effect	sin efectos retroactivos
+W	connector-pending-further-notice	connectors	pending further notice	en tanto no se avise
+W	connector-until-further-notice	connectors	until further notice	hasta nuevo aviso
+W	connector-until-further-order	connectors	until further order	hasta nueva orden
+W	connector-until-countermanded	connectors	until countermanded	hasta contramandato
+W	connector-unless-earlier-terminated	connectors	unless earlier terminated	salvo extinción anterior
+W	connector-unless-otherwise-agreed	connectors	unless otherwise agreed	salvo pacto en contrario
+W	connector-unless-otherwise-stated	connectors	unless otherwise stated	salvo indicación en contrario
+W	connector-unless-the-context-requires	connectors	unless the context requires	salvo que el contexto exija
+W	connector-unless-the-contrary-appears	connectors	unless the contrary appears	salvo que conste lo contrario
+W	connector-where-the-context-so-admits	connectors	where the context so admits	donde el contexto lo admite
+W	connector-where-the-context-so-requires	connectors	where the context so requires	donde el contexto lo exige
+W	connector-as-the-context-requires	connectors	as the context requires	según exija el contexto
+W	connector-as-the-case-may-be	connectors	as the case may be	según el caso
+W	connector-as-the-case-requires	connectors	as the case requires	según exija el caso
+W	connector-as-circumstances-require	connectors	as circumstances require	según exijan las circunstancias
+W	connector-as-circumstances-permit	connectors	as circumstances permit	según permitan las circunstancias
+W	connector-weather-permitting	connectors	weather permitting	si el tiempo lo permite
+W	connector-time-permitting	connectors	time permitting	si el tiempo alcanza
+W	connector-space-permitting	connectors	space permitting	si el espacio alcanza
+W	connector-all-being-well	connectors	all being well	si todo marcha
+W	connector-other-things-being-equal	connectors	other things being equal	siendo lo demás igual
+W	pronoun-the-foregoing	pronouns	the foregoing	lo antedicho
+W	pronoun-the-following	pronouns	the following	lo que sigue
+W	pronoun-the-above	pronouns	the above	lo de arriba
+W	pronoun-the-below	pronouns	the below	lo de abajo
+W	pronoun-the-above-named	pronouns	the above-named	el arriba nombrado
+W	pronoun-the-below-named	pronouns	the below-named	el abajo nombrado
+W	pronoun-the-signatory	pronouns	the signatory	el firmante
+W	pronoun-the-co-signatory	pronouns	the co-signatory	el cofirmante
+W	pronoun-the-counterparty	pronouns	the counterparty	la contraparte
+W	pronoun-the-counterpart	pronouns	the counterpart	el homólogo
+W	pronoun-one-s-opposite-number	pronouns	one's opposite number	el homólogo
+W	pronoun-the-incumbent	pronouns	the incumbent	el titular
+W	pronoun-the-outgoing	pronouns	the outgoing	el saliente
+W	pronoun-the-incoming	pronouns	the incoming	el entrante
+W	pronoun-the-predecessor	pronouns	the predecessor	el antecesor
+W	pronoun-the-successor	pronouns	the successor	el sucesor
+W	pronoun-the-appellant	pronouns	the appellant	el recurrente
+W	pronoun-the-appellee	pronouns	the appellee	el recurrido
+W	pronoun-the-claimant	pronouns	the claimant	el demandante
+W	pronoun-the-respondent	pronouns	the respondent	el demandado
+W	pronoun-the-petitioner	pronouns	the petitioner	el solicitante
+W	pronoun-the-complainant	pronouns	the complainant	el denunciante
+W	pronoun-the-applicant	pronouns	the applicant	el peticionario
+W	pronoun-the-interviewee	pronouns	the interviewee	el entrevistado
+W	pronoun-the-addressee	pronouns	the addressee	el destinatario
+W	pronoun-the-recipient	pronouns	the recipient	el receptor
+W	pronoun-the-bearer	pronouns	the bearer	el tenedor
+W	pronoun-the-holder	pronouns	the holder	el titular
+W	pronoun-the-trustee	pronouns	the trustee	el fideicomisario
+W	pronoun-the-settlor	pronouns	the settlor	el constituyente
+W	pronoun-the-beneficiary	pronouns	the beneficiary	el beneficiario
+W	pronoun-the-nominee	pronouns	the nominee	el nominado
+W	pronoun-the-appointee	pronouns	the appointee	el nombrado
+W	pronoun-the-designate	pronouns	the designate	el designado
+W	pronoun-the-designee	pronouns	the designee	el designado
+W	pronoun-the-proxy	pronouns	the proxy	el apoderado
+W	pronoun-the-stand-in	pronouns	the stand-in	el suplente
+W	pronoun-the-locum	pronouns	the locum	el interino
+W	pronoun-the-caretaker	pronouns	the caretaker	el interino
+W	pronoun-the-acting-holder	pronouns	the acting holder	el titular en funciones
+W	pronoun-the-interim-holder	pronouns	the interim holder	el titular interino
+W	pronoun-those-in-post	pronouns	those in post	los que están en el cargo
+W	pronoun-those-concerned	pronouns	those concerned	los interesados
+W	pronoun-those-involved	pronouns	those involved	los implicados
+W	pronoun-those-affected	pronouns	those affected	los afectados
+W	pronoun-those-implicated	pronouns	those implicated	los incriminados
+W	pronoun-those-named	pronouns	those named	los nombrados
+W	pronoun-those-listed	pronouns	those listed	los enumerados
+W	pronoun-those-cited	pronouns	those cited	los citados
+W	pronoun-those-quoted	pronouns	those quoted	los transcritos
+W	pronoun-those-present	pronouns	those present	los presentes
+W	pronoun-those-absent	pronouns	those absent	los ausentes
+W	pronoun-those-in-attendance	pronouns	those in attendance	los asistentes
+W	pronoun-those-entitled	pronouns	those entitled	los legitimados
+W	pronoun-those-eligible	pronouns	those eligible	los elegibles
+W	pronoun-those-so-entitled	pronouns	those so entitled	los así legitimados
+W	pronoun-those-so-minded	pronouns	those so minded	los así dispuestos
+W	pronoun-those-so-inclined	pronouns	those so inclined	los así inclinados
+W	pronoun-anyone-so-minded	pronouns	anyone so minded	quien así lo disponga
+W	pronoun-anyone-so-inclined	pronouns	anyone so inclined	quien así se incline
+W	pronoun-whoever-sees-fit	pronouns	whoever sees fit	quien lo estime oportuno
+W	pronoun-whoever-thinks-fit	pronouns	whoever thinks fit	quien lo juzgue oportuno
+W	pronoun-whoever-deems-fit	pronouns	whoever deems fit	quien lo considere oportuno
+W	pronoun-as-one-sees-fit	pronouns	as one sees fit	como uno estime oportuno
+W	pronoun-as-one-thinks-fit	pronouns	as one thinks fit	como uno juzgue oportuno
+W	pronoun-as-one-deems-fit	pronouns	as one deems fit	como uno considere oportuno
+W	pronoun-the-powers-that-be	pronouns	the powers that be	los que mandan
+W	pronoun-the-rank-and-file	pronouns	the rank and file	la base
+W	pronoun-the-great-and-the-good	pronouns	the great and the good	los próceres
+W	pronoun-the-usual-suspects	pronouns	the usual suspects	los de siempre
+W	pronoun-the-uninitiated	pronouns	the uninitiated	los no iniciados
+W	pronoun-the-well-informed	pronouns	the well-informed	los bien enterados
+W	pronoun-the-better-off	pronouns	the better-off	los más holgados
+W	pronoun-the-worse-off	pronouns	the worse-off	los más apurados
+W	pronoun-the-well-to-do	pronouns	the well-to-do	los acomodados
+W	pronoun-the-dispossessed	pronouns	the dispossessed	los desposeídos
+W	pronoun-the-disenfranchised	pronouns	the disenfranchised	los privados de voto
+W	pronoun-the-voiceless	pronouns	the voiceless	los sin voz
+W	pronoun-the-overlooked	pronouns	the overlooked	los preteridos
+W	pronoun-the-sidelined	pronouns	the sidelined	los arrinconados
+W	pronoun-the-excluded	pronouns	the excluded	los excluidos
+W	pronoun-the-privileged	pronouns	the privileged	los privilegiados
+W	pronoun-the-underprivileged	pronouns	the underprivileged	los desfavorecidos
+W	pronoun-a-person-of-standing	pronouns	a person of standing	persona de solvencia
+W	pronoun-a-person-of-means	pronouns	a person of means	persona de caudal
+W	pronoun-persons-unknown	pronouns	persons unknown	personas desconocidas
+W	pronoun-the-person-concerned	pronouns	the person concerned	el interesado
+W	pronoun-the-parties-concerned	pronouns	the parties concerned	las partes interesadas
+W	pronoun-the-interested-party	pronouns	the interested party	la parte interesada
+W	pronoun-the-injured-party	pronouns	the injured party	la parte perjudicada
+W	pronoun-the-aggrieved-party	pronouns	the aggrieved party	la parte agraviada
+W	pronoun-the-third-party	pronouns	the third party	el tercero
+W	pronoun-third-parties	pronouns	third parties	terceros
+W	pronoun-the-contracting-parties	pronouns	the contracting parties	las partes contratantes
+W	pronoun-the-unnamed-source	pronouns	the unnamed source	la fuente innominada
+W	pronoun-a-serving-official	pronouns	a serving official	un funcionario en activo
+W	pronoun-a-sitting-member	pronouns	a sitting member	un miembro en el escaño

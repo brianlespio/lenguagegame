@@ -1,0 +1,800 @@
+W	positive-pulling-leg	positiveAnswers	Yes, I was winding you up on purpose.	Sí, te estaba vacilando a propósito.
+W	negative-pulling-leg	negativeAnswers	No, I'm being entirely serious.	No, hablo con toda seriedad.
+W	question-lost-the-plot	questions	Have we lost the plot?	¿Hemos perdido el hilo?
+W	positive-lost-the-plot	positiveAnswers	Yes, we've drifted well away from the actual issue.	Sí, nos hemos desviado claramente del asunto de fondo.
+W	negative-lost-the-plot	negativeAnswers	No, we're still on the substance.	No, seguimos en lo sustancial.
+W	question-worth-the-candle	questions	Is it worth the candle?	¿Vale la pena el esfuerzo?
+W	positive-worth-the-candle	positiveAnswers	Yes, the return still justifies the outlay.	Sí, el resultado sigue justificando el coste.
+W	negative-worth-the-candle	negativeAnswers	No, the effort outweighs anything we'd gain.	No, el esfuerzo supera lo que sacaríamos.
+W	question-beating-around	questions	Are you beating around the bush?	¿Andas con rodeos?
+W	positive-beating-around	positiveAnswers	Yes, I'm circling the point rather than stating it.	Sí, estoy rodeando el punto en vez de plantearlo.
+W	negative-beating-around	negativeAnswers	No, I'm coming straight to the issue.	No, voy directo al asunto.
+W	question-getting-at	questions	Are you getting at something?	¿A dónde quieres ir a parar?
+W	positive-getting-at	positiveAnswers	Yes, I'm working towards a specific point.	Sí, estoy llegando a un punto concreto.
+W	negative-getting-at	negativeAnswers	No, I'm still thinking aloud, not steering you.	No, pienso en voz alta, no te estoy dirigiendo.
+W	question-out-of-line	questions	Was I out of line?	¿Me pasé de la raya?
+W	positive-out-of-line	positiveAnswers	Yes, that went beyond what the situation allowed.	Sí, eso rebasó lo que la situación permitía.
+W	negative-out-of-line	negativeAnswers	No, the remark was a fair one.	No, el comentario estaba justificado.
+W	question-thin-ice	questions	Are we on thin ice?	¿Estamos en terreno resbaladizo?
+W	positive-thin-ice	positiveAnswers	Yes, this is a distinctly sensitive patch.	Sí, este tramo es claramente delicado.
+W	negative-thin-ice	negativeAnswers	No, we can still speak frankly here.	No, aún podemos hablar con franqueza.
+W	question-saving-face	questions	Are you just trying to save face?	¿Solo intentas salvar la cara?
+W	positive-saving-face	positiveAnswers	Yes, I'm protecting how this lands more than the argument.	Sí, estoy protegiendo más cómo queda esto que el argumento.
+W	negative-saving-face	negativeAnswers	No, I'm still arguing the substance.	No, sigo discutiendo el fondo.
+W	question-moving-goalposts	questions	Are you moving the goalposts?	¿Estás cambiando las reglas a mitad?
+W	positive-moving-goalposts	positiveAnswers	Yes, I'm shifting the criterion after the fact.	Sí, estoy moviendo el criterio a posteriori.
+W	negative-moving-goalposts	negativeAnswers	No, that standard was always the brief.	No, ese estándar era el encargo desde el principio.
+W	question-second-thoughts	questions	Are you having second thoughts?	¿Estás teniendo dudas?
+W	positive-second-thoughts	positiveAnswers	Yes, I'm no longer sure this is the right call.	Sí, ya no estoy seguro de que sea la decisión adecuada.
+W	negative-second-thoughts	negativeAnswers	No, I'm standing by the decision.	No, me reafirmo en la decisión.
+W	question-cold-feet	questions	Are you getting cold feet?	¿Te estás echando atrás?
+W	positive-cold-feet	positiveAnswers	Yes, my nerve is going at the last moment.	Sí, me está flaqueando el ánimo a última hora.
+W	negative-cold-feet	negativeAnswers	No, I'm still going ahead as planned.	No, sigo adelante según lo previsto.
+W	question-overthinking-this	questions	Am I overthinking this?	¿Me lo estoy complicando demasiado?
+W	positive-overthinking-this	positiveAnswers	Yes, you're loading it with more than it will bear.	Sí, le estás cargando más de lo que aguanta.
+W	negative-overthinking-this	negativeAnswers	No, the concern is a legitimate one.	No, la preocupación es legítima.
+W	question-missing-the-point	questions	Am I missing the point?	¿Se me está escapando lo importante?
+W	positive-missing-the-point	positiveAnswers	Yes, you've slightly missed what actually matters here.	Sí, se te está escapando ligeramente lo que importa de verdad.
+W	negative-missing-the-point	negativeAnswers	No, you've got the core of it.	No, has captado el núcleo.
+W	question-being-sarcastic	questions	Are you being sarcastic?	¿Estás siendo irónico?
+W	positive-being-sarcastic	positiveAnswers	Yes, there was an edge I fully intended.	Sí, había un filo del todo deliberado.
+W	negative-being-sarcastic	negativeAnswers	No, I mean that at face value.	No, lo digo en sentido literal.
+W	question-winding-me-up	questions	Are you winding me up?	¿Me estás provocando?
+W	positive-winding-me-up	positiveAnswers	Yes, I'm needling you, though not maliciously.	Sí, te estoy pinzando, aunque sin mala uva.
+W	negative-winding-me-up	negativeAnswers	No, this is a serious point.	No, el punto va en serio.
+W	question-fair-assessment	questions	Is that a fair assessment?	¿Es una valoración justa?
+W	positive-fair-assessment	positiveAnswers	Yes, that reading is broadly accurate.	Sí, esa lectura es en lo sustancial acertada.
+W	negative-fair-assessment	negativeAnswers	No, that flattens it too far.	No, eso lo aplana demasiado.
+W	question-overstating-it	questions	Aren't you overstating it?	¿No lo estás exagerando?
+W	positive-overstating-it	positiveAnswers	Yes, I may have pushed the claim a little hard.	Sí, quizá he apretado un poco de más la afirmación.
+W	negative-overstating-it	negativeAnswers	No, if anything the wording underplays it.	No, si acaso el tenor se queda corto.
+W	question-understatement	questions	Is that an understatement?	¿Es un eufemismo?
+W	positive-understatement	positiveAnswers	Yes, the wording is clearly milder than the facts.	Sí, el tenor es claramente más suave que los hechos.
+W	negative-understatement	negativeAnswers	No, that puts it at the right strength.	No, está calibrado en su justa medida.
+W	question-going-there	questions	Are we going there?	¿Vamos a entrar en eso?
+W	positive-going-there	positiveAnswers	Yes, we might as well open that properly.	Sí, más vale abrir ese terreno de una vez.
+W	negative-going-there	negativeAnswers	No, let's leave that ground untouched.	No, dejemos ese terreno intacto.
+W	question-off-the-record	questions	Is this off the record?	¿Esto queda extraoficial?
+W	positive-off-the-record	positiveAnswers	Yes, this stays strictly between us.	Sí, esto se queda estrictamente entre nosotros.
+W	negative-off-the-record	negativeAnswers	No, you're free to quote it.	No, puedes citarlo.
+W	question-hill-to-die	questions	Is this the hill you want to die on?	¿Vas a pelearte por esto?
+W	positive-hill-to-die	positiveAnswers	Yes, this is the point I will not concede.	Sí, este es el punto que no voy a ceder.
+W	negative-hill-to-die	negativeAnswers	No, I'll let this one go.	No, este lo dejo pasar.
+W	question-elephant-in-room	questions	Are we ignoring the elephant in the room?	¿Estamos ignorando lo evidente?
+W	positive-elephant-in-room	positiveAnswers	Yes, we're deliberately circling the obvious issue.	Sí, estamos rodeando a propósito el asunto evidente.
+W	negative-elephant-in-room	negativeAnswers	No, we will put that on the table.	No, lo vamos a poner sobre la mesa.
+W	question-sugarcoating	questions	Are you sugarcoating this?	¿Lo estás endulzando?
+W	positive-sugarcoating	positiveAnswers	Yes, I'm softening the edges more than the facts warrant.	Sí, estoy suavizando más de lo que los hechos justifican.
+W	negative-sugarcoating	negativeAnswers	No, I'm putting it exactly as it stands.	No, lo planteo exactamente como está.
+W	question-under-the-bus	questions	Are you throwing me under the bus?	¿Me estás cargando el muerto?
+W	positive-under-the-bus	positiveAnswers	Yes, I'm leaving you to take the fall for this.	Sí, te estoy dejando cargar con la culpa.
+W	negative-under-the-bus	negativeAnswers	No, I'm addressing the issue, not assigning blame to you.	No, trato el problema, no te lo imputo a ti.
+W	question-nitpicking	questions	Are you nitpicking?	¿Te estás enredando en el detalle?
+W	positive-nitpicking	positiveAnswers	Yes, I'm lingering on a detail that barely moves the case.	Sí, me estoy deteniendo en un detalle que apenas mueve el caso.
+W	negative-nitpicking	negativeAnswers	No, that detail actually changes the outcome.	No, ese detalle cambia de verdad el resultado.
+W	question-twisting-words	questions	Are you twisting my words?	¿Estás torciendo mis palabras?
+W	positive-twisting-words	positiveAnswers	Yes, I compressed them further than they would bear.	Sí, las he comprimido más de lo que aguantaban.
+W	negative-twisting-words	negativeAnswers	No, that is a fair reading of what you said.	No, es una lectura fiel de lo que dijiste.
+W	question-in-denial	questions	Are you in denial?	¿Estás en negación?
+W	positive-in-denial	positiveAnswers	Yes, I may be refusing to look at it squarely.	Sí, quizá me niego a mirarlo de frente.
+W	negative-in-denial	negativeAnswers	No, I can see the situation quite clearly.	No, veo la situación con toda claridad.
+W	question-burying-head	questions	Are you burying your head in the sand?	¿Estás haciendo como el avestruz?
+W	positive-burying-head	positiveAnswers	Yes, I'm avoiding the part that actually hurts.	Sí, estoy evitando justo lo que duele.
+W	negative-burying-head	negativeAnswers	No, I'm dealing with it by another route.	No, lo estoy abordando por otra vía.
+W	question-too-soon-to-say	questions	Is it too soon to say?	¿Es pronto para decirlo?
+W	positive-too-soon-to-say	positiveAnswers	Yes, we still lack a reliable basis.	Sí, aún nos falta una base fiable.
+W	negative-too-soon-to-say	negativeAnswers	No, we already have enough to go on.	No, ya tenemos elementos suficientes para pronunciarnos.
+W	question-jumping-the-gun	questions	Are we jumping the gun?	¿Nos estamos adelantando?
+W	positive-jumping-the-gun	positiveAnswers	Yes, we're acting before the ground is ready.	Sí, estamos actuando antes de que el terreno esté listo.
+W	negative-jumping-the-gun	negativeAnswers	No, the moment to move has arrived.	No, ya ha llegado el momento de mover ficha.
+W	question-cart-before-horse	questions	Are we putting the cart before the horse?	¿Estamos empezando la casa por el tejado?
+W	positive-cart-before-horse	positiveAnswers	Yes, we're sequencing this the wrong way round.	Sí, estamos invirtiendo el orden de las etapas.
+W	negative-cart-before-horse	negativeAnswers	No, the order of work is the right one.	No, el orden de trabajo es el correcto.
+W	question-bitten-off	questions	Have you bitten off more than you can chew?	¿Has abarcado más de la cuenta?
+W	positive-bitten-off	positiveAnswers	Yes, I've taken on more than I can realistically carry.	Sí, he asumido más de lo que puedo llevar con realismo.
+W	negative-bitten-off	negativeAnswers	No, this is still within what I can manage.	No, sigue dentro de lo que puedo gestionar.
+W	question-out-of-depth	questions	Are you out of your depth?	¿Estás fuera de tu terreno?
+W	positive-out-of-depth	positiveAnswers	Yes, this sits outside what I can confidently handle.	Sí, esto queda fuera de lo que domino con soltura.
+W	negative-out-of-depth	negativeAnswers	No, I can still find my way through it.	No, aún puedo orientarme.
+W	question-preaching-choir	questions	Are you preaching to the choir?	¿Le predicas a un convertido?
+W	positive-preaching-choir	positiveAnswers	Yes, I'm rehearsing a point we already share.	Sí, estoy repitiendo un punto que ya damos por bueno.
+W	negative-preaching-choir	negativeAnswers	No, it still needed putting on the record.	No, hacía falta dejarlo sentado.
+W	question-put-foot-in-it	questions	Have I put my foot in it?	¿La he metido?
+W	positive-put-foot-in-it	positiveAnswers	Yes, that landed more clumsily than you meant.	Sí, eso ha caído más torpe de lo que pretendías.
+W	negative-put-foot-in-it	negativeAnswers	No, nothing in that caused any offence.	No, ahí no ha ofendido nada.
+W	question-reading-between	questions	Are you reading between the lines?	¿Estás leyendo entre líneas?
+W	positive-reading-between	positiveAnswers	Yes, I'm taking the implication rather than the wording.	Sí, me quedo con lo implicado más que con el tenor.
+W	negative-reading-between	negativeAnswers	No, I'm taking it strictly at face value.	No, lo tomo estrictamente al pie de la letra.
+W	question-implying-something	questions	Are you implying something?	¿Estás insinuando algo?
+W	positive-implying-something	positiveAnswers	Yes, there's a further point I'm leaving tacit.	Sí, hay un punto más que dejo tácito.
+W	negative-implying-something	negativeAnswers	No, I mean exactly what I said, nothing beside it.	No, quiero decir exactamente lo dicho, nada más.
+W	question-testing-waters	questions	Are you just testing the waters?	¿Solo estás tanteando el terreno?
+W	positive-testing-waters	positiveAnswers	Yes, I'm sounding this out before I commit.	Sí, estoy sondeando antes de comprometerme.
+W	negative-testing-waters	negativeAnswers	No, I'm already committing to the position.	No, ya me estoy comprometiendo con la postura.
+W	question-backpedaling	questions	Are you backpedaling?	¿Te estás desdiciendo?
+W	positive-backpedaling	positiveAnswers	Yes, I'm easing off a claim I put too high.	Sí, estoy aflojando una afirmación que subí demasiado.
+W	negative-backpedaling	negativeAnswers	No, I'm clarifying, not retreating.	No, estoy precisando, no me retiro.
+W	question-doubling-down	questions	Are you doubling down?	¿Te reafirmas todavía más?
+W	positive-doubling-down	positiveAnswers	Yes, I'm hardening the position rather than qualifying it.	Sí, estoy endureciendo la postura en vez de matizarla.
+W	negative-doubling-down	negativeAnswers	No, I remain open to a genuine counter.	No, sigo abierto a una contraargumentación de verdad.
+W	question-walking-that-back	questions	Are you walking that back?	¿Retiras lo dicho?
+W	positive-walking-that-back	positiveAnswers	Yes, I'm withdrawing part of what I claimed.	Sí, retiro parte de lo que afirmé.
+W	negative-walking-that-back	negativeAnswers	No, I stand by the claim as stated.	No, mantengo la afirmación tal como está.
+W	question-off-base	questions	Am I off base?	¿Voy mal encaminado?
+W	positive-off-base	positiveAnswers	Yes, that reading sits a little wide of the facts.	Sí, esa lectura se aparta un tanto de los hechos.
+W	negative-off-base	negativeAnswers	No, you're on the right track with that.	No, vas bien encaminado.
+W	question-right-ballpark	questions	Are we in the right ballpark?	¿Estamos en el orden de magnitud?
+W	positive-right-ballpark	positiveAnswers	Yes, the order of magnitude is about right.	Sí, el orden de magnitud es más o menos el bueno.
+W	negative-right-ballpark	negativeAnswers	No, we're well outside a plausible range.	No, estamos muy fuera de un rango plausible.
+W	question-split-the-difference	questions	Shall we split the difference?	¿Hacemos un término medio?
+W	positive-split-the-difference	positiveAnswers	Yes, splitting it down the middle works for me.	Sí, partirlo por la mitad me vale.
+W	negative-split-the-difference	negativeAnswers	No, I'm holding the figure I already put down.	No, me mantengo en la cifra que ya puse.
+W	question-calling-bluff	questions	Are you calling my bluff?	¿Me estás pillando el farol?
+W	positive-calling-bluff	positiveAnswers	Yes, I want to see whether you'll actually follow through.	Sí, quiero ver si de verdad vas a llegar hasta el final.
+W	negative-calling-bluff	negativeAnswers	No, I'm taking you at your word.	No, te tomo la palabra.
+W	question-all-in-on-this	questions	Are you all in on this?	¿Vas con todo en esto?
+W	positive-all-in-on-this	positiveAnswers	Yes, I'm committing the full stake, not a hedge.	Sí, pongo la apuesta entera, sin red.
+W	negative-all-in-on-this	negativeAnswers	No, I still have material reservations.	No, todavía tengo reservas de fondo.
+W	question-half-hearted	questions	Is this a half-hearted attempt?	¿Es un intento a medias?
+W	positive-half-hearted	positiveAnswers	Yes, the effort is only going through the motions.	Sí, el esfuerzo va más bien de trámite.
+W	negative-half-hearted	negativeAnswers	No, I'm putting real weight behind it.	No, le estoy poniendo peso de verdad.
+W	question-lip-service	questions	Are you just paying lip service?	¿Lo dices solo de boquilla?
+W	positive-lip-service	positiveAnswers	Yes, the endorsement is verbal and goes no further.	Sí, el respaldo es verbal y no va más allá.
+W	negative-lip-service	negativeAnswers	No, I intend to act on it.	No, pretendo actuar en consecuencia.
+W	question-ticking-box	questions	Are we just ticking a box?	¿Esto es solo para cubrir el expediente?
+W	positive-ticking-box	positiveAnswers	Yes, this is compliance theatre more than substance.	Sí, es más apariencia de cumplimiento que sustancia.
+W	negative-ticking-box	negativeAnswers	No, this actually improves the outcome.	No, esto mejora de verdad el resultado.
+W	question-just-optics	questions	Is this just about optics?	¿Esto va solo de imagen?
+W	positive-just-optics	positiveAnswers	Yes, the appearance is doing more work than the substance.	Sí, la apariencia está haciendo más trabajo que el fondo.
+W	negative-just-optics	negativeAnswers	No, the substance is what we're actually after.	No, es el fondo lo que de verdad perseguimos.
+W	question-conflict-of-interest	questions	Is there a conflict of interest?	¿Hay conflicto de interés?
+W	positive-conflict-of-interest	positiveAnswers	Yes, the competing interest needs to be declared.	Sí, el interés concurrente hay que declararlo.
+W	negative-conflict-of-interest	negativeAnswers	No, nothing here puts me in two camps.	No, aquí nada me pone en dos bandos.
+W	question-above-board	questions	Is this above board?	¿Esto es limpio?
+W	positive-above-board	positiveAnswers	Yes, the process is clean and can bear scrutiny.	Sí, el proceso es limpio y resiste el escrutinio.
+W	negative-above-board	negativeAnswers	No, there are questions this doesn't comfortably answer.	No, hay preguntas a las que esto no responde con holgura.
+W	question-cutting-corners	questions	Are we cutting corners?	¿Estamos tomando atajos?
+W	positive-cutting-corners	positiveAnswers	Yes, we're skipping steps we ought to keep.	Sí, nos estamos saltando pasos que deberíamos mantener.
+W	negative-cutting-corners	negativeAnswers	No, we're doing this to the proper standard.	No, lo estamos haciendo con el rigor debido.
+W	question-papering-cracks	questions	Are we papering over the cracks?	¿Estamos tapando agujeros?
+W	positive-papering-cracks	positiveAnswers	Yes, we're covering the fault rather than repairing it.	Sí, estamos cubriendo la falla en vez de repararla.
+W	negative-papering-cracks	negativeAnswers	No, we're actually putting the fault right.	No, estamos corrigiendo de verdad la falla.
+W	question-kicking-the-can	questions	Are we kicking the can down the road?	¿Le estamos dando patadas hacia adelante?
+W	positive-kicking-the-can	positiveAnswers	Yes, we're deferring a decision we could take now.	Sí, estamos aplazando una decisión que podríamos tomar ahora.
+W	negative-kicking-the-can	negativeAnswers	No, we're settling it at this sitting.	No, lo zanjamos en esta misma sesión.
+W	question-missing-bigger-picture	questions	Are we missing the bigger picture?	¿Se nos está yendo lo de fondo?
+W	positive-missing-bigger-picture	positiveAnswers	Yes, we're lost in the detail and losing the frame.	Sí, nos perdemos en el detalle y soltamos el marco.
+W	negative-missing-bigger-picture	negativeAnswers	No, we still have the wider context in view.	No, seguimos teniendo a la vista el contexto más amplio.
+W	question-confirming-bias	questions	Are you just confirming your bias?	¿Solo buscas lo que te encaja?
+W	positive-confirming-bias	positiveAnswers	Yes, I may be selecting what already fits my view.	Sí, quizá estoy eligiendo lo que ya encaja con mi visión.
+W	negative-confirming-bias	negativeAnswers	No, I'm still open to a result that cuts against me.	No, sigo abierto a un resultado que me lleve la contraria.
+W	question-talking-past	questions	Are we talking past each other?	¿Estamos hablando cada uno por su lado?
+W	positive-talking-past	positiveAnswers	Yes, we're answering points the other hasn't made.	Sí, estamos respondiendo a puntos que el otro no ha planteado.
+W	negative-talking-past	negativeAnswers	No, we're actually joining the same issue.	No, estamos trabando de verdad el mismo asunto.
+W	question-same-page	questions	Are we on the same page?	¿Estamos en la misma página?
+W	positive-same-page	positiveAnswers	Yes, we share the same reading of where this stands.	Sí, compartimos la misma lectura de en qué punto estamos.
+W	negative-same-page	negativeAnswers	No, we still diverge on the basic reading.	No, aún divergimos en la lectura de base.
+W	question-aligned-on-this	questions	Are we aligned on this?	¿Estamos alineados en esto?
+W	positive-aligned-on-this	positiveAnswers	Yes, our positions now sit together.	Sí, nuestras posturas ya coinciden.
+W	negative-aligned-on-this	negativeAnswers	No, a material gap remains between us.	No, sigue habiendo un desfase de fondo entre nosotros.
+W	question-pushing-back	questions	Are you pushing back?	¿Te estás oponiendo?
+W	positive-pushing-back	positiveAnswers	Yes, I have objections I want on the table.	Sí, tengo objeciones que quiero poner sobre la mesa.
+W	negative-pushing-back	negativeAnswers	No, I'm only clarifying the terms.	No, solo estoy aclarando los términos.
+W	question-non-negotiable	questions	Is this non-negotiable?	¿Esto no se discute?
+W	positive-non-negotiable	positiveAnswers	Yes, this condition is not up for bargaining.	Sí, esta condición no está sujeta a regateo.
+W	negative-non-negotiable	negativeAnswers	No, the point is still open to discussion.	No, el punto sigue abierto a discusión.
+W	question-deal-breaker	questions	Is that a deal-breaker?	¿Eso echa abajo el trato?
+W	positive-deal-breaker	positiveAnswers	Yes, that condition would kill the agreement.	Sí, esa condición haría caer el acuerdo.
+W	negative-deal-breaker	negativeAnswers	No, we can live with that as it stands.	No, podemos convivir con eso tal como está.
+W	question-crossed-red-line	questions	Have I crossed a red line?	¿He cruzado una línea roja?
+W	positive-crossed-red-line	positiveAnswers	Yes, that went past a limit I will not treat as negotiable.	Sí, eso rebasó un límite que no daré por negociable.
+W	negative-crossed-red-line	negativeAnswers	No, that still sits within acceptable bounds.	No, sigue dentro de unos márgenes aceptables.
+W	question-tone-deaf	questions	Was that tone-deaf?	¿Fue una falta de tacto?
+W	positive-tone-deaf	positiveAnswers	Yes, it showed no feel for how it would land.	Sí, no midió cómo iba a caer.
+W	negative-tone-deaf	negativeAnswers	No, the context could reasonably carry it.	No, el contexto podía sostenerlo con fundamento.
+W	question-poor-taste	questions	Was that in poor taste?	¿Fue de mal gusto?
+W	positive-poor-taste	positiveAnswers	Yes, the remark was off-colour for this setting.	Sí, el comentario estaba fuera de lugar en este marco.
+W	negative-poor-taste	negativeAnswers	No, it sat within the bounds of a joke.	No, cabía dentro de los límites de una broma.
+W	question-oversharing	questions	Am I oversharing?	¿Estoy contando de más?
+W	positive-oversharing	positiveAnswers	Yes, that's more personal detail than this needed.	Sí, es más detalle personal del que hacía falta.
+W	negative-oversharing	negativeAnswers	No, that context actually helps the point.	No, ese contexto aclara de verdad el punto.
+W	question-too-blunt	questions	Was I too blunt?	¿Fui demasiado directo?
+W	positive-too-blunt	positiveAnswers	Yes, you put it more starkly than the room needed.	Sí, lo planteaste más crudo de lo que el contexto pedía.
+W	negative-too-blunt	negativeAnswers	No, the directness was simply clarity.	No, la franqueza era simplemente claridad.
+W	question-more-diplomatic	questions	Should I have been more diplomatic?	¿Tendría que haber sido más diplomático?
+W	positive-more-diplomatic	positiveAnswers	Yes, a softer framing would have landed better.	Sí, un encuadre más suave habría caído mejor.
+W	negative-more-diplomatic	negativeAnswers	No, the directness was the right register.	No, el registro directo era el adecuado.
+W	question-taking-personally	questions	Are you taking this personally?	¿Te lo estás tomando por lo personal?
+W	positive-taking-personally	positiveAnswers	Yes, I'm hearing it as a comment on me, not the work.	Sí, lo oigo como un comentario sobre mí, no sobre el trabajo.
+W	negative-taking-personally	negativeAnswers	No, I'm keeping this on the point, not on me.	No, me quedo en el punto, no en mí.
+W	question-making-personal	questions	Are you making this personal?	¿Lo estás personalizando?
+W	positive-making-personal	positiveAnswers	Yes, I've moved from the issue onto the person.	Sí, he pasado del asunto a la persona.
+W	negative-making-personal	negativeAnswers	No, I'm staying with the facts of the case.	No, me quedo en los hechos del caso.
+W	question-bad-faith	questions	Are you arguing in bad faith?	¿Estás argumentando de mala fe?
+W	positive-bad-faith	positiveAnswers	Yes, I'm arguing to win the exchange, not to test the claim.	Sí, argumento para ganar el intercambio, no para poner a prueba la tesis.
+W	negative-bad-faith	negativeAnswers	No, I'm putting the case as I actually see it.	No, planteo el caso tal como lo veo de verdad.
+W	question-changing-subject	questions	Are you changing the subject to dodge this?	¿Cambias de tema para zafarte?
+W	positive-changing-subject	positiveAnswers	Yes, the turn was a diversion, not a parallel.	Sí, el giro era una distracción, no un paralelo.
+W	negative-changing-subject	negativeAnswers	No, the parallel actually bears on the same point.	No, el paralelo atañe de verdad al mismo punto.
+W	question-shifting-burden	questions	Are you shifting the burden of proof?	¿Estás invirtiendo la carga de la prueba?
+W	positive-shifting-burden	positiveAnswers	Yes, I'm asking you to disprove a claim I haven't established.	Sí, te pido que refutes una tesis que no he establecido.
+W	negative-shifting-burden	negativeAnswers	No, I'm only asking you to evidence what you asserted.	No, solo te pido que acredites lo que has afirmado.
+W	question-extraordinary-claim	questions	Isn't that an extraordinary claim?	¿No es una afirmación demasiado fuerte?
+W	positive-extraordinary-claim	positiveAnswers	Yes, the claim is strong enough to need unusually solid backing.	Sí, la afirmación es lo bastante fuerte como para exigir un respaldo poco habitual.
+W	negative-extraordinary-claim	negativeAnswers	No, the support already on the table is adequate.	No, el apoyo que ya está sobre la mesa es suficiente.
+W	question-anecdotal	questions	Isn't that anecdotal?	¿No es anecdótico?
+W	positive-anecdotal	positiveAnswers	Yes, it's a single instance dressed up as a pattern.	Sí, es un caso suelto vestido de pauta.
+W	negative-anecdotal	negativeAnswers	No, the same thing keeps recurring, not just once.	No, lo mismo se viene repitiendo, no es una vez.
+W	question-cherry-picking	questions	Are you cherry-picking?	¿Estás eligiendo a conveniencia?
+W	positive-cherry-picking	positiveAnswers	Yes, I'm selecting the cases that illustrate the point.	Sí, estoy seleccionando los casos que ilustran el punto.
+W	negative-cherry-picking	negativeAnswers	No, the sample is representative of the whole.	No, la muestra es representativa del conjunto.
+W	question-correlation-cause	questions	Are we confusing correlation with cause?	¿Estamos mezclando correlación y causa?
+W	positive-correlation-cause	positiveAnswers	Yes, we're treating a coincidence of timing as a mechanism.	Sí, estamos tratando una coincidencia de tiempo como un mecanismo.
+W	negative-correlation-cause	negativeAnswers	No, the link here is causal, not merely coincident.	No, el vínculo aquí es causal, no meramente coincidente.
+W	question-fair-hearing	questions	Am I being given a fair hearing?	¿Me estás escuchando de verdad?
+W	positive-fair-hearing	positiveAnswers	Yes, I'm taking your point in full.	Sí, estoy tomando tu punto entero.
+W	negative-fair-hearing	negativeAnswers	No, I keep cutting across before you've landed it.	No, corto antes de que hayas planteado el punto.
+W	question-talking-down	questions	Are you talking down to me?	¿Me estás hablando de arriba abajo?
+W	positive-talking-down	positiveAnswers	Yes, the register is more lecture than exchange.	Sí, el registro es más una lección que un intercambio.
+W	negative-talking-down	negativeAnswers	No, I'm simplifying the terms, not the person.	No, simplifico los términos, no a la persona.
+W	question-being-patronising	questions	Are you being patronising?	¿Estás siendo condescendiente?
+W	positive-being-patronising	positiveAnswers	Yes, I was talking as if you needed steering.	Sí, te hablaba como si hubiera que guiarte.
+W	negative-being-patronising	negativeAnswers	No, I'm speaking to you as an equal.	No, te hablo de igual a igual.
+W	question-economical-truth	questions	Are you being economical with the truth?	¿Estás maquillando la verdad?
+W	positive-economical-truth	positiveAnswers	Yes, I left out a detail that would have changed the picture.	Sí, omití un detalle que habría cambiado el cuadro.
+W	negative-economical-truth	negativeAnswers	No, that's the account in full.	No, ese es el relato completo.
+W	question-holding-back-info	questions	Are you holding something back?	¿Te estás guardando algo?
+W	positive-holding-back-info	positiveAnswers	Yes, there's a material point I haven't put down yet.	Sí, hay un punto de fondo que aún no he puesto.
+W	negative-holding-back-info	negativeAnswers	No, everything relevant is already on the table.	No, todo lo relevante ya está sobre la mesa.
+W	question-blindsided-you	questions	Did I blindside you?	¿Te pillé desprevenido?
+W	positive-blindsided-you	positiveAnswers	Yes, that landed without any prior warning.	Sí, eso cayó sin ningún aviso previo.
+W	negative-blindsided-you	negativeAnswers	No, I had seen it coming.	No, me lo veía venir.
+W	question-lowballing	questions	Are you lowballing me?	¿Me estás tirando a la baja?
+W	positive-lowballing	positiveAnswers	Yes, the figure is an opening bid, not my real number.	Sí, la cifra es una oferta de apertura, no mi número real.
+W	negative-lowballing	negativeAnswers	No, that is the genuine figure I can stand behind.	No, esa es la cifra de verdad que puedo sostener.
+W	question-overpromising	questions	Are we overpromising?	¿Estamos prometiendo de más?
+W	positive-overpromising	positiveAnswers	Yes, we're committing to more than we can deliver.	Sí, nos estamos comprometiendo a más de lo que podemos entregar.
+W	negative-overpromising	negativeAnswers	No, the commitment is within what we can actually meet.	No, el compromiso cabe en lo que de verdad podemos cumplir.
+W	question-underdelivering	questions	Are we underdelivering?	¿Estamos entregando de menos?
+W	positive-underdelivering	positiveAnswers	Yes, the output is falling short of what we undertook.	Sí, lo entregado se queda corto de lo que nos comprometimos.
+W	negative-underdelivering	negativeAnswers	No, we're still on the trajectory we promised.	No, seguimos en la trayectoria que prometimos.
+W	question-last-word	questions	Do you have to have the last word?	¿Tienes que tener la última palabra?
+W	positive-last-word	positiveAnswers	Yes, I do find it hard to leave a point unanswered.	Sí, me cuesta dejar un punto sin respuesta.
+W	negative-last-word	negativeAnswers	No, I'm done and the point can rest.	No, he terminado y el punto puede quedar así.
+W	question-reading-situation	questions	Are you reading the situation correctly?	¿Estás leyendo bien la situación?
+W	positive-reading-situation	positiveAnswers	Yes, my reading of the room still holds.	Sí, mi lectura del ambiente se sostiene.
+W	negative-reading-situation	negativeAnswers	No, I may have misread the dynamics.	No, puede que haya leído mal la dinámica.
+W	question-letting-sleeping-dogs	questions	Should we let sleeping dogs lie?	¿Mejor no remover esto?
+W	positive-letting-sleeping-dogs	positiveAnswers	Yes, reopening it would cost more than it's worth.	Sí, reabrirlo costaría más de lo que vale.
+W	negative-letting-sleeping-dogs	negativeAnswers	No, leaving it will only let the problem grow.	No, dejarlo solo hará crecer el problema.
+W	question-c1x-burying-lede	questions	Are we burying the lede in this note?	¿Estamos enterrando lo esencial en esta nota?
+W	positive-c1x-burying-lede	positiveAnswers	Yes, the real news is still stuck in paragraph three.	Sí, la noticia de verdad sigue atascada en el tercer párrafo.
+W	negative-c1x-burying-lede	negativeAnswers	No, we already lead with what actually matters.	No, ya abrimos con lo que importa.
+W	question-c1x-both-ways	questions	Are they trying to have it both ways?	¿Quieren nadar y guardar la ropa?
+W	positive-c1x-both-ways	positiveAnswers	Yes, they want the praise for being bold and the safety of staying cautious.	Sí, quieren el mérito de arriesgarse y la comodidad de no hacerlo.
+W	negative-c1x-both-ways	negativeAnswers	No, they have picked a side and they are living with it.	No, han elegido un lado y se aguantan.
+W	question-c1x-fence-sitting	questions	Have we been sitting on the fence too long?	¿Llevamos demasiado tiempo en el alambre?
+W	positive-c1x-fence-sitting	positiveAnswers	Yes, people now read the delay as us refusing to decide.	Sí, ahora la espera se lee como que no queremos decidir.
+W	negative-c1x-fence-sitting	negativeAnswers	No, waiting is still buying us facts we actually need.	No, esperar aún nos da datos que de verdad hacen falta.
+W	question-c1x-taking-bait	questions	Did I take the bait on that aside?	¿Picé el anzuelo de ese aparte?
+W	positive-c1x-taking-bait	positiveAnswers	Yes, I chased a side remark and never answered the main charge.	Sí, perseguí un comentario de refilón y no contesté el cargo de verdad.
+W	negative-c1x-taking-bait	negativeAnswers	No, I let the aside go and stayed on what actually mattered.	No, dejé pasar el aparte y me quedé en lo que importaba.
+W	question-c1x-playing-time	questions	Are they just playing for time?	¿Solo están ganando tiempo?
+W	positive-c1x-playing-time	positiveAnswers	Yes, every new question is a stall, not a real gap.	Sí, cada pregunta nueva es para retrasar, no porque falte un dato.
+W	negative-c1x-playing-time	negativeAnswers	No, they still need facts we have not given them.	No, aún necesitan datos que no les hemos dado.
+W	question-c1x-muddying	questions	Is that explanation muddying the waters?	¿Esa explicación enturbia el asunto?
+W	positive-c1x-muddying	positiveAnswers	Yes, it splits hairs the call does not even need.	Sí, riza el rizo y la decisión no lo necesita.
+W	negative-c1x-muddying	negativeAnswers	No, it pulls apart two things we had mixed up.	No, separa dos cosas que teníamos mezcladas.
+W	question-c1x-mountain-molehill	questions	Are we making a mountain out of a molehill with this gap?	¿Estamos haciendo una montaña de un grano de arena con este desfase?
+W	positive-c1x-mountain-molehill	positiveAnswers	Yes, the gap is real, but it does not change the call.	Sí, el desfase es real, pero no cambia lo que hay que hacer.
+W	negative-c1x-mountain-molehill	negativeAnswers	No, the gap is why we still cannot say yes.	No, el desfase es justo por lo que aún no podemos decir que sí.
+W	question-c1x-adding-fuel	questions	Would repeating that only add fuel to the fire?	¿Repetir eso solo echaría leña al fuego?
+W	positive-c1x-adding-fuel	positiveAnswers	Yes, saying it again would lock people in without a new fact.	Sí, repetirlo ahora cerraría a la gente sin un dato nuevo.
+W	negative-c1x-adding-fuel	negativeAnswers	No, it still has to be said because the file is missing it.	No, aún hay que decirlo porque en el expediente falta.
+W	question-c1x-closing-ranks	questions	Have they closed ranks around the first draft?	¿Han cerrado filas en torno al primer borrador?
+W	positive-c1x-closing-ranks	positiveAnswers	Yes, any pushback now gets treated as disloyalty.	Sí, ahora cualquier pega se toma por deslealtad.
+W	negative-c1x-closing-ranks	negativeAnswers	No, they are still taking real changes on the substance.	No, aún aceptan cambios de verdad en el fondo.
+W	question-c1x-good-money	questions	Are we throwing good money after bad on this?	¿Estamos tirando el dinero bueno tras el malo en esto?
+W	positive-c1x-good-money	positiveAnswers	Yes, spending more will not save a design that already failed.	Sí, gastar más no va a salvar un diseño que ya falló.
+W	negative-c1x-good-money	negativeAnswers	No, a bit more spend still gets us something we can actually use.	No, un poco más aún nos da algo que de verdad se puede usar.
+W	question-c1x-cut-losses	questions	Should we cut our losses on the pilot?	¿Conviene cortar pérdidas en el piloto?
+W	positive-c1x-cut-losses	positiveAnswers	Yes, what we might still gain no longer covers the mess.	Sí, lo que aún podríamos ganar ya no cubre el lío.
+W	negative-c1x-cut-losses	negativeAnswers	No, the pilot is still teaching us something cheaper tests will not.	No, el piloto aún nos enseña algo que no sale más barato.
+W	question-c1x-grasping-straws	questions	Are we grasping at straws with that annex?	¿Nos agarramos a un clavo ardiendo con ese anejo?
+W	positive-c1x-grasping-straws	positiveAnswers	Yes, the annex is leftover junk hoping to look like a reason.	Sí, el anejo es un resto que pretende parecer una razón.
+W	negative-c1x-grasping-straws	negativeAnswers	No, the annex is the only independent check we have.	No, el anejo es el único cotejo independiente que tenemos.
+W	question-c1x-lipstick-pig	questions	Is the rewrite just lipstick on a pig?	¿La reescritura no es más que maquillaje sobre un cerdo?
+W	positive-c1x-lipstick-pig	positiveAnswers	Yes, the bones are the same and the polish is only cosmetic.	Sí, la estructura sigue igual y el brillo es solo cosmética.
+W	negative-c1x-lipstick-pig	negativeAnswers	No, the rewrite actually moves where the argument has to land.	No, la reescritura mueve de verdad dónde tiene que caer el argumento.
+W	question-c1x-going-motions	questions	Are we just going through the motions in this review?	¿Solo estamos cumpliendo el trámite en esta revisión?
+W	positive-c1x-going-motions	positiveAnswers	Yes, the result was fixed before anyone opened the papers.	Sí, el resultado estaba cerrado antes de abrir los papeles.
+W	negative-c1x-going-motions	negativeAnswers	No, something in the papers could still flip the draft.	No, algo en los papeles aún podría dar la vuelta al borrador.
+W	question-c1x-phoning-in	questions	Are they phoning this presentation in?	¿Están haciendo esta presentación a medio gas?
+W	positive-c1x-phoning-in	positiveAnswers	Yes, they are reciting slides they have not looked at again.	Sí, recitan diapositivas que no han vuelto a mirar.
+W	negative-c1x-phoning-in	negativeAnswers	No, they have reworked the numbers since last time.	No, han rehecho las cifras desde la última vez.
+W	question-c1x-trial-balloon	questions	Was that suggestion a trial balloon?	¿Fue esa sugerencia un globo sonda?
+W	positive-c1x-trial-balloon	positiveAnswers	Yes, they floated it to see who would shoot it down.	Sí, la lanzaron para ver quién la derribaría.
+W	negative-c1x-trial-balloon	negativeAnswers	No, it was a firm proposal they are ready to put in writing.	No, era una propuesta firme que están dispuestos a dejar por escrito.
+W	question-c1x-overplaying	questions	Are we overplaying our hand on the timeline?	¿Estamos forzando la mano con el calendario?
+W	positive-c1x-overplaying	positiveAnswers	Yes, we are demanding a date the rest of the work cannot meet.	Sí, exigimos una fecha que el resto del trabajo no puede cumplir.
+W	negative-c1x-overplaying	negativeAnswers	No, the date is tight but we have named everything it depends on.	No, la fecha es justa, pero hemos nombrado todo de lo que depende.
+W	question-c1x-powder-dry	questions	Should we keep our powder dry until Friday?	¿Conviene guardar la munición hasta el viernes?
+W	positive-c1x-powder-dry	positiveAnswers	Yes, speaking now would spend leverage we still need.	Sí, hablar ahora gastaría un as que aún necesitamos.
+W	negative-c1x-powder-dry	negativeAnswers	No, staying quiet until Friday will be read as a yes.	No, callar hasta el viernes se leerá como un sí.
+W	question-c1x-jumping-ship	questions	Are people already jumping ship on this programme?	¿La gente ya está abandonando el barco en este programa?
+W	positive-c1x-jumping-ship	positiveAnswers	Yes, two leads have quietly asked to be moved.	Sí, dos responsables han pedido en voz baja un cambio de sitio.
+W	negative-c1x-jumping-ship	negativeAnswers	No, the team is stretched but nobody has asked to leave.	No, el equipo está tenso, pero nadie ha pedido irse.
+W	question-c1x-falling-sword	questions	Is someone being asked to fall on their sword?	¿Se le pide a alguien que se inmole?
+W	positive-c1x-falling-sword	positiveAnswers	Yes, a resignation is being treated as the price of closing this.	Sí, una dimisión se trata como el precio de cerrar esto.
+W	negative-c1x-falling-sword	negativeAnswers	No, the blame is being shared and nobody has been asked to go.	No, la culpa se reparte y no se ha pedido la cabeza de nadie.
+W	question-c1x-deaf-ears	questions	Has that warning fallen on deaf ears?	¿Ha caído en saco roto esa advertencia?
+W	positive-c1x-deaf-ears	positiveAnswers	Yes, it was written down and then ignored in the next draft.	Sí, se anotó y luego se ignoró en el siguiente borrador.
+W	negative-c1x-deaf-ears	negativeAnswers	No, the next draft actually moved on the point we flagged.	No, el siguiente borrador sí se movió en el punto señalado.
+W	question-c1x-hymn-sheet	questions	Are we even singing from the same hymn sheet?	¿Cantamos siquiera la misma partitura?
+W	positive-c1x-hymn-sheet	positiveAnswers	Yes, what we say out loud and what is written now match.	Sí, lo que decimos en voz alta y lo escrito ya coinciden.
+W	negative-c1x-hymn-sheet	negativeAnswers	No, the room is still running two briefs that cannot both be true.	No, la sala sigue con dos versiones que no pueden ser las dos verdad.
+W	question-c1x-apples-oranges	questions	Are those two figures even the same kind of thing?	¿Son esos dos números siquiera de la misma índole?
+W	positive-c1x-apples-oranges	positiveAnswers	Yes, they measure the same thing over the same stretch of time.	Sí, miden lo mismo en el mismo tramo de tiempo.
+W	negative-c1x-apples-oranges	negativeAnswers	No, one is a snapshot and the other is movement, so the comparison falls apart.	No, uno es una foto y el otro un movimiento, así que la comparación se cae.
+W	question-c1x-stretching-point	questions	Are we stretching that citation past what it will bear?	¿Estamos estirando esa cita más de lo que aguanta?
+W	positive-c1x-stretching-point	positiveAnswers	Yes, the paper backs a weaker claim than the one we hung on it.	Sí, el artículo sostiene una tesis más floja que la que le colgamos.
+W	negative-c1x-stretching-point	negativeAnswers	No, the claim we hung on it is the one the authors themselves push.	No, la tesis que le colgamos es la que empujan los propios autores.
+W	question-c1x-taking-liberties	questions	Have they taken liberties with the brief?	¿Se han tomado libertades con el encargo?
+W	positive-c1x-taking-liberties	positiveAnswers	Yes, they answered an easier question than the one they were set.	Sí, contestaron una pregunta más cómoda que la que se les planteó.
+W	negative-c1x-taking-liberties	negativeAnswers	No, they stayed inside the question and only changed the order of the points.	No, se quedaron dentro de la pregunta y solo cambiaron el orden de los puntos.
+W	question-c1x-hogging-floor	questions	Am I hogging the floor in this slot?	¿Estoy acaparando el turno en esta franja?
+W	positive-c1x-hogging-floor	positiveAnswers	Yes, I have used my time and I should hand it back.	Sí, he usado mi tiempo y debo devolverlo.
+W	negative-c1x-hogging-floor	negativeAnswers	No, I was asked to take this slot and I am still on the point.	No, se me pidió tomar este turno y sigo en el tema.
+W	question-c1x-grandstanding	questions	Is this intervention just grandstanding?	¿Es esta intervención mero postureo?
+W	positive-c1x-grandstanding	positiveAnswers	Yes, it is aimed at the gallery and it never joins the point.	Sí, apunta a la galería y no entra en el punto.
+W	negative-c1x-grandstanding	negativeAnswers	No, it joins the point and names a cost the paper skipped.	No, entra en el punto y nombra un coste que el papel se había saltado.
+W	question-c1x-point-scoring	questions	Have we slipped into point-scoring?	¿Hemos resbalado a ver quién gana el tanto?
+W	positive-c1x-point-scoring	positiveAnswers	Yes, the last three turns were aimed at people, not at the draft.	Sí, los tres últimos turnos iban a personas, no al borrador.
+W	negative-c1x-point-scoring	negativeAnswers	No, the last turns still cut text and left people alone.	No, los últimos turnos aún cortaban texto y no a personas.
+W	question-c1x-dirty-linen	questions	Are we airing dirty linen that belongs elsewhere?	¿Estamos aireando trapos sucios que corresponden a otro sitio?
+W	positive-c1x-dirty-linen	positiveAnswers	Yes, this is an internal personnel matter and it should leave the room.	Sí, es un asunto interno de personal y debe salir de la sala.
+W	negative-c1x-dirty-linen	negativeAnswers	No, the conduct is already public and we have to deal with it here.	No, la conducta ya es pública y hay que tratarla aquí.
+W	question-c1x-making-meal	questions	Are we making a meal of a rounding difference?	¿Le estamos dando mil vueltas a un redondeo?
+W	positive-c1x-making-meal	positiveAnswers	Yes, the difference sits inside the tolerance the method already declared.	Sí, la diferencia cabe en la tolerancia que el método ya dijo.
+W	negative-c1x-making-meal	negativeAnswers	No, the difference sits outside that tolerance and needs a note.	No, la diferencia queda fuera de esa tolerancia y pide una nota.
+W	question-c1x-labouring-point	questions	Am I labouring a point that has already landed?	¿Estoy machacando un punto que ya entró?
+W	positive-c1x-labouring-point	positiveAnswers	Yes, the room has taken it and saying it again will only irritate people.	Sí, la sala lo ha pillado y repetirlo solo va a irritar.
+W	negative-c1x-labouring-point	negativeAnswers	No, half the room still has the old wording in front of them.	No, la mitad de la sala sigue con la redacción vieja delante.
+W	question-c1x-gilding-lily	questions	Would another example just gild the lily?	¿Otro ejemplo solo sería recargar el plato?
+W	positive-c1x-gilding-lily	positiveAnswers	Yes, the case is already made and another instance is decoration.	Sí, el caso ya está hecho y otra instancia es adorno.
+W	negative-c1x-gilding-lily	negativeAnswers	No, we need another instance because the first one is contested.	No, hace falta otra porque la primera está impugnada.
+W	question-c1x-painted-corner	questions	Have we painted ourselves into a corner with that pledge?	¿Nos hemos acorralado con esa promesa?
+W	positive-c1x-painted-corner	positiveAnswers	Yes, the pledge leaves us no honest way back to the fallback we still need.	Sí, la promesa no deja una vía limpia al plan B que aún necesitamos.
+W	negative-c1x-painted-corner	negativeAnswers	No, the pledge is narrow enough and the fallback still sits inside it.	No, la promesa está acotada y el plan B sigue dentro.
+W	question-c1x-burning-bridges	questions	Would sending that reply burn our bridges?	¿Enviar esa respuesta quemaría las naves?
+W	positive-c1x-burning-bridges	positiveAnswers	Yes, the tone would close a door we still have to walk through.	Sí, el tono cerraría una puerta que aún tenemos que cruzar.
+W	negative-c1x-burning-bridges	negativeAnswers	No, a firm reply can still leave a path back to the table.	No, una respuesta firme aún puede dejar un camino a la mesa.
+W	question-c1x-cross-bridge	questions	Shall we leave that until it actually happens?	¿Eso lo dejamos hasta que de verdad ocurra?
+W	positive-c1x-cross-bridge	positiveAnswers	Yes, planning it now is guesswork dressed as a plan.	Sí, plantearlo ahora es especular con traje de plan.
+W	negative-c1x-cross-bridge	negativeAnswers	No, if we wait until it happens we will have no agreed path.	No, si esperamos a que ocurra no habrá camino acordado.
+W	question-c1x-feelers-out	questions	Have they put feelers out to the other side?	¿Han tanteado el terreno con la otra parte?
+W	positive-c1x-feelers-out	positiveAnswers	Yes, an informal channel has already tested the temperature.	Sí, un cauce informal ya ha tomado la temperatura.
+W	negative-c1x-feelers-out	negativeAnswers	No, they have stayed inside the formal channel on purpose.	No, se han quedado a propósito en el cauce formal.
+W	question-c1x-taking-pulse	questions	Have we taken the pulse of the wider group?	¿Hemos tomado el pulso del grupo más amplio?
+W	positive-c1x-taking-pulse	positiveAnswers	Yes, the sounding was wide enough to show where the resistance sits.	Sí, el sondeo fue lo bastante amplio para ver dónde está la resistencia.
+W	negative-c1x-taking-pulse	negativeAnswers	No, we have only heard from the people who already agree.	No, solo hemos oído a quienes ya coinciden.
+W	question-c1x-drawing-veil	questions	Should we draw a veil over the earlier draft?	¿Conviene correr un velo sobre el borrador anterior?
+W	positive-c1x-drawing-veil	positiveAnswers	Yes, circulating it again would reopen a fight that is settled.	Sí, circularlo otra vez reabriría una pelea ya zanjada.
+W	negative-c1x-drawing-veil	negativeAnswers	No, the earlier draft still explains a choice the new one leaves implicit.	No, el borrador anterior aún explica una elección que el nuevo deja implícita.
+W	question-c1x-drawing-blank	questions	Have we drawn a blank on the missing source?	¿Hemos dado con un muro en la fuente que falta?
+W	positive-c1x-drawing-blank	positiveAnswers	Yes, the trail ends and we should say so rather than paraphrase from memory.	Sí, el rastro se acaba y hay que decirlo en vez de parafrasear de memoria.
+W	negative-c1x-drawing-blank	negativeAnswers	No, one more catalogue still has a live lead.	No, un catálogo más aún tiene una pista viva.
+W	question-c1x-coming-short	questions	Have we come up short on the third part of the brief?	¿Nos hemos quedado cortos en la tercera parte del encargo?
+W	positive-c1x-coming-short	positiveAnswers	Yes, parts one and two are done and part three is only waved at.	Sí, las partes uno y dos están hechas y la tercera solo se insinúa.
+W	negative-c1x-coming-short	negativeAnswers	No, part three is answered, just in a tighter form than they expected.	No, la tercera está contestada, solo más prieta de lo que esperaban.
+W	question-c1x-wide-mark	questions	Was that estimate wide of the mark?	¿Fue esa estimación un tiro desviado?
+W	positive-c1x-wide-mark	positiveAnswers	Yes, the result missed the range we published by a clear margin.	Sí, el resultado falló la horquilla que publicamos por un margen claro.
+W	negative-c1x-wide-mark	negativeAnswers	No, the result sits inside the range once the late invoice is booked.	No, el resultado cabe en la horquilla cuando se apunta la factura tardía.
+W	question-c1x-beside-point	questions	Is that objection beside the point we were asked to decide?	¿Esa objeción es ajena al punto que se nos pidió decidir?
+W	positive-c1x-beside-point	positiveAnswers	Yes, it is interesting, but it does not change the call we have to make.	Sí, es interesante y no cambia la decisión que hay que tomar.
+W	negative-c1x-beside-point	negativeAnswers	No, it goes to a premise the call still rests on.	No, atañe a una premisa de la que la decisión aún depende.
+W	question-c1x-neither-here	questions	Is the biographical aside neither here nor there?	¿El aparte biográfico no pinta nada aquí?
+W	positive-c1x-neither-here	positiveAnswers	Yes, it colours the room and does nothing for the finding.	Sí, colorea la sala y no aporta nada al hallazgo.
+W	negative-c1x-neither-here	negativeAnswers	No, it is the only explanation we have for the missing year.	No, es la única explicación que tenemos del año que falta.
+W	question-c1x-curates-egg	questions	Is the report good in parts and only in parts?	¿El informe es bueno a trozos, y solo a trozos?
+W	positive-c1x-curates-egg	positiveAnswers	Yes, two chapters hold and the rest should be sent back.	Sí, dos capítulos se sostienen y el resto debe devolverse.
+W	negative-c1x-curates-egg	negativeAnswers	No, the weaker chapters still carry findings we cannot drop.	No, los capítulos más flojos aún cargan hallazgos que no podemos soltar.
+W	question-c1x-faint-praise	questions	Are they damning the paper with faint praise?	¿Están condenando el papel con elogios tibios?
+W	positive-c1x-faint-praise	positiveAnswers	Yes, the compliments are a way of saying no to what we asked.	Sí, los cumplidos son un modo de decir que no a lo que pedimos.
+W	negative-c1x-faint-praise	negativeAnswers	No, the compliments are genuine and the reservation is small.	No, los cumplidos son sinceros y la reserva es estrecha.
+W	question-c1x-withering-vine	questions	Is the proposal withering on the vine?	¿Se está secando la propuesta en la rama?
+W	positive-c1x-withering-vine	positiveAnswers	Yes, it has had no owner since the last reshuffle and nothing is moving.	Sí, no tiene dueño desde el último recambio y no se mueve nada.
+W	negative-c1x-withering-vine	negativeAnswers	No, a new owner has picked it up and a date is now in the diary.	No, un dueño nuevo la ha recogido y ya hay fecha en la agenda.
+W	question-c1x-dead-water	questions	Is the initiative dead in the water?	¿Está la iniciativa muerta en el agua?
+W	positive-c1x-dead-water	positiveAnswers	Yes, the person backing it has pulled out and nobody has stepped in.	Sí, quien la respaldaba se ha retirado y no ha salido recambio.
+W	negative-c1x-dead-water	negativeAnswers	No, they have paused, not pulled out, and there is a restart date.	No, está en pausa, no retirado, y hay fecha de reinicio.
+W	question-c1x-going-circles	questions	Are we going round in circles on the wording?	¿Estamos dando vueltas a la redacción?
+W	positive-c1x-going-circles	positiveAnswers	Yes, the last hour has said the same disagreement again with no new test.	Sí, la última hora ha repetido el mismo desacuerdo sin una prueba nueva.
+W	negative-c1x-going-circles	negativeAnswers	No, each pass has dropped a phrase and what is left is smaller.	No, cada pasada ha quitado una frase y queda menos.
+W	question-c1x-chasing-tail	questions	Are we chasing our tail on the missing figure?	¿Nos perseguimos la cola con la cifra que falta?
+W	positive-c1x-chasing-tail	positiveAnswers	Yes, the figure cannot be reconstructed from what we hold.	Sí, la cifra no se puede reconstruir con lo que tenemos.
+W	negative-c1x-chasing-tail	negativeAnswers	No, one more ledger still has the line that would close it.	No, un libro más aún tiene la línea que la cerraría.
+W	question-c1x-reinvent-wheel	questions	Are we reinventing a wheel that already exists in the handbook?	¿Estamos reinventando una rueda que ya está en el manual?
+W	positive-c1x-reinvent-wheel	positiveAnswers	Yes, the handbook already settles the procedure we are redesigning.	Sí, el manual ya zanja el procedimiento que estamos redibujando.
+W	negative-c1x-reinvent-wheel	negativeAnswers	No, the handbook is silent on this variant and a note is due.	No, el manual calla sobre esta variante y hace falta una nota.
+W	question-c1x-boiling-ocean	questions	Are we trying to boil the ocean in this first pass?	¿Estamos queriendo vaciar el mar en esta primera pasada?
+W	positive-c1x-boiling-ocean	positiveAnswers	Yes, the first pass is trying to settle every neighbouring file as well.	Sí, la primera pasada pretende zanjarse también todos los expedientes vecinos.
+W	negative-c1x-boiling-ocean	negativeAnswers	No, the first pass is boxed in and the neighbours are only flagged.	No, la primera pasada está acotada y los vecinos solo se señalan.
+W	question-c1x-gold-plating	questions	Is this gold-plating a requirement that was already met?	¿Es esto dorar un requisito que ya se cumplía?
+W	positive-c1x-gold-plating	positiveAnswers	Yes, the extra flourish is not asked for and it delays the release.	Sí, el adorno de más no se pide y retrasa la salida.
+W	negative-c1x-gold-plating	negativeAnswers	No, the extra step is what makes the requirement actually checkable.	No, el paso de más es lo que hace el requisito de verdad comprobable.
+W	question-c1x-wrong-horse	questions	Have we backed the wrong horse on the platform choice?	¿Hemos apostado al caballo equivocado en la plataforma?
+W	positive-c1x-wrong-horse	positiveAnswers	Yes, the limits that mattered were not the ones we scored.	Sí, los límites que importaban no eran los que puntuamos.
+W	negative-c1x-wrong-horse	negativeAnswers	No, the ones we scored still hold and the late pain is how we built it, not which one we picked.	No, los que puntuamos siguen en pie y el dolor tardío es de cómo lo montamos, no de la elección.
+W	question-c1x-hedging-bets	questions	Are they hedging their bets in that paragraph?	¿Se cubren las espaldas en ese párrafo?
+W	positive-c1x-hedging-bets	positiveAnswers	Yes, it is written so either outcome can later be claimed as intended.	Sí, está escrito para que luego se pueda reivindicar cualquier resultado.
+W	negative-c1x-hedging-bets	negativeAnswers	No, it names a single intended outcome and a single fallback.	No, nombra un solo resultado buscado y un solo plan B.
+W	question-c1x-hare-hounds	questions	Are they running with one camp and hunting with the other?	¿Corren con un bando y cazan con el otro?
+W	positive-c1x-hare-hounds	positiveAnswers	Yes, what they say in private and what they say in public cannot both be true.	Sí, lo que dicen en privado y en público no puede cumplirse a la vez.
+W	negative-c1x-hare-hounds	negativeAnswers	No, the private line is a rehearsal of the public one, not a second policy.	No, la línea privada es un ensayo de la pública, no una segunda política.
+W	question-c1x-options-open	questions	Should we keep every option open until the next meeting?	¿Hay que dejar todas las opciones abiertas hasta la próxima reunión?
+W	positive-c1x-options-open	positiveAnswers	Yes, closing one now would be a preference dressed as a constraint.	Sí, cerrar una ahora sería una preferencia vestida de límite.
+W	negative-c1x-options-open	negativeAnswers	No, two of the options are already dead and should come off the paper.	No, dos opciones ya están muertas y deben salir del papel.
+W	question-c1x-gloves-off	questions	Have the gloves come off in that exchange?	¿Se han quitado los guantes en ese intercambio?
+W	positive-c1x-gloves-off	positiveAnswers	Yes, the last note dropped the courtesy and went for reputation.	Sí, la última nota soltó la cortesía y fue a por la reputación.
+W	negative-c1x-gloves-off	negativeAnswers	No, the last note is sharp but it still stays on the file, not on the person.	No, la última nota es cortante, pero sigue en el expediente, no en la persona.
+W	question-c1x-below-belt	questions	Was that remark below the belt?	¿Fue ese comentario un golpe bajo?
+W	positive-c1x-below-belt	positiveAnswers	Yes, it used a private fact that had no business in the argument.	Sí, usó un hecho privado que no pintaba nada en el argumento.
+W	negative-c1x-below-belt	negativeAnswers	No, it used a fact already on the record and tied it to the point.	No, usó un hecho ya en el expediente y lo ató al punto.
+W	question-c1x-playing-man	questions	Are we playing the person rather than the draft?	¿Estamos yendo a por la persona en vez de al borrador?
+W	positive-c1x-playing-man	positiveAnswers	Yes, the last objection was about tone of voice, not about a sentence.	Sí, la última objeción era sobre el tono de voz, no sobre una frase.
+W	negative-c1x-playing-man	negativeAnswers	No, the objection names a sentence and proposes a replacement.	No, la objeción nombra una frase y propone un recambio.
+W	question-c1x-going-jugular	questions	Are they going for the jugular on a secondary fault?	¿Van a por la yugular por una falta secundaria?
+W	positive-c1x-going-jugular	positiveAnswers	Yes, they are treating a secondary fault as if it sank the whole case.	Sí, tratan una falta secundaria como si hundiera todo el caso.
+W	negative-c1x-going-jugular	negativeAnswers	No, they are treating it as secondary and asking only for a footnote.	No, la tratan como secundaria y solo piden una nota al pie.
+W	question-c1x-playing-safe	questions	Are we playing this too safe to be useful?	¿Lo estamos jugando tan seguro que ya no sirve?
+W	positive-c1x-playing-safe	positiveAnswers	Yes, the caveats have eaten the advice and left a shrug.	Sí, las salvedades se han comido el consejo y han dejado un encogimiento de hombros.
+W	negative-c1x-playing-safe	negativeAnswers	No, the caveats mark real uncertainty and the advice still points somewhere.	No, las salvedades marcan una incertidumbre real y el consejo aún apunta.
+W	question-c1x-playing-ear	questions	Shall we play the next hour by ear?	¿Tocamos de oído la próxima hora?
+W	positive-c1x-playing-ear	positiveAnswers	Yes, a script would fake a certainty we have not earned.	Sí, un guion fingiría una certeza que no hemos ganado.
+W	negative-c1x-playing-ear	negativeAnswers	No, the next hour has a sequence and improvising it would lose a witness.	No, la próxima hora tiene una secuencia e improvisarla perdería a un testigo.
+W	question-c1x-shooting-hip	questions	Are they shooting from the hip on the figures?	¿Están disparando a ojo con las cifras?
+W	positive-c1x-shooting-hip	positiveAnswers	Yes, the numbers were rounded in the room and have no worksheet behind them.	Sí, los números se redondearon en la sala y no hay hoja detrás.
+W	negative-c1x-shooting-hip	negativeAnswers	No, the numbers come from a worksheet that can be circulated after.	No, los números salen de una hoja que se puede circular después.
+W	question-c1x-caught-hop	questions	Were we caught on the hop by that question?	¿Nos pilló esa pregunta a contrapié?
+W	positive-c1x-caught-hop	positiveAnswers	Yes, we had not prepared the obvious follow-up and it showed.	Sí, no habíamos preparado el seguimiento obvio y se notó.
+W	negative-c1x-caught-hop	negativeAnswers	No, the follow-up was in the pack; we simply took a second to find it.	No, el seguimiento estaba en el paquete; solo tardamos un segundo en hallarlo.
+W	question-c1x-asleep-wheel	questions	Have we been asleep at the wheel on the deadline?	¿Hemos ido dormidos al volante con el plazo?
+W	positive-c1x-asleep-wheel	positiveAnswers	Yes, the date was in the diary and nobody owned the last stretch.	Sí, la fecha estaba en la agenda y nadie tenía el último tramo.
+W	negative-c1x-asleep-wheel	negativeAnswers	No, someone owned the last stretch and the slip came from a blocker we had already flagged.	No, el último tramo tenía dueño y el desliz vino de un bloqueo que ya habíamos señalado.
+W	question-c1x-eye-off-ball	questions	Have we taken our eye off the original question?	¿Hemos quitado el ojo de la pregunta original?
+W	positive-c1x-eye-off-ball	positiveAnswers	Yes, we have drifted into a side fight that was never on the table.	Sí, hemos derivado a una pelea vecina que no estaba sobre la mesa.
+W	negative-c1x-eye-off-ball	negativeAnswers	No, that side fight is what the original question actually turns on.	No, esa pelea vecina es de lo que la pregunta original depende de verdad.
+W	question-c1x-dropped-ball	questions	Did we drop the ball on sending it round?	¿Se nos cayó el balón al enviarlo?
+W	positive-c1x-dropped-ball	positiveAnswers	Yes, the paper went out without the annex the room had been promised.	Sí, el papel salió sin el anejo que se le había prometido a la sala.
+W	negative-c1x-dropped-ball	negativeAnswers	No, the annex went in a second mail that the room has now had time to read.	No, el anejo fue en un segundo correo que la sala ya ha tenido tiempo de leer.
+W	question-c1x-letting-slide	questions	Have we let this inconsistency slide for too long?	¿Hemos dejado pasar demasiado esta incoherencia?
+W	positive-c1x-letting-slide	positiveAnswers	Yes, three drafts have carried it and silence is now a choice.	Sí, tres borradores la han llevado y el silencio ya es una elección.
+W	negative-c1x-letting-slide	negativeAnswers	No, it was flagged at once and the fix is in the version circulating tonight.	No, se señaló al momento y la corrección está en la versión que circula esta noche.
+W	question-c1x-burying-hatchet	questions	Should we bury the hatchet on the earlier slight?	¿Conviene enterrar el hacha de guerra por el desaire anterior?
+W	positive-c1x-burying-hatchet	positiveAnswers	Yes, reopening it will cost more than the slight is still worth.	Sí, reabrirlo costará más de lo que el desaire aún vale.
+W	negative-c1x-burying-hatchet	negativeAnswers	No, the slight is still shaping how the work is assigned and has to be named.	No, el desaire sigue moldeando cómo se reparte el trabajo y hay que nombrarlo.
+W	question-c1x-changing-horses	questions	Are we changing horses in midstream on the method?	¿Estamos cambiando de caballo a mitad del río en el método?
+W	positive-c1x-changing-horses	positiveAnswers	Yes, swapping the method now would reset the clock without a better destination.	Sí, cambiar el método ahora pondría el reloj a cero sin un destino mejor.
+W	negative-c1x-changing-horses	negativeAnswers	No, the swap is forced by a flaw the first method cannot repair.	No, el cambio lo fuerza un defecto que el primer método no puede reparar.
+W	question-c1x-mixed-messages	questions	Are we sending mixed messages to the people upstairs?	¿Estamos mandando mensajes cruzados a los de arriba?
+W	positive-c1x-mixed-messages	positiveAnswers	Yes, what we said out loud and the written pack still contradict each other.	Sí, lo dicho en voz alta y el paquete escrito aún se contradicen.
+W	negative-c1x-mixed-messages	negativeAnswers	No, the spoken update only compresses the pack; the direction is the same.	No, lo oral solo comprime el paquete; la dirección es la misma.
+W	question-c1x-kicking-upstairs	questions	Are we just kicking this upstairs to avoid a decision?	¿Solo estamos subiéndolo de piso para no decidir?
+W	positive-c1x-kicking-upstairs	positiveAnswers	Yes, we are sending it up with no question they can actually answer.	Sí, lo subimos sin una pregunta a la que ellos puedan responder de verdad.
+W	negative-c1x-kicking-upstairs	negativeAnswers	No, they have to sign off on this spend, so we have to ask.	No, ellos tienen que autorizar este gasto, así que hay que preguntarles.
+W	question-c1x-parked-it	questions	Have they parked the awkward call in an annex?	¿Han aparcado lo incómodo en un anejo?
+W	positive-c1x-parked-it	positiveAnswers	Yes, it is hidden where only the diligent will find the real choice.	Sí, está escondido donde solo los diligentes hallarán la verdadera elección.
+W	negative-c1x-parked-it	negativeAnswers	No, the annex is flagged up front and the choice is named at the top.	No, el anejo se señala al principio y la elección está nombrada arriba.
+W	question-mind-turning-down	questions	Would you mind turning that down?	¿Le importaría bajar el volumen?
+W	positive-mind-turning-down	positiveAnswers	Not at all.	No, en absoluto.
+W	negative-mind-turning-down	negativeAnswers	I'd rather leave it.	Preferiría dejarlo.
+W	question-possibly-leave-bag	questions	Could I possibly leave my bag here?	¿Podría dejar aquí el bolso?
+W	positive-possibly-leave-bag	positiveAnswers	Yes, of course.	Sí, claro.
+W	negative-possibly-leave-bag	negativeAnswers	I'm afraid not.	Me temo que no.
+W	question-suppose-charger	questions	I don't suppose you have a charger?	¿No tendrá un cargador, por casualidad?
+W	positive-suppose-charger	positiveAnswers	Yes, I do.	Sí, tengo uno.
+W	negative-suppose-charger	negativeAnswers	No, sorry.	No, lo siento.
+W	question-all-right-record	questions	Would it be all right if I recorded this?	¿Le parece bien si lo grabo?
+W	positive-all-right-record	positiveAnswers	Yes, go ahead.	Sí, adelante.
+W	negative-all-right-record	negativeAnswers	I'd rather you didn't.	Preferiría que no.
+W	question-like-me-to-call	questions	Would you like me to call you a taxi?	¿Quiere que le llame un taxi?
+W	positive-like-me-to-call	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-like-me-to-call	negativeAnswers	No, thank you.	No, gracias.
+W	question-still-up-for	questions	Are you still up for tonight?	¿Sigues apuntado para esta noche?
+W	positive-still-up-for	positiveAnswers	Yes, I'm in.	Sí, me apunto.
+W	negative-still-up-for	negativeAnswers	No, I'll have to pass.	No, voy a pasar.
+W	question-made-up-your-mind	questions	Have you made up your mind yet?	¿Ya te has decidido?
+W	positive-made-up-your-mind	positiveAnswers	Yes, I've made my mind up.	Sí, ya me he decidido.
+W	negative-made-up-your-mind	negativeAnswers	No, I'm still deciding.	No, aún lo estoy pensando.
+W	question-rather-walk-there	questions	Would you rather we walked?	¿Preferirías que fuéramos andando?
+W	positive-rather-walk-there	positiveAnswers	Yes, I'd rather walk.	Sí, prefiero andar.
+W	negative-rather-walk-there	negativeAnswers	No, I'd rather take the metro.	No, prefiero el metro.
+W	question-manage-to-sleep	questions	Did you manage to get some sleep?	¿Conseguiste dormir un rato?
+W	positive-manage-to-sleep	positiveAnswers	Yes, I managed a few hours.	Sí, conseguí dormir unas horas.
+W	negative-manage-to-sleep	negativeAnswers	No, I barely slept at all.	No, apenas dormí.
+W	question-sorted-the-tickets	questions	Have you sorted the tickets?	¿Ya tienes las entradas listas?
+W	positive-sorted-the-tickets	positiveAnswers	Yes, they're done.	Sí, ya está.
+W	negative-sorted-the-tickets	negativeAnswers	No, not yet.	No, todavía no.
+W	question-reckon-well-make-it	questions	Do you reckon we'll make it?	¿Crees que llegamos?
+W	positive-reckon-well-make-it	positiveAnswers	Yes, I think so.	Sí, creo que sí.
+W	negative-reckon-well-make-it	negativeAnswers	No, we'll be late.	No, vamos a llegar tarde.
+W	question-in-favour-of-this	questions	Are you in favour of this?	¿Estás a favor?
+W	positive-in-favour-of-this	positiveAnswers	Yes, I'm in favour of it.	Sí, estoy a favor.
+W	negative-in-favour-of-this	negativeAnswers	No, I'm against it.	No, estoy en contra.
+W	question-would-you-say-so	questions	Would you say that's fair?	¿Dirías que es justo?
+W	positive-would-you-say-so	positiveAnswers	Yes, I'd say so.	Sí, yo diría que sí.
+W	negative-would-you-say-so	negativeAnswers	No, not really.	No, la verdad no.
+W	question-been-meaning-to-call	questions	Have you been meaning to call?	¿Tenías pensado llamar?
+W	positive-been-meaning-to-call	positiveAnswers	Yes, I keep meaning to.	Sí, no dejo de pensarlo.
+W	negative-been-meaning-to-call	negativeAnswers	No, I hadn't thought to.	No, no se me había ocurrido.
+W	question-keep-in-touch-still	questions	Shall we keep in touch?	¿Seguimos en contacto?
+W	positive-keep-in-touch-still	positiveAnswers	Yes, let's keep in touch.	Sí, vamos.
+W	negative-keep-in-touch-still	negativeAnswers	Better not, for now.	Mejor no, de momento.
+W	question-drop-you-home	questions	Can I drop you home?	¿Te dejo en casa?
+W	positive-drop-you-home	positiveAnswers	Yes, that would help.	Sí, me viene bien.
+W	negative-drop-you-home	negativeAnswers	No, I'll make my own way.	No, vuelvo por mi cuenta.
+W	question-pick-you-up-eight	questions	Shall I pick you up at eight?	¿Te recojo a las ocho?
+W	positive-pick-you-up-eight	positiveAnswers	Yes, perfect.	Sí, perfecto.
+W	negative-pick-you-up-eight	negativeAnswers	No, I'll make my own way.	No, voy por mi cuenta.
+W	question-run-out-of-time	questions	Have we run out of time?	¿Se nos ha acabado el tiempo?
+W	positive-run-out-of-time	positiveAnswers	Yes, we've run out of time.	Sí, se acabó.
+W	negative-run-out-of-time	negativeAnswers	No, we've still got a bit.	No, aún nos queda un poco.
+W	question-count-on-you-tomorrow	questions	Can I count on you tomorrow?	¿Puedo contar contigo mañana?
+W	positive-count-on-you-tomorrow	positiveAnswers	Yes, I'll be there.	Sí, estaré.
+W	negative-count-on-you-tomorrow	negativeAnswers	No, I can't make it.	No, no puedo.
+W	question-get-round-to-it	questions	Have you got round to it yet?	¿Has llegado a ocuparte?
+W	positive-get-round-to-it	positiveAnswers	Yes, I've finally got round to it.	Sí, al final me he ocupado.
+W	negative-get-round-to-it	negativeAnswers	No, I haven't had a chance.	No, no he tenido ocasión.
+W	question-come-up-with-idea	questions	Have you come up with anything?	¿Se te ha ocurrido algo?
+W	positive-come-up-with-idea	positiveAnswers	Yes, I have an idea.	Sí, tengo una idea.
+W	negative-come-up-with-idea	negativeAnswers	No, nothing yet.	No, todavía nada.
+W	question-work-this-out	questions	Can we work this out?	¿Podemos resolverlo?
+W	positive-work-this-out	positiveAnswers	Yes, we can work this out.	Sí, podemos resolverlo.
+W	negative-work-this-out	negativeAnswers	No, not like this.	No, así no.
+W	question-let-you-know-soon	questions	Shall I let you know?	¿Te aviso?
+W	positive-let-you-know-soon	positiveAnswers	Yes, please do.	Sí, por favor.
+W	negative-let-you-know-soon	negativeAnswers	No, don't bother.	No, no te molestes.
+W	question-get-back-to-you-today	questions	Can I get back to you today?	¿Te contesto hoy?
+W	positive-get-back-to-you-today	positiveAnswers	Yes, that's fine.	Sí, me vale.
+W	negative-get-back-to-you-today	negativeAnswers	No, I need an answer now.	No, necesito la respuesta ahora.
+W	question-take-it-from-here	questions	Shall I take it from here?	¿Sigo yo a partir de aquí?
+W	positive-take-it-from-here	positiveAnswers	Yes, please do.	Sí, adelante.
+W	negative-take-it-from-here	negativeAnswers	No, I'll carry on.	No, sigo yo.
+W	question-leave-it-with-you	questions	Can I leave it with you?	¿Te lo dejo a ti?
+W	positive-leave-it-with-you	positiveAnswers	Yes, leave it with me.	Sí, déjamelo.
+W	negative-leave-it-with-you	negativeAnswers	No, I'd rather you kept it.	No, prefiero que lo lleves tú.
+W	question-see-your-point	questions	Do you see my point?	¿Ves a qué me refiero?
+W	positive-see-your-point	positiveAnswers	Yes, I see your point.	Sí, veo a qué te refieres.
+W	negative-see-your-point	negativeAnswers	No, I'm not following.	No, no te sigo.
+W	question-with-you-on-this	questions	Are you with me on this?	¿Estás conmigo en esto?
+W	positive-with-you-on-this	positiveAnswers	Yes, I'm with you on this.	Sí, estoy contigo en esto.
+W	negative-with-you-on-this	negativeAnswers	No, I see it differently.	No, yo lo veo de otra forma.
+W	question-stick-to-the-plan	questions	Shall we stick to the plan?	¿Nos mantenemos en el plan?
+W	positive-stick-to-the-plan	positiveAnswers	Yes, let's stick to the plan.	Sí, nos mantenemos en el plan.
+W	negative-stick-to-the-plan	negativeAnswers	No, we should change it.	No, habría que cambiarlo.
+W	question-go-along-with-that	questions	Can you go along with that?	¿Puedes aceptarlo?
+W	positive-go-along-with-that	positiveAnswers	Yes, I can live with it.	Sí, puedo convivir con ello.
+W	negative-go-along-with-that	negativeAnswers	No, I can't accept that.	No, no puedo aceptarlo.
+W	question-put-me-through	questions	Could you put me through to her?	¿Me la puede pasar?
+W	positive-put-me-through	positiveAnswers	Yes, I'll put you through.	Sí, se la paso.
+W	negative-put-me-through	negativeAnswers	No, she's not available.	No, no está disponible.
+W	question-hold-this-for-me	questions	Could you hold this for me?	¿Me puedes sujetar esto?
+W	positive-hold-this-for-me	positiveAnswers	Yes, sure.	Sí, claro.
+W	negative-hold-this-for-me	negativeAnswers	Sorry, my hands are full.	Lo siento, tengo las manos ocupadas.
+W	question-fill-me-in	questions	Can you fill me in?	¿Me pones al día?
+W	positive-fill-me-in	positiveAnswers	Yes, I'll explain.	Sí, te lo cuento.
+W	negative-fill-me-in	negativeAnswers	No, I don't have the details.	No, no tengo los detalles.
+W	question-catch-my-drift	questions	Do you catch my drift?	¿Pillaste por dónde voy?
+W	positive-catch-my-drift	positiveAnswers	Yes, I get it.	Sí, lo pillo.
+W	negative-catch-my-drift	negativeAnswers	No, I'm not with you.	No, no te sigo.
+W	question-lost-track-of-time	questions	Have we lost track of time?	¿Se nos ha ido el tiempo?
+W	positive-lost-track-of-time	positiveAnswers	Yes, we've lost track of time.	Sí, se nos ha ido.
+W	negative-lost-track-of-time	negativeAnswers	No, we're fine.	No, vamos bien.
+W	question-running-late-again	questions	Are you running late?	¿Vas con retraso?
+W	positive-running-late-again	positiveAnswers	Yes, I'm running a bit late.	Sí, un poco.
+W	negative-running-late-again	negativeAnswers	No, I'm on time.	No, voy a tiempo.
+W	question-get-a-move-on	questions	Shall we get a move on?	¿Nos damos prisa?
+W	positive-get-a-move-on	positiveAnswers	Yes, let's go.	Sí, vamos.
+W	negative-get-a-move-on	negativeAnswers	No, there's no rush.	No, no hay prisa.
+W	question-wrap-this-up	questions	Shall we wrap this up?	¿Lo damos por cerrado?
+W	positive-wrap-this-up	positiveAnswers	Yes, that's enough.	Sí, basta.
+W	negative-wrap-this-up	negativeAnswers	No, we're not done.	No, no hemos terminado.
+W	question-call-it-a-day	questions	Shall we call it a day?	¿Lo dejamos por hoy?
+W	positive-call-it-a-day	positiveAnswers	Yes, I'm done.	Sí, yo ya he acabado.
+W	negative-call-it-a-day	negativeAnswers	No, a bit longer.	No, un poco más.
+W	question-sleep-on-it	questions	Do you want to sleep on it?	¿Lo dejas para pensarlo mañana?
+W	positive-sleep-on-it	positiveAnswers	Yes, let's decide tomorrow.	Sí, decidimos mañana.
+W	negative-sleep-on-it	negativeAnswers	No, I'd rather decide now.	No, prefiero decidir ahora.
+W	question-play-along-with-this	questions	Could you play along?	¿Puedes seguirle el juego?
+W	positive-play-along-with-this	positiveAnswers	Yes, I'll play along.	Sí, le sigo el juego.
+W	negative-play-along-with-this	negativeAnswers	No, I'm not pretending.	No, no voy a fingir.
+W	question-pass-this-on	questions	Could you pass this on?	¿Se lo puedes pasar?
+W	positive-pass-this-on	positiveAnswers	Yes, I'll pass it on.	Sí, me encargo.
+W	negative-pass-this-on	negativeAnswers	No, I'd rather not.	No, preferiría no.
+W	question-bring-this-up	questions	Should we bring this up?	¿Lo sacamos?
+W	positive-bring-this-up	positiveAnswers	Yes, it needs saying.	Sí, hay que decirlo.
+W	negative-bring-this-up	negativeAnswers	No, leave it for now.	No, déjalo de momento.
+W	question-look-into-it	questions	Will you look into it?	¿Lo miras?
+W	positive-look-into-it	positiveAnswers	Yes, I'll look into it.	Sí, lo miro yo.
+W	negative-look-into-it	negativeAnswers	No, I haven't got time.	No, no tengo tiempo.
+W	question-follow-this-up	questions	Should we follow this up?	¿Hacemos seguimiento?
+W	positive-follow-this-up	positiveAnswers	Yes, we should.	Sí, hay que.
+W	negative-follow-this-up	negativeAnswers	No, let's drop it.	No, lo dejamos.
+W	question-take-care-of-it	questions	Can you take care of it?	¿Te puedes encargar?
+W	positive-take-care-of-it	positiveAnswers	Yes, I'll handle it.	Sí, lo llevo yo.
+W	negative-take-care-of-it	negativeAnswers	No, I can't take that on.	No, no puedo asumirlo.
+W	question-get-rid-of-it	questions	Shall we get rid of it?	¿Nos deshacemos de esto?
+W	positive-get-rid-of-it	positiveAnswers	Yes, bin it.	Sí, a la basura.
+W	negative-get-rid-of-it	negativeAnswers	No, keep it for now.	No, lo guardamos de momento.
+W	question-do-without-it	questions	Can we do without it?	¿Podemos prescindir?
+W	positive-do-without-it	positiveAnswers	Yes, we can manage.	Sí, nos apañamos.
+W	negative-do-without-it	negativeAnswers	No, we need it.	No, lo necesitamos.
+W	question-make-do-with-this	questions	Can we make do with this?	¿Nos apañamos con esto?
+W	positive-make-do-with-this	positiveAnswers	Yes, it'll do.	Sí, vale.
+W	negative-make-do-with-this	negativeAnswers	No, it's not enough.	No, no llega.
+W	question-put-up-with-it	questions	Are you putting up with it?	¿Lo estás aguantando?
+W	positive-put-up-with-it	positiveAnswers	Yes, for now.	Sí, de momento.
+W	negative-put-up-with-it	negativeAnswers	No, I've had enough.	No, ya he tenido bastante.
+W	question-looking-forward-to-it	questions	Are you looking forward to it?	¿Lo estás deseando?
+W	positive-looking-forward-to-it	positiveAnswers	Yes, I can't wait.	Sí, no veo el momento.
+W	negative-looking-forward-to-it	negativeAnswers	No, I'm dreading it.	No, lo temo un poco.
+W	question-settle-for-that	questions	Would you settle for that?	¿Te conformarías con eso?
+W	positive-settle-for-that	positiveAnswers	Yes, I can live with it.	Sí, puedo convivir con ello.
+W	negative-settle-for-that	negativeAnswers	No, I want more.	No, quiero más.
+W	question-turn-the-offer-down	questions	Are you turning the offer down?	¿Estás rechazando la oferta?
+W	positive-turn-the-offer-down	positiveAnswers	Yes, I'm declining.	Sí, la rechazo.
+W	negative-turn-the-offer-down	negativeAnswers	No, I'm taking it.	No, la acepto.
+W	question-thought-it-over	questions	Have you thought it over?	¿Lo has pensado bien?
+W	positive-thought-it-over	positiveAnswers	Yes, I've thought it over.	Sí, lo he pensado bien.
+W	negative-thought-it-over	negativeAnswers	No, I need more time.	No, necesito más tiempo.
+W	question-squeeze-you-in	questions	Can you squeeze me in?	¿Me puede meter en la agenda?
+W	positive-squeeze-you-in	positiveAnswers	Yes, I can fit you in.	Sí, le puedo atender.
+W	negative-squeeze-you-in	negativeAnswers	No, I'm fully booked.	No, está completo.
+W	question-reschedule-this	questions	Shall we reschedule?	¿Lo cambiamos de fecha?
+W	positive-reschedule-this	positiveAnswers	Yes, let's move it.	Sí, lo movemos.
+W	negative-reschedule-this	negativeAnswers	No, let's keep it.	No, lo mantenemos.
+W	question-bring-the-meeting-forward	questions	Can we bring the meeting forward?	¿Podemos adelantar la reunión?
+W	positive-bring-the-meeting-forward	positiveAnswers	Yes, we can bring it forward.	Sí, podemos adelantarla.
+W	negative-bring-the-meeting-forward	negativeAnswers	No, that won't work.	No, no cuadra.
+W	question-fall-through	questions	Has it fallen through?	¿Se ha caído?
+W	positive-fall-through	positiveAnswers	Yes, it's off.	Sí, se cancela.
+W	negative-fall-through	negativeAnswers	No, it's still on.	No, sigue en pie.
+W	question-going-to-plan	questions	Is it going to plan?	¿Va según lo previsto?
+W	positive-going-to-plan	positiveAnswers	Yes, so far.	Sí, de momento.
+W	negative-going-to-plan	negativeAnswers	No, we've hit a snag.	No, ha surgido un imprevisto.
+W	question-on-track	questions	Are we on track?	¿Vamos según el ritmo?
+W	positive-on-track	positiveAnswers	Yes, we're on track.	Sí, vamos según el ritmo.
+W	negative-on-track	negativeAnswers	No, we're slipping.	No, nos estamos descolgando.
+W	question-behind-schedule	questions	Are we behind schedule?	¿Vamos retrasados?
+W	positive-behind-schedule	positiveAnswers	Yes, we're behind schedule.	Sí, vamos retrasados.
+W	negative-behind-schedule	negativeAnswers	No, we're on time.	No, vamos a tiempo.
+W	question-up-to-speed	questions	Are you up to speed?	¿Estás al día?
+W	positive-up-to-speed	positiveAnswers	Yes, I'm up to date.	Sí, estoy al tanto.
+W	negative-up-to-speed	negativeAnswers	No, I need a briefing.	No, necesito un resumen.
+W	question-in-the-loop	questions	Are you in the loop?	¿Estás en copia de todo?
+W	positive-in-the-loop	positiveAnswers	Yes, I've been copied in.	Sí, me tienen en copia.
+W	negative-in-the-loop	negativeAnswers	No, nobody told me.	No, nadie me avisa.
+W	question-keep-me-posted	questions	Can you keep me posted?	¿Me vas informando?
+W	positive-keep-me-posted	positiveAnswers	Yes, I'll keep you posted.	Sí, te voy informando.
+W	negative-keep-me-posted	negativeAnswers	No, I may not be able to.	No, igual no puedo.
+W	question-bear-with-me	questions	Can you bear with me?	¿Puede esperarme un momento?
+W	positive-bear-with-me	positiveAnswers	Yes, take your time.	Sí, tómelo con calma.
+W	negative-bear-with-me	negativeAnswers	No, I haven't got long.	No, no dispongo de mucho.
+W	question-get-to-the-point	questions	Shall I get to the point?	¿Voy al grano?
+W	positive-get-to-the-point	positiveAnswers	Yes, please do.	Sí, adelante.
+W	negative-get-to-the-point	negativeAnswers	No, give me the background first.	No, primero el contexto.
+W	question-miss-the-deadline	questions	Are we going to miss the deadline?	¿Vamos a perder el plazo?
+W	positive-miss-the-deadline	positiveAnswers	Yes, it looks that way.	Sí, esa es la pinta.
+W	negative-miss-the-deadline	negativeAnswers	No, we can still make it.	No, aún podemos llegar.
+W	question-push-deadline-back	questions	Can we push the deadline back?	¿Podemos alargar el plazo?
+W	positive-push-deadline-back	positiveAnswers	Yes, we can move it.	Sí, lo podemos mover.
+W	negative-push-deadline-back	negativeAnswers	No, it can't slip.	No, no puede retrasarse.
+W	question-take-the-lead	questions	Will you take the lead?	¿Tomas tú el mando?
+W	positive-take-the-lead	positiveAnswers	Yes, I'll take the lead.	Sí, tomo yo el mando.
+W	negative-take-the-lead	negativeAnswers	No, I'd rather not.	No, preferiría no.
+W	question-step-in-for-me	questions	Can you step in for me?	¿Puedes cubrirme?
+W	positive-step-in-for-me	positiveAnswers	Yes, I can cover.	Sí, puedo cubrir.
+W	negative-step-in-for-me	negativeAnswers	No, I can't that day.	No, ese día no puedo.
+W	question-back-me-up	questions	Will you back me up?	¿Me respaldas?
+W	positive-back-me-up	positiveAnswers	Yes, I've got your back.	Sí, te cubro.
+W	negative-back-me-up	negativeAnswers	No, I can't support that.	No, no puedo apoyar eso.
+W	question-cover-for-me	questions	Can you cover for me?	¿Me cubres?
+W	positive-cover-for-me	positiveAnswers	Yes, I'll cover.	Sí, te cubro.
+W	negative-cover-for-me	negativeAnswers	No, I can't lie.	No, no puedo mentir.
+W	question-swap-with-me	questions	Can we swap?	¿Cambiamos el turno?
+W	positive-swap-with-me	positiveAnswers	Yes, that's fine.	Sí, me vale.
+W	negative-swap-with-me	negativeAnswers	No, I need my slot.	No, necesito mi hueco.
+W	question-working-from-home	questions	Are you working from home?	¿Estás teletrabajando?
+W	positive-working-from-home	positiveAnswers	Yes, I'm working from home.	Sí, estoy teletrabajando.
+W	negative-working-from-home	negativeAnswers	No, I'm in the office.	No, estoy en la oficina.
+W	question-commuting-today	questions	Are you commuting today?	¿Haces el trayecto hoy?
+W	positive-commuting-today	positiveAnswers	Yes, I'm commuting today.	Sí, hago el trayecto hoy.
+W	negative-commuting-today	negativeAnswers	No, I'm staying put.	No, me quedo.
+W	question-fully-booked	questions	Are you fully booked?	¿Está completo?
+W	positive-fully-booked	positiveAnswers	Yes, I'm fully booked.	Sí, estamos completos.
+W	negative-fully-booked	negativeAnswers	No, I have a slot.	No, queda un hueco.
+W	question-last-minute-change	questions	Was it a last-minute change?	¿Fue un cambio de última hora?
+W	positive-last-minute-change	positiveAnswers	Yes, it was.	Sí, fue de última hora.
+W	negative-last-minute-change	negativeAnswers	No, it was planned.	No, estaba previsto.
+W	question-take-a-rain-check	questions	Can I take a rain check?	¿Lo dejamos para otro día?
+W	positive-take-a-rain-check	positiveAnswers	Yes, another time.	Sí, otro día.
+W	negative-take-a-rain-check	negativeAnswers	No, it's now or never.	No, es ahora o nunca.
+W	question-grab-a-bite	questions	Shall we grab a bite?	¿Picamos algo?
+W	positive-grab-a-bite	positiveAnswers	Yes, I'm starving.	Sí, me muero de hambre.
+W	negative-grab-a-bite	negativeAnswers	No, I've just eaten.	No, acabo de comer.
+W	question-get-hold-of-her	questions	Did you get hold of her?	¿Conseguiste localizarla?
+W	positive-get-hold-of-her	positiveAnswers	Yes, I spoke to her.	Sí, hablé con ella.
+W	negative-get-hold-of-her	negativeAnswers	No, I couldn't reach her.	No, no pude.
+W	question-come-round-tonight	questions	Are you coming round tonight?	¿Pasas esta noche?
+W	positive-come-round-tonight	positiveAnswers	Yes, I'll pop in.	Sí, me paso.
+W	negative-come-round-tonight	negativeAnswers	No, I can't tonight.	No, esta noche no puedo.
+W	question-keep-you-long	questions	Am I keeping you?	¿Le estoy entreteniendo?
+W	positive-keep-you-long	positiveAnswers	Yes, I do need to go.	Sí, tengo que irme.
+W	negative-keep-you-long	negativeAnswers	No, I've got time.	No, tengo tiempo.
+W	question-look-after-this	questions	Could you look after this?	¿Puede vigilar esto?
+W	positive-look-after-this	positiveAnswers	Yes, I'll watch it.	Sí, le echo un ojo.
+W	negative-look-after-this	negativeAnswers	No, I can't stay.	No, no puedo quedarme.
+W	question-had-a-word	questions	Have you had a word with him?	¿Has hablado con él?
+W	positive-had-a-word	positiveAnswers	Yes, I've had a word with him.	Sí, he hablado con él.
+W	negative-had-a-word	negativeAnswers	No, not yet.	No, todavía no.
+W	question-get-the-hang	questions	Have you got the hang of it?	¿Ya le has cogido el truco?
+W	positive-get-the-hang	positiveAnswers	Yes, I'm getting there.	Sí, voy pillándolo.
+W	negative-get-the-hang	negativeAnswers	No, I'm still lost.	No, aún ando perdido.
+W	question-made-myself-clear	questions	Have I made myself clear?	¿Me he explicado?
+W	positive-made-myself-clear	positiveAnswers	Yes, perfectly.	Sí, perfectamente.
+W	negative-made-myself-clear	negativeAnswers	No, could you say that again?	No, ¿lo puedes repetir?
+W	question-by-any-chance-free	questions	Are you free later, by any chance?	¿Estás libre luego, por casualidad?
+W	positive-by-any-chance-free	positiveAnswers	Yes, I'm free later.	Sí, estoy libre luego.
+W	negative-by-any-chance-free	negativeAnswers	No, I'm tied up.	No, estoy liado.
+W	question-b2x-postpone-launch	questions	Would it be reasonable to postpone the launch?	¿Sería razonable aplazar el lanzamiento?
+W	positive-b2x-postpone-launch	positiveAnswers	Yes, a short delay would protect the quality of the release.	Sí, un breve aplazamiento protegería la calidad de la entrega.
+W	negative-b2x-postpone-launch	negativeAnswers	No, we should keep the original date and cut the extras instead.	No, debemos mantener la fecha y recortar lo accesorio.
+W	question-b2x-underestimated-load	questions	Have we underestimated the workload?	¿Hemos subestimado la carga de trabajo?
+W	positive-b2x-underestimated-load	positiveAnswers	Yes, the remaining tasks will take longer than we first allowed.	Sí, las tareas que quedan llevarán más de lo que calculamos.
+W	negative-b2x-underestimated-load	negativeAnswers	No, the estimate still looks realistic if we stay focused.	No, la estimación sigue siendo realista si nos mantenemos concentrados.
+W	question-b2x-sign-off-today	questions	Are you in a position to sign this off today?	¿Puede dar el visto bueno hoy?
+W	positive-b2x-sign-off-today	positiveAnswers	Yes, I have enough to approve it this afternoon.	Sí, tengo lo bastante para aprobarlo esta tarde.
+W	negative-b2x-sign-off-today	negativeAnswers	No, I still need a clearer cost breakdown first.	No, aún necesito un desglose de costes más claro.
+W	question-b2x-escalate-client	questions	Should we escalate this to the client?	¿Debemos escalarlo al cliente?
+W	positive-b2x-escalate-client	positiveAnswers	Yes, they need to hear it from us before the delay becomes obvious.	Sí, tienen que oírlo de nosotros antes de que el retraso se note.
+W	negative-b2x-escalate-client	negativeAnswers	No, we can still absorb it if we rework the sequence.	No, aún podemos absorberlo si reordenamos la secuencia.
+W	question-b2x-figures-checked	questions	Have the figures been double-checked against the source file?	¿Se han cotejado las cifras con el archivo de origen?
+W	positive-b2x-figures-checked	positiveAnswers	Yes, they match the source to the last line.	Sí, coinciden con el origen hasta la última línea.
+W	negative-b2x-figures-checked	negativeAnswers	No, I would not circulate them until someone has reconciled them.	No, no las circularía hasta que alguien las haya conciliado.
+W	question-b2x-copy-manager	questions	Would you object if I copied your manager on the reply?	¿Le importaría que copie a su responsable en la respuesta?
+W	positive-b2x-copy-manager	positiveAnswers	Yes, I would rather keep this between us until we have a proposal.	Sí, preferiría que esto quedara entre nosotros hasta tener una propuesta.
+W	negative-b2x-copy-manager	negativeAnswers	No, go ahead and copy them so the decision is visible.	No, hágalo, así la decisión queda a la vista.
+W	question-b2x-proposal-table	questions	Is the proposal still on the table?	¿Sigue la propuesta sobre la mesa?
+W	positive-b2x-proposal-table	positiveAnswers	Yes, it remains open until Friday close of business.	Sí, permanece abierta hasta el viernes al cierre.
+W	negative-b2x-proposal-table	negativeAnswers	No, they withdrew it after the last cost revision.	No, la retiraron tras la última revisión de costes.
+W	question-b2x-enough-margin	questions	Have we left ourselves enough margin on the timetable?	¿Nos hemos dejado margen suficiente en el calendario?
+W	positive-b2x-enough-margin	positiveAnswers	Yes, there is still a two-day buffer if something slips.	Sí, aún hay un colchón de dos días si algo se atrasa.
+W	negative-b2x-enough-margin	negativeAnswers	No, one late delivery would push the whole sequence.	No, una entrega tardía empujaría toda la secuencia.
+W	question-b2x-approve-week	questions	Could you approve the spend this week?	¿Podría aprobar el gasto esta semana?
+W	positive-b2x-approve-week	positiveAnswers	Yes, I can sign it once finance have coded the line.	Sí, puedo firmarlo cuando finanzas haya imputado la partida.
+W	negative-b2x-approve-week	negativeAnswers	No, it will have to wait for next week's budget meeting.	No, tendrá que esperar a la reunión de presupuesto de la semana que viene.
+W	question-b2x-circulate-minutes	questions	Should we circulate the minutes as they stand?	¿Debemos circular el acta tal como está?
+W	positive-b2x-circulate-minutes	positiveAnswers	Yes, they are accurate enough to send this evening.	Sí, es lo bastante fiel para enviarla esta noche.
+W	negative-b2x-circulate-minutes	negativeAnswers	No, two action owners still need to be named first.	No, aún hay que nombrar a dos responsables de acciones.
+W	question-b2x-looked-at-draft	questions	Have you had a chance to look at the draft?	¿Ha tenido ocasión de mirar el borrador?
+W	positive-b2x-looked-at-draft	positiveAnswers	Yes, I read it last night and the structure holds.	Sí, lo leí anoche y la estructura se sostiene.
+W	negative-b2x-looked-at-draft	negativeAnswers	No, I have not opened it yet, so do not wait for my comments.	No, aún no lo he abierto, así que no esperen mis comentarios.
+W	question-b2x-take-minutes	questions	Would you be willing to take the minutes this time?	¿Estaría dispuesto a tomar acta esta vez?
+W	positive-b2x-take-minutes	positiveAnswers	Yes, I can take them if someone else chairs.	Sí, puedo hacerlo si otra persona preside.
+W	negative-b2x-take-minutes	negativeAnswers	No, I am presenting, so I would rather not do both.	No, yo presento, así que preferiría no hacer ambas cosas.
+W	question-b2x-negotiate-deadline	questions	Is there any room to negotiate the deadline?	¿Hay margen para negociar el plazo?
+W	positive-b2x-negotiate-deadline	positiveAnswers	Yes, they will accept Friday if we confirm in writing today.	Sí, aceptarán el viernes si lo confirmamos por escrito hoy.
+W	negative-b2x-negotiate-deadline	negativeAnswers	No, they were clear that Thursday is the last acceptable day.	No, fueron claros: el jueves es el último día aceptable.
+W	question-b2x-extra-cost	questions	Have we accounted for the extra courier cost?	¿Hemos contemplado el coste extra del mensajero?
+W	positive-b2x-extra-cost	positiveAnswers	Yes, it is already in the revised total.	Sí, ya está en el total revisado.
+W	negative-b2x-extra-cost	negativeAnswers	No, that line is still missing from the spreadsheet.	No, esa partida aún falta en la hoja.
+W	question-b2x-defend-meeting	questions	Are you prepared to defend this in the steering meeting?	¿Está preparado para defender esto en el comité de seguimiento?
+W	positive-b2x-defend-meeting	positiveAnswers	Yes, I can walk them through the numbers and the trade-off.	Sí, puedo explicarles las cifras y el trueque.
+W	negative-b2x-defend-meeting	negativeAnswers	No, I would rather you presented it, as you own the figures.	No, preferiría que lo presentara usted, porque las cifras son suyas.
+W	question-b2x-hold-booking	questions	Wouldn't it be safer to hold the booking until Friday?	¿No sería más seguro retener la reserva hasta el viernes?
+W	positive-b2x-hold-booking	positiveAnswers	Yes, cancelling after Friday would cost us the deposit.	Sí, cancelar después del viernes nos costaría la señal.
+W	negative-b2x-hold-booking	negativeAnswers	No, we should confirm now or we lose the slot.	No, debemos confirmar ahora o perderemos el hueco.
+W	question-b2x-venue-writing	questions	Have they confirmed the venue in writing?	¿Han confirmado el local por escrito?
+W	positive-b2x-venue-writing	positiveAnswers	Yes, the confirmation landed this morning with the times.	Sí, la confirmación llegó esta mañana con los horarios.
+W	negative-b2x-venue-writing	negativeAnswers	No, we only have a verbal hold, which I would not rely on.	No, solo tenemos una retención verbal, en la que yo no me fiaría.

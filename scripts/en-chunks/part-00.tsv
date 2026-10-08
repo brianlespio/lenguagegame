@@ -1,0 +1,800 @@
+W	noun-house	nouns	house	casa
+W	noun-water	nouns	water	agua
+W	noun-time	nouns	time	tiempo
+W	noun-day	nouns	day	día
+W	noun-year	nouns	year	año
+W	noun-people	nouns	people	gente
+W	noun-woman	nouns	woman	mujer
+W	noun-child	nouns	child	niño/niña
+W	noun-world	nouns	world	mundo
+W	noun-life	nouns	life	vida
+W	noun-hand	nouns	hand	mano
+W	noun-food	nouns	food	comida
+W	noun-money	nouns	money	dinero
+W	noun-home	nouns	home	hogar
+W	noun-school	nouns	school	escuela
+W	noun-friend	nouns	friend	amigo/amiga
+W	noun-family	nouns	family	familia
+W	noun-city	nouns	city	ciudad
+W	noun-job	nouns	job	trabajo
+W	noun-room	nouns	room	habitación
+W	noun-car	nouns	car	coche
+W	noun-door	nouns	door	puerta
+W	noun-table	nouns	table	mesa
+W	noun-book	nouns	book	libro
+W	noun-phone	nouns	phone	teléfono
+W	noun-street	nouns	street	calle
+W	noun-morning	nouns	morning	mañana
+W	noun-night	nouns	night	noche
+W	noun-week	nouns	week	semana
+W	noun-month	nouns	month	mes
+W	noun-country	nouns	country	país
+W	noun-language	nouns	language	idioma
+W	noun-question	nouns	question	pregunta
+W	noun-answer	nouns	answer	respuesta
+W	noun-idea	nouns	idea	idea
+W	noun-problem	nouns	problem	problema
+W	noun-place	nouns	place	lugar
+W	noun-name	nouns	name	nombre
+W	noun-person	nouns	person	persona
+W	noun-thing	nouns	thing	cosa
+W	adjective-important	adjectives	important	importante
+W	adjective-good	adjectives	good	bueno
+W	adjective-bad	adjectives	bad	malo
+W	adjective-new	adjectives	new	nuevo
+W	adjective-old	adjectives	old	viejo
+W	adjective-happy	adjectives	happy	feliz
+W	adjective-sad	adjectives	sad	triste
+W	adjective-big	adjectives	big	grande
+W	adjective-small	adjectives	small	pequeño
+W	adjective-easy	adjectives	easy	fácil
+W	adjective-difficult	adjectives	difficult	difícil
+W	adjective-beautiful	adjectives	beautiful	hermoso
+W	adjective-busy	adjectives	busy	ocupado
+W	adjective-tired	adjectives	tired	cansado
+W	adjective-hungry	adjectives	hungry	hambriento
+W	adjective-full	adjectives	full	lleno
+W	adjective-empty	adjectives	empty	vacío
+W	adjective-cheap	adjectives	cheap	barato
+W	adjective-expensive	adjectives	expensive	caro
+W	adjective-ready	adjectives	ready	listo
+W	adjective-young	adjectives	young	joven
+W	adjective-strong	adjectives	strong	fuerte
+W	adjective-weak	adjectives	weak	débil
+W	adjective-hot	adjectives	hot	caliente
+W	adjective-cold	adjectives	cold	frío
+W	adjective-long	adjectives	long	largo
+W	adjective-short	adjectives	short	corto
+W	adjective-true	adjectives	true	verdadero
+W	adjective-false	adjectives	false	falso
+W	adjective-possible	adjectives	possible	posible
+W	adjective-necessary	adjectives	necessary	necesario
+W	adjective-alone	adjectives	alone	solo
+W	adjective-heavy	adjectives	heavy	pesado
+W	adjective-light	adjectives	light	ligero
+W	adjective-clean	adjectives	clean	limpio
+W	adjective-dirty	adjectives	dirty	sucio
+W	adjective-fast	adjectives	fast	rápido
+W	adjective-slow	adjectives	slow	lento
+W	adjective-quiet	adjectives	quiet	tranquilo
+W	adjective-loud	adjectives	loud	ruidoso
+W	connector-and	connectors	and	y
+W	connector-but	connectors	but	pero
+W	connector-or	connectors	or	o
+W	connector-because	connectors	because	porque
+W	connector-so	connectors	so	así que
+W	connector-however	connectors	however	sin embargo
+W	connector-therefore	connectors	therefore	por lo tanto
+W	connector-although	connectors	although	aunque
+W	connector-for-that	connectors	For that	Por eso
+W	connector-moreover	connectors	moreover	además
+W	connector-nevertheless	connectors	nevertheless	no obstante
+W	connector-unless	connectors	unless	a menos que
+W	connector-while	connectors	while	mientras
+W	connector-since	connectors	since	puesto que
+W	connector-if	connectors	if	si
+W	connector-though	connectors	though	aunque
+W	connector-meanwhile	connectors	meanwhile	mientras tanto
+W	connector-otherwise	connectors	otherwise	de lo contrario
+W	connector-besides	connectors	besides	además
+W	connector-even-though	connectors	even though	aunque
+W	connector-yet	connectors	yet	sin embargo
+W	connector-thus	connectors	thus	así
+W	connector-instead	connectors	instead	en cambio
+W	connector-whereas	connectors	whereas	mientras que
+W	connector-whether	connectors	whether	si
+W	connector-even-if	connectors	even if	aunque
+W	connector-so-that	connectors	so that	para que
+W	connector-as-soon-as	connectors	as soon as	en cuanto
+W	connector-in-order-to	connectors	in order to	para
+W	connector-finally	connectors	finally	por fin
+W	pronoun-i	pronouns	I	yo
+W	pronoun-you	pronouns	you	tú/usted
+W	pronoun-he	pronouns	he	él
+W	pronoun-she	pronouns	she	ella
+W	pronoun-it	pronouns	it	ello
+W	pronoun-we	pronouns	we	nosotros
+W	pronoun-they	pronouns	they	ellos/ellas
+W	pronoun-me	pronouns	me	me/mí
+W	pronoun-him	pronouns	him	lo/le
+W	pronoun-her	pronouns	her	la/le
+W	pronoun-us	pronouns	us	nos
+W	pronoun-them	pronouns	them	los/las
+W	pronoun-my	pronouns	my	mi/mis
+W	pronoun-your	pronouns	your	tu/tus
+W	pronoun-his	pronouns	his	su
+W	pronoun-this	pronouns	this	este/esta
+W	pronoun-that	pronouns	that	ese/aquel
+W	pronoun-who	pronouns	who	quién
+W	pronoun-what	pronouns	what	qué
+W	pronoun-someone	pronouns	someone	alguien
+W	pronoun-mine	pronouns	mine	mío
+W	pronoun-yours	pronouns	yours	tuyo
+W	pronoun-ours	pronouns	ours	nuestro
+W	pronoun-theirs	pronouns	theirs	suyo
+W	pronoun-myself	pronouns	myself	yo mismo
+W	pronoun-everyone	pronouns	everyone	todo el mundo
+W	pronoun-nobody	pronouns	nobody	nadie
+W	pronoun-which	pronouns	which	cuál
+W	pronoun-whose	pronouns	whose	cuyo
+W	pronoun-anything	pronouns	anything	cualquier cosa
+W	preposition-in	prepositions	in	en
+W	preposition-on	prepositions	on	en/sobre
+W	preposition-at	prepositions	at	en
+W	preposition-to	prepositions	to	a
+W	preposition-for	prepositions	for	para/por
+W	preposition-of	prepositions	of	de
+W	preposition-with	prepositions	with	con
+W	preposition-from	prepositions	from	de/desde
+W	preposition-by	prepositions	by	por
+W	preposition-about	prepositions	about	sobre
+W	preposition-into	prepositions	into	dentro de
+W	preposition-through	prepositions	through	a través de
+W	preposition-after	prepositions	after	después de
+W	preposition-before	prepositions	before	antes de
+W	preposition-between	prepositions	between	entre
+W	preposition-under	prepositions	under	debajo de
+W	preposition-over	prepositions	over	encima de
+W	preposition-without	prepositions	without	sin
+W	preposition-during	prepositions	during	durante
+W	preposition-against	prepositions	against	contra
+W	preposition-among	prepositions	among	entre
+W	preposition-until	prepositions	until	hasta
+W	preposition-toward	prepositions	toward	hacia
+W	preposition-across	prepositions	across	a través de
+W	preposition-around	prepositions	around	alrededor de
+W	preposition-behind	prepositions	behind	detrás de
+W	preposition-beside	prepositions	beside	al lado de
+W	preposition-except	prepositions	except	excepto
+W	preposition-inside	prepositions	inside	dentro de
+W	preposition-near	prepositions	near	cerca de
+W	adverb-very	adverbs	very	muy
+W	adverb-always	adverbs	always	siempre
+W	adverb-never	adverbs	never	nunca
+W	adverb-often	adverbs	often	a menudo
+W	adverb-sometimes	adverbs	sometimes	a veces
+W	adverb-already	adverbs	already	ya
+W	adverb-also	adverbs	also	también
+W	adverb-just	adverbs	just	recién/solo
+W	adverb-still	adverbs	still	todavía
+W	adverb-even	adverbs	even	incluso
+W	adverb-really	adverbs	really	realmente
+W	adverb-well	adverbs	well	bien
+W	adverb-too	adverbs	too	demasiado
+W	adverb-here	adverbs	here	aquí
+W	adverb-there	adverbs	there	allí
+W	adverb-now	adverbs	now	ahora
+W	adverb-then	adverbs	then	entonces
+W	adverb-today	adverbs	today	hoy
+W	adverb-quickly	adverbs	quickly	rápidamente
+W	adverb-slowly	adverbs	slowly	despacio
+W	adverb-yesterday	adverbs	yesterday	ayer
+W	adverb-tomorrow	adverbs	tomorrow	mañana
+W	adverb-almost	adverbs	almost	casi
+W	adverb-enough	adverbs	enough	suficiente
+W	adverb-quite	adverbs	quite	bastante
+W	adverb-maybe	adverbs	maybe	quizá
+W	adverb-together	adverbs	together	juntos
+W	adverb-again	adverbs	again	otra vez
+W	adverb-away	adverbs	away	lejos
+W	adverb-hard	adverbs	hard	mucho/duro
+W	noun-man	nouns	man	hombre
+W	noun-boy	nouns	boy	niño
+W	noun-girl	nouns	girl	niña
+W	noun-mother	nouns	mother	madre
+W	noun-father	nouns	father	padre
+W	noun-brother	nouns	brother	hermano
+W	noun-sister	nouns	sister	hermana
+W	noun-baby	nouns	baby	bebé
+W	noun-student	nouns	student	estudiante
+W	noun-teacher	nouns	teacher	profesor
+W	noun-doctor	nouns	doctor	médico
+W	noun-hospital	nouns	hospital	hospital
+W	noun-office	nouns	office	oficina
+W	noun-shop	nouns	shop	tienda
+W	noun-market	nouns	market	mercado
+W	noun-restaurant	nouns	restaurant	restaurante
+W	noun-hotel	nouns	hotel	hotel
+W	noun-airport	nouns	airport	aeropuerto
+W	noun-station	nouns	station	estación
+W	noun-train	nouns	train	tren
+W	noun-bus	nouns	bus	autobús
+W	noun-plane	nouns	plane	avión
+W	noun-bike	nouns	bike	bicicleta
+W	noun-boat	nouns	boat	barco
+W	noun-road	nouns	road	carretera
+W	noun-park	nouns	park	parque
+W	noun-garden	nouns	garden	jardín
+W	noun-tree	nouns	tree	árbol
+W	noun-flower	nouns	flower	flor
+W	noun-animal	nouns	animal	animal
+W	noun-dog	nouns	dog	perro
+W	noun-cat	nouns	cat	gato
+W	noun-bird	nouns	bird	pájaro
+W	noun-fish	nouns	fish	pez
+W	noun-horse	nouns	horse	caballo
+W	noun-sun	nouns	sun	sol
+W	noun-moon	nouns	moon	luna
+W	noun-rain	nouns	rain	lluvia
+W	noun-wind	nouns	wind	viento
+W	noun-snow	nouns	snow	nieve
+W	noun-fire	nouns	fire	fuego
+W	noun-earth	nouns	earth	tierra
+W	noun-sea	nouns	sea	mar
+W	noun-river	nouns	river	río
+W	noun-mountain	nouns	mountain	montaña
+W	noun-forest	nouns	forest	bosque
+W	noun-island	nouns	island	isla
+W	noun-weather	nouns	weather	tiempo
+W	noun-air	nouns	air	aire
+W	noun-sky	nouns	sky	cielo
+W	noun-floor	nouns	floor	suelo
+W	noun-wall	nouns	wall	pared
+W	noun-window	nouns	window	ventana
+W	noun-kitchen	nouns	kitchen	cocina
+W	noun-bathroom	nouns	bathroom	baño
+W	noun-bed	nouns	bed	cama
+W	noun-chair	nouns	chair	silla
+W	noun-lamp	nouns	lamp	lámpara
+W	noun-clock	nouns	clock	reloj
+W	noun-picture	nouns	picture	cuadro
+W	noun-key	nouns	key	llave
+W	noun-bag	nouns	bag	bolso
+W	noun-box	nouns	box	caja
+W	noun-paper	nouns	paper	papel
+W	noun-pen	nouns	pen	bolígrafo
+W	noun-letter	nouns	letter	carta
+W	noun-computer	nouns	computer	ordenador
+W	noun-internet	nouns	internet	internet
+W	noun-camera	nouns	camera	cámara
+W	noun-music	nouns	music	música
+W	noun-song	nouns	song	canción
+W	noun-film	nouns	film	película
+W	noun-game	nouns	game	juego
+W	noun-sport	nouns	sport	deporte
+W	noun-ball	nouns	ball	pelota
+W	noun-team	nouns	team	equipo
+W	noun-player	nouns	player	jugador
+W	noun-ticket	nouns	ticket	entrada
+W	noun-trip	nouns	trip	viaje
+W	noun-holiday	nouns	holiday	vacaciones
+W	noun-party	nouns	party	fiesta
+W	noun-gift	nouns	gift	regalo
+W	noun-birthday	nouns	birthday	cumpleaños
+W	noun-health	nouns	health	salud
+W	noun-body	nouns	body	cuerpo
+W	noun-head	nouns	head	cabeza
+W	noun-face	nouns	face	cara
+W	noun-eye	nouns	eye	ojo
+W	noun-ear	nouns	ear	oreja
+W	noun-mouth	nouns	mouth	boca
+W	noun-nose	nouns	nose	nariz
+W	noun-hair	nouns	hair	pelo
+W	noun-arm	nouns	arm	brazo
+W	noun-leg	nouns	leg	pierna
+W	noun-foot	nouns	foot	pie
+W	noun-finger	nouns	finger	dedo
+W	noun-heart	nouns	heart	corazón
+W	noun-blood	nouns	blood	sangre
+W	noun-pain	nouns	pain	dolor
+W	noun-medicine	nouns	medicine	medicina
+W	noun-law	nouns	law	ley
+W	noun-government	nouns	government	gobierno
+W	noun-police	nouns	police	policía
+W	noun-war	nouns	war	guerra
+W	noun-peace	nouns	peace	paz
+W	noun-news	nouns	news	noticias
+W	noun-story	nouns	story	historia
+W	noun-word	nouns	word	palabra
+W	noun-number	nouns	number	número
+W	noun-color	nouns	color	color
+W	noun-size	nouns	size	talla
+W	noun-price	nouns	price	precio
+W	noun-bank	nouns	bank	banco
+W	noun-card	nouns	card	tarjeta
+W	noun-company	nouns	company	empresa
+W	noun-business	nouns	business	negocio
+W	noun-product	nouns	product	producto
+W	noun-customer	nouns	customer	cliente
+W	noun-service	nouns	service	servicio
+W	noun-meeting	nouns	meeting	reunión
+W	noun-plan	nouns	plan	plan
+W	noun-project	nouns	project	proyecto
+W	noun-result	nouns	result	resultado
+W	noun-reason	nouns	reason	razón
+W	noun-fact	nouns	fact	hecho
+W	noun-information	nouns	information	información
+W	noun-example	nouns	example	ejemplo
+W	noun-difference	nouns	difference	diferencia
+W	noun-group	nouns	group	grupo
+W	noun-member	nouns	member	miembro
+W	noun-art	nouns	art	arte
+W	noun-photo	nouns	photo	foto
+W	noun-sound	nouns	sound	sonido
+W	noun-voice	nouns	voice	voz
+W	noun-dream	nouns	dream	sueño
+W	noun-fear	nouns	fear	miedo
+W	noun-science	nouns	science	ciencia
+W	noun-history	nouns	history	historia
+W	noun-class	nouns	class	clase
+W	noun-lesson	nouns	lesson	lección
+W	noun-homework	nouns	homework	deberes
+W	noun-test	nouns	test	examen
+W	noun-university	nouns	university	universidad
+W	noun-library	nouns	library	biblioteca
+W	noun-museum	nouns	museum	museo
+W	noun-cinema	nouns	cinema	cine
+W	noun-beach	nouns	beach	playa
+W	noun-village	nouns	village	pueblo
+W	noun-bridge	nouns	bridge	puente
+W	noun-building	nouns	building	edificio
+W	noun-farm	nouns	farm	granja
+W	noun-field	nouns	field	campo
+W	noun-future	nouns	future	futuro
+W	noun-age	nouns	age	edad
+W	noun-neighbor	nouns	neighbor	vecino
+W	noun-guest	nouns	guest	invitado
+W	noun-boss	nouns	boss	jefe
+W	noun-worker	nouns	worker	trabajador
+W	noun-artist	nouns	artist	artista
+W	noun-writer	nouns	writer	escritor
+W	adjective-rich	adjectives	rich	rico
+W	adjective-poor	adjectives	poor	pobre
+W	adjective-simple	adjectives	simple	simple
+W	adjective-first	adjectives	first	primero
+W	adjective-last	adjectives	last	último
+W	adjective-same	adjectives	same	mismo
+W	adjective-other	adjectives	other	otro
+W	adjective-only	adjectives	only	único
+W	adjective-high	adjectives	high	alto
+W	adjective-low	adjectives	low	bajo
+W	adjective-black	adjectives	black	negro
+W	adjective-white	adjectives	white	blanco
+W	adjective-red	adjectives	red	rojo
+W	adjective-green	adjectives	green	verde
+W	adjective-blue	adjectives	blue	azul
+W	adjective-open	adjectives	open	abierto
+W	adjective-closed	adjectives	closed	cerrado
+W	adjective-free	adjectives	free	libre
+W	adjective-sure	adjectives	sure	seguro
+W	adjective-right	adjectives	right	correcto
+W	adjective-wrong	adjectives	wrong	equivocado
+W	adjective-early	adjectives	early	temprano
+W	adjective-late	adjectives	late	tarde
+W	adjective-near	adjectives	near	cercano
+W	adjective-far	adjectives	far	lejano
+W	adjective-left	adjectives	left	izquierdo
+W	adjective-next	adjectives	next	siguiente
+W	adjective-main	adjectives	main	principal
+W	adjective-real	adjectives	real	real
+W	adjective-clear	adjectives	clear	claro
+W	adjective-dark	adjectives	dark	oscuro
+W	adjective-bright	adjectives	bright	brillante
+W	adjective-soft	adjectives	soft	suave
+W	adjective-hard	adjectives	hard	duro
+W	adjective-warm	adjectives	warm	cálido
+W	adjective-cool	adjectives	cool	fresco
+W	adjective-dry	adjectives	dry	seco
+W	adjective-wet	adjectives	wet	mojado
+W	adjective-safe	adjectives	safe	seguro
+W	adjective-dangerous	adjectives	dangerous	peligroso
+W	adjective-kind	adjectives	kind	amable
+W	adjective-nice	adjectives	nice	agradable
+W	adjective-friendly	adjectives	friendly	simpático
+W	adjective-polite	adjectives	polite	educado
+W	adjective-rude	adjectives	rude	maleducado
+W	adjective-clever	adjectives	clever	inteligente
+W	adjective-funny	adjectives	funny	gracioso
+W	adjective-serious	adjectives	serious	serio
+W	adjective-famous	adjectives	famous	famoso
+W	adjective-popular	adjectives	popular	popular
+W	adjective-special	adjectives	special	especial
+W	adjective-normal	adjectives	normal	normal
+W	adjective-strange	adjectives	strange	extraño
+W	adjective-usual	adjectives	usual	habitual
+W	adjective-useful	adjectives	useful	útil
+W	adjective-useless	adjectives	useless	inútil
+W	adjective-impossible	adjectives	impossible	imposible
+W	adjective-available	adjectives	available	disponible
+W	adjective-public	adjectives	public	público
+W	adjective-private	adjectives	private	privado
+W	adjective-local	adjectives	local	local
+W	adjective-national	adjectives	national	nacional
+W	adjective-international	adjectives	international	internacional
+W	adjective-personal	adjectives	personal	personal
+W	adjective-social	adjectives	social	social
+W	adjective-political	adjectives	political	político
+W	adjective-economic	adjectives	economic	económico
+W	adjective-natural	adjectives	natural	natural
+W	adjective-common	adjectives	common	común
+W	adjective-general	adjectives	general	general
+W	adjective-certain	adjectives	certain	cierto
+W	adjective-whole	adjectives	whole	entero
+W	adjective-complete	adjectives	complete	completo
+W	adjective-final	adjectives	final	final
+W	adjective-recent	adjectives	recent	reciente
+W	adjective-modern	adjectives	modern	moderno
+W	adjective-ancient	adjectives	ancient	antiguo
+W	adjective-wide	adjectives	wide	ancho
+W	adjective-narrow	adjectives	narrow	estrecho
+W	adjective-deep	adjectives	deep	profundo
+W	adjective-thick	adjectives	thick	grueso
+W	adjective-thin	adjectives	thin	delgado
+W	adjective-round	adjectives	round	redondo
+W	adjective-flat	adjectives	flat	plano
+W	adjective-sharp	adjectives	sharp	afilado
+W	adjective-smooth	adjectives	smooth	liso
+W	adjective-rough	adjectives	rough	áspero
+W	adjective-sweet	adjectives	sweet	dulce
+W	adjective-bitter	adjectives	bitter	amargo
+W	adjective-salty	adjectives	salty	salado
+W	adjective-fresh	adjectives	fresh	fresco
+W	adjective-raw	adjectives	raw	crudo
+W	adjective-healthy	adjectives	healthy	sano
+W	adjective-sick	adjectives	sick	enfermo
+W	adjective-dead	adjectives	dead	muerto
+W	adjective-alive	adjectives	alive	vivo
+W	adjective-asleep	adjectives	asleep	dormido
+W	adjective-awake	adjectives	awake	despierto
+W	adjective-angry	adjectives	angry	enfadado
+W	adjective-afraid	adjectives	afraid	asustado
+W	adjective-surprised	adjectives	surprised	sorprendido
+W	adjective-bored	adjectives	bored	aburrido
+W	adjective-interested	adjectives	interested	interesado
+W	adjective-excited	adjectives	excited	emocionado
+W	adjective-proud	adjectives	proud	orgulloso
+W	adjective-lonely	adjectives	lonely	solo
+W	adjective-lucky	adjectives	lucky	afortunado
+W	adjective-honest	adjectives	honest	honesto
+W	adjective-brave	adjectives	brave	valiente
+W	adjective-careful	adjectives	careful	cuidadoso
+W	adverb-soon	adverbs	soon	pronto
+W	adverb-late	adverbs	late	tarde
+W	adverb-early	adverbs	early	temprano
+W	adverb-long	adverbs	long	mucho tiempo
+W	adverb-once	adverbs	once	una vez
+W	adverb-twice	adverbs	twice	dos veces
+W	adverb-ever	adverbs	ever	alguna vez
+W	adverb-yet	adverbs	yet	aún
+W	adverb-ago	adverbs	ago	hace
+W	adverb-recently	adverbs	recently	recientemente
+W	adverb-suddenly	adverbs	suddenly	de repente
+W	adverb-immediately	adverbs	immediately	inmediatamente
+W	adverb-finally	adverbs	finally	finalmente
+W	adverb-usually	adverbs	usually	normalmente
+W	adverb-normally	adverbs	normally	normalmente
+W	adverb-generally	adverbs	generally	en general
+W	adverb-especially	adverbs	especially	especialmente
+W	adverb-probably	adverbs	probably	probablemente
+W	adverb-perhaps	adverbs	perhaps	quizá
+W	adverb-certainly	adverbs	certainly	ciertamente
+W	adverb-clearly	adverbs	clearly	claramente
+W	adverb-simply	adverbs	simply	simplemente
+W	adverb-exactly	adverbs	exactly	exactamente
+W	adverb-completely	adverbs	completely	completamente
+W	adverb-nearly	adverbs	nearly	casi
+W	adverb-hardly	adverbs	hardly	apenas
+W	adverb-rather	adverbs	rather	bastante
+W	adverb-pretty	adverbs	pretty	bastante
+W	adverb-fairly	adverbs	fairly	bastante
+W	adverb-extremely	adverbs	extremely	extremadamente
+W	adverb-highly	adverbs	highly	altamente
+W	adverb-deeply	adverbs	deeply	profundamente
+W	adverb-widely	adverbs	widely	ampliamente
+W	adverb-badly	adverbs	badly	mal
+W	adverb-carefully	adverbs	carefully	con cuidado
+W	adverb-easily	adverbs	easily	fácilmente
+W	adverb-happily	adverbs	happily	felizmente
+W	adverb-quietly	adverbs	quietly	en silencio
+W	adverb-loudly	adverbs	loudly	en voz alta
+W	adverb-abroad	adverbs	abroad	en el extranjero
+W	adverb-outside	adverbs	outside	fuera
+W	adverb-inside	adverbs	inside	dentro
+W	adverb-upstairs	adverbs	upstairs	arriba
+W	adverb-downstairs	adverbs	downstairs	abajo
+W	adverb-everywhere	adverbs	everywhere	en todas partes
+W	adverb-somewhere	adverbs	somewhere	en alguna parte
+W	adverb-nowhere	adverbs	nowhere	en ninguna parte
+W	adverb-anyway	adverbs	anyway	de todos modos
+W	adverb-however	adverbs	however	sin embargo
+W	adverb-forward	adverbs	forward	adelante
+W	connector-after	connectors	after	después de que
+W	connector-before	connectors	before	antes de que
+W	connector-until	connectors	until	hasta que
+W	connector-when	connectors	when	cuando
+W	connector-once	connectors	once	una vez que
+W	connector-as	connectors	as	como
+W	connector-as-if	connectors	as if	como si
+W	connector-provided-that	connectors	provided that	siempre que
+W	connector-as-long-as	connectors	as long as	siempre que
+W	connector-in-case	connectors	in case	por si
+W	connector-despite	connectors	despite	a pesar de
+W	connector-in-spite-of	connectors	in spite of	a pesar de
+W	connector-due-to	connectors	due to	debido a
+W	connector-owing-to	connectors	owing to	debido a
+W	connector-because-of	connectors	because of	a causa de
+W	connector-as-a-result	connectors	as a result	como resultado
+W	connector-for-example	connectors	for example	por ejemplo
+W	connector-in-fact	connectors	in fact	de hecho
+W	connector-on-the-other-hand	connectors	on the other hand	por otro lado
+W	connector-at-least	connectors	at least	al menos
+W	preposition-above	prepositions	above	encima de
+W	preposition-below	prepositions	below	debajo de
+W	preposition-beneath	prepositions	beneath	bajo
+W	preposition-beyond	prepositions	beyond	más allá de
+W	preposition-despite	prepositions	despite	a pesar de
+W	preposition-along	prepositions	along	a lo largo de
+W	preposition-onto	prepositions	onto	sobre
+W	preposition-upon	prepositions	upon	sobre
+W	preposition-within	prepositions	within	dentro de
+W	preposition-throughout	prepositions	throughout	a lo largo de
+W	preposition-off	prepositions	off	fuera de
+W	preposition-past	prepositions	past	delante de
+W	preposition-since	prepositions	since	desde
+W	preposition-unlike	prepositions	unlike	a diferencia de
+W	preposition-via	prepositions	via	vía
+W	preposition-concerning	prepositions	concerning	respecto a
+W	preposition-regarding	prepositions	regarding	con respecto a
+W	preposition-including	prepositions	including	incluido
+W	preposition-plus	prepositions	plus	más
+W	preposition-amid	prepositions	amid	en medio de
+W	pronoun-its	pronouns	its	su
+W	pronoun-our	pronouns	our	nuestro
+W	pronoun-their	pronouns	their	su
+W	pronoun-hers	pronouns	hers	suyo
+W	pronoun-these	pronouns	these	estos
+W	pronoun-those	pronouns	those	esos
+W	pronoun-whom	pronouns	whom	a quien
+W	pronoun-nothing	pronouns	nothing	nada
+W	pronoun-yourself	pronouns	yourself	tú mismo
+W	pronoun-itself	pronouns	itself	sí mismo
+W	noun-wife	nouns	wife	esposa
+W	noun-husband	nouns	husband	esposo
+W	noun-son	nouns	son	hijo
+W	noun-daughter	nouns	daughter	hija
+W	noun-uncle	nouns	uncle	tío
+W	noun-aunt	nouns	aunt	tía
+W	noun-cousin	nouns	cousin	primo
+W	noun-parent	nouns	parent	padre/madre
+W	noun-couple	nouns	couple	pareja
+W	noun-king	nouns	king	rey
+W	noun-queen	nouns	queen	reina
+W	noun-soldier	nouns	soldier	soldado
+W	noun-nurse	nouns	nurse	enfermero
+W	noun-engineer	nouns	engineer	ingeniero
+W	noun-lawyer	nouns	lawyer	abogado
+W	noun-cook	nouns	cook	cocinero
+W	noun-waiter	nouns	waiter	camarero
+W	noun-driver	nouns	driver	conductor
+W	noun-farmer	nouns	farmer	agricultor
+W	noun-scientist	nouns	scientist	científico
+W	noun-journalist	nouns	journalist	periodista
+W	noun-actor	nouns	actor	actor
+W	noun-singer	nouns	singer	cantante
+W	noun-manager	nouns	manager	gerente
+W	noun-owner	nouns	owner	dueño
+W	noun-partner	nouns	partner	socio
+W	noun-stranger	nouns	stranger	desconocido
+W	noun-audience	nouns	audience	público
+W	noun-crowd	nouns	crowd	multitud
+W	noun-citizen	nouns	citizen	ciudadano
+W	noun-patient	nouns	patient	paciente
+W	noun-tourist	nouns	tourist	turista
+W	noun-passenger	nouns	passenger	pasajero
+W	noun-staff	nouns	staff	personal
+W	noun-town	nouns	town	ciudad pequeña
+W	noun-capital	nouns	capital	capital
+W	noun-church	nouns	church	iglesia
+W	noun-castle	nouns	castle	castillo
+W	noun-factory	nouns	factory	fábrica
+W	noun-supermarket	nouns	supermarket	supermercado
+W	noun-pharmacy	nouns	pharmacy	farmacia
+W	noun-bakery	nouns	bakery	panadería
+W	noun-cafe	nouns	cafe	cafetería
+W	noun-bar	nouns	bar	bar
+W	noun-stadium	nouns	stadium	estadio
+W	noun-theatre	nouns	theatre	teatro
+W	noun-gym	nouns	gym	gimnasio
+W	noun-pool	nouns	pool	piscina
+W	noun-lake	nouns	lake	lago
+W	noun-ocean	nouns	ocean	océano
+W	noun-desert	nouns	desert	desierto
+W	noun-valley	nouns	valley	valle
+W	noun-hill	nouns	hill	colina
+W	noun-coast	nouns	coast	costa
+W	noun-path	nouns	path	camino
+W	noun-corner	nouns	corner	esquina
+W	noun-address	nouns	address	dirección
+W	noun-area	nouns	area	zona
+W	noun-region	nouns	region	región
+W	noun-district	nouns	district	distrito
+W	noun-ceiling	nouns	ceiling	techo
+W	noun-roof	nouns	roof	tejado
+W	noun-stairs	nouns	stairs	escaleras
+W	noun-garage	nouns	garage	garaje
+W	noun-bedroom	nouns	bedroom	dormitorio
+W	noun-apartment	nouns	apartment	apartamento
+W	noun-hour	nouns	hour	hora
+W	noun-minute	nouns	minute	minuto
+W	noun-second	nouns	second	segundo
+W	noun-afternoon	nouns	afternoon	tarde
+W	noun-evening	nouns	evening	atardecer
+W	noun-season	nouns	season	estación
+W	noun-spring	nouns	spring	primavera
+W	noun-summer	nouns	summer	verano
+W	noun-autumn	nouns	autumn	otoño
+W	noun-winter	nouns	winter	invierno
+W	noun-century	nouns	century	siglo
+W	noun-moment	nouns	moment	momento
+W	noun-date	nouns	date	fecha
+W	noun-past	nouns	past	pasado
+W	noun-present	nouns	present	presente
+W	noun-bread	nouns	bread	pan
+W	noun-milk	nouns	milk	leche
+W	noun-cheese	nouns	cheese	queso
+W	noun-meat	nouns	meat	carne
+W	noun-egg	nouns	egg	huevo
+W	noun-fruit	nouns	fruit	fruta
+W	noun-apple	nouns	apple	manzana
+W	noun-orange	nouns	orange	naranja
+W	noun-banana	nouns	banana	plátano
+W	noun-vegetable	nouns	vegetable	verdura
+W	noun-potato	nouns	potato	patata
+W	noun-tomato	nouns	tomato	tomate
+W	noun-rice	nouns	rice	arroz
+W	noun-sugar	nouns	sugar	azúcar
+W	noun-salt	nouns	salt	sal
+W	noun-oil	nouns	oil	aceite
+W	noun-coffee	nouns	coffee	café
+W	noun-tea	nouns	tea	té
+W	noun-wine	nouns	wine	vino
+W	noun-beer	nouns	beer	cerveza
+W	noun-juice	nouns	juice	zumo
+W	noun-breakfast	nouns	breakfast	desayuno
+W	noun-lunch	nouns	lunch	almuerzo
+W	noun-dinner	nouns	dinner	cena
+W	noun-meal	nouns	meal	comida
+W	noun-butter	nouns	butter	mantequilla
+W	noun-soup	nouns	soup	sopa
+W	noun-chicken	nouns	chicken	pollo
+W	noun-salad	nouns	salad	ensalada
+W	noun-chocolate	nouns	chocolate	chocolate
+W	noun-clothes	nouns	clothes	ropa
+W	noun-shirt	nouns	shirt	camisa
+W	noun-dress	nouns	dress	vestido
+W	noun-trousers	nouns	trousers	pantalones
+W	noun-shoes	nouns	shoes	zapatos
+W	noun-coat	nouns	coat	abrigo
+W	noun-hat	nouns	hat	sombrero
+W	noun-bottle	nouns	bottle	botella
+W	noun-cup	nouns	cup	taza
+W	noun-glass	nouns	glass	vaso
+W	noun-plate	nouns	plate	plato
+W	noun-knife	nouns	knife	cuchillo
+W	noun-fork	nouns	fork	tenedor
+W	noun-spoon	nouns	spoon	cuchara
+W	noun-fridge	nouns	fridge	nevera
+W	noun-oven	nouns	oven	horno
+W	noun-screen	nouns	screen	pantalla
+W	noun-message	nouns	message	mensaje
+W	noun-email	nouns	email	correo
+W	noun-website	nouns	website	sitio web
+W	noun-password	nouns	password	contraseña
+W	noun-data	nouns	data	datos
+W	noun-file	nouns	file	archivo
+W	noun-tool	nouns	tool	herramienta
+W	noun-machine	nouns	machine	máquina
+W	noun-engine	nouns	engine	motor
+W	noun-wheel	nouns	wheel	rueda
+W	noun-battery	nouns	battery	batería
+W	noun-success	nouns	success	éxito
+W	noun-failure	nouns	failure	fracaso
+W	noun-chance	nouns	chance	oportunidad
+W	noun-choice	nouns	choice	elección
+W	noun-decision	nouns	decision	decisión
+W	noun-opinion	nouns	opinion	opinión
+W	noun-advice	nouns	advice	consejo
+W	noun-knowledge	nouns	knowledge	conocimiento
+W	noun-skill	nouns	skill	habilidad
+W	noun-experience	nouns	experience	experiencia
+W	noun-memory	nouns	memory	memoria
+W	noun-thought	nouns	thought	pensamiento
+W	noun-feeling	nouns	feeling	sentimiento
+W	noun-hope	nouns	hope	esperanza
+W	noun-love	nouns	love	amor
+W	noun-truth	nouns	truth	verdad
+W	noun-mistake	nouns	mistake	error
+W	noun-accident	nouns	accident	accidente
+W	noun-danger	nouns	danger	peligro
+W	noun-risk	nouns	risk	riesgo
+W	noun-power	nouns	power	poder
+W	noun-change	nouns	change	cambio
+W	noun-effect	nouns	effect	efecto
+W	noun-purpose	nouns	purpose	propósito
+W	noun-goal	nouns	goal	objetivo
+W	noun-value	nouns	value	valor
+W	noun-quality	nouns	quality	calidad
+W	noun-amount	nouns	amount	cantidad
+W	noun-speed	nouns	speed	velocidad
+W	noun-weight	nouns	weight	peso
+W	noun-height	nouns	height	altura
+W	noun-distance	nouns	distance	distancia
+W	noun-direction	nouns	direction	dirección
+W	noun-side	nouns	side	lado
+W	noun-beginning	nouns	beginning	comienzo
+W	noun-end	nouns	end	final
+W	noun-method	nouns	method	método
+W	noun-system	nouns	system	sistema
+W	noun-process	nouns	process	proceso
+W	noun-rule	nouns	rule	regla
+W	noun-role	nouns	role	papel
+W	noun-crime	nouns	crime	crimen
+W	noun-tax	nouns	tax	impuesto
+W	noun-salary	nouns	salary	salario
+W	noun-cost	nouns	cost	coste
+W	noun-bill	nouns	bill	factura
+W	noun-report	nouns	report	informe
+W	noun-list	nouns	list	lista
+W	noun-note	nouns	note	nota
+W	noun-page	nouns	page	página
+W	noun-title	nouns	title	título
+W	noun-author	nouns	author	autor
+W	noun-newspaper	nouns	newspaper	periódico
+W	noun-magazine	nouns	magazine	revista
+W	noun-radio	nouns	radio	radio
+W	noun-television	nouns	television	televisión
+W	noun-energy	nouns	energy	energía
+W	noun-environment	nouns	environment	medio ambiente
+W	noun-society	nouns	society	sociedad
+W	noun-culture	nouns	culture	cultura
+W	noun-religion	nouns	religion	religión
+W	adjective-yellow	adjectives	yellow	amarillo
+W	adjective-brown	adjectives	brown	marrón
+W	adjective-grey	adjectives	grey	gris
+W	adjective-pink	adjectives	pink	rosa
+W	adjective-purple	adjectives	purple	morado
+W	adjective-orange	adjectives	orange	naranja
+W	adjective-huge	adjectives	huge	enorme
+W	adjective-tiny	adjectives	tiny	minúsculo
+W	adjective-tall	adjectives	tall	alto
+W	adjective-pretty	adjectives	pretty	bonito
+W	adjective-ugly	adjectives	ugly	feo
+W	adjective-smart	adjectives	smart	listo
+W	adjective-lazy	adjectives	lazy	perezoso
+W	adjective-nervous	adjectives	nervous	nervioso
+W	adjective-worried	adjectives	worried	preocupado
+W	adjective-confused	adjectives	confused	confundido
+W	adjective-disappointed	adjectives	disappointed	decepcionado
+W	adjective-jealous	adjectives	jealous	celoso
+W	adjective-shy	adjectives	shy	tímido
+W	adjective-confident	adjectives	confident	seguro de sí
+W	adjective-patient	adjectives	patient	paciente
+W	adjective-generous	adjectives	generous	generoso
+W	adjective-selfish	adjectives	selfish	egoísta
+W	adjective-cruel	adjectives	cruel	cruel
+W	adjective-gentle	adjectives	gentle	suave
+W	adjective-wild	adjectives	wild	salvaje
+W	adjective-crowded	adjectives	crowded	abarrotado
+W	adjective-comfortable	adjectives	comfortable	cómodo
+W	adjective-convenient	adjectives	convenient	conveniente
+W	adjective-official	adjectives	official	oficial

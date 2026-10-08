@@ -1,0 +1,800 @@
+W	question-b2x-draft-reply	Wäre es hilfreich, wenn ich eine Antwort entwürfe, die Sie absenden können?
+W	positive-b2x-draft-reply	Ja, schicken Sie mir einen Entwurf, und ich passe den Ton an.
+W	negative-b2x-draft-reply	Nein, ich schreibe sie lieber selbst, damit die Formulierung von mir ist.
+W	question-b2x-original-scope	Zielen wir nicht weiterhin auf den ursprünglichen Umfang ab?
+W	positive-b2x-original-scope	Ja, das Extra wurde zurückgestellt, und der Kern ist unverändert.
+W	negative-b2x-original-scope	Nein, nach der Prüfung der vergangenen Woche sind zwei Posten weggefallen.
+W	question-b2x-run-past-legal	Haben wir das nicht schon der Rechtsabteilung vorgelegt?
+W	positive-b2x-run-past-legal	Ja, am Montag haben sie den Text freigegeben.
+W	negative-b2x-run-past-legal	Nein, es hat unser Team noch nicht verlassen.
+W	question-b2x-hold-quarter	Sollten wir das bis zum nächsten Quartal auf Eis legen?
+W	positive-b2x-hold-quarter	Ja, wir haben vorerst nicht die Leute, um es richtig zu führen.
+W	negative-b2x-hold-quarter	Nein, eine Pause jetzt würde die bereits geleistete Arbeit verschwenden.
+W	question-b2x-written-update	Erwartet der Kunde nicht eine schriftliche Aktualisierung?
+W	positive-b2x-written-update	Ja, sie haben um eine kurze Notiz bis zum Tagesende gebeten.
+W	negative-b2x-written-update	Nein, ein Anruf hat gereicht, und sie sagten, wir sollten es nicht aufschreiben.
+W	question-b2x-everyone-briefed	Haben wir nicht alle informiert, die es wissen müssen?
+W	positive-b2x-everyone-briefed	Ja, die letzte Person wurde heute Morgen in Kopie gesetzt.
+W	negative-b2x-everyone-briefed	Nein, das regionale Team hat die Änderung noch nicht gesehen.
+W	question-b2x-split-work	Würden Sie lieber, dass wir die restliche Arbeit aufteilen?
+W	positive-b2x-split-work	Ja, ich übernehme die Analyse und überlasse Ihnen die Folien.
+W	negative-b2x-split-work	Nein, es geht schneller, wenn einer von uns das ganze Paket führt.
+W	question-b2x-go-ahead-without	Ist es Ihnen recht, wenn ich ohne Sie im Gespräch weitermache?
+W	positive-b2x-go-ahead-without	Ja, machen Sie weiter und schicken Sie mir danach die Entscheidung.
+W	negative-b2x-go-ahead-without	Nein, ich muss dabei sein, falls sie anfangen, die Zahlen zu ändern.
+W	question-b2x-suppliers-back	Haben die Lieferanten uns nicht schon geantwortet?
+W	positive-b2x-suppliers-back	Ja, ihr Angebot kam gestern, mit einer Gültigkeit von zehn Tagen.
+W	negative-b2x-suppliers-back	Nein, ich habe sie heute Morgen nachgehakt, und sie schweigen weiter.
+W	question-b2x-mention-report	Soll ich das im Wochenbericht erwähnen?
+W	positive-b2x-mention-report	Ja, es gehört unter Risiken, nicht unter Erfolge.
+W	negative-b2x-mention-report	Nein, es ist noch zu früh und würde nur Lärm machen.
+W	question-b2x-budget-training	Reicht im Budget nicht noch genug für die Schulung?
+W	positive-b2x-budget-training	Ja, der Posten ist unangetastet und deckt die drei Plätze.
+W	negative-b2x-budget-training	Nein, dieses Geld wurde verschoben, um die Extra-Lizenzen zu decken.
+W	question-b2x-owns-followup	Haben wir nicht vereinbart, wer die Nachverfolgung führt?
+W	positive-b2x-owns-followup	Ja, Marta führt sie und schließt den Kreis bis Donnerstag.
+W	negative-b2x-owns-followup	Nein, es blieb offen, und niemand hat die Aufgabe übernommen.
+W	question-b2x-join-late	Würde es Ihnen etwas ausmachen, wenn ich zehn Minuten später dazukäme?
+W	positive-b2x-join-late	Ja, ich hätte lieber, Sie wären von Anfang an dabei, weil die Entscheidung zuerst kommt.
+W	negative-b2x-join-late	Nein, kommen Sie, wann Sie können, und ich fasse den Anfang für Sie zusammen.
+W	question-finished-yet	Sind Sie schon fertig?
+W	positive-finished-yet	Ja, ich bin gerade fertig geworden.
+W	negative-finished-yet	Nein, noch nicht.
+W	question-remembered-the-keys	Haben Sie die Schlüssel mitgenommen?
+W	positive-remembered-the-keys	Ja, ich habe sie.
+W	negative-remembered-the-keys	Nein, ich habe sie drinnen gelassen.
+W	question-seen-my-keys	Haben Sie meine Schlüssel gesehen?
+W	positive-seen-my-keys	Ja, sie liegen auf dem Tisch.
+W	negative-seen-my-keys	Nein.
+W	question-got-my-message	Ist meine Nachricht nicht bei Ihnen angekommen?
+W	positive-got-my-message	Ja, sie ist angekommen.
+W	negative-got-my-message	Nein, ich habe sie nicht gesehen.
+W	question-packed-yet	Haben Sie schon gepackt?
+W	positive-packed-yet	Ja, ich bin bereit.
+W	negative-packed-yet	Nein, ich habe noch nicht angefangen.
+W	question-staying-the-night	Bleiben Sie über Nacht?
+W	positive-staying-the-night	Ja, wenn es Ihnen recht ist.
+W	negative-staying-the-night	Nein, ich gehe später nach Hause.
+W	question-met-her-before	Kennen Sie sie von früher?
+W	positive-met-her-before	Ja, einmal.
+W	negative-met-her-before	Nein, nie.
+W	question-take-long	Hat es lange gedauert?
+W	positive-take-long	Ja, etwa eine Stunde.
+W	negative-take-long	Nein, es ging schnell.
+W	question-working-this-weekend	Arbeiten Sie dieses Wochenende?
+W	positive-working-this-weekend	Ja, am Samstag.
+W	negative-working-this-weekend	Nein, ich habe frei.
+W	question-found-a-place	Haben Sie schon eine Wohnung gefunden?
+W	positive-found-a-place	Ja, ich habe letzte Woche unterschrieben.
+W	negative-found-a-place	Nein, ich suche noch.
+W	question-been-waiting-long	Warten Sie schon lange?
+W	positive-been-waiting-long	Ja, etwa zwanzig Minuten.
+W	negative-been-waiting-long	Nein, ich bin gerade angekommen.
+W	question-booked-the-hotel	Haben Sie das Hotel gebucht?
+W	positive-booked-the-hotel	Ja, es ist bestätigt.
+W	negative-booked-the-hotel	Nein, noch nicht.
+W	question-taking-the-train	Fahren Sie mit dem Zug?
+W	positive-taking-the-train	Ja, den um zehn.
+W	negative-taking-the-train	Nein, ich fahre mit dem Auto.
+W	question-have-to-leave-early	Müssen Sie früh weg?
+W	positive-have-to-leave-early	Ja, ich habe einen Zug.
+W	negative-have-to-leave-early	Nein, ich kann bleiben.
+W	question-cancelled-yet	Haben Sie schon storniert?
+W	positive-cancelled-yet	Ja, ich habe heute Morgen storniert.
+W	negative-cancelled-yet	Nein, ich mache es jetzt.
+W	question-enjoy-it	Hat es Ihnen gefallen?
+W	positive-enjoy-it	Ja, sehr.
+W	negative-enjoy-it	Nein, ehrlich gesagt nicht.
+W	question-told-them	Haben Sie es ihnen gesagt?
+W	positive-told-them	Ja, sie wissen es.
+W	negative-told-them	Nein, noch nicht.
+W	question-bringing-anything	Bringen Sie etwas mit?
+W	positive-bringing-anything	Ja, ich bringe den Nachtisch.
+W	negative-bringing-anything	Nein, ich habe keine Zeit gehabt.
+W	question-paid-already	Haben Sie schon bezahlt?
+W	positive-paid-already	Ja, erledigt.
+W	negative-paid-already	Nein, noch nicht.
+W	question-feeling-better	Geht es Ihnen besser?
+W	positive-feeling-better	Ja, viel besser.
+W	negative-feeling-better	Nein, noch ein bisschen durchwachsen.
+W	question-checked-your-email	Haben Sie Ihre E-Mails geprüft?
+W	positive-checked-your-email	Ja.
+W	negative-checked-your-email	Nein, noch nicht.
+W	question-applied-yet	Haben Sie die Bewerbung schon abgeschickt?
+W	positive-applied-yet	Ja, ich habe sie gestern geschickt.
+W	negative-applied-yet	Nein, ich schreibe sie noch.
+W	question-moving-house	Ziehen Sie um?
+W	positive-moving-house	Ja, nächsten Monat.
+W	negative-moving-house	Nein, wir bleiben.
+W	question-changed-jobs	Haben Sie den Job gewechselt?
+W	positive-changed-jobs	Ja, im März.
+W	negative-changed-jobs	Nein, ich bin noch dort.
+W	question-passed-the-exam	Haben Sie die Prüfung bestanden?
+W	positive-passed-the-exam	Ja.
+W	negative-passed-the-exam	Nein, ich werde sie wiederholen.
+W	question-still-learning-french	Lernen Sie noch Französisch?
+W	positive-still-learning-french	Ja, zweimal die Woche.
+W	negative-still-learning-french	Nein, ich habe aufgehört.
+W	question-been-to-the-doctor	Waren Sie beim Arzt?
+W	positive-been-to-the-doctor	Ja, heute Morgen.
+W	negative-been-to-the-doctor	Nein, noch nicht.
+W	question-still-live-there	Wohnen Sie noch dort?
+W	positive-still-live-there	Ja.
+W	negative-still-live-there	Nein, ich bin letztes Jahr umgezogen.
+W	question-seen-that-film	Haben Sie diesen Film gesehen?
+W	positive-seen-that-film	Ja, letzte Woche.
+W	negative-seen-that-film	Nein, noch nicht.
+W	question-send-the-address	Soll ich Ihnen die Adresse schicken?
+W	positive-send-the-address	Ja, bitte.
+W	negative-send-the-address	Nein, ich habe sie schon.
+W	question-lost-something	Haben Sie etwas verloren?
+W	positive-lost-something	Ja, meine Geldbörse.
+W	negative-lost-something	Nein, ich schaue nur.
+W	question-forget-something	Haben Sie etwas vergessen?
+W	positive-forget-something	Ja, mein Ladegerät.
+W	negative-forget-something	Nein, ich habe alles dabei.
+W	question-got-any-change	Haben Sie vielleicht Kleingeld?
+W	positive-got-any-change	Ja, bitte schön.
+W	negative-got-any-change	Nein, tut mir leid.
+W	question-called-them-yet	Haben Sie sie schon angerufen?
+W	positive-called-them-yet	Ja, heute Morgen.
+W	negative-called-them-yet	Nein, ich rufe später an.
+W	question-catch-the-train	Haben Sie den Zug erwischt?
+W	positive-catch-the-train	Ja, knapp.
+W	negative-catch-the-train	Nein, ich habe ihn verpasst.
+W	question-free-on-saturday	Haben Sie am Samstag Zeit?
+W	positive-free-on-saturday	Ja.
+W	negative-free-on-saturday	Nein, ich bin beschäftigt.
+W	question-like-dessert	Möchten Sie einen Nachtisch?
+W	positive-like-dessert	Ja, bitte.
+W	negative-like-dessert	Nein, danke, ich bin satt.
+W	question-good-trip	Hatten Sie eine gute Reise?
+W	positive-good-trip	Ja, gut.
+W	negative-good-trip	Nein, es gab Verspätungen.
+W	question-staying-at-the-hotel	Übernachten Sie im Hotel?
+W	positive-staying-at-the-hotel	Ja, zwei Nächte.
+W	negative-staying-at-the-hotel	Nein, ich bin bei einem Freund.
+W	question-any-plans-tonight	Haben Sie heute Abend Pläne?
+W	positive-any-plans-tonight	Ja, ich treffe einen Freund.
+W	negative-any-plans-tonight	Nein, ich bin frei.
+W	question-shop-closed-already	Hat der Laden schon geschlossen?
+W	positive-shop-closed-already	Ja, er schließt um sieben.
+W	negative-shop-closed-already	Nein, er ist noch offen.
+W	question-chemist-nearby	Gibt es in der Nähe eine Apotheke?
+W	positive-chemist-nearby	Ja, um die Ecke.
+W	negative-chemist-nearby	Nein, die nächste ist in der Innenstadt.
+W	question-wait-downstairs	Soll ich unten warten?
+W	positive-wait-downstairs	Ja, fünf Minuten.
+W	negative-wait-downstairs	Nein, kommen Sie hoch.
+W	question-going-to-the-concert	Gehen Sie zum Konzert?
+W	positive-going-to-the-concert	Ja, ich habe eine Karte.
+W	negative-going-to-the-concert	Nein, ich habe keine bekommen.
+W	question-show-me-the-map	Können Sie es mir auf der Karte zeigen?
+W	positive-show-me-the-map	Ja, natürlich.
+W	negative-show-me-the-map	Tut mir leid, ich bin mir auch nicht sicher.
+W	question-been-away	Waren Sie weg?
+W	positive-been-away	Ja, ich war in Italien.
+W	negative-been-away	Nein, ich war hier.
+W	question-expecting-us	Erwarten sie uns?
+W	positive-expecting-us	Ja, ich habe ihnen Bescheid gesagt.
+W	negative-expecting-us	Nein, ich habe nicht angerufen.
+W	question-chosen-yet	Haben Sie schon gewählt?
+W	positive-chosen-yet	Ja, ich nehme den Fisch.
+W	negative-chosen-yet	Nein, ich brauche noch eine Minute.
+W	question-like-ice-in-that	Möchten Sie Eis dazu?
+W	positive-like-ice-in-that	Ja, bitte.
+W	negative-like-ice-in-that	Nein, danke.
+W	question-need-a-coat	Nehmen Sie einen Mantel mit?
+W	positive-need-a-coat	Ja, es ist kühl.
+W	negative-need-a-coat	Nein, mir wird warm genug sein.
+W	question-sleep-well	Haben Sie gut geschlafen?
+W	positive-sleep-well	Ja, danke.
+W	negative-sleep-well	Nein, ich war die halbe Nacht wach.
+W	question-wake-you-up	Habe ich Sie geweckt?
+W	positive-wake-you-up	Ja, aber das macht nichts.
+W	negative-wake-you-up	Nein, ich war schon wach.
+W	question-borrow-this	Kann ich mir das ausleihen?
+W	positive-borrow-this	Ja, natürlich.
+W	negative-borrow-this	Tut mir leid, ich brauche es.
+W	question-keep-this	Kann ich das behalten?
+W	positive-keep-this	Ja, es ist für Sie.
+W	negative-keep-this	Nein, ich brauche es zurück.
+W	question-send-it-today	Können Sie es heute schicken?
+W	positive-send-it-today	Ja, ich schicke es heute Nachmittag.
+W	negative-send-it-today	Nein, frühestens morgen.
+W	question-picked-one-yet	Haben Sie schon eines ausgesucht?
+W	positive-picked-one-yet	Ja, dieses.
+W	negative-picked-one-yet	Nein, ich kann mich nicht entscheiden.
+W	question-prefer-this-one	Bevorzugen Sie dieses?
+W	positive-prefer-this-one	Ja, dieses ist besser.
+W	negative-prefer-this-one	Nein, ich bevorzuge das andere.
+W	question-too-expensive	Ist es zu teuer?
+W	positive-too-expensive	Ja, für mich schon.
+W	negative-too-expensive	Nein, es ist angemessen.
+W	question-got-enough	Haben wir genug?
+W	positive-got-enough	Ja, das sollte reichen.
+W	negative-got-enough	Nein, wir brauchen mehr.
+W	question-need-a-break	Brauchen Sie eine Pause?
+W	positive-need-a-break	Ja, fünf Minuten.
+W	negative-need-a-break	Nein, machen wir weiter.
+W	question-vegetarian	Essen Sie vegetarisch?
+W	positive-vegetarian	Ja.
+W	negative-vegetarian	Nein.
+W	question-another-drink	Möchten Sie noch etwas trinken?
+W	positive-another-drink	Ja, dasselbe noch einmal.
+W	negative-another-drink	Nein, danke, mir reicht es.
+W	question-split-the-bill	Teilen wir die Rechnung?
+W	positive-split-the-bill	Ja.
+W	negative-split-the-bill	Nein, ich lade ein.
+W	question-got-an-umbrella	Haben Sie einen Schirm?
+W	positive-got-an-umbrella	Ja, in der Tasche.
+W	negative-got-an-umbrella	Nein.
+W	question-bringing-a-jacket	Nehmen Sie eine Jacke mit?
+W	positive-bringing-a-jacket	Ja.
+W	negative-bringing-a-jacket	Nein, mir wird nicht kalt.
+W	question-missed-your-call	Habe ich Ihren Anruf verpasst?
+W	positive-missed-your-call	Ja, ich habe Sie vorhin angerufen.
+W	negative-missed-your-call	Nein, ich habe nicht angerufen.
+W	question-replied-yet	Haben Sie schon geantwortet?
+W	positive-replied-yet	Ja, heute Morgen.
+W	negative-replied-yet	Nein, ich habe keine Zeit gehabt.
+W	question-signed-it-yet	Haben Sie es schon unterschrieben?
+W	positive-signed-it-yet	Ja.
+W	negative-signed-it-yet	Nein, ich brauche einen Stift.
+W	question-printed-it	Haben Sie es ausgedruckt?
+W	positive-printed-it	Ja, es liegt auf dem Schreibtisch.
+W	negative-printed-it	Nein, der Drucker geht nicht.
+W	question-saved-a-copy	Haben Sie eine Kopie gespeichert?
+W	positive-saved-a-copy	Ja.
+W	negative-saved-a-copy	Nein, ich mache das jetzt.
+W	question-left-already	Ist sie schon gegangen?
+W	positive-left-already	Ja, vor etwa zehn Minuten.
+W	negative-left-already	Nein, sie ist noch hier.
+W	question-arriving-soon	Kommt er bald?
+W	positive-arriving-soon	Ja, in etwa zehn Minuten.
+W	negative-arriving-soon	Nein, er kommt zu spät.
+W	question-delayed-again	Hat es wieder Verspätung?
+W	positive-delayed-again	Ja, zwanzig Minuten.
+W	negative-delayed-again	Nein, es ist pünktlich.
+W	question-need-to-change-trains	Müssen wir umsteigen?
+W	positive-need-to-change-trains	Ja, in Lyon.
+W	negative-need-to-change-trains	Nein, es ist direkt.
+W	question-need-directions	Brauchen Sie eine Wegbeschreibung?
+W	positive-need-directions	Ja, bitte.
+W	negative-need-directions	Nein, ich kenne den Weg.
+W	question-seen-my-glasses	Haben Sie meine Brille gesehen?
+W	positive-seen-my-glasses	Ja, neben dem Spülbecken.
+W	negative-seen-my-glasses	Nein.
+W	question-locked-the-door	Haben Sie die Tür abgeschlossen?
+W	positive-locked-the-door	Ja.
+W	negative-locked-the-door	Nein, ich glaube nicht.
+W	question-brought-your-passport	Haben Sie Ihren Pass mitgebracht?
+W	positive-brought-your-passport	Ja, er ist in der Tasche.
+W	negative-brought-your-passport	Nein, er ist zu Hause.
+W	question-charged-your-phone	Haben Sie Ihr Handy aufgeladen?
+W	positive-charged-your-phone	Ja, es ist voll.
+W	negative-charged-your-phone	Nein, es ist fast leer.
+W	question-turned-the-heating-on	Haben Sie die Heizung angestellt?
+W	positive-turned-the-heating-on	Ja.
+W	negative-turned-the-heating-on	Nein, das ist mir entfallen.
+W	question-want-a-bag	Möchten Sie eine Tüte?
+W	positive-want-a-bag	Ja, bitte.
+W	negative-want-a-bag	Nein, danke.
+W	question-try-this-on	Kann ich das anprobieren?
+W	positive-try-this-on	Ja, natürlich.
+W	negative-try-this-on	Tut mir leid, es gibt keine Umkleide.
+W	question-have-this-in-blue	Haben Sie das vielleicht in Blau?
+W	positive-have-this-in-blue	Ja, bitte schön.
+W	negative-have-this-in-blue	Nein, nur in Schwarz.
+W	question-smaller-size	Haben Sie eine kleinere Größe?
+W	positive-smaller-size	Ja, hier eine 38.
+W	negative-smaller-size	Nein, das ist die kleinste.
+W	question-last-one	Ist das das letzte?
+W	positive-last-one	Ja.
+W	negative-last-one	Nein, im Lager sind noch welche.
+W	question-on-sale	Ist es im Angebot?
+W	positive-on-sale	Ja, zwanzig Prozent Rabatt.
+W	negative-on-sale	Nein, das ist der volle Preis.
+W	question-find-everything	Haben Sie gefunden, was Sie gesucht haben?
+W	positive-find-everything	Ja, danke.
+W	negative-find-everything	Nein, ich suche noch.
+W	question-have-the-menu	Können Sie mir die Speisekarte bringen?
+W	positive-have-the-menu	Ja, bitte schön.
+W	negative-have-the-menu	Tut mir leid, wir schließen gleich.
+W	question-have-the-bill	Können Sie mir die Rechnung bringen?
+W	positive-have-the-bill	Ja, ich bringe sie Ihnen.
+W	negative-have-the-bill	Tut mir leid, bitte zahlen Sie an der Kasse.
+W	question-sit-outside	Können wir uns draußen setzen?
+W	positive-sit-outside	Ja, natürlich.
+W	negative-sit-outside	Nein, die Terrasse ist geschlossen.
+W	question-wifi-here	Haben Sie WLAN?
+W	positive-wifi-here	Ja, das Passwort liegt auf dem Tisch.
+W	negative-wifi-here	Nein, tut mir leid.
+W	question-wifi-free	Ist das WLAN kostenlos?
+W	positive-wifi-free	Ja.
+W	negative-wifi-free	Nein, Sie müssen etwas bestellen.
+W	question-breakfast-included	Ist das Frühstück inbegriffen?
+W	positive-breakfast-included	Ja, von sieben bis zehn.
+W	negative-breakfast-included	Nein, das kostet extra.
+W	question-toilet-here	Gibt es eine Toilette?
+W	positive-toilet-here	Ja, hinten.
+W	negative-toilet-here	Nein, hier nicht.
+W	question-lift-working	Funktioniert der Aufzug?
+W	positive-lift-working	Ja.
+W	negative-lift-working	Nein, bitte nehmen Sie die Treppe.
+W	question-cash-machine	Gibt es einen Geldautomaten?
+W	positive-cash-machine	Ja, neben der Bank.
+W	negative-cash-machine	Nein, nicht in dieser Straße.
+W	question-supermarket-near	Gibt es in der Nähe einen Supermarkt?
+W	positive-supermarket-near	Ja, fünf Minuten entfernt.
+W	negative-supermarket-near	Nein, Sie müssen den Bus nehmen.
+W	question-bank-near	Gibt es in der Nähe eine Bank?
+W	positive-bank-near	Ja, in der nächsten Straße.
+W	negative-bank-near	Nein, sie ist in der Innenstadt.
+W	question-right-platform	Ist das der richtige Bahnsteig?
+W	positive-right-platform	Ja, Bahnsteig drei.
+W	negative-right-platform	Nein, Sie brauchen Bahnsteig fünf.
+W	question-this-your-stop	Ist das Ihre Haltestelle?
+W	positive-this-your-stop	Ja, ich steige hier aus.
+W	negative-this-your-stop	Nein, die nächste.
+W	question-bus-to-airport	Gibt es einen Bus zum Flughafen?
+W	positive-bus-to-airport	Ja, alle zwanzig Minuten.
+W	negative-bus-to-airport	Nein, nehmen Sie den Zug.
+W	question-buy-ticket-on-bus	Kann ich die Fahrkarte im Bus kaufen?
+W	positive-buy-ticket-on-bus	Ja, bar.
+W	negative-buy-ticket-on-bus	Nein, Sie brauchen einen Automaten.
+W	question-train-to-paris	Fährt dieser Zug nach Paris?
+W	positive-train-to-paris	Ja.
+W	negative-train-to-paris	Nein, dieser fährt nach Lyon.
+W	question-shops-sunday	Haben die Geschäfte am Sonntag geöffnet?
+W	positive-shops-sunday	Ja, bis eins.
+W	negative-shops-sunday	Nein, sie sind geschlossen.
+W	question-museum-free	Ist das Museum kostenlos?
+W	positive-museum-free	Ja, am ersten Sonntag.
+W	negative-museum-free	Nein, es kostet zwölf Euro.
+W	question-pool-open	Ist das Schwimmbad geöffnet?
+W	positive-pool-open	Ja, bis acht.
+W	negative-pool-open	Nein, heute ist es geschlossen.
+W	question-water-safe	Kann man das Wasser trinken?
+W	positive-water-safe	Ja.
+W	negative-water-safe	Nein, kaufen Sie Flaschenwasser.
+W	question-tap-water-ok	Geht Leitungswasser?
+W	positive-tap-water-ok	Ja, natürlich.
+W	negative-tap-water-ok	Wir servieren nur Flaschenwasser.
+W	question-window-seat	Kann ich am Fenster sitzen?
+W	positive-window-seat	Ja, 14A ist frei.
+W	negative-window-seat	Nein, es sind nur noch Gangplätze frei.
+W	question-leave-my-coat	Kann ich meinen Mantel lassen?
+W	positive-leave-my-coat	Ja, dort drüben.
+W	negative-leave-my-coat	Nein, bitte behalten Sie ihn bei sich.
+W	question-extra-towels	Können Sie mir Extra-Handtücher schicken?
+W	positive-extra-towels	Ja, wir bringen Ihnen welche hoch.
+W	negative-extra-towels	Tut mir leid, es sind keine mehr da.
+W	question-leave-luggage	Kann ich mein Gepäck lassen?
+W	positive-leave-luggage	Ja, bis sechs.
+W	negative-leave-luggage	Nein, die Rezeption ist geschlossen.
+W	question-checking-out-today	Reisen Sie heute ab?
+W	positive-checking-out-today	Ja, heute Morgen.
+W	negative-checking-out-today	Nein, ich bleibe noch eine Nacht.
+W	question-travelling-alone	Reisen Sie allein?
+W	positive-travelling-alone	Ja.
+W	negative-travelling-alone	Nein, ich bin mit einem Freund unterwegs.
+W	question-on-holiday	Sind Sie im Urlaub?
+W	positive-on-holiday	Ja, eine Woche.
+W	negative-on-holiday	Nein, ich bin hier beruflich.
+W	question-fly-here	Sind Sie mit dem Flugzeug gekommen?
+W	positive-fly-here	Ja, heute Morgen.
+W	negative-fly-here	Nein, ich bin mit dem Zug gekommen.
+W	question-walk-here	Sind Sie zu Fuß gekommen?
+W	positive-walk-here	Ja, es war nah.
+W	negative-walk-here	Nein, ich habe ein Taxi genommen.
+W	question-come-by-car	Sind Sie mit dem Auto gekommen?
+W	positive-come-by-car	Ja, ich habe draußen geparkt.
+W	negative-come-by-car	Nein, ich habe den Bus genommen.
+W	question-take-the-metro	Haben Sie die U-Bahn genommen?
+W	positive-take-the-metro	Ja, Linie 4.
+W	negative-take-the-metro	Nein, ich bin zu Fuß gekommen.
+W	question-way-to-the-beach	Ist das der Weg zum Strand?
+W	positive-way-to-the-beach	Ja, geradeaus.
+W	negative-way-to-the-beach	Nein, kehren Sie um.
+W	question-city-centre-this	Ist das die Innenstadt?
+W	positive-city-centre-this	Ja.
+W	negative-city-centre-this	Nein, noch zwei Haltestellen weiter.
+W	question-post-office-near	Ist die Post in der Nähe?
+W	positive-post-office-near	Ja, um die Ecke.
+W	negative-post-office-near	Nein, es ist ziemlich weit.
+W	question-write-it-down	Können Sie es mir aufschreiben?
+W	positive-write-it-down	Ja, natürlich.
+W	negative-write-it-down	Tut mir leid, ich habe keinen Stift.
+W	question-borrow-a-pen	Kann ich mir einen Stift ausleihen?
+W	positive-borrow-a-pen	Ja, bitte schön.
+W	negative-borrow-a-pen	Tut mir leid, das ist mein einziger.
+W	question-come-in	Darf ich hereinkommen?
+W	positive-come-in	Ja, kommen Sie herein.
+W	negative-come-in	Tut mir leid, jetzt ist ein schlechter Zeitpunkt.
+W	question-anybody-home	Ist jemand da?
+W	positive-anybody-home	Ja, ich bin da.
+W	negative-anybody-home	Nein, niemand ist da.
+W	question-your-birthday	Haben Sie Geburtstag?
+W	positive-your-birthday	Ja, heute.
+W	negative-your-birthday	Nein, nächsten Monat.
+W	question-play-football	Spielen Sie Fußball?
+W	positive-play-football	Ja, am Wochenende.
+W	negative-play-football	Nein.
+W	question-can-you-swim	Können Sie schwimmen?
+W	positive-can-you-swim	Ja.
+W	negative-can-you-swim	Nein.
+W	question-go-school-today	Waren Sie heute in der Schule?
+W	positive-go-school-today	Ja.
+W	negative-go-school-today	Nein, es war frei.
+W	question-homework-done	Haben Sie Ihre Hausaufgaben gemacht?
+W	positive-homework-done	Ja, gestern Abend.
+W	negative-homework-done	Nein, das ist mir entfallen.
+W	question-test-tomorrow	Ist die Prüfung morgen?
+W	positive-test-tomorrow	Ja.
+W	negative-test-tomorrow	Nein, am Freitag.
+W	question-in-my-class	Sind Sie in meiner Klasse?
+W	positive-in-my-class	Ja.
+W	negative-in-my-class	Nein, ich bin in 4B.
+W	question-library-open	Ist die Bibliothek geöffnet?
+W	positive-library-open	Ja, bis sechs.
+W	negative-library-open	Nein, montags ist sie geschlossen.
+W	question-working-today	Arbeiten Sie heute?
+W	positive-working-today	Ja, bis fünf.
+W	negative-working-today	Nein, ich habe frei.
+W	question-cooking-tonight	Kochen Sie heute Abend?
+W	positive-cooking-tonight	Ja, Nudeln.
+W	negative-cooking-tonight	Nein, wir bestellen Essen.
+W	question-go-shopping	Waren Sie einkaufen?
+W	positive-go-shopping	Ja, heute Nachmittag.
+W	negative-go-shopping	Nein, ich gehe morgen.
+W	question-pass-the-salt	Können Sie mir das Salz reichen?
+W	positive-pass-the-salt	Ja, bitte schön.
+W	negative-pass-the-salt	Tut mir leid, ich habe es nicht.
+W	question-more-bread	Brauchen wir mehr Brot?
+W	positive-more-bread	Ja, können Sie welches holen?
+W	negative-more-bread	Nein, wir haben genug.
+W	question-milk-left	Ist noch Milch da?
+W	positive-milk-left	Ja, ein bisschen.
+W	negative-milk-left	Nein, sie ist alle.
+W	question-coffee-good-here	Ist der Kaffee hier gut?
+W	positive-coffee-good-here	Ja, er ist sehr gut.
+W	negative-coffee-good-here	Nein, er ist etwas schwach.
+W	question-kitchen-still-open	Ist die Küche noch geöffnet?
+W	positive-kitchen-still-open	Ja, bis zehn.
+W	negative-kitchen-still-open	Nein, die Küche ist geschlossen.
+W	question-room-clean	War das Zimmer sauber?
+W	positive-room-clean	Ja, es war in Ordnung.
+W	negative-room-clean	Nein, ich musste um ein anderes bitten.
+W	question-noisy-at-night	Ist es nachts laut?
+W	positive-noisy-at-night	Ja, ein bisschen.
+W	negative-noisy-at-night	Nein, es ist ruhig.
+W	question-turn-on-the-light	Darf ich das Licht anmachen?
+W	positive-turn-on-the-light	Ja, nur zu.
+W	negative-turn-on-the-light	Nein, ich versuche zu schlafen.
+W	question-close-the-window	Haben Sie das Fenster geschlossen?
+W	positive-close-the-window	Ja.
+W	negative-close-the-window	Nein, es ist noch offen.
+W	question-phone-on-silent	Ist Ihr Handy auf lautlos?
+W	positive-phone-on-silent	Ja.
+W	negative-phone-on-silent	Nein, ich mache die Lautstärke leiser.
+W	question-text-me	Können Sie mir eine Nachricht schicken?
+W	positive-text-me	Ja.
+W	negative-text-me	Nein, ich habe kein Netz.
+W	question-waiting-for-someone	Warten Sie auf jemanden?
+W	positive-waiting-for-someone	Ja, auf einen Freund.
+W	negative-waiting-for-someone	Nein, ich sitze nur hier.
+W	question-share-a-table	Können wir uns einen Tisch teilen?
+W	positive-share-a-table	Ja, natürlich.
+W	negative-share-a-table	Tut mir leid, wir warten noch auf weitere Leute.
+W	question-put-bag-here	Kann ich meine Tasche hier hinlegen?
+W	positive-put-bag-here	Ja, kein Problem.
+W	negative-put-bag-here	Nein, dieser Platz ist belegt.
+W	question-in-the-queue	Stehen Sie in der Schlange?
+W	positive-in-the-queue	Ja.
+W	negative-in-the-queue	Nein, ich schaue nur.
+W	question-boarding-now	Steigen wir jetzt ein?
+W	positive-boarding-now	Ja, Gruppe zwei.
+W	negative-boarding-now	Nein, noch nicht.
+W	question-take-laptop-out	Muss ich meinen Laptop herausnehmen?
+W	positive-take-laptop-out	Ja, bitte.
+W	negative-take-laptop-out	Nein, Sie können ihn in der Tasche lassen.
+W	question-like-pizza	Mögen Sie Pizza?
+W	positive-like-pizza	Ja, ich mag sie.
+W	negative-like-pizza	Nein, ich mag sie nicht.
+W	question-like-chocolate	Mögen Sie Schokolade?
+W	positive-like-chocolate	Ja, ich mag sie.
+W	negative-like-chocolate	Nein, ich mag sie nicht.
+W	question-like-dogs	Mögen Sie Hunde?
+W	positive-like-dogs	Ja, ich mag sie.
+W	negative-like-dogs	Nein, ich mag sie nicht.
+W	question-like-cats	Mögen Sie Katzen?
+W	positive-like-cats	Ja, ich mag sie.
+W	negative-like-cats	Nein, ich mag sie nicht.
+W	question-like-films	Mögen Sie Filme?
+W	positive-like-films	Ja, ich mag sie.
+W	negative-like-films	Nein, ich mag sie nicht.
+W	question-like-sport	Mögen Sie Sport?
+W	positive-like-sport	Ja, ich mag ihn.
+W	negative-like-sport	Nein, ich mag ihn nicht.
+W	question-like-books	Mögen Sie Bücher?
+W	positive-like-books	Ja, ich mag sie.
+W	negative-like-books	Nein, ich mag sie nicht.
+W	question-like-fish	Mögen Sie Fisch?
+W	positive-like-fish	Ja, ich mag ihn.
+W	negative-like-fish	Nein, ich mag ihn nicht.
+W	question-like-salad	Mögen Sie Salat?
+W	positive-like-salad	Ja, ich mag ihn.
+W	negative-like-salad	Nein, ich mag ihn nicht.
+W	question-like-cheese	Mögen Sie Käse?
+W	positive-like-cheese	Ja, ich mag ihn.
+W	negative-like-cheese	Nein, ich mag ihn nicht.
+W	question-want-juice	Möchten Sie Saft?
+W	positive-want-juice	Ja, bitte.
+W	negative-want-juice	Nein, danke.
+W	question-want-milk	Möchten Sie Milch?
+W	positive-want-milk	Ja, bitte.
+W	negative-want-milk	Nein, danke.
+W	question-want-bread	Möchten Sie Brot?
+W	positive-want-bread	Ja, bitte.
+W	negative-want-bread	Nein, danke.
+W	question-want-a-sandwich	Möchten Sie ein Sandwich?
+W	positive-want-a-sandwich	Ja, bitte.
+W	negative-want-a-sandwich	Nein, danke.
+W	question-want-sugar	Möchten Sie Zucker?
+W	positive-want-sugar	Ja, bitte.
+W	negative-want-sugar	Nein, danke.
+W	question-have-a-sister	Haben Sie eine Schwester?
+W	positive-have-a-sister	Ja, ich habe eine Schwester.
+W	negative-have-a-sister	Nein, ich habe keine Schwester.
+W	question-have-a-dog	Haben Sie einen Hund?
+W	positive-have-a-dog	Ja, ich habe einen Hund.
+W	negative-have-a-dog	Nein, ich habe keinen Hund.
+W	question-have-a-cat	Haben Sie eine Katze?
+W	positive-have-a-cat	Ja, ich habe eine Katze.
+W	negative-have-a-cat	Nein, ich habe keine Katze.
+W	question-have-a-bike	Haben Sie ein Fahrrad?
+W	positive-have-a-bike	Ja, ich habe ein Fahrrad.
+W	negative-have-a-bike	Nein, ich habe kein Fahrrad.
+W	question-have-a-key	Haben Sie einen Schlüssel?
+W	positive-have-a-key	Ja, ich habe einen Schlüssel.
+W	negative-have-a-key	Nein, ich habe keinen Schlüssel.
+W	question-have-a-map	Haben Sie eine Karte?
+W	positive-have-a-map	Ja, ich habe eine.
+W	negative-have-a-map	Nein, ich habe keine Karte.
+W	question-have-a-pen	Haben Sie einen Stift?
+W	positive-have-a-pen	Ja, ich habe einen.
+W	negative-have-a-pen	Nein, ich habe keinen.
+W	question-have-a-garden	Haben Sie einen Garten?
+W	positive-have-a-garden	Ja, ich habe einen Garten.
+W	negative-have-a-garden	Nein, ich habe keinen Garten.
+W	question-have-a-job	Haben Sie eine Arbeit?
+W	positive-have-a-job	Ja, ich habe eine Arbeit.
+W	negative-have-a-job	Nein, ich habe keine Arbeit.
+W	question-have-cash	Haben Sie Bargeld?
+W	positive-have-cash	Ja.
+W	negative-have-cash	Nein, ich habe kein Bargeld.
+W	question-are-you-happy	Sind Sie zufrieden?
+W	positive-are-you-happy	Ja, ich bin zufrieden.
+W	negative-are-you-happy	Nein, ich bin nicht zufrieden.
+W	question-are-you-ill	Sind Sie krank?
+W	positive-are-you-ill	Ja, ich bin krank.
+W	negative-are-you-ill	Nein, ich bin nicht krank.
+W	question-are-you-new-here	Sind Sie neu hier?
+W	positive-are-you-new-here	Ja, ich bin neu.
+W	negative-are-you-new-here	Nein, ich bin nicht neu.
+W	question-are-you-a-teacher	Sind Sie Lehrer?
+W	positive-are-you-a-teacher	Ja, ich bin Lehrer.
+W	negative-are-you-a-teacher	Nein, ich bin kein Lehrer.
+W	question-are-you-a-doctor	Sind Sie Arzt?
+W	positive-are-you-a-doctor	Ja, ich bin Arzt.
+W	negative-are-you-a-doctor	Nein, ich bin kein Arzt.
+W	question-are-you-english	Sind Sie Engländer?
+W	positive-are-you-english	Ja, ich bin Engländer.
+W	negative-are-you-english	Nein, ich bin kein Engländer.
+W	question-are-you-french	Sind Sie Franzose?
+W	positive-are-you-french	Ja, ich bin Franzose.
+W	negative-are-you-french	Nein, ich bin kein Franzose.
+W	question-are-you-at-home	Sind Sie zu Hause?
+W	positive-are-you-at-home	Ja, ich bin zu Hause.
+W	negative-are-you-at-home	Nein, ich bin nicht zu Hause.
+W	question-are-you-at-work	Sind Sie bei der Arbeit?
+W	positive-are-you-at-work	Ja, ich bin bei der Arbeit.
+W	negative-are-you-at-work	Nein, ich bin nicht bei der Arbeit.
+W	question-are-you-late	Kommen Sie zu spät?
+W	positive-are-you-late	Ja, ich komme zu spät.
+W	negative-are-you-late	Nein, ich komme nicht zu spät.
+W	question-is-he-here	Ist er hier?
+W	positive-is-he-here	Ja, er ist hier.
+W	negative-is-he-here	Nein, er ist nicht hier.
+W	question-is-this-your-bag	Ist das Ihre Tasche?
+W	positive-is-this-your-bag	Ja, die ist meine.
+W	negative-is-this-your-bag	Nein, die ist nicht meine.
+W	question-is-this-your-book	Ist das Ihr Buch?
+W	positive-is-this-your-book	Ja, das ist meins.
+W	negative-is-this-your-book	Nein, das ist nicht meins.
+W	question-is-this-your-house	Ist das Ihr Haus?
+W	positive-is-this-your-house	Ja, das ist mein Haus.
+W	negative-is-this-your-house	Nein, das ist nicht mein Haus.
+W	question-is-this-ok	Ist das in Ordnung für Sie?
+W	positive-is-this-ok	Ja, das ist in Ordnung.
+W	negative-is-this-ok	Nein, das ist nicht in Ordnung.
+W	question-is-it-new	Ist es neu?
+W	positive-is-it-new	Ja, es ist neu.
+W	negative-is-it-new	Nein, es ist nicht neu.
+W	question-is-it-big	Ist es groß?
+W	positive-is-it-big	Ja, es ist groß.
+W	negative-is-it-big	Nein, es ist nicht groß.
+W	question-is-it-small	Ist es klein?
+W	positive-is-it-small	Ja, es ist klein.
+W	negative-is-it-small	Nein, es ist nicht klein.
+W	question-is-it-cheap	Ist es billig?
+W	positive-is-it-cheap	Ja, es ist billig.
+W	negative-is-it-cheap	Nein, es ist nicht billig.
+W	question-is-it-expensive	Ist es teuer?
+W	positive-is-it-expensive	Ja, es ist teuer.
+W	negative-is-it-expensive	Nein, es ist nicht teuer.
+W	question-is-it-free-cost	Ist das kostenlos?
+W	positive-is-it-free-cost	Ja, es ist kostenlos.
+W	negative-is-it-free-cost	Nein, es ist nicht kostenlos.
+W	question-is-this-london	Ist das London?
+W	positive-is-this-london	Ja, das ist London.
+W	negative-is-this-london	Nein, das ist nicht London.
+W	question-is-this-the-bathroom	Ist das die Toilette?
+W	positive-is-this-the-bathroom	Ja.
+W	negative-is-this-the-bathroom	Nein, sie ist links.
+W	question-is-the-door-open	Ist die Tür offen?
+W	positive-is-the-door-open	Ja, sie ist offen.
+W	negative-is-the-door-open	Nein, sie ist zu.
+W	question-is-the-light-on	Ist das Licht an?
+W	positive-is-the-light-on	Ja, es ist an.
+W	negative-is-the-light-on	Nein, es ist aus.
+W	question-can-you-cook	Können Sie kochen?
+W	positive-can-you-cook	Ja, ich kann kochen.
+W	negative-can-you-cook	Nein, ich kann es nicht.
+W	question-can-you-drive	Können Sie Auto fahren?
+W	positive-can-you-drive	Ja, ich kann Auto fahren.
+W	negative-can-you-drive	Nein, ich kann es nicht.
+W	question-can-you-dance	Können Sie tanzen?
+W	positive-can-you-dance	Ja, ich kann tanzen.
+W	negative-can-you-dance	Nein, ich kann es nicht.
+W	question-can-you-hear-me	Können Sie mich hören?
+W	positive-can-you-hear-me	Ja, ich höre Sie.
+W	negative-can-you-hear-me	Nein, ich höre Sie nicht.
+W	question-can-you-read-this	Können Sie das lesen?
+W	positive-can-you-read-this	Ja, ich kann es.
+W	negative-can-you-read-this	Nein, ich kann es nicht.
+W	question-can-you-open-this	Können Sie das öffnen?
+W	positive-can-you-open-this	Ja, ich kann es.
+W	negative-can-you-open-this	Nein, ich kann es nicht.
+W	question-can-i-have-this	Kann ich das mitnehmen?
+W	positive-can-i-have-this	Ja, natürlich.
+W	negative-can-i-have-this	Nein, tut mir leid.
+W	question-can-we-start	Können wir anfangen?
+W	positive-can-we-start	Ja.
+W	negative-can-we-start	Nein, noch nicht.
+W	question-speak-spanish	Sprechen Sie Spanisch?
+W	positive-speak-spanish	Ja, ich spreche Spanisch.
+W	negative-speak-spanish	Nein, ich spreche kein Spanisch.
+W	question-speak-french	Sprechen Sie Französisch?
+W	positive-speak-french	Ja, ich spreche Französisch.
+W	negative-speak-french	Nein, ich spreche kein Französisch.
+W	question-know-her	Kennen Sie sie?
+W	positive-know-her	Ja, ich kenne sie.
+W	negative-know-her	Nein, ich kenne sie nicht.
+W	question-is-she-your-sister	Ist sie Ihre Schwester?
+W	positive-is-she-your-sister	Ja, sie ist meine Schwester.
+W	negative-is-she-your-sister	Nein, sie ist nicht meine Schwester.
+W	question-is-he-your-friend	Ist er Ihr Freund?
+W	positive-is-he-your-friend	Ja, er ist mein Freund.
+W	negative-is-he-your-friend	Nein, er ist nicht mein Freund.
+W	question-do-you-eat-meat	Essen Sie Fleisch?
+W	positive-do-you-eat-meat	Ja, ich esse Fleisch.
+W	negative-do-you-eat-meat	Nein, ich esse kein Fleisch.
+W	question-are-you-a-tourist	Sind Sie Tourist?
+W	positive-are-you-a-tourist	Ja.
+W	negative-are-you-a-tourist	Nein, ich wohne hier.
+W	question-live-in-a-house	Wohnen Sie in einem Haus?
+W	positive-live-in-a-house	Ja, ich wohne in einem Haus.
+W	negative-live-in-a-house	Nein, ich wohne in einer Wohnung.
+W	question-at-loggerheads	Sind Sie noch völlig zerstritten?
+W	positive-at-loggerheads	Ja, keine Seite weicht um einen Zoll.
+W	negative-at-loggerheads	Nein, wir haben es schon auf ein oder zwei Punkte eingeengt.
+W	question-poisoned-chalice	Ist die Ernennung ein vergiftetes Geschenk?
+W	positive-poisoned-chalice	Ja, wer sie annimmt, kommt fast sicher schlechter heraus.
+W	negative-poisoned-chalice	Nein, es ist ein harter Posten, aber er ist nicht darauf angelegt, Sie zu ruinieren.
+W	question-pyrrhic-victory	War das ein Pyrrhussieg?
+W	positive-pyrrhic-victory	Ja, wir haben den Punkt gewonnen und weit mehr gezahlt, als er wert war.
+W	negative-pyrrhic-victory	Nein, der Gewinn wiegt immer noch auf, was es uns gekostet hat.
+W	question-fait-accompli	Wird uns eine vollendete Tatsache präsentiert?
+W	positive-fait-accompli	Ja, es ist schon geschehen, und es gibt keinen realistischen Weg zurück.
+W	negative-fait-accompli	Nein, die Entscheidung lässt sich noch rückgängig machen.
+W	question-beyond-the-pale	War das unannehmbar?
+W	positive-beyond-the-pale	Ja, es ging weit über das hinaus, was hier irgendjemand anständig hinnehmen kann.
+W	negative-beyond-the-pale	Nein, es war scharf, blieb aber im Rahmen.
+W	question-crossed-the-rubicon	Haben wir den Rubikon überschritten?
+W	positive-crossed-the-rubicon	Ja, umzukehren wäre jetzt eine andere und teurere Entscheidung.
+W	negative-crossed-the-rubicon	Nein, wir können noch den Kurs ändern.
+W	question-fig-leaf	Ist diese Absicherung bloß ein Feigenblatt?
+W	positive-fig-leaf	Ja, sie verdeckt nur, dass sie in Wahrheit nichts bindet.
+W	negative-fig-leaf	Nein, sie leistet wirklich die Arbeit, die sie vorgibt.
+W	question-dialogue-of-the-deaf	Ist das zu einem Dialog unter Tauben verkommen?
+W	positive-dialogue-of-the-deaf	Ja, jeder wiederholt seine These, ohne den anderen zu hören.
+W	negative-dialogue-of-the-deaf	Nein, wir gehen die Streitpunkte wirklich an.
+W	question-trojan-horse	Ist die Hauptklausel ein trojanisches Pferd?
+W	positive-trojan-horse	Ja, die eigentliche Nutzlast steckt in einer Nebenbestimmung.
+W	negative-trojan-horse	Nein, sie sagt genau das, was sie zu sagen scheint.
+W	question-pandoras-box	Haben wir die Büchse der Pandora geöffnet?
+W	positive-pandoras-box	Ja, die Folgen sind der ursprünglichen Entscheidung schon entglitten.
+W	negative-pandoras-box	Nein, wir können die Wirkungen noch eindämmen.
+W	question-thin-end-of-wedge	Ist das der Fuß in der Tür?
+W	positive-thin-end-of-wedge	Ja, einmal zugestanden, nutzen sie es, um den Rest aufzubrechen.
+W	negative-thin-end-of-wedge	Nein, das Zugeständnis ist eng eingegrenzt.
+W	question-rearranging-deckchairs	Stellen wir bloß die Liegestühle um?
+W	positive-rearranging-deckchairs	Ja, das eigentliche Scheitern bleibt unangetastet.
+W	negative-rearranging-deckchairs	Nein, die Maßnahme stoppt den Niedergang wirklich.
+W	question-canary-in-the-mine	Ist das der Kanarienvogel in der Kohlemine?
+W	positive-canary-in-the-mine	Ja, es ist eine Frühwarnung für ein größeres Problem, kein Einzelfall.
+W	negative-canary-in-the-mine	Nein, es ist diesem Fall eigen und verallgemeinert sich nicht.
+W	question-boiling-the-frog	Kochen wir den Frosch?
+W	positive-boiling-the-frog	Ja, jeder kleine Schritt soll unbemerkt bleiben, bis der Schaden feststeht.
+W	negative-boiling-the-frog	Nein, jeder echte Schritt wäre auffällig genug, um Widerstand auszulösen.
+W	question-dead-letter	Ist diese Vorschrift ein toter Buchstabe?
+W	positive-dead-letter	Ja, sie gilt noch förmlich, und niemand wendet sie je an.
+W	negative-dead-letter	Nein, man beruft sich noch darauf, und sie hat noch Biss.
+W	question-flogging-a-dead-horse	Reiten wir ein totes Argument tot?
+W	positive-flogging-a-dead-horse	Ja, der Punkt ist ausgereizt; ein weiteres Argument belebt ihn nicht.
+W	negative-flogging-a-dead-horse	Nein, es bleibt eine offene Frage, die niemand geklärt hat.
+W	question-straw-man	Ist das ein Strohmann?
+W	positive-straw-man	Ja, Sie haben die These, die ich wirklich vertrete, durch eine schwächere ersetzt.
+W	negative-straw-man	Nein, das ist eine faire Wiedergabe dessen, was ich gesagt habe.
+W	question-motte-and-bailey	Ist das ein Motte-and-Bailey?
+W	positive-motte-and-bailey	Ja, Sie tragen die kühne These vor und ziehen sich unter Druck auf die bescheidene zurück.
+W	negative-motte-and-bailey	Nein, ich verteidige durchgängig dieselbe These mit derselben Stärke.
+W	question-begging-the-question	Ist das nicht eine Petitio Principii?
+W	positive-begging-the-question	Ja, die Schlussfolgerung steckt schon in einer Prämisse, die sie stützen sollte.
+W	negative-begging-the-question	Nein, die Prämisse trägt für sich.
+W	question-false-dichotomy	Ist das ein falsches Dilemma?
+W	positive-false-dichotomy	Ja, diese beiden Optionen erschöpfen nicht, was möglich ist.
+W	negative-false-dichotomy	Nein, das sind wirklich die einzigen beiden, und sie können nicht beide wahr sein.
+W	question-argument-from-authority	Ist das bloß ein Autoritätsargument?
+W	positive-argument-from-authority	Ja, der Name leistet die Arbeit, die die Gründe leisten sollten.
+W	negative-argument-from-authority	Nein, die Begründung hält, wenn man den Namen herausnimmt.
+W	question-ad-hominem	War das ein Ad-hominem-Angriff?
+W	positive-ad-hominem	Ja, Sie sind auf den Sprecher losgegangen und nicht auf die These.
+W	negative-ad-hominem	Nein, Sie haben den Schluss angegriffen, nicht die Person, die ihn zieht.
+W	question-no-true-scotsman	Ist das der Sophismus vom wahren Schotten?
+W	positive-no-true-scotsman	Ja, Sie definieren die Gruppe still um, damit das Gegenbeispiel nicht mehr zählt.
+W	negative-no-true-scotsman	Nein, die Definition stand fest, bevor dieses Beispiel auftauchte.
+W	question-special-pleading	Bitten Sie um eine Ausnahme nach Maß?
+W	positive-special-pleading	Ja, Sie verlangen eine Ausnahme, die Sie niemandem sonst gewähren würden.
+W	negative-special-pleading	Nein, die Unterscheidung ist prinzipiell, und ich würde sie auf vergleichbare Fälle anwenden.
+W	question-loaded-question	Ist das eine Suggestivfrage?
+W	positive-loaded-question	Ja, ich kann sie nicht beantworten, ohne eine noch strittige Prämisse zuzugestehen.
+W	negative-loaded-question	Nein, sie setzt den streitigen Punkt selbst nicht voraus.
+W	question-equivocating	Spielen Sie mit der Mehrdeutigkeit des Begriffs?
+W	positive-equivocating	Ja, die Bedeutung hat sich zwischen Prämisse und Schluss verschoben.
+W	negative-equivocating	Nein, ich verwende das Wort durchgängig im selben Sinn.
+W	question-sophistry	Ist das Sophisterei?
+W	positive-sophistry	Ja, es hat die Form eines Arguments, ohne einen gültigen Schritt darunter.
+W	negative-sophistry	Nein, der Schluss ist stichhaltig, und die Prämissen stehen in Ordnung.
+W	question-in-camera	Halten wir das hinter verschlossenen Türen?
+W	positive-in-camera	Ja, niemand außerhalb dieses Raums soll es hören.
+W	negative-in-camera	Nein, das ist eine offene Aussprache, und jeder darf bleiben.
+W	question-sub-judice	Liegt das noch vor Gericht?
+W	positive-sub-judice	Ja, deshalb sollten wir den Streitstoff nicht öffentlich erörtern.
+W	negative-sub-judice	Nein, es ist entschieden, und wir können frei sprechen.
+W	question-without-prejudice	Ist das nur ein inoffizielles Gespräch?
+W	positive-without-prejudice	Ja, nichts hiervon soll später gegen jemanden verwendet werden.
+W	negative-without-prejudice	Nein, das steht zu Protokoll, und wir können uns daran halten.
+W	question-ultra-vires	Haben sie ihre Befugnis überschritten?
+W	positive-ultra-vires	Ja, sie sind weit über das hinausgegangen, wozu sie wirklich befugt waren.
+W	negative-ultra-vires	Nein, es lag noch in dem, was sie entscheiden durften.
+W	question-locus-standi	Haben Sie überhaupt ein wirkliches Interesse daran?
+W	positive-locus-standi	Ja, es betrifft mich unmittelbar, und ich habe jedes Recht, gehört zu werden.
+W	negative-locus-standi	Nein, das ist nicht wirklich meine Sache, und ich sollte nicht darauf drängen.
+W	question-hearsay	Ist das nur etwas, das Sie aus zweiter Hand gehört haben?
+W	positive-hearsay	Ja, ich war nicht dabei; ich wiederhole nur, was man mir erzählt hat.
+W	negative-hearsay	Nein, ich habe es selbst gesehen.
+W	question-legal-privilege	Soll dieses Gespräch vertraulich bleiben?
+W	positive-legal-privilege	Ja, es war ein privater Austausch um Rat, und er sollte nicht weitererzählt werden.

@@ -1,0 +1,800 @@
+W	question-b2x-draft-reply	questions	Would it help if I drafted a reply for you to send?	¿Ayudaría que yo redactara una respuesta para que la envíe?
+W	positive-b2x-draft-reply	positiveAnswers	Yes, send me a draft and I will adjust the tone.	Sí, mándeme un borrador y yo ajustaré el tono.
+W	negative-b2x-draft-reply	negativeAnswers	No, I would rather write it myself so the wording is mine.	No, preferiría escribirla yo para que la redacción sea mía.
+W	question-b2x-original-scope	questions	Aren't we still aiming for the original scope?	¿No seguimos apuntando al alcance original?
+W	positive-b2x-original-scope	positiveAnswers	Yes, the extras were parked and the core is unchanged.	Sí, lo extra quedó aparcado y el núcleo no ha cambiado.
+W	negative-b2x-original-scope	negativeAnswers	No, two items were dropped after last week's review.	No, se cayeron dos partidas tras la revisión de la semana pasada.
+W	question-b2x-run-past-legal	questions	Haven't we already run this past legal?	¿No se lo hemos pasado ya a jurídico?
+W	positive-b2x-run-past-legal	positiveAnswers	Yes, they cleared the wording on Monday.	Sí, dieron el visto bueno al texto el lunes.
+W	negative-b2x-run-past-legal	negativeAnswers	No, it has not left our team yet.	No, aún no ha salido de nuestro equipo.
+W	question-b2x-hold-quarter	questions	Should we put this on hold until next quarter?	¿Debemos dejarlo en suspenso hasta el próximo trimestre?
+W	positive-b2x-hold-quarter	positiveAnswers	Yes, we do not have the people to run it properly before then.	Sí, no tenemos gente para llevarlo bien antes de entonces.
+W	negative-b2x-hold-quarter	negativeAnswers	No, a pause now would waste the work already done.	No, una pausa ahora malgastaría el trabajo ya hecho.
+W	question-b2x-written-update	questions	Isn't the client expecting a written update?	¿No espera el cliente una actualización por escrito?
+W	positive-b2x-written-update	positiveAnswers	Yes, they asked for a short note by the end of the day.	Sí, pidieron una nota breve para el final del día.
+W	negative-b2x-written-update	negativeAnswers	No, a call was enough and they said not to write it up.	No, bastó una llamada y dijeron que no lo redactáramos.
+W	question-b2x-everyone-briefed	questions	Haven't we briefed everyone who needs to know?	¿No hemos informado a todos los que deben saberlo?
+W	positive-b2x-everyone-briefed	positiveAnswers	Yes, the last person was copied this morning.	Sí, a la última persona se la copió esta mañana.
+W	negative-b2x-everyone-briefed	negativeAnswers	No, the regional team still has not seen the change.	No, el equipo regional aún no ha visto el cambio.
+W	question-b2x-split-work	questions	Would you rather we split the remaining work?	¿Preferiría que partiéramos el trabajo que queda?
+W	positive-b2x-split-work	positiveAnswers	Yes, I would rather take the analysis and leave you the slides.	Sí, yo me quedaría con el análisis y le dejaría las diapositivas.
+W	negative-b2x-split-work	negativeAnswers	No, it will be faster if one of us owns the whole pack.	No, irá más rápido si uno de los dos lleva todo el paquete.
+W	question-b2x-go-ahead-without	questions	Are you happy for me to go ahead without you on the call?	¿Le parece bien que yo siga sin usted en la llamada?
+W	positive-b2x-go-ahead-without	positiveAnswers	Yes, go ahead and send me the decision afterwards.	Sí, siga y mándeme después la decisión.
+W	negative-b2x-go-ahead-without	negativeAnswers	No, I need to be there if they start changing the numbers.	No, tengo que estar si empiezan a cambiar las cifras.
+W	question-b2x-suppliers-back	questions	Haven't the suppliers come back to us?	¿No nos han contestado ya los proveedores?
+W	positive-b2x-suppliers-back	positiveAnswers	Yes, their quote arrived yesterday with a ten-day validity.	Sí, su presupuesto llegó ayer, con validez de diez días.
+W	negative-b2x-suppliers-back	negativeAnswers	No, I chased them this morning and they are still silent.	No, los reclamé esta mañana y siguen en silencio.
+W	question-b2x-mention-report	questions	Should I mention this in the weekly report?	¿Debo mencionarlo en el informe semanal?
+W	positive-b2x-mention-report	positiveAnswers	Yes, it belongs under risks, not under achievements.	Sí, corresponde a riesgos, no a logros.
+W	negative-b2x-mention-report	negativeAnswers	No, it is still too early and would only raise noise.	No, aún es pronto y solo armaría ruido.
+W	question-b2x-budget-training	questions	Isn't there still enough in the budget for the training?	¿No queda bastante en el presupuesto para la formación?
+W	positive-b2x-budget-training	positiveAnswers	Yes, the line is untouched and covers the three places.	Sí, la partida está intacta y cubre las tres plazas.
+W	negative-b2x-budget-training	negativeAnswers	No, that money was moved to cover the extra licences.	No, ese dinero se movió para cubrir las licencias extra.
+W	question-b2x-owns-followup	questions	Haven't we agreed who owns the follow-up?	¿No hemos acordado quién lleva el seguimiento?
+W	positive-b2x-owns-followup	positiveAnswers	Yes, Marta owns it and will close the loop by Thursday.	Sí, Marta lo lleva y cerrará el círculo el jueves.
+W	negative-b2x-owns-followup	negativeAnswers	No, it was left hanging and nobody took the action.	No, quedó colgando y nadie tomó la acción.
+W	question-b2x-join-late	questions	Would you mind if I joined the call ten minutes late?	¿Le importaría que me uniera a la llamada diez minutos tarde?
+W	positive-b2x-join-late	positiveAnswers	Yes, I would rather you joined from the start, as the decision is first.	Sí, preferiría que estuviera desde el principio, porque la decisión va primero.
+W	negative-b2x-join-late	negativeAnswers	No, join when you can and I will recap the opening.	No, únase cuando pueda y yo le resumiré el arranque.
+W	question-finished-yet	questions	Have you finished yet?	¿Has acabado ya?
+W	positive-finished-yet	positiveAnswers	Yes, I've just finished.	Sí, acabo de terminar.
+W	negative-finished-yet	negativeAnswers	No, not yet.	No, todavía no.
+W	question-remembered-the-keys	questions	Did you remember the keys?	¿Has cogido las llaves?
+W	positive-remembered-the-keys	positiveAnswers	Yes, I've got them.	Sí, las tengo.
+W	negative-remembered-the-keys	negativeAnswers	No, I left them inside.	No, las he dejado dentro.
+W	question-seen-my-keys	questions	Have you seen my keys?	¿Has visto mis llaves?
+W	positive-seen-my-keys	positiveAnswers	Yes, they're on the table.	Sí, están en la mesa.
+W	negative-seen-my-keys	negativeAnswers	No, I haven't.	No.
+W	question-got-my-message	questions	Did you get my message?	¿No te ha llegado mi mensaje?
+W	positive-got-my-message	positiveAnswers	Yes, I did.	Sí, me llegó.
+W	negative-got-my-message	negativeAnswers	No, I haven't seen it.	No, no lo he visto.
+W	question-packed-yet	questions	Have you packed yet?	¿Has hecho ya la maleta?
+W	positive-packed-yet	positiveAnswers	Yes, I'm ready.	Sí, estoy listo.
+W	negative-packed-yet	negativeAnswers	No, I haven't started.	No, no he empezado.
+W	question-staying-the-night	questions	Are you staying the night?	¿Te quedas a dormir?
+W	positive-staying-the-night	positiveAnswers	Yes, if that's OK.	Sí, si no te importa.
+W	negative-staying-the-night	negativeAnswers	No, I'll go home later.	No, me iré a casa luego.
+W	question-met-her-before	questions	Have you met her before?	¿La conoces de antes?
+W	positive-met-her-before	positiveAnswers	Yes, once.	Sí, una vez.
+W	negative-met-her-before	negativeAnswers	No, never.	No, nunca.
+W	question-take-long	questions	Did it take long?	¿Tardó mucho?
+W	positive-take-long	positiveAnswers	Yes, about an hour.	Sí, una hora más o menos.
+W	negative-take-long	negativeAnswers	No, it was quick.	No, fue rápido.
+W	question-working-this-weekend	questions	Are you working this weekend?	¿Trabajas este fin de semana?
+W	positive-working-this-weekend	positiveAnswers	Yes, on Saturday.	Sí, el sábado.
+W	negative-working-this-weekend	negativeAnswers	No, I'm off.	No, no me toca.
+W	question-found-a-place	questions	Have you found a place yet?	¿Has encontrado piso ya?
+W	positive-found-a-place	positiveAnswers	Yes, I signed last week.	Sí, firmé la semana pasada.
+W	negative-found-a-place	negativeAnswers	No, I'm still looking.	No, sigo buscando.
+W	question-been-waiting-long	questions	Have you been waiting long?	¿Llevas mucho esperando?
+W	positive-been-waiting-long	positiveAnswers	Yes, about twenty minutes.	Sí, unos veinte minutos.
+W	negative-been-waiting-long	negativeAnswers	No, I've just arrived.	No, acabo de llegar.
+W	question-booked-the-hotel	questions	Have you booked the hotel?	¿Has reservado el hotel?
+W	positive-booked-the-hotel	positiveAnswers	Yes, it's confirmed.	Sí, está confirmado.
+W	negative-booked-the-hotel	negativeAnswers	No, not yet.	No, todavía no.
+W	question-taking-the-train	questions	Are you taking the train?	¿Vas en tren?
+W	positive-taking-the-train	positiveAnswers	Yes, the ten o'clock.	Sí, el de las diez.
+W	negative-taking-the-train	negativeAnswers	No, I'm driving.	No, voy en coche.
+W	question-have-to-leave-early	questions	Do you have to leave early?	¿Tienes que irte pronto?
+W	positive-have-to-leave-early	positiveAnswers	Yes, I've got a train.	Sí, tengo tren.
+W	negative-have-to-leave-early	negativeAnswers	No, I can stay.	No, puedo quedarme.
+W	question-cancelled-yet	questions	Have you cancelled yet?	¿Has cancelado ya?
+W	positive-cancelled-yet	positiveAnswers	Yes, I cancelled this morning.	Sí, he cancelado esta mañana.
+W	negative-cancelled-yet	negativeAnswers	No, I'll do it now.	No, lo hago ahora.
+W	question-enjoy-it	questions	Did you enjoy it?	¿Te gustó?
+W	positive-enjoy-it	positiveAnswers	Yes, a lot.	Sí, mucho.
+W	negative-enjoy-it	negativeAnswers	No, not really.	No, la verdad no.
+W	question-told-them	questions	Have you told them?	¿Se lo has dicho?
+W	positive-told-them	positiveAnswers	Yes, they know.	Sí, lo saben.
+W	negative-told-them	negativeAnswers	No, not yet.	No, todavía no.
+W	question-bringing-anything	questions	Are you bringing anything?	¿Traes algo?
+W	positive-bringing-anything	positiveAnswers	Yes, I'll bring dessert.	Sí, llevo el postre.
+W	negative-bringing-anything	negativeAnswers	No, I haven't had time.	No, no he tenido tiempo.
+W	question-paid-already	questions	Have you paid already?	¿Has pagado ya?
+W	positive-paid-already	positiveAnswers	Yes, it's done.	Sí, ya está.
+W	negative-paid-already	negativeAnswers	No, not yet.	No, todavía no.
+W	question-feeling-better	questions	Are you feeling better?	¿Te encuentras mejor?
+W	positive-feeling-better	positiveAnswers	Yes, much better.	Sí, mucho mejor.
+W	negative-feeling-better	negativeAnswers	No, still a bit rough.	No, aún un poco regular.
+W	question-checked-your-email	questions	Have you checked your email?	¿Has mirado el correo?
+W	positive-checked-your-email	positiveAnswers	Yes, I have.	Sí.
+W	negative-checked-your-email	negativeAnswers	No, not yet.	No, todavía no.
+W	question-applied-yet	questions	Have you applied yet?	¿Has enviado ya la solicitud?
+W	positive-applied-yet	positiveAnswers	Yes, I sent it yesterday.	Sí, la mandé ayer.
+W	negative-applied-yet	negativeAnswers	No, I'm still writing it.	No, todavía la estoy redactando.
+W	question-moving-house	questions	Are you moving house?	¿Os mudáis?
+W	positive-moving-house	positiveAnswers	Yes, next month.	Sí, el mes que viene.
+W	negative-moving-house	negativeAnswers	No, we're staying.	No, nos quedamos.
+W	question-changed-jobs	questions	Have you changed jobs?	¿Has cambiado de trabajo?
+W	positive-changed-jobs	positiveAnswers	Yes, in March.	Sí, en marzo.
+W	negative-changed-jobs	negativeAnswers	No, I'm still there.	No, sigo ahí.
+W	question-passed-the-exam	questions	Did you pass the exam?	¿Aprobaste el examen?
+W	positive-passed-the-exam	positiveAnswers	Yes, I did.	Sí.
+W	negative-passed-the-exam	negativeAnswers	No, I'll retake it.	No, lo voy a repetir.
+W	question-still-learning-french	questions	Are you still learning French?	¿Sigues estudiando francés?
+W	positive-still-learning-french	positiveAnswers	Yes, twice a week.	Sí, dos veces por semana.
+W	negative-still-learning-french	negativeAnswers	No, I stopped.	No, lo dejé.
+W	question-been-to-the-doctor	questions	Have you been to the doctor?	¿Has ido al médico?
+W	positive-been-to-the-doctor	positiveAnswers	Yes, this morning.	Sí, esta mañana.
+W	negative-been-to-the-doctor	negativeAnswers	No, not yet.	No, todavía no.
+W	question-still-live-there	questions	Do you still live there?	¿Sigues viviendo ahí?
+W	positive-still-live-there	positiveAnswers	Yes, I do.	Sí.
+W	negative-still-live-there	negativeAnswers	No, I moved last year.	No, me mudé el año pasado.
+W	question-seen-that-film	questions	Have you seen that film?	¿Has visto esa peli?
+W	positive-seen-that-film	positiveAnswers	Yes, last week.	Sí, la semana pasada.
+W	negative-seen-that-film	negativeAnswers	No, not yet.	No, todavía no.
+W	question-send-the-address	questions	Shall I send you the address?	¿Te mando la dirección?
+W	positive-send-the-address	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-send-the-address	negativeAnswers	No, I've already got it.	No, ya la tengo.
+W	question-lost-something	questions	Have you lost something?	¿Ha perdido algo?
+W	positive-lost-something	positiveAnswers	Yes, my wallet.	Sí, la cartera.
+W	negative-lost-something	negativeAnswers	No, I'm just looking.	No, solo estoy mirando.
+W	question-forget-something	questions	Did you forget something?	¿Se te ha olvidado algo?
+W	positive-forget-something	positiveAnswers	Yes, my charger.	Sí, el cargador.
+W	negative-forget-something	negativeAnswers	No, I've got everything.	No, llevo todo.
+W	question-got-any-change	questions	Have you got any change?	¿No tendrá cambio?
+W	positive-got-any-change	positiveAnswers	Yes, here you are.	Sí, tome.
+W	negative-got-any-change	negativeAnswers	No, sorry.	No, lo siento.
+W	question-called-them-yet	questions	Have you called them yet?	¿Los has llamado ya?
+W	positive-called-them-yet	positiveAnswers	Yes, this morning.	Sí, esta mañana.
+W	negative-called-them-yet	negativeAnswers	No, I'll call later.	No, llamo luego.
+W	question-catch-the-train	questions	Did you catch the train?	¿Cogiste el tren?
+W	positive-catch-the-train	positiveAnswers	Yes, just.	Sí, por los pelos.
+W	negative-catch-the-train	negativeAnswers	No, I missed it.	No, lo perdí.
+W	question-free-on-saturday	questions	Are you free on Saturday?	¿Estás libre el sábado?
+W	positive-free-on-saturday	positiveAnswers	Yes, I am.	Sí.
+W	negative-free-on-saturday	negativeAnswers	No, I'm busy.	No, estoy ocupado.
+W	question-like-dessert	questions	Would you like dessert?	¿Quiere postre?
+W	positive-like-dessert	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-like-dessert	negativeAnswers	No, thank you, I'm full.	No, gracias, estoy lleno.
+W	question-good-trip	questions	Did you have a good trip?	¿Tuviste buen viaje?
+W	positive-good-trip	positiveAnswers	Yes, it was fine.	Sí, bien.
+W	negative-good-trip	negativeAnswers	No, there were delays.	No, hubo retrasos.
+W	question-staying-at-the-hotel	questions	Are you staying at the hotel?	¿Se aloja en el hotel?
+W	positive-staying-at-the-hotel	positiveAnswers	Yes, for two nights.	Sí, dos noches.
+W	negative-staying-at-the-hotel	negativeAnswers	No, I'm at a friend's.	No, estoy en casa de un amigo.
+W	question-any-plans-tonight	questions	Have you got any plans tonight?	¿Tienes planes esta noche?
+W	positive-any-plans-tonight	positiveAnswers	Yes, I'm meeting a friend.	Sí, quedo con un amigo.
+W	negative-any-plans-tonight	negativeAnswers	No, I'm free.	No, estoy libre.
+W	question-shop-closed-already	questions	Has the shop closed already?	¿Ha cerrado ya?
+W	positive-shop-closed-already	positiveAnswers	Yes, it closes at seven.	Sí, cierra a las siete.
+W	negative-shop-closed-already	negativeAnswers	No, it's still open.	No, sigue abierto.
+W	question-chemist-nearby	questions	Is there a chemist nearby?	¿Hay una farmacia cerca?
+W	positive-chemist-nearby	positiveAnswers	Yes, round the corner.	Sí, a la vuelta.
+W	negative-chemist-nearby	negativeAnswers	No, the nearest is in town.	No, la más cercana está en el centro.
+W	question-wait-downstairs	questions	Shall I wait downstairs?	¿Te espero abajo?
+W	positive-wait-downstairs	positiveAnswers	Yes, I'll be five minutes.	Sí, cinco minutos.
+W	negative-wait-downstairs	negativeAnswers	No, come up.	No, sube.
+W	question-going-to-the-concert	questions	Are you going to the concert?	¿Vas al concierto?
+W	positive-going-to-the-concert	positiveAnswers	Yes, I've got a ticket.	Sí, tengo entrada.
+W	negative-going-to-the-concert	negativeAnswers	No, I couldn't get one.	No, no conseguí entrada.
+W	question-show-me-the-map	questions	Can you show me on the map?	¿Me lo puede señalar en el mapa?
+W	positive-show-me-the-map	positiveAnswers	Yes, of course.	Sí, claro.
+W	negative-show-me-the-map	negativeAnswers	Sorry, I'm not sure either.	Lo siento, yo tampoco lo tengo claro.
+W	question-been-away	questions	Have you been away?	¿Has estado fuera?
+W	positive-been-away	positiveAnswers	Yes, I was in Italy.	Sí, estaba en Italia.
+W	negative-been-away	negativeAnswers	No, I've been here.	No, he estado aquí.
+W	question-expecting-us	questions	Are they expecting us?	¿Nos esperan?
+W	positive-expecting-us	positiveAnswers	Yes, I told them.	Sí, les avisé.
+W	negative-expecting-us	negativeAnswers	No, I haven't called.	No, no he llamado.
+W	question-chosen-yet	questions	Have you chosen yet?	¿Ha elegido ya?
+W	positive-chosen-yet	positiveAnswers	Yes, I'll have the fish.	Sí, tomaré el pescado.
+W	negative-chosen-yet	negativeAnswers	No, I need a minute.	No, necesito un minuto.
+W	question-like-ice-in-that	questions	Would you like ice in that?	¿Quiere hielo?
+W	positive-like-ice-in-that	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-like-ice-in-that	negativeAnswers	No, thank you.	No, gracias.
+W	question-need-a-coat	questions	Do you need a coat?	¿Coges un abrigo?
+W	positive-need-a-coat	positiveAnswers	Yes, it's chilly.	Sí, hace fresco.
+W	negative-need-a-coat	negativeAnswers	No, I'll be fine.	No, voy bien.
+W	question-sleep-well	questions	Did you sleep well?	¿Has dormido bien?
+W	positive-sleep-well	positiveAnswers	Yes, thanks.	Sí, gracias.
+W	negative-sleep-well	negativeAnswers	No, I was awake half the night.	No, estuve despierto media noche.
+W	question-wake-you-up	questions	Did I wake you?	¿Te he despertado?
+W	positive-wake-you-up	positiveAnswers	Yes, but it's fine.	Sí, pero no pasa nada.
+W	negative-wake-you-up	negativeAnswers	No, I was already up.	No, ya estaba levantado.
+W	question-borrow-this	questions	Can I borrow this?	¿Me prestas esto?
+W	positive-borrow-this	positiveAnswers	Yes, of course.	Sí, claro.
+W	negative-borrow-this	negativeAnswers	Sorry, I need it.	Lo siento, lo necesito.
+W	question-keep-this	questions	Can I keep this?	¿Me lo puedo quedar?
+W	positive-keep-this	positiveAnswers	Yes, it's yours.	Sí, es para ti.
+W	negative-keep-this	negativeAnswers	No, I'll need it back.	No, tendré que recuperarlo.
+W	question-send-it-today	questions	Can you send it today?	¿Lo puedes enviar hoy?
+W	positive-send-it-today	positiveAnswers	Yes, I'll send it this afternoon.	Sí, lo mando esta tarde.
+W	negative-send-it-today	negativeAnswers	No, tomorrow at the earliest.	No, mañana como pronto.
+W	question-picked-one-yet	questions	Have you picked one yet?	¿Has elegido ya cuál?
+W	positive-picked-one-yet	positiveAnswers	Yes, this one.	Sí, este.
+W	negative-picked-one-yet	negativeAnswers	No, I can't decide.	No, no me decido.
+W	question-prefer-this-one	questions	Do you prefer this one?	¿Prefieres este?
+W	positive-prefer-this-one	positiveAnswers	Yes, this is better.	Sí, este está mejor.
+W	negative-prefer-this-one	negativeAnswers	No, I prefer the other.	No, prefiero el otro.
+W	question-too-expensive	questions	Is it too expensive?	¿Es demasiado caro?
+W	positive-too-expensive	positiveAnswers	Yes, for me it is.	Sí, para mí sí.
+W	negative-too-expensive	negativeAnswers	No, it's reasonable.	No, está razonable.
+W	question-got-enough	questions	Have we got enough?	¿Tenemos suficiente?
+W	positive-got-enough	positiveAnswers	Yes, that should do.	Sí, debería llegar.
+W	negative-got-enough	negativeAnswers	No, we need more.	No, nos hace falta más.
+W	question-need-a-break	questions	Do you need a break?	¿Necesitas un descanso?
+W	positive-need-a-break	positiveAnswers	Yes, five minutes.	Sí, cinco minutos.
+W	negative-need-a-break	negativeAnswers	No, let's carry on.	No, seguimos.
+W	question-vegetarian	questions	Are you vegetarian?	¿Come vegetariano?
+W	positive-vegetarian	positiveAnswers	Yes, I am.	Sí.
+W	negative-vegetarian	negativeAnswers	No, I'm not.	No.
+W	question-another-drink	questions	Would you like another drink?	¿Quiere otra copa?
+W	positive-another-drink	positiveAnswers	Yes, the same again.	Sí, lo mismo.
+W	negative-another-drink	negativeAnswers	No, I'm fine, thanks.	No, estoy bien, gracias.
+W	question-split-the-bill	questions	Shall we split the bill?	¿Partimos la cuenta?
+W	positive-split-the-bill	positiveAnswers	Yes, let's.	Sí.
+W	negative-split-the-bill	negativeAnswers	No, I'll get this.	No, invito yo.
+W	question-got-an-umbrella	questions	Have you got an umbrella?	¿Tienes paraguas?
+W	positive-got-an-umbrella	positiveAnswers	Yes, in my bag.	Sí, en el bolso.
+W	negative-got-an-umbrella	negativeAnswers	No, I haven't.	No.
+W	question-bringing-a-jacket	questions	Are you bringing a jacket?	¿Llevas chaqueta?
+W	positive-bringing-a-jacket	positiveAnswers	Yes, I am.	Sí.
+W	negative-bringing-a-jacket	negativeAnswers	No, I'll be warm enough.	No, no voy a tener frío.
+W	question-missed-your-call	questions	Did I miss your call?	¿He perdido tu llamada?
+W	positive-missed-your-call	positiveAnswers	Yes, I tried you earlier.	Sí, te he llamado antes.
+W	negative-missed-your-call	negativeAnswers	No, I haven't called.	No, no he llamado.
+W	question-replied-yet	questions	Have you replied yet?	¿Has contestado ya?
+W	positive-replied-yet	positiveAnswers	Yes, this morning.	Sí, esta mañana.
+W	negative-replied-yet	negativeAnswers	No, I haven't had time.	No, no he tenido tiempo.
+W	question-signed-it-yet	questions	Have you signed it yet?	¿Lo has firmado ya?
+W	positive-signed-it-yet	positiveAnswers	Yes, I have.	Sí.
+W	negative-signed-it-yet	negativeAnswers	No, I need a pen.	No, necesito un boli.
+W	question-printed-it	questions	Have you printed it?	¿Lo has impreso?
+W	positive-printed-it	positiveAnswers	Yes, it's on the desk.	Sí, está en la mesa.
+W	negative-printed-it	negativeAnswers	No, the printer's down.	No, la impresora no va.
+W	question-saved-a-copy	questions	Have you saved a copy?	¿Has guardado una copia?
+W	positive-saved-a-copy	positiveAnswers	Yes, I have.	Sí.
+W	negative-saved-a-copy	negativeAnswers	No, I'll do that now.	No, lo hago ahora.
+W	question-left-already	questions	Has she left already?	¿Se ha ido ya?
+W	positive-left-already	positiveAnswers	Yes, about ten minutes ago.	Sí, hace unos diez minutos.
+W	negative-left-already	negativeAnswers	No, she's still here.	No, sigue aquí.
+W	question-arriving-soon	questions	Is he arriving soon?	¿Llega pronto?
+W	positive-arriving-soon	positiveAnswers	Yes, in about ten minutes.	Sí, en unos diez minutos.
+W	negative-arriving-soon	negativeAnswers	No, he'll be late.	No, va a llegar tarde.
+W	question-delayed-again	questions	Has it been delayed again?	¿Va con retraso otra vez?
+W	positive-delayed-again	positiveAnswers	Yes, by twenty minutes.	Sí, veinte minutos.
+W	negative-delayed-again	negativeAnswers	No, it's on time.	No, va en hora.
+W	question-need-to-change-trains	questions	Do we need to change trains?	¿Tenemos que hacer transbordo?
+W	positive-need-to-change-trains	positiveAnswers	Yes, at Lyon.	Sí, en Lyon.
+W	negative-need-to-change-trains	negativeAnswers	No, it's direct.	No, es directo.
+W	question-need-directions	questions	Do you need directions?	¿Necesita indicaciones?
+W	positive-need-directions	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-need-directions	negativeAnswers	No, I know the way.	No, conozco el camino.
+W	question-seen-my-glasses	questions	Have you seen my glasses?	¿Has visto mis gafas?
+W	positive-seen-my-glasses	positiveAnswers	Yes, by the sink.	Sí, junto al fregadero.
+W	negative-seen-my-glasses	negativeAnswers	No, I haven't.	No.
+W	question-locked-the-door	questions	Did you lock the door?	¿Has cerrado con llave?
+W	positive-locked-the-door	positiveAnswers	Yes, I did.	Sí.
+W	negative-locked-the-door	negativeAnswers	No, I don't think so.	No, creo que no.
+W	question-brought-your-passport	questions	Have you brought your passport?	¿Has traído el pasaporte?
+W	positive-brought-your-passport	positiveAnswers	Yes, it's in my bag.	Sí, está en el bolso.
+W	negative-brought-your-passport	negativeAnswers	No, it's at home.	No, está en casa.
+W	question-charged-your-phone	questions	Have you charged your phone?	¿Has cargado el móvil?
+W	positive-charged-your-phone	positiveAnswers	Yes, it's full.	Sí, está a tope.
+W	negative-charged-your-phone	negativeAnswers	No, it's nearly dead.	No, está casi muerto.
+W	question-turned-the-heating-on	questions	Did you turn the heating on?	¿Has puesto la calefacción?
+W	positive-turned-the-heating-on	positiveAnswers	Yes, I did.	Sí.
+W	negative-turned-the-heating-on	negativeAnswers	No, I forgot.	No, se me ha olvidado.
+W	question-want-a-bag	questions	Do you want a bag?	¿Quiere una bolsa?
+W	positive-want-a-bag	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-want-a-bag	negativeAnswers	No, thank you.	No, gracias.
+W	question-try-this-on	questions	Can I try this on?	¿Me lo puedo probar?
+W	positive-try-this-on	positiveAnswers	Yes, of course.	Sí, claro.
+W	negative-try-this-on	negativeAnswers	Sorry, there's no changing room.	Lo siento, no hay probador.
+W	question-have-this-in-blue	questions	Do you have this in blue?	¿No lo tendrá en azul?
+W	positive-have-this-in-blue	positiveAnswers	Yes, we do.	Sí, tome.
+W	negative-have-this-in-blue	negativeAnswers	No, only in black.	No, solo en negro.
+W	question-smaller-size	questions	Do you have a smaller size?	¿Tiene una talla más pequeña?
+W	positive-smaller-size	positiveAnswers	Yes, here's a 38.	Sí, aquí un 38.
+W	negative-smaller-size	negativeAnswers	No, that's the smallest.	No, esa es la más pequeña.
+W	question-last-one	questions	Is this the last one?	¿Es el último?
+W	positive-last-one	positiveAnswers	Yes, it is.	Sí.
+W	negative-last-one	negativeAnswers	No, there are more in the back.	No, hay más en el almacén.
+W	question-on-sale	questions	Is it on sale?	¿Está de oferta?
+W	positive-on-sale	positiveAnswers	Yes, twenty percent off.	Sí, un veinte por ciento.
+W	negative-on-sale	negativeAnswers	No, that's the full price.	No, es el precio entero.
+W	question-find-everything	questions	Did you find everything?	¿Ha encontrado lo que buscaba?
+W	positive-find-everything	positiveAnswers	Yes, thank you.	Sí, gracias.
+W	negative-find-everything	negativeAnswers	No, I'm still looking.	No, sigo buscando.
+W	question-have-the-menu	questions	Can I have the menu?	¿Me trae la carta?
+W	positive-have-the-menu	positiveAnswers	Yes, here you are.	Sí, aquí tiene.
+W	negative-have-the-menu	negativeAnswers	Sorry, we're closing.	Lo siento, estamos cerrando.
+W	question-have-the-bill	questions	Can I have the bill?	¿Me puede traer la cuenta?
+W	positive-have-the-bill	positiveAnswers	Yes, I'll bring it.	Sí, se la traigo.
+W	negative-have-the-bill	negativeAnswers	Sorry, please pay at the counter.	Lo siento, se paga en caja.
+W	question-sit-outside	questions	Can we sit outside?	¿Podemos sentarnos fuera?
+W	positive-sit-outside	positiveAnswers	Yes, of course.	Sí, claro.
+W	negative-sit-outside	negativeAnswers	No, the terrace is closed.	No, la terraza está cerrada.
+W	question-wifi-here	questions	Do you have wifi?	¿Tienen wifi?
+W	positive-wifi-here	positiveAnswers	Yes, the password is on the table.	Sí, la clave está en la mesa.
+W	negative-wifi-here	negativeAnswers	No, sorry.	No, lo siento.
+W	question-wifi-free	questions	Is the wifi free?	¿El wifi es gratis?
+W	positive-wifi-free	positiveAnswers	Yes, it is.	Sí.
+W	negative-wifi-free	negativeAnswers	No, you need to buy something.	No, hay que consumir.
+W	question-breakfast-included	questions	Is breakfast included?	¿El desayuno está incluido?
+W	positive-breakfast-included	positiveAnswers	Yes, from seven to ten.	Sí, de siete a diez.
+W	negative-breakfast-included	negativeAnswers	No, it's extra.	No, es aparte.
+W	question-toilet-here	questions	Is there a toilet?	¿Hay un aseo?
+W	positive-toilet-here	positiveAnswers	Yes, at the back.	Sí, al fondo.
+W	negative-toilet-here	negativeAnswers	No, not here.	No, aquí no.
+W	question-lift-working	questions	Is the lift working?	¿Funciona el ascensor?
+W	positive-lift-working	positiveAnswers	Yes, it is.	Sí.
+W	negative-lift-working	negativeAnswers	No, please take the stairs.	No, use las escaleras.
+W	question-cash-machine	questions	Is there a cash machine?	¿Hay un cajero?
+W	positive-cash-machine	positiveAnswers	Yes, next to the bank.	Sí, al lado del banco.
+W	negative-cash-machine	negativeAnswers	No, not on this street.	No, no en esta calle.
+W	question-supermarket-near	questions	Is there a supermarket near here?	¿Hay un supermercado cerca?
+W	positive-supermarket-near	positiveAnswers	Yes, five minutes away.	Sí, a cinco minutos.
+W	negative-supermarket-near	negativeAnswers	No, you need the bus.	No, hay que coger el autobús.
+W	question-bank-near	questions	Is there a bank near here?	¿Hay un banco cerca?
+W	positive-bank-near	positiveAnswers	Yes, on the next street.	Sí, en la calle siguiente.
+W	negative-bank-near	negativeAnswers	No, it's in the centre.	No, está en el centro.
+W	question-right-platform	questions	Is this the right platform?	¿Es el andén correcto?
+W	positive-right-platform	positiveAnswers	Yes, platform three.	Sí, andén tres.
+W	negative-right-platform	negativeAnswers	No, you want platform five.	No, es el andén cinco.
+W	question-this-your-stop	questions	Is this your stop?	¿Es tu parada?
+W	positive-this-your-stop	positiveAnswers	Yes, this is me.	Sí, me bajo aquí.
+W	negative-this-your-stop	negativeAnswers	No, the next one.	No, la siguiente.
+W	question-bus-to-airport	questions	Is there a bus to the airport?	¿Hay autobús al aeropuerto?
+W	positive-bus-to-airport	positiveAnswers	Yes, every twenty minutes.	Sí, cada veinte minutos.
+W	negative-bus-to-airport	negativeAnswers	No, take the train.	No, coja el tren.
+W	question-buy-ticket-on-bus	questions	Can I buy a ticket on the bus?	¿Puedo comprar el billete en el autobús?
+W	positive-buy-ticket-on-bus	positiveAnswers	Yes, with cash.	Sí, en efectivo.
+W	negative-buy-ticket-on-bus	negativeAnswers	No, you need a machine.	No, hace falta una máquina.
+W	question-train-to-paris	questions	Is this train going to Paris?	¿Este tren va a París?
+W	positive-train-to-paris	positiveAnswers	Yes, it is.	Sí.
+W	negative-train-to-paris	negativeAnswers	No, this one goes to Lyon.	No, este va a Lyon.
+W	question-shops-sunday	questions	Are the shops open on Sunday?	¿Abren las tiendas el domingo?
+W	positive-shops-sunday	positiveAnswers	Yes, until one.	Sí, hasta la una.
+W	negative-shops-sunday	negativeAnswers	No, they're closed.	No, están cerradas.
+W	question-museum-free	questions	Is the museum free?	¿El museo es gratis?
+W	positive-museum-free	positiveAnswers	Yes, on the first Sunday.	Sí, el primer domingo.
+W	negative-museum-free	negativeAnswers	No, it's twelve euros.	No, son doce euros.
+W	question-pool-open	questions	Is the pool open?	¿Está abierta la piscina?
+W	positive-pool-open	positiveAnswers	Yes, until eight.	Sí, hasta las ocho.
+W	negative-pool-open	negativeAnswers	No, it's closed today.	No, hoy está cerrada.
+W	question-water-safe	questions	Is the water OK to drink?	¿Se puede beber el agua?
+W	positive-water-safe	positiveAnswers	Yes, it is.	Sí.
+W	negative-water-safe	negativeAnswers	No, buy bottled water.	No, compre agua embotellada.
+W	question-tap-water-ok	questions	Is tap water OK?	¿Vale el agua del grifo?
+W	positive-tap-water-ok	positiveAnswers	Yes, of course.	Sí, claro.
+W	negative-tap-water-ok	negativeAnswers	We only serve bottled.	Solo servimos embotellada.
+W	question-window-seat	questions	Can I have a window seat?	¿Puedo ir junto a la ventanilla?
+W	positive-window-seat	positiveAnswers	Yes, 14A is free.	Sí, el 14A está libre.
+W	negative-window-seat	negativeAnswers	No, only aisle seats left.	No, solo queda pasillo.
+W	question-leave-my-coat	questions	Can I leave my coat?	¿Puedo dejar el abrigo?
+W	positive-leave-my-coat	positiveAnswers	Yes, over there.	Sí, allí.
+W	negative-leave-my-coat	negativeAnswers	No, please keep it with you.	No, llévelo consigo.
+W	question-extra-towels	questions	Can I have extra towels?	¿Me puede mandar toallas de más?
+W	positive-extra-towels	positiveAnswers	Yes, I'll send some up.	Sí, se las subimos.
+W	negative-extra-towels	negativeAnswers	Sorry, we haven't got any more.	Lo siento, no quedan.
+W	question-leave-luggage	questions	Can I leave my luggage?	¿Puedo dejar el equipaje?
+W	positive-leave-luggage	positiveAnswers	Yes, until six.	Sí, hasta las seis.
+W	negative-leave-luggage	negativeAnswers	No, the desk is closed.	No, recepción está cerrada.
+W	question-checking-out-today	questions	Are you checking out today?	¿Se marcha hoy?
+W	positive-checking-out-today	positiveAnswers	Yes, this morning.	Sí, esta mañana.
+W	negative-checking-out-today	negativeAnswers	No, I'm staying another night.	No, me quedo otra noche.
+W	question-travelling-alone	questions	Are you travelling alone?	¿Viajas solo?
+W	positive-travelling-alone	positiveAnswers	Yes, I am.	Sí.
+W	negative-travelling-alone	negativeAnswers	No, I'm with a friend.	No, voy con un amigo.
+W	question-on-holiday	questions	Are you on holiday?	¿Estás de vacaciones?
+W	positive-on-holiday	positiveAnswers	Yes, for a week.	Sí, una semana.
+W	negative-on-holiday	negativeAnswers	No, I'm here for work.	No, estoy aquí por trabajo.
+W	question-fly-here	questions	Did you fly here?	¿Has venido en avión?
+W	positive-fly-here	positiveAnswers	Yes, this morning.	Sí, esta mañana.
+W	negative-fly-here	negativeAnswers	No, I came by train.	No, he venido en tren.
+W	question-walk-here	questions	Did you walk here?	¿Has venido andando?
+W	positive-walk-here	positiveAnswers	Yes, it was close.	Sí, estaba cerca.
+W	negative-walk-here	negativeAnswers	No, I took a taxi.	No, he cogido un taxi.
+W	question-come-by-car	questions	Did you come by car?	¿Has venido en coche?
+W	positive-come-by-car	positiveAnswers	Yes, I parked outside.	Sí, he aparcado delante.
+W	negative-come-by-car	negativeAnswers	No, I took the bus.	No, he cogido el autobús.
+W	question-take-the-metro	questions	Did you take the metro?	¿Has cogido el metro?
+W	positive-take-the-metro	positiveAnswers	Yes, line 4.	Sí, la línea 4.
+W	negative-take-the-metro	negativeAnswers	No, I walked.	No, he venido andando.
+W	question-way-to-the-beach	questions	Is this the way to the beach?	¿Es este el camino a la playa?
+W	positive-way-to-the-beach	positiveAnswers	Yes, straight on.	Sí, todo recto.
+W	negative-way-to-the-beach	negativeAnswers	No, turn back.	No, dése la vuelta.
+W	question-city-centre-this	questions	Is this the city centre?	¿Esto es el centro?
+W	positive-city-centre-this	positiveAnswers	Yes, it is.	Sí.
+W	negative-city-centre-this	negativeAnswers	No, it's two stops on.	No, son dos paradas más.
+W	question-post-office-near	questions	Is the post office near?	¿Está cerca Correos?
+W	positive-post-office-near	positiveAnswers	Yes, round the corner.	Sí, a la vuelta.
+W	negative-post-office-near	negativeAnswers	No, it's quite far.	No, queda bastante lejos.
+W	question-write-it-down	questions	Can you write it down?	¿Me lo puede escribir?
+W	positive-write-it-down	positiveAnswers	Yes, of course.	Sí, claro.
+W	negative-write-it-down	negativeAnswers	Sorry, I haven't got a pen.	Lo siento, no tengo boli.
+W	question-borrow-a-pen	questions	Can I borrow a pen?	¿Me prestas un boli?
+W	positive-borrow-a-pen	positiveAnswers	Yes, here you are.	Sí, toma.
+W	negative-borrow-a-pen	negativeAnswers	Sorry, that's my only one.	Lo siento, solo tengo uno.
+W	question-come-in	questions	Can I come in?	¿Puedo pasar?
+W	positive-come-in	positiveAnswers	Yes, come in.	Sí, pasa.
+W	negative-come-in	negativeAnswers	Sorry, now isn't a good time.	Lo siento, ahora no es buen momento.
+W	question-anybody-home	questions	Is anybody home?	¿Hay alguien?
+W	positive-anybody-home	positiveAnswers	Yes, I'm here.	Sí, estoy yo.
+W	negative-anybody-home	negativeAnswers	No, they're out.	No, no hay nadie.
+W	question-your-birthday	questions	Is it your birthday?	¿Es tu cumpleaños?
+W	positive-your-birthday	positiveAnswers	Yes, today.	Sí, hoy.
+W	negative-your-birthday	negativeAnswers	No, next month.	No, el mes que viene.
+W	question-play-football	questions	Do you play football?	¿Juegas al fútbol?
+W	positive-play-football	positiveAnswers	Yes, at the weekend.	Sí, el fin de semana.
+W	negative-play-football	negativeAnswers	No, I don't.	No.
+W	question-can-you-swim	questions	Can you swim?	¿Sabes nadar?
+W	positive-can-you-swim	positiveAnswers	Yes, I can.	Sí.
+W	negative-can-you-swim	negativeAnswers	No, I can't.	No.
+W	question-go-school-today	questions	Did you go to school today?	¿Has ido al cole hoy?
+W	positive-go-school-today	positiveAnswers	Yes, I did.	Sí.
+W	negative-go-school-today	negativeAnswers	No, it was a holiday.	No, era fiesta.
+W	question-homework-done	questions	Did you do your homework?	¿Has hecho los deberes?
+W	positive-homework-done	positiveAnswers	Yes, last night.	Sí, anoche.
+W	negative-homework-done	negativeAnswers	No, I forgot.	No, se me ha olvidado.
+W	question-test-tomorrow	questions	Is the test tomorrow?	¿El examen es mañana?
+W	positive-test-tomorrow	positiveAnswers	Yes, it is.	Sí.
+W	negative-test-tomorrow	negativeAnswers	No, it's on Friday.	No, es el viernes.
+W	question-in-my-class	questions	Are you in my class?	¿Estás en mi clase?
+W	positive-in-my-class	positiveAnswers	Yes, I am.	Sí.
+W	negative-in-my-class	negativeAnswers	No, I'm in 4B.	No, estoy en 4B.
+W	question-library-open	questions	Is the library open?	¿Está abierta la biblioteca?
+W	positive-library-open	positiveAnswers	Yes, until six.	Sí, hasta las seis.
+W	negative-library-open	negativeAnswers	No, it's closed on Mondays.	No, los lunes cierra.
+W	question-working-today	questions	Are you working today?	¿Trabajas hoy?
+W	positive-working-today	positiveAnswers	Yes, until five.	Sí, hasta las cinco.
+W	negative-working-today	negativeAnswers	No, it's my day off.	No, me toca libre.
+W	question-cooking-tonight	questions	Are you cooking tonight?	¿Cocinas esta noche?
+W	positive-cooking-tonight	positiveAnswers	Yes, pasta.	Sí, pasta.
+W	negative-cooking-tonight	negativeAnswers	No, we're getting a takeaway.	No, pedimos comida.
+W	question-go-shopping	questions	Did you go shopping?	¿Has hecho la compra?
+W	positive-go-shopping	positiveAnswers	Yes, this afternoon.	Sí, esta tarde.
+W	negative-go-shopping	negativeAnswers	No, I'll go tomorrow.	No, iré mañana.
+W	question-pass-the-salt	questions	Can you pass the salt?	¿Me pasas la sal?
+W	positive-pass-the-salt	positiveAnswers	Yes, here you are.	Sí, toma.
+W	negative-pass-the-salt	negativeAnswers	Sorry, I haven't got it.	Lo siento, no la tengo.
+W	question-more-bread	questions	Do we need more bread?	¿Hace falta más pan?
+W	positive-more-bread	positiveAnswers	Yes, can you get some?	Sí, ¿puedes coger?
+W	negative-more-bread	negativeAnswers	No, we've got enough.	No, tenemos bastante.
+W	question-milk-left	questions	Is there any milk left?	¿Queda leche?
+W	positive-milk-left	positiveAnswers	Yes, a bit.	Sí, un poco.
+W	negative-milk-left	negativeAnswers	No, it's finished.	No, se ha acabado.
+W	question-coffee-good-here	questions	Is the coffee good here?	¿Está bueno el café aquí?
+W	positive-coffee-good-here	positiveAnswers	Yes, it's great.	Sí, está muy bueno.
+W	negative-coffee-good-here	negativeAnswers	No, it's a bit weak.	No, está un poco flojo.
+W	question-kitchen-still-open	questions	Is the kitchen still open?	¿Sigue abierta la cocina?
+W	positive-kitchen-still-open	positiveAnswers	Yes, until ten.	Sí, hasta las diez.
+W	negative-kitchen-still-open	negativeAnswers	No, the kitchen's closed.	No, la cocina está cerrada.
+W	question-room-clean	questions	Was the room clean?	¿Estaba limpia la habitación?
+W	positive-room-clean	positiveAnswers	Yes, it was fine.	Sí, estaba bien.
+W	negative-room-clean	negativeAnswers	No, I had to ask for a change.	No, tuve que pedir un cambio.
+W	question-noisy-at-night	questions	Is it noisy at night?	¿Hay ruido por la noche?
+W	positive-noisy-at-night	positiveAnswers	Yes, a bit.	Sí, un poco.
+W	negative-noisy-at-night	negativeAnswers	No, it's quiet.	No, está tranquilo.
+W	question-turn-on-the-light	questions	Can I turn on the light?	¿Enciendo la luz?
+W	positive-turn-on-the-light	positiveAnswers	Yes, go ahead.	Sí, adelante.
+W	negative-turn-on-the-light	negativeAnswers	No, I'm trying to sleep.	No, estoy intentando dormir.
+W	question-close-the-window	questions	Did you close the window?	¿Has cerrado la ventana?
+W	positive-close-the-window	positiveAnswers	Yes, I did.	Sí.
+W	negative-close-the-window	negativeAnswers	No, it's still open.	No, sigue abierta.
+W	question-phone-on-silent	questions	Is your phone on silent?	¿Tienes el móvil en silencio?
+W	positive-phone-on-silent	positiveAnswers	Yes, it is.	Sí.
+W	negative-phone-on-silent	negativeAnswers	No, I'll turn it down.	No, bajo el volumen.
+W	question-text-me	questions	Can you text me?	¿Me puedes mandar un mensaje?
+W	positive-text-me	positiveAnswers	Yes, I will.	Sí.
+W	negative-text-me	negativeAnswers	No, I haven't got any signal.	No, no tengo cobertura.
+W	question-waiting-for-someone	questions	Are you waiting for someone?	¿Espera a alguien?
+W	positive-waiting-for-someone	positiveAnswers	Yes, my friend.	Sí, a un amigo.
+W	negative-waiting-for-someone	negativeAnswers	No, I'm just sitting here.	No, solo estoy sentado.
+W	question-share-a-table	questions	Can we share a table?	¿Podemos compartir mesa?
+W	positive-share-a-table	positiveAnswers	Yes, of course.	Sí, claro.
+W	negative-share-a-table	negativeAnswers	Sorry, we're waiting for more people.	Lo siento, esperamos a más gente.
+W	question-put-bag-here	questions	Can I put my bag here?	¿Puedo dejar el bolso aquí?
+W	positive-put-bag-here	positiveAnswers	Yes, that's fine.	Sí, no hay problema.
+W	negative-put-bag-here	negativeAnswers	No, that seat's taken.	No, ese asiento está ocupado.
+W	question-in-the-queue	questions	Are you in the queue?	¿Está haciendo cola?
+W	positive-in-the-queue	positiveAnswers	Yes, I am.	Sí.
+W	negative-in-the-queue	negativeAnswers	No, I'm just looking.	No, solo estoy mirando.
+W	question-boarding-now	questions	Are we boarding now?	¿Ya embarcamos?
+W	positive-boarding-now	positiveAnswers	Yes, group two.	Sí, grupo dos.
+W	negative-boarding-now	negativeAnswers	No, not yet.	No, todavía no.
+W	question-take-laptop-out	questions	Do I need to take my laptop out?	¿Tengo que sacar el portátil?
+W	positive-take-laptop-out	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-take-laptop-out	negativeAnswers	No, you can leave it in the bag.	No, puede dejarlo en la bolsa.
+W	question-like-pizza	questions	Do you like pizza?	¿Te gusta la pizza?
+W	positive-like-pizza	positiveAnswers	Yes, I do.	Sí, me gusta.
+W	negative-like-pizza	negativeAnswers	No, I don't.	No, no me gusta.
+W	question-like-chocolate	questions	Do you like chocolate?	¿Te gusta el chocolate?
+W	positive-like-chocolate	positiveAnswers	Yes, I do.	Sí, me gusta.
+W	negative-like-chocolate	negativeAnswers	No, I don't.	No, no me gusta.
+W	question-like-dogs	questions	Do you like dogs?	¿Te gustan los perros?
+W	positive-like-dogs	positiveAnswers	Yes, I do.	Sí, me gustan.
+W	negative-like-dogs	negativeAnswers	No, I don't.	No, no me gustan.
+W	question-like-cats	questions	Do you like cats?	¿Te gustan los gatos?
+W	positive-like-cats	positiveAnswers	Yes, I do.	Sí, me gustan.
+W	negative-like-cats	negativeAnswers	No, I don't.	No, no me gustan.
+W	question-like-films	questions	Do you like films?	¿Te gustan las pelis?
+W	positive-like-films	positiveAnswers	Yes, I do.	Sí, me gustan.
+W	negative-like-films	negativeAnswers	No, I don't.	No, no me gustan.
+W	question-like-sport	questions	Do you like sport?	¿Te gusta el deporte?
+W	positive-like-sport	positiveAnswers	Yes, I do.	Sí, me gusta.
+W	negative-like-sport	negativeAnswers	No, I don't.	No, no me gusta.
+W	question-like-books	questions	Do you like books?	¿Te gustan los libros?
+W	positive-like-books	positiveAnswers	Yes, I do.	Sí, me gustan.
+W	negative-like-books	negativeAnswers	No, I don't.	No, no me gustan.
+W	question-like-fish	questions	Do you like fish?	¿Te gusta el pescado?
+W	positive-like-fish	positiveAnswers	Yes, I do.	Sí, me gusta.
+W	negative-like-fish	negativeAnswers	No, I don't.	No, no me gusta.
+W	question-like-salad	questions	Do you like salad?	¿Te gusta la ensalada?
+W	positive-like-salad	positiveAnswers	Yes, I do.	Sí, me gusta.
+W	negative-like-salad	negativeAnswers	No, I don't.	No, no me gusta.
+W	question-like-cheese	questions	Do you like cheese?	¿Te gusta el queso?
+W	positive-like-cheese	positiveAnswers	Yes, I do.	Sí, me gusta.
+W	negative-like-cheese	negativeAnswers	No, I don't.	No, no me gusta.
+W	question-want-juice	questions	Do you want some juice?	¿Quieres zumo?
+W	positive-want-juice	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-want-juice	negativeAnswers	No, thank you.	No, gracias.
+W	question-want-milk	questions	Do you want some milk?	¿Quieres leche?
+W	positive-want-milk	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-want-milk	negativeAnswers	No, thank you.	No, gracias.
+W	question-want-bread	questions	Do you want some bread?	¿Quieres pan?
+W	positive-want-bread	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-want-bread	negativeAnswers	No, thank you.	No, gracias.
+W	question-want-a-sandwich	questions	Do you want a sandwich?	¿Quieres un sándwich?
+W	positive-want-a-sandwich	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-want-a-sandwich	negativeAnswers	No, thank you.	No, gracias.
+W	question-want-sugar	questions	Do you want sugar?	¿Quieres azúcar?
+W	positive-want-sugar	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-want-sugar	negativeAnswers	No, thank you.	No, gracias.
+W	question-have-a-sister	questions	Do you have a sister?	¿Tienes una hermana?
+W	positive-have-a-sister	positiveAnswers	Yes, I do.	Sí, tengo una hermana.
+W	negative-have-a-sister	negativeAnswers	No, I don't.	No, no tengo hermana.
+W	question-have-a-dog	questions	Do you have a dog?	¿Tienes un perro?
+W	positive-have-a-dog	positiveAnswers	Yes, I do.	Sí, tengo un perro.
+W	negative-have-a-dog	negativeAnswers	No, I don't.	No, no tengo perro.
+W	question-have-a-cat	questions	Do you have a cat?	¿Tienes un gato?
+W	positive-have-a-cat	positiveAnswers	Yes, I do.	Sí, tengo un gato.
+W	negative-have-a-cat	negativeAnswers	No, I don't.	No, no tengo gato.
+W	question-have-a-bike	questions	Do you have a bike?	¿Tienes bici?
+W	positive-have-a-bike	positiveAnswers	Yes, I do.	Sí, tengo bici.
+W	negative-have-a-bike	negativeAnswers	No, I don't.	No, no tengo bici.
+W	question-have-a-key	questions	Do you have a key?	¿Tienes una llave?
+W	positive-have-a-key	positiveAnswers	Yes, I do.	Sí, tengo una llave.
+W	negative-have-a-key	negativeAnswers	No, I don't.	No, no tengo llave.
+W	question-have-a-map	questions	Do you have a map?	¿Tiene un mapa?
+W	positive-have-a-map	positiveAnswers	Yes, I do.	Sí, tengo uno.
+W	negative-have-a-map	negativeAnswers	No, I don't.	No, no tengo mapa.
+W	question-have-a-pen	questions	Have you got a pen?	¿Tienes un boli?
+W	positive-have-a-pen	positiveAnswers	Yes, I have.	Sí, tengo uno.
+W	negative-have-a-pen	negativeAnswers	No, I haven't.	No, no tengo.
+W	question-have-a-garden	questions	Do you have a garden?	¿Tienes jardín?
+W	positive-have-a-garden	positiveAnswers	Yes, I do.	Sí, tengo jardín.
+W	negative-have-a-garden	negativeAnswers	No, I don't.	No, no tengo jardín.
+W	question-have-a-job	questions	Do you have a job?	¿Tienes trabajo?
+W	positive-have-a-job	positiveAnswers	Yes, I do.	Sí, tengo trabajo.
+W	negative-have-a-job	negativeAnswers	No, I don't.	No, no tengo trabajo.
+W	question-have-cash	questions	Do you have cash?	¿Tiene efectivo?
+W	positive-have-cash	positiveAnswers	Yes, I do.	Sí.
+W	negative-have-cash	negativeAnswers	No, I don't.	No, no tengo efectivo.
+W	question-are-you-happy	questions	Are you happy?	¿Estás contento?
+W	positive-are-you-happy	positiveAnswers	Yes, I am.	Sí, estoy contento.
+W	negative-are-you-happy	negativeAnswers	No, I'm not.	No, no estoy contento.
+W	question-are-you-ill	questions	Are you ill?	¿Estás enfermo?
+W	positive-are-you-ill	positiveAnswers	Yes, I am.	Sí, estoy enfermo.
+W	negative-are-you-ill	negativeAnswers	No, I'm not.	No, no estoy enfermo.
+W	question-are-you-new-here	questions	Are you new here?	¿Eres nuevo aquí?
+W	positive-are-you-new-here	positiveAnswers	Yes, I am.	Sí, soy nuevo.
+W	negative-are-you-new-here	negativeAnswers	No, I'm not.	No, no soy nuevo.
+W	question-are-you-a-teacher	questions	Are you a teacher?	¿Eres profesor?
+W	positive-are-you-a-teacher	positiveAnswers	Yes, I am.	Sí, soy profesor.
+W	negative-are-you-a-teacher	negativeAnswers	No, I'm not.	No, no soy profesor.
+W	question-are-you-a-doctor	questions	Are you a doctor?	¿Eres médico?
+W	positive-are-you-a-doctor	positiveAnswers	Yes, I am.	Sí, soy médico.
+W	negative-are-you-a-doctor	negativeAnswers	No, I'm not.	No, no soy médico.
+W	question-are-you-english	questions	Are you English?	¿Eres inglés?
+W	positive-are-you-english	positiveAnswers	Yes, I am.	Sí, soy inglés.
+W	negative-are-you-english	negativeAnswers	No, I'm not.	No, no soy inglés.
+W	question-are-you-french	questions	Are you French?	¿Eres francés?
+W	positive-are-you-french	positiveAnswers	Yes, I am.	Sí, soy francés.
+W	negative-are-you-french	negativeAnswers	No, I'm not.	No, no soy francés.
+W	question-are-you-at-home	questions	Are you at home?	¿Estás en casa?
+W	positive-are-you-at-home	positiveAnswers	Yes, I am.	Sí, estoy en casa.
+W	negative-are-you-at-home	negativeAnswers	No, I'm not.	No, no estoy en casa.
+W	question-are-you-at-work	questions	Are you at work?	¿Estás en el trabajo?
+W	positive-are-you-at-work	positiveAnswers	Yes, I am.	Sí, estoy en el trabajo.
+W	negative-are-you-at-work	negativeAnswers	No, I'm not.	No, no estoy en el trabajo.
+W	question-are-you-late	questions	Are you late?	¿Llegas tarde?
+W	positive-are-you-late	positiveAnswers	Yes, I am.	Sí, llego tarde.
+W	negative-are-you-late	negativeAnswers	No, I'm not.	No, no llego tarde.
+W	question-is-he-here	questions	Is he here?	¿Está él aquí?
+W	positive-is-he-here	positiveAnswers	Yes, he is.	Sí, está aquí.
+W	negative-is-he-here	negativeAnswers	No, he isn't.	No, no está aquí.
+W	question-is-this-your-bag	questions	Is this your bag?	¿Es tu bolsa?
+W	positive-is-this-your-bag	positiveAnswers	Yes, it is.	Sí, es mía.
+W	negative-is-this-your-bag	negativeAnswers	No, it isn't.	No, no es mía.
+W	question-is-this-your-book	questions	Is this your book?	¿Es tu libro?
+W	positive-is-this-your-book	positiveAnswers	Yes, it is.	Sí, es mío.
+W	negative-is-this-your-book	negativeAnswers	No, it isn't.	No, no es mío.
+W	question-is-this-your-house	questions	Is this your house?	¿Es tu casa?
+W	positive-is-this-your-house	positiveAnswers	Yes, it is.	Sí, es mi casa.
+W	negative-is-this-your-house	negativeAnswers	No, it isn't.	No, no es mi casa.
+W	question-is-this-ok	questions	Is this OK?	¿Le parece bien?
+W	positive-is-this-ok	positiveAnswers	Yes, it's fine.	Sí, está bien.
+W	negative-is-this-ok	negativeAnswers	No, it isn't.	No, no está bien.
+W	question-is-it-new	questions	Is it new?	¿Es nuevo?
+W	positive-is-it-new	positiveAnswers	Yes, it is.	Sí, es nuevo.
+W	negative-is-it-new	negativeAnswers	No, it isn't.	No, no es nuevo.
+W	question-is-it-big	questions	Is it big?	¿Es grande?
+W	positive-is-it-big	positiveAnswers	Yes, it is.	Sí, es grande.
+W	negative-is-it-big	negativeAnswers	No, it isn't.	No, no es grande.
+W	question-is-it-small	questions	Is it small?	¿Es pequeño?
+W	positive-is-it-small	positiveAnswers	Yes, it is.	Sí, es pequeño.
+W	negative-is-it-small	negativeAnswers	No, it isn't.	No, no es pequeño.
+W	question-is-it-cheap	questions	Is it cheap?	¿Es barato?
+W	positive-is-it-cheap	positiveAnswers	Yes, it is.	Sí, es barato.
+W	negative-is-it-cheap	negativeAnswers	No, it isn't.	No, no es barato.
+W	question-is-it-expensive	questions	Is it expensive?	¿Es caro?
+W	positive-is-it-expensive	positiveAnswers	Yes, it is.	Sí, es caro.
+W	negative-is-it-expensive	negativeAnswers	No, it isn't.	No, no es caro.
+W	question-is-it-free-cost	questions	Is this free?	¿Esto es gratis?
+W	positive-is-it-free-cost	positiveAnswers	Yes, it is.	Sí, es gratis.
+W	negative-is-it-free-cost	negativeAnswers	No, it isn't.	No, no es gratis.
+W	question-is-this-london	questions	Is this London?	¿Esto es Londres?
+W	positive-is-this-london	positiveAnswers	Yes, it is.	Sí, es Londres.
+W	negative-is-this-london	negativeAnswers	No, it isn't.	No, no es Londres.
+W	question-is-this-the-bathroom	questions	Is this the bathroom?	¿Es el baño?
+W	positive-is-this-the-bathroom	positiveAnswers	Yes, it is.	Sí.
+W	negative-is-this-the-bathroom	negativeAnswers	No, it isn't.	No, está a la izquierda.
+W	question-is-the-door-open	questions	Is the door open?	¿Está abierta la puerta?
+W	positive-is-the-door-open	positiveAnswers	Yes, it is.	Sí, está abierta.
+W	negative-is-the-door-open	negativeAnswers	No, it isn't.	No, está cerrada.
+W	question-is-the-light-on	questions	Is the light on?	¿Está encendida la luz?
+W	positive-is-the-light-on	positiveAnswers	Yes, it is.	Sí, está encendida.
+W	negative-is-the-light-on	negativeAnswers	No, it isn't.	No, está apagada.
+W	question-can-you-cook	questions	Can you cook?	¿Sabes cocinar?
+W	positive-can-you-cook	positiveAnswers	Yes, I can.	Sí, sé cocinar.
+W	negative-can-you-cook	negativeAnswers	No, I can't.	No, no sé.
+W	question-can-you-drive	questions	Can you drive?	¿Sabes conducir?
+W	positive-can-you-drive	positiveAnswers	Yes, I can.	Sí, sé conducir.
+W	negative-can-you-drive	negativeAnswers	No, I can't.	No, no sé.
+W	question-can-you-dance	questions	Can you dance?	¿Sabes bailar?
+W	positive-can-you-dance	positiveAnswers	Yes, I can.	Sí, sé bailar.
+W	negative-can-you-dance	negativeAnswers	No, I can't.	No, no sé.
+W	question-can-you-hear-me	questions	Can you hear me?	¿Me oyes?
+W	positive-can-you-hear-me	positiveAnswers	Yes, I can.	Sí, te oigo.
+W	negative-can-you-hear-me	negativeAnswers	No, I can't.	No, no te oigo.
+W	question-can-you-read-this	questions	Can you read this?	¿Puedes leer esto?
+W	positive-can-you-read-this	positiveAnswers	Yes, I can.	Sí, puedo.
+W	negative-can-you-read-this	negativeAnswers	No, I can't.	No, no puedo.
+W	question-can-you-open-this	questions	Can you open this?	¿Puedes abrir esto?
+W	positive-can-you-open-this	positiveAnswers	Yes, I can.	Sí, puedo.
+W	negative-can-you-open-this	negativeAnswers	No, I can't.	No, no puedo.
+W	question-can-i-have-this	questions	Can I have this?	¿Me puedo llevar esto?
+W	positive-can-i-have-this	positiveAnswers	Yes, of course.	Sí, claro.
+W	negative-can-i-have-this	negativeAnswers	No, sorry.	No, lo siento.
+W	question-can-we-start	questions	Can we start?	¿Podemos empezar?
+W	positive-can-we-start	positiveAnswers	Yes, we can.	Sí.
+W	negative-can-we-start	negativeAnswers	No, not yet.	No, todavía no.
+W	question-speak-spanish	questions	Do you speak Spanish?	¿Hablas español?
+W	positive-speak-spanish	positiveAnswers	Yes, I do.	Sí, hablo español.
+W	negative-speak-spanish	negativeAnswers	No, I don't.	No, no hablo español.
+W	question-speak-french	questions	Do you speak French?	¿Hablas francés?
+W	positive-speak-french	positiveAnswers	Yes, I do.	Sí, hablo francés.
+W	negative-speak-french	negativeAnswers	No, I don't.	No, no hablo francés.
+W	question-know-her	questions	Do you know her?	¿La conoces?
+W	positive-know-her	positiveAnswers	Yes, I do.	Sí, la conozco.
+W	negative-know-her	negativeAnswers	No, I don't.	No, no la conozco.
+W	question-is-she-your-sister	questions	Is she your sister?	¿Es tu hermana?
+W	positive-is-she-your-sister	positiveAnswers	Yes, she is.	Sí, es mi hermana.
+W	negative-is-she-your-sister	negativeAnswers	No, she isn't.	No, no es mi hermana.
+W	question-is-he-your-friend	questions	Is he your friend?	¿Es tu amigo?
+W	positive-is-he-your-friend	positiveAnswers	Yes, he is.	Sí, es mi amigo.
+W	negative-is-he-your-friend	negativeAnswers	No, he isn't.	No, no es mi amigo.
+W	question-do-you-eat-meat	questions	Do you eat meat?	¿Comes carne?
+W	positive-do-you-eat-meat	positiveAnswers	Yes, I do.	Sí, como carne.
+W	negative-do-you-eat-meat	negativeAnswers	No, I don't.	No, no como carne.
+W	question-are-you-a-tourist	questions	Are you a tourist?	¿Es turista?
+W	positive-are-you-a-tourist	positiveAnswers	Yes, I am.	Sí.
+W	negative-are-you-a-tourist	negativeAnswers	No, I live here.	No, vivo aquí.
+W	question-live-in-a-house	questions	Do you live in a house?	¿Vives en una casa?
+W	positive-live-in-a-house	positiveAnswers	Yes, I do.	Sí, vivo en una casa.
+W	negative-live-in-a-house	negativeAnswers	No, I live in a flat.	No, vivo en un piso.
+W	question-at-loggerheads	questions	Are they still completely at loggerheads?	¿Siguen ustedes completamente enfrentados?
+W	positive-at-loggerheads	positiveAnswers	Yes, neither side will give an inch.	Sí, ninguno cede un palmo.
+W	negative-at-loggerheads	negativeAnswers	No, they've already narrowed it to one or two points.	No, ya lo hemos reducido a uno o dos puntos.
+W	question-poisoned-chalice	questions	Is the appointment a poisoned chalice?	¿Es el nombramiento un regalo envenenado?
+W	positive-poisoned-chalice	positiveAnswers	Yes, whoever takes it is almost certain to come out worse.	Sí, quien lo acepte casi seguro saldrá perdiendo.
+W	negative-poisoned-chalice	negativeAnswers	No, it's a hard job, but it isn't set up to sink you.	No, es un cargo duro, pero no está pensado para hundirte.
+W	question-pyrrhic-victory	questions	Was that a Pyrrhic victory?	¿Fue una victoria pírrica?
+W	positive-pyrrhic-victory	positiveAnswers	Yes, we won the point and paid far more than it was worth.	Sí, ganamos el punto y pagamos mucho más de lo que valía.
+W	negative-pyrrhic-victory	negativeAnswers	No, the gain still outweighs what it cost us.	No, lo ganado sigue compensando lo que nos costó.
+W	question-fait-accompli	questions	Are we being presented with a fait accompli?	¿Se nos presenta un hecho consumado?
+W	positive-fait-accompli	positiveAnswers	Yes, it's already done and there's no realistic way back.	Sí, ya está hecho y no hay marcha atrás realista.
+W	negative-fait-accompli	negativeAnswers	No, the decision can still be unwound.	No, la decisión aún se puede deshacer.
+W	question-beyond-the-pale	questions	Was that beyond the pale?	¿Fue eso inadmisible?
+W	positive-beyond-the-pale	positiveAnswers	Yes, it went well past what anyone here can decently accept.	Sí, se pasó de largo de lo que cualquiera aquí puede aceptar con decoro.
+W	negative-beyond-the-pale	negativeAnswers	No, it was sharp, but it stayed within bounds.	No, fue cortante, pero se mantuvo en lo aceptable.
+W	question-crossed-the-rubicon	questions	Have we crossed the Rubicon?	¿Hemos cruzado el Rubicón?
+W	positive-crossed-the-rubicon	positiveAnswers	Yes, going back now would be a different and costlier decision.	Sí, volver atrás sería ya otra decisión, y más cara.
+W	negative-crossed-the-rubicon	negativeAnswers	No, we can still reverse course.	No, aún podemos dar marcha atrás.
+W	question-fig-leaf	questions	Is that safeguard merely a fig leaf?	¿Esa salvaguarda no es más que una hoja de parra?
+W	positive-fig-leaf	positiveAnswers	Yes, it only hides the fact that nothing really constrains them.	Sí, solo oculta que nada los sujeta de verdad.
+W	negative-fig-leaf	negativeAnswers	No, it actually does the work it claims to do.	No, hace de verdad el trabajo que dice hacer.
+W	question-dialogue-of-the-deaf	questions	Has this degenerated into a dialogue of the deaf?	¿Ha degenerado esto en un diálogo de sordos?
+W	positive-dialogue-of-the-deaf	positiveAnswers	Yes, each of us keeps restating our case without hearing the other.	Sí, cada uno reitera su tesis sin oír al otro.
+W	negative-dialogue-of-the-deaf	negativeAnswers	No, we're actually engaging with the points of disagreement.	No, de verdad estamos entrando en los desacuerdos.
+W	question-trojan-horse	questions	Is the main clause a Trojan horse?	¿Es la cláusula principal un caballo de Troya?
+W	positive-trojan-horse	positiveAnswers	Yes, the real payload is buried in a side provision.	Sí, la verdadera carga útil está escondida en un apartado lateral.
+W	negative-trojan-horse	negativeAnswers	No, it says exactly what it appears to say.	No, dice exactamente lo que parece decir.
+W	question-pandoras-box	questions	Have we opened Pandora's box?	¿Hemos abierto la caja de Pandora?
+W	positive-pandoras-box	positiveAnswers	Yes, the consequences have already escaped the original decision.	Sí, las consecuencias ya se han escapado de la decisión original.
+W	negative-pandoras-box	negativeAnswers	No, we can still keep the effects contained.	No, aún podemos contener los efectos.
+W	question-thin-end-of-wedge	questions	Is this the thin end of the wedge?	¿Es esto meter el pie en la puerta?
+W	positive-thin-end-of-wedge	positiveAnswers	Yes, once we concede it, they'll use it to prise the rest open.	Sí, una vez concedido lo usarán para abrir el resto.
+W	negative-thin-end-of-wedge	negativeAnswers	No, the concession is tightly ring-fenced.	No, la concesión está bien acotada.
+W	question-rearranging-deckchairs	questions	Are we merely rearranging the deckchairs?	¿No hacemos más que recolocar las tumbonas?
+W	positive-rearranging-deckchairs	positiveAnswers	Yes, the real failure is left untouched.	Sí, el fracaso de fondo queda intacto.
+W	negative-rearranging-deckchairs	negativeAnswers	No, the measure actually stops the decline.	No, la medida detiene de verdad el declive.
+W	question-canary-in-the-mine	questions	Is this the canary in the coal mine?	¿Es el canario en la mina?
+W	positive-canary-in-the-mine	positiveAnswers	Yes, it's an early warning of a wider problem, not a one-off.	Sí, es un aviso temprano de un problema más amplio, no un caso suelto.
+W	negative-canary-in-the-mine	negativeAnswers	No, it's peculiar to this case and doesn't generalise.	No, es propio de este caso y no se generaliza.
+W	question-boiling-the-frog	questions	Are we boiling the frog?	¿Estamos cociendo la rana?
+W	positive-boiling-the-frog	positiveAnswers	Yes, each small step is meant to pass unnoticed until the harm is locked in.	Sí, cada paso pequeño está pensado para pasar inadvertido hasta que el daño quede hecho.
+W	negative-boiling-the-frog	negativeAnswers	No, any real step would be obvious enough to provoke resistance.	No, cualquier paso de verdad sería bastante evidente para provocar resistencia.
+W	question-dead-letter	questions	Is that rule a dead letter?	¿Esa norma es letra muerta?
+W	positive-dead-letter	positiveAnswers	Yes, it's still formally in force and nobody ever applies it.	Sí, sigue vigente sobre el papel y nadie la aplica.
+W	negative-dead-letter	negativeAnswers	No, people still invoke it and it still has teeth.	No, aún se invoca y todavía tiene dientes.
+W	question-flogging-a-dead-horse	questions	Are we flogging a dead horse?	¿Estamos insistiendo en un argumento ya muerto?
+W	positive-flogging-a-dead-horse	positiveAnswers	Yes, the point is spent; another argument won't revive it.	Sí, el punto está agotado; otro argumento no lo revive.
+W	negative-flogging-a-dead-horse	negativeAnswers	No, there's still a live question nobody has settled.	No, queda una cuestión viva que nadie ha zanjado.
+W	question-straw-man	questions	Is that a straw man?	¿Es un hombre de paja?
+W	positive-straw-man	positiveAnswers	Yes, you've replaced the claim I actually hold with a weaker one.	Sí, ha sustituido la tesis que yo sostengo por una más débil.
+W	negative-straw-man	negativeAnswers	No, that's a fair restatement of what I said.	No, es una reformulación fiel de lo que dije.
+W	question-motte-and-bailey	questions	Is this a motte-and-bailey?	¿Es un motte-and-bailey?
+W	positive-motte-and-bailey	positiveAnswers	Yes, you advance the bold claim and then retreat to the modest one when pressed.	Sí, avanza la tesis audaz y, cuando le aprietan, se repliega a la modesta.
+W	negative-motte-and-bailey	negativeAnswers	No, I'm defending the same claim at the same strength throughout.	No, defiendo de cabo a rabo la misma tesis, con la misma fuerza.
+W	question-begging-the-question	questions	Aren't you begging the question?	¿No es una petición de principio?
+W	positive-begging-the-question	positiveAnswers	Yes, the conclusion is already smuggled into a premise that was meant to support it.	Sí, la conclusión ya se cuela en una premisa que debía fundamentarla.
+W	negative-begging-the-question	negativeAnswers	No, the premise stands on its own.	No, la premisa se sostiene por sí sola.
+W	question-false-dichotomy	questions	Is that a false dichotomy?	¿Es un falso dilema?
+W	positive-false-dichotomy	positiveAnswers	Yes, those two options don't exhaust what's available.	Sí, esas dos opciones no agotan lo que hay.
+W	negative-false-dichotomy	negativeAnswers	No, those really are the only two, and they can't both be true.	No, de verdad son las dos únicas, y no pueden ser ciertas a la vez.
+W	question-argument-from-authority	questions	Is that merely an argument from authority?	¿Es solo un argumento de autoridad?
+W	positive-argument-from-authority	positiveAnswers	Yes, the name is doing the work the reasons should do.	Sí, el nombre hace el trabajo que deberían hacer las razones.
+W	negative-argument-from-authority	negativeAnswers	No, the reasoning still stands if you take the name out.	No, el razonamiento se sostiene si se quita el nombre.
+W	question-ad-hominem	questions	Was that ad hominem?	¿Fue un ad hominem?
+W	positive-ad-hominem	positiveAnswers	Yes, you went for the speaker rather than the claim.	Sí, fue a por el orador y no a por la tesis.
+W	negative-ad-hominem	negativeAnswers	No, you attacked the inference, not the person making it.	No, atacó la inferencia, no a quien la plantea.
+W	question-no-true-scotsman	questions	Is that a no-true-Scotsman move?	¿Es el sofisma del verdadero escocés?
+W	positive-no-true-scotsman	positiveAnswers	Yes, you're quietly redefining the group so the counter-example no longer counts.	Sí, redefine usted el grupo en silencio para que el contraejemplo ya no cuente.
+W	negative-no-true-scotsman	negativeAnswers	No, the definition was fixed before that example came up.	No, la definición estaba fijada antes de que saliera ese ejemplo.
+W	question-special-pleading	questions	Is this special pleading?	¿Está pidiendo una excepción a medida?
+W	positive-special-pleading	positiveAnswers	Yes, you're asking for an exemption you wouldn't grant anyone else.	Sí, pide una excepción que no concedería a nadie más.
+W	negative-special-pleading	negativeAnswers	No, the distinction is principled and I'd apply it to like cases.	No, la distinción es de principio y la aplicaría a casos semejantes.
+W	question-loaded-question	questions	Is that a loaded question?	¿Es una pregunta capciosa?
+W	positive-loaded-question	positiveAnswers	Yes, I can't answer it without granting a premise that's still in dispute.	Sí, no se puede responder sin conceder una premisa que aún se discute.
+W	negative-loaded-question	negativeAnswers	No, it doesn't assume the very point at issue.	No, no da por sentado el punto mismo en cuestión.
+W	question-equivocating	questions	Are you equivocating on the term?	¿Juega usted con el equívoco del término?
+W	positive-equivocating	positiveAnswers	Yes, the meaning shifted between the premise and the conclusion.	Sí, el sentido se desplazó entre la premisa y la conclusión.
+W	negative-equivocating	negativeAnswers	No, I'm using the word in the same sense throughout.	No, uso la palabra en el mismo sentido de cabo a rabo.
+W	question-sophistry	questions	Is this sophistry?	¿Es sofística?
+W	positive-sophistry	positiveAnswers	Yes, it has the shape of an argument without a valid step underneath.	Sí, tiene forma de argumento sin un paso válido debajo.
+W	negative-sophistry	negativeAnswers	No, the inference is sound and the premises are in order.	No, la inferencia es sólida y las premisas están en orden.
+W	question-in-camera	questions	Are we keeping this behind closed doors?	¿Lo mantenemos a puerta cerrada?
+W	positive-in-camera	positiveAnswers	Yes, no one outside this room is meant to hear it.	Sí, nadie fuera de esta sala debe oírlo.
+W	negative-in-camera	negativeAnswers	No, this is an open discussion and anyone may stay.	No, es una conversación abierta y cualquiera puede quedarse.
+W	question-sub-judice	questions	Is this still before the courts?	¿Sigue esto ante los tribunales?
+W	positive-sub-judice	positiveAnswers	Yes, so we really shouldn't be discussing the merits in public.	Sí, así que no deberíamos discutir el fondo en público.
+W	negative-sub-judice	negativeAnswers	No, it's been decided and we can speak freely.	No, ya está decidido y podemos hablar con libertad.
+W	question-without-prejudice	questions	Is this just an off-the-record conversation?	¿Es esto solo una conversación extraoficial?
+W	positive-without-prejudice	positiveAnswers	Yes, nothing said here is meant to be used against anyone later.	Sí, nada de lo dicho aquí debe usarse luego contra nadie.
+W	negative-without-prejudice	negativeAnswers	No, this is on the record and we can hold each other to it.	No, esto queda registrado y podemos exigírnoslo.
+W	question-ultra-vires	questions	Did they overstep their authority?	¿Se han excedido en su autoridad?
+W	positive-ultra-vires	positiveAnswers	Yes, they went well beyond what they were actually empowered to do.	Sí, fueron bastante más allá de lo que realmente podían decidir.
+W	negative-ultra-vires	negativeAnswers	No, it still fell within what they were entitled to decide.	No, seguía dentro de lo que les correspondía resolver.
+W	question-locus-standi	questions	Do you even have a real stake in this?	¿Tiene usted siquiera un interés real en esto?
+W	positive-locus-standi	positiveAnswers	Yes, I'm directly affected and I have every right to be heard.	Sí, me afecta de lleno y tengo todo el derecho a ser oído.
+W	negative-locus-standi	negativeAnswers	No, this isn't really my affair and I shouldn't be pressing it.	No, no es realmente asunto mío y no debería insistir.
+W	question-hearsay	questions	Is that just something you heard second-hand?	¿Es eso solo algo que ha oído de segunda mano?
+W	positive-hearsay	positiveAnswers	Yes, I wasn't there; I'm only repeating what I was told.	Sí, yo no estaba; solo repito lo que me contaron.
+W	negative-hearsay	negativeAnswers	No, I saw it myself.	No, lo vi yo mismo.
+W	question-legal-privilege	questions	Is that conversation meant to stay confidential?	¿Esa conversación debe quedar en confidencial?
+W	positive-legal-privilege	positiveAnswers	Yes, it was a private exchange for advice and it shouldn't be repeated.	Sí, fue un intercambio privado para pedir consejo y no debería repetirse.

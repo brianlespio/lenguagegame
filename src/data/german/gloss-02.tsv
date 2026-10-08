@@ -1,0 +1,800 @@
+W	adjective-smug	selbstgefällig
+W	adjective-snide	spöttisch
+W	adjective-soggy	durchweicht
+W	adjective-sordid	schäbig
+W	adjective-spry	rüstig
+W	adjective-staid	gesetzt
+W	adjective-stark	kahl
+W	adjective-steely	stählern
+W	adjective-stern	streng
+W	adjective-stodgy	schwerfällig
+W	adjective-stolid	unerschütterlich
+W	adjective-surly	mürrisch
+W	adjective-swarthy	dunkelhäutig
+W	adjective-tacky	kitschig
+W	adjective-testy	reizbar
+W	adjective-thrifty	sparsam
+W	adjective-uncouth	ungehobelt
+W	adjective-unruly	ungebärdig
+W	adjective-unwieldy	unhandlich
+W	adjective-uppity	überheblich
+W	adjective-wary	misstrauisch
+W	adjective-wayward	eigensinnig
+W	adjective-wily	listig
+W	adjective-winsome	einnehmend
+W	adjective-wistful	wehmütig
+W	adjective-wry	ironisch
+W	adjective-zany	närrisch
+W	adverb-sorely	schwer
+W	adverb-nigh	nahezu
+W	adverb-well-nigh	beinahe ganz
+W	adverb-outright	rundweg
+W	adverb-piecemeal	stückweise
+W	adverb-wholesale	pauschal
+W	adverb-willy-nilly	wohl oder übel
+W	adverb-pell-mell	Hals über Kopf
+W	adverb-helter-skelter	Hals über Kopf
+W	adverb-harum-scarum	unbesonnen
+W	adverb-topsy-turvy	verkehrt herum
+W	adverb-headlong	kopfüber
+W	adverb-askance	von der Seite
+W	adverb-aslant	schräg
+W	adverb-asunder	entzwei
+W	adverb-amiss	falsch
+W	adverb-apace	flink
+W	adverb-afresh	aufs Neue
+W	adverb-anew	von neuem
+W	adverb-afield	ins Feld
+W	adverb-afar	in der Ferne
+W	adverb-afoot	im Gange
+W	adverb-abed	im Bett
+W	adverb-aloft	in der Höhe
+W	adverb-amain	mit aller Kraft
+W	adverb-amok	Amok
+W	adverb-athwart	querüber
+W	adverb-aslope	abschüssig
+W	adverb-awhile	eine Weile
+W	adverb-betimes	bei Zeiten
+W	adverb-forthwith	unverzüglich
+W	adverb-henceforth	hinfort
+W	adverb-thenceforth	von da an
+W	adverb-hereafter	fortan
+W	adverb-thereafter	danach
+W	adverb-heretofore	bisher
+W	adverb-theretofore	bis dahin
+W	adverb-hitherto	bis hierher
+W	adverb-hereby	hiermit
+W	adverb-thereby	dadurch
+W	adverb-whereby	wodurch
+W	adverb-wherein	worin
+W	adverb-whereof	wovon
+W	adverb-wherefore	weshalb
+W	adverb-whence	woher
+W	adverb-thence	von dort
+W	adverb-hence	von hier
+W	adverb-hither	hierher
+W	adverb-thither	dorthin
+W	adverb-whither	wohin
+W	adverb-yonder	dort drüben
+W	adverb-forsooth	fürwahr
+W	adverb-verily	wahrlich
+W	adverb-perchance	vielleicht
+W	adverb-peradventure	etwa
+W	adverb-mayhap	womöglich
+W	adverb-haply	etwa
+W	adverb-belike	allem Anschein nach
+W	adverb-fain	gern
+W	adverb-lief	gerne
+W	adverb-passing	überaus
+W	adverb-devilishly	teuflisch
+W	adverb-exceedingly	außerordentlich
+W	adverb-surpassingly	hervorragend
+W	adverb-singularly	auf einzigartige Weise
+W	adverb-peculiarly	auf eigenartige Weise
+W	adverb-uncommonly	ungewöhnlich
+W	adverb-markedly	merklich
+W	adverb-strikingly	auffallend
+W	adverb-glaringly	krass
+W	adverb-blatantly	unverhohlen
+W	adverb-downright	geradezu
+W	adverb-plumb	mitten
+W	adverb-point-blank	aus nächster Nähe
+W	adverb-stock-still	stocksteif
+W	adverb-slap-bang	mit einem Schlag
+W	adverb-overmuch	allzu sehr
+W	adverb-overlong	überlang
+W	adverb-unduly	ungebührlich
+W	adverb-unwittingly	unwissentlich
+W	adverb-wittingly	wissentlich
+W	adverb-advisedly	mit Bedacht
+W	adverb-designedly	absichtlich
+W	adverb-studiedly	gesucht
+W	adverb-pointedly	betont
+W	adverb-avowedly	erklärtermaßen
+W	adverb-ostensibly	angeblich
+W	adverb-stealthily	verstohlen
+W	adverb-furtively	heimlich
+W	adverb-covertly	verdeckt
+W	adverb-underhand	hinterhältig
+W	adverb-on-the-sly	heimlich
+W	adverb-on-the-quiet	im Stillen
+W	adverb-on-the-hop	unvorbereitet
+W	adverb-on-the-fly	im Vorübergehen
+W	adverb-on-the-trot	ohne Pause
+W	adverb-offhandedly	lässig
+W	adverb-extempore	aus dem Stegreif
+W	adverb-sidelong	seitlich
+W	adverb-edgewise	hochkant
+W	adverb-endwise	mit dem Ende voran
+W	adverb-lengthwise	der Länge nach
+W	adverb-crosswise	quer
+W	adverb-elsewise	anders
+W	adverb-anywise	irgendwie
+W	adverb-nowise	keineswegs
+W	adverb-nohow	auf keine Weise
+W	adverb-nevermore	nimmermehr
+W	adverb-forevermore	auf ewig
+W	adverb-overnight	über Nacht
+W	adverb-overboard	über Bord
+W	adverb-underfoot	unter den Füßen
+W	adverb-downwind	leewärts
+W	adverb-upwind	luvwärts
+W	adverb-seaward	seewärts
+W	adverb-landward	landwärts
+W	adverb-homeward	heimwärts
+W	adverb-heavenward	himmelwärts
+W	adverb-skyward	himmelan
+W	adverb-earthward	erdenwärts
+W	adverb-leeward	leewärts
+W	adverb-windward	luvwärts
+W	adverb-abaft	achteraus
+W	adverb-abeam	querab
+W	adverb-amidships	mittschiffs
+W	adverb-astern	achteraus
+W	adverb-aground	auf Grund
+W	adverb-adrift	treibend
+W	adverb-afloat	schwimmend
+W	adverb-awash	überspült
+W	adverb-astride	rittlings
+W	adverb-astray	vom Wege ab
+W	adverb-ashore	an Land
+W	adverb-higgledy-piggledy	drunter und drüber
+W	adverb-arsy-versy	verkehrt herum
+W	adverb-lock-stock-and-barrel	mit Haut und Haaren
+W	adverb-hook-line-and-sinker	mit Köder und Angel
+W	adverb-hammer-and-tongs	mit Feuereifer
+W	adverb-tooth-and-nail	mit Zähnen und Klauen
+W	adverb-neck-and-neck	Kopf an Kopf
+W	adverb-hand-over-fist	haufenweise
+W	adverb-hand-in-glove	unter einer Decke
+W	adverb-head-over-heels	Hals über Kopf
+W	adverb-to-and-fro	hin und her
+W	adverb-far-and-wide	weit und breit
+W	adverb-far-and-away	bei weitem
+W	adverb-out-and-out	durch und durch
+W	adverb-through-and-through	bis ins Mark
+W	adverb-once-and-for-all	ein für alle Mal
+W	adverb-high-and-low	überall
+W	adverb-then-and-there	auf der Stelle
+W	adverb-here-and-now	hier und jetzt
+W	adverb-time-and-again	immer wieder
+W	adverb-day-in-day-out	Tag für Tag
+W	adverb-year-in-year-out	Jahr für Jahr
+W	adverb-round-the-clock	rund um die Uhr
+W	adverb-at-a-stretch	am Stück
+W	adverb-at-a-sitting	in einem Zug
+W	adverb-at-a-stroke	mit einem Schlag
+W	adverb-at-a-glance	auf einen Blick
+W	adverb-at-a-pinch	zur Not
+W	adverb-at-a-push	zur Not
+W	adverb-at-full-tilt	in vollem Lauf
+W	adverb-at-full-pelt	in voller Hast
+W	adverb-at-sixes-and-sevens	wie Kraut und Rüben
+W	adverb-at-loggerheads	im Clinch
+W	adverb-at-bay	in die Enge getrieben
+W	adverb-at-large	auf freiem Fuß
+W	adverb-at-leisure	in aller Ruhe
+W	adverb-at-length	ausführlich
+W	adverb-at-will	nach Belieben
+W	adverb-at-random	auf gut Glück
+W	adverb-of-late	seit kurzem
+W	adverb-of-old	von alters her
+W	adverb-of-yore	einstmals
+W	adverb-of-necessity	notgedrungen
+W	adverb-in-earnest	im Ernst
+W	adverb-in-vain	vergeblich
+W	adverb-in-toto	insgesamt
+W	adverb-in-full	vollständig
+W	adverb-in-brief	kurz gesagt
+W	adverb-in-short	kurz und gut
+W	adverb-in-sum	kurz zusammengefasst
+W	adverb-in-kind	in Naturalien
+W	adverb-in-stride	gelassen
+W	adverb-in-store	bevorstehend
+W	adverb-in-train	im Gange
+W	adverb-in-tow	im Schlepptau
+W	adverb-in-thrall	in Bann
+W	adverb-in-jest	im Scherz
+W	adverb-in-sooth	fürwahr
+W	adverb-in-fine	kurz und gut
+W	adverb-in-the-main	im Wesentlichen
+W	adverb-on-balance	alles in allem
+W	adverb-on-cue	wie auf Kommando
+W	adverb-on-end	ununterbrochen
+W	adverb-on-impulse	impulsiv
+W	adverb-on-spec	auf gut Glück
+W	adverb-on-tap	griffbereit
+W	adverb-on-trust	auf Treu und Glauben
+W	adverb-offhand	aus dem Stegreif
+W	adverb-cheek-by-jowl	dicht beieinander
+W	adverb-by-and-by	über kurz oder lang
+W	adverb-by-and-large	im Großen und Ganzen
+W	adverb-off-and-on	mit Unterbrechungen
+W	adverb-on-and-off	mit Unterbrechungen
+W	adverb-back-and-forth	hin und her
+W	adverb-more-often-than-not	meist
+W	adverb-as-often-as-not	mal so, mal so
+W	adverb-every-so-often	dann und wann
+W	adverb-night-and-day	Tag und Nacht
+W	adverb-at-full-stretch	bis zum Äußersten
+W	adverb-at-hand	zur Hand
+W	adverb-at-issue	strittig
+W	adverb-at-stake	auf dem Spiel
+W	adverb-at-worst	schlimmstenfalls
+W	adverb-at-best	bestenfalls
+W	adverb-at-most	höchstens
+W	adverb-in-situ	an Ort und Stelle
+W	adverb-over-and-above	darüber hinaus
+W	adverb-first-and-last	vor allem
+W	adverb-left-and-right	links und rechts
+W	adverb-now-and-again	dann und wann
+W	adverb-time-after-time	immer wieder
+W	adverb-week-in-week-out	Woche für Woche
+W	adverb-at-a-blow	mit einem Schlag
+W	adverb-at-a-trot	im Trab
+W	adverb-knowingly	wissentlich
+W	adverb-purposely	absichtlich
+W	adverb-seemingly	scheinbar
+W	adverb-outwardly	äußerlich
+W	adverb-inwardly	innerlich
+W	adverb-overly	übermäßig
+W	adverb-headfirst	kopfüber
+W	adverb-smack	mitten
+W	adverb-bang	mit einem Schlag
+W	adverb-flat	rundweg
+W	adverb-clean	mit einem Schnitt
+W	adverb-wide	bei weitem
+W	adverb-hard-by	dicht daneben
+W	adverb-full-well	sehr wohl
+W	adverb-right-well	recht gut
+W	adverb-passing-well	recht gut
+W	adverb-sore	sehr
+W	adverb-needs	notgedrungen
+W	adverb-anon	alsbald
+W	adverb-eftsoons	alsbald
+W	adverb-whilom	einst
+W	adverb-withal	dabei
+W	adverb-therewithal	dazu
+W	adverb-hereupon	daraufhin
+W	adverb-thereupon	daraufhin
+W	adverb-hereat	darüber
+W	adverb-thereat	darüber
+W	adverb-whereat	worüber
+W	adverb-herein	hierin
+W	adverb-therein	darin
+W	adverb-hereon	hierauf
+W	adverb-thereon	darauf
+W	adverb-herewith	hiermit
+W	adverb-therewith	damit
+W	adverb-hereunder	nachstehend
+W	adverb-thereunder	darunter
+W	adverb-hereunto	hierzu
+W	adverb-thereunto	dazu
+W	adverb-whereto	wozu
+W	adverb-whereon	worauf
+W	adverb-wherewith	womit
+W	adverb-whereunder	worunter
+W	adverb-aloof	abseits
+W	adverb-askew	schief
+W	adverb-awry	schief
+W	adverb-sideways	seitwärts
+W	adverb-endways	mit dem Ende voran
+W	adverb-lengthways	der Länge nach
+W	adverb-crossways	quer
+W	adverb-clockwise	im Uhrzeigersinn
+W	adverb-widdershins	gegen den Uhrzeigersinn
+W	adverb-deasil	mit der Sonne
+W	adverb-sunwise	mit der Sonne
+W	adverb-counterclockwise	gegen den Uhrzeigersinn
+W	adverb-broadside	von der Seite
+W	adverb-end-on	frontal
+W	adverb-head-on	frontal
+W	adverb-obliquely	schräg
+W	connector-that-said	zugegeben
+W	connector-that-being-said	zugegeben
+W	connector-having-said-that	zugegeben
+W	connector-all-that-said	bei alledem
+W	connector-even-then	selbst dann
+W	connector-albeit	wenngleich
+W	connector-for-all-that	trotz allem
+W	connector-for-all	trotz
+W	connector-be-that-as-it-may	sei dem, wie es wolle
+W	connector-that-being-so	demnach
+W	connector-that-being-the-case	demnach
+W	connector-such-being-the-case	demnach
+W	connector-this-being-so	demnach
+W	connector-just-the-same	trotzdem
+W	connector-still-and-all	bei alledem
+W	connector-come-what-may	komme, was wolle
+W	connector-come-what-will	komme, was da wolle
+W	connector-come-hell-or-high-water	komme, was da wolle
+W	connector-sink-or-swim	rette sich, wer kann
+W	connector-like-it-or-not	ob man will oder nicht
+W	connector-like-it-or-lump-it	ob man will oder nicht
+W	connector-much-as	so sehr auch
+W	connector-much-though	so sehr auch
+W	connector-try-as-one-might	so sehr man sich auch bemüht
+W	connector-try-as-one-will	so sehr man auch will
+W	connector-be-it-as-it-may	sei dem, wie es wolle
+W	connector-so-be-it	so sei es
+W	connector-so-it-goes	so geht es
+W	connector-thus-it-is	so ist es
+W	connector-whence-it-follows	woraus folgt
+W	connector-it-follows-that	daraus folgt, dass
+W	connector-it-transpires-that	es stellt sich heraus, dass
+W	connector-truth-be-told	um die Wahrheit zu sagen
+W	connector-to-tell-the-truth	um die Wahrheit zu sagen
+W	connector-to-be-sure	gewiss
+W	connector-to-be-fair	der Fairness halber
+W	connector-to-be-frank	offen gesagt
+W	connector-strictly-speaking	genau genommen
+W	connector-loosely-speaking	grob gesagt
+W	connector-broadly-speaking	im Großen und Ganzen
+W	connector-relatively-speaking	relativ gesehen
+W	connector-comparatively-speaking	vergleichsweise
+W	connector-all-things-considered	alles in allem
+W	connector-by-and-large	im Großen und Ganzen
+W	connector-on-the-whole	insgesamt
+W	connector-in-the-main	im Wesentlichen
+W	connector-for-the-most-part	größtenteils
+W	connector-in-large-part	zu großen Teilen
+W	connector-in-no-small-part	nicht unerheblich
+W	connector-not-least	nicht zuletzt
+W	connector-last-but-not-least	zu guter Letzt
+W	connector-first-and-foremost	zuallererst
+W	connector-first-of-all	zunächst einmal
+W	connector-in-the-first-place	erstens
+W	connector-in-the-second-place	zweitens
+W	connector-at-the-outset	gleich zu Beginn
+W	connector-from-the-outset	von Anfang an
+W	connector-from-the-get-go	von Anfang an
+W	connector-from-the-word-go	vom ersten Augenblick an
+W	connector-at-the-end-of-the-day	letzten Endes
+W	connector-when-all-is-said-and-done	wenn alles gesagt und getan ist
+W	connector-when-it-comes-down-to-it	wenn es darauf ankommt
+W	connector-in-the-last-analysis	in letzter Instanz
+W	connector-at-bottom	im Grunde
+W	connector-at-root	im Kern
+W	connector-in-essence	im Wesentlichen
+W	connector-in-substance	der Sache nach
+W	connector-in-point-of-fact	tatsächlich
+W	connector-as-a-matter-of-fact	tatsächlich
+W	connector-as-it-happens	zufällig
+W	connector-as-it-turns-out	wie sich herausstellt
+W	connector-as-luck-would-have-it	wie das Glück es wollte
+W	connector-as-chance-would-have-it	wie der Zufall es wollte
+W	connector-as-fate-would-have-it	wie das Schicksal es wollte
+W	connector-needless-to-say	unnötig zu sagen
+W	connector-it-goes-without-saying	es versteht sich von selbst
+W	connector-suffice-it-to-say	genug zu sagen
+W	connector-let-it-be-said	sei gesagt
+W	connector-mark-my-words	merken Sie sich meine Worte
+W	connector-mind-you	wohlgemerkt
+W	connector-far-be-it-from-me	fern sei es mir
+W	connector-far-from-it	weit gefehlt
+W	connector-nothing-of-the-kind	keineswegs
+W	connector-nothing-of-the-sort	nichts dergleichen
+W	connector-quite-the-contrary	ganz im Gegenteil
+W	connector-quite-the-reverse	ganz im Gegenteil
+W	connector-by-the-same-token	aus demselben Grund
+W	connector-by-that-token	aus ebenjenem Grund
+W	connector-in-the-same-vein	in derselben Weise
+W	connector-along-the-same-lines	in derselben Richtung
+W	connector-to-that-end	zu diesem Zweck
+W	connector-to-this-end	zu diesem Zweck
+W	connector-to-that-effect	in diesem Sinne
+W	connector-to-this-effect	in diesem Sinne
+W	connector-with-that	damit
+W	connector-thereupon	daraufhin
+W	connector-whereupon	woraufhin
+W	connector-wherefore	weshalb
+W	connector-whereat	worüber
+W	connector-thence	daher
+W	connector-whence	woher
+W	connector-henceforth	hinfort
+W	connector-thenceforth	von da an
+W	connector-henceforward	fortan
+W	connector-thenceforward	seitdem
+W	connector-hereafter	fortan
+W	connector-thereafter	danach
+W	connector-as-yet	bisher
+W	connector-thus-far	bis hierher
+W	connector-hitherto	bisher
+W	connector-heretofore	bisher
+W	connector-theretofore	bis dahin
+W	connector-ever-since	seitdem
+W	connector-ever-after	für immer und ewig
+W	connector-and-yet	und doch
+W	connector-but-then	aber dann
+W	connector-but-then-again	aber andererseits
+W	connector-then-again	andererseits
+W	connector-once-more	noch einmal
+W	connector-what-is-more	überdies
+W	connector-what-is-worse	was schlimmer ist
+W	connector-worse-still	schlimmer noch
+W	connector-better-still	besser noch
+W	connector-better-yet	noch besser
+W	connector-still-worse	noch schlimmer
+W	connector-still-better	noch besser
+W	connector-more-to-the-point	eher zum Punkt
+W	connector-to-the-point	zur Sache
+W	connector-beside-the-point	neben der Sache
+W	connector-neither-here-nor-there	weder hier noch dort
+W	connector-by-the-by	nebenbei
+W	connector-by-the-bye	nebenbei bemerkt
+W	connector-in-passing	nebenbei
+W	connector-en-passant	en passant
+W	connector-for-that-matter	übrigens
+W	connector-for-that-reason	aus diesem Grund
+W	connector-for-which-reason	weshalb
+W	connector-on-that-account	aus diesem Grund
+W	connector-on-this-account	aus diesem Grund
+W	connector-on-which-account	weshalb
+W	connector-on-no-account	keinesfalls
+W	connector-in-that-regard	in dieser Hinsicht
+W	connector-in-this-regard	in dieser Hinsicht
+W	connector-in-that-respect	in dieser Hinsicht
+W	connector-in-this-respect	in dieser Hinsicht
+W	connector-in-that-connection	in dem Zusammenhang
+W	connector-in-this-connection	in diesem Zusammenhang
+W	connector-as-regards-that	was das betrifft
+W	connector-as-to-that	was das angeht
+W	connector-as-for-that	was das angeht
+W	connector-so-far-as-that-goes	soweit es das betrifft
+W	connector-for-what-it-is-worth	für das, was es wert ist
+W	connector-if-anything	wenn überhaupt
+W	connector-if-at-all	wenn überhaupt
+W	connector-if-ever	wenn jemals
+W	connector-if-need-be	nötigenfalls
+W	connector-if-so	wenn dem so ist
+W	connector-if-not	wenn nicht
+W	connector-failing-that	andernfalls
+W	connector-failing-which	andernfalls
+W	connector-or-else	sonst
+W	connector-elsewise	anders
+W	connector-save-that	außer dass
+W	connector-except-that	außer dass
+W	connector-but-that	wäre da nicht
+W	connector-only-that	nur dass
+W	connector-insomuch-as	insoweit
+W	connector-insomuch-that	dergestalt dass
+W	connector-to-such-an-extent-that	in dem Maße dass
+W	connector-to-the-extent-that	soweit
+W	connector-to-the-degree-that	in dem Grade dass
+W	connector-in-so-far-as	insoweit
+W	connector-so-far-as	soweit
+W	connector-as-far-as	soweit
+W	connector-as-much-as	so sehr auch
+W	connector-so-much-as	auch nur
+W	connector-forasmuch-as	angesichts dessen dass
+W	connector-whilst	während
+W	connector-meantime	inzwischen
+W	connector-in-the-meantime	in der Zwischenzeit
+W	connector-in-the-meanwhile	unterdessen
+W	connector-at-the-same-time	zugleich
+W	connector-all-the-while	die ganze Zeit
+W	connector-now-then	nun denn
+W	connector-well-then	nun gut
+W	connector-so-then	also
+W	connector-and-so	und so
+W	connector-and-so-forth	und so weiter
+W	connector-and-so-on	und so weiter
+W	connector-and-the-like	und dergleichen
+W	connector-and-the-rest	und der Rest
+W	connector-among-other-things	unter anderem
+W	connector-inter-alia	unter anderem
+W	connector-not-to-mention	ganz zu schweigen von
+W	connector-to-say-nothing-of	ganz abgesehen von
+W	connector-let-alone	geschweige denn
+W	connector-still-less	noch weniger
+W	connector-much-less	geschweige denn
+W	connector-never-mind	schon gut
+W	connector-no-matter	egal
+W	connector-no-matter-what	komme, was wolle
+W	connector-no-matter-how	wie auch immer
+W	connector-howbeit	gleichwohl
+W	connector-albeit-that	wenngleich
+W	connector-granted-that	zugegeben dass
+W	connector-considering-that	angesichts dessen dass
+W	connector-provided-always	vorausgesetzt stets dass
+W	connector-providing-that	vorausgesetzt dass
+W	connector-so-long-as	solange
+W	connector-in-the-event-that	für den Fall dass
+W	connector-should-it-be-that	sollte es sein dass
+W	connector-were-it-not-that	wäre da nicht
+W	connector-but-for-the-fact-that	wäre da nicht die Tatsache dass
+W	connector-save-for-the-fact-that	abgesehen von der Tatsache dass
+W	connector-were-that-the-case	wäre dem so
+W	connector-if-that-be-so	wenn dem so ist
+W	connector-if-that-were-so	wenn dem so wäre
+W	connector-be-it-noted	sei angemerkt
+W	connector-note-well	wohlgemerkt
+W	connector-mark-well	wohlgemerkt
+W	connector-for-the-record	zu Protokoll
+W	connector-off-the-record	inoffiziell
+W	connector-between-ourselves	unter uns
+W	connector-between-you-and-me	unter uns gesagt
+W	connector-if-i-may-say-so	wenn ich das sagen darf
+W	connector-if-you-will	wenn Sie so wollen
+W	connector-as-it-were	sozusagen
+W	connector-so-to-speak	sozusagen
+W	connector-so-to-say	sozusagen
+W	connector-in-a-manner-of-speaking	gewissermaßen
+W	connector-after-a-fashion	gewissermaßen
+W	connector-after-a-sort	gewissermaßen
+W	connector-in-a-sense	in gewissem Sinne
+W	connector-in-some-sense	in irgendeinem Sinne
+W	connector-in-every-sense	in jeder Hinsicht
+W	connector-in-no-sense	in keinem Sinne
+W	connector-in-no-wise	keineswegs
+W	connector-in-any-event	jedenfalls
+W	connector-in-any-case	jedenfalls
+W	connector-at-all-events	jedenfalls
+W	connector-at-any-rate	jedenfalls
+W	connector-come-to-that	wo wir gerade dabei sind
+W	connector-come-to-think-of-it	wenn man es recht bedenkt
+W	connector-speaking-of-which	apropos
+W	connector-to-return-to-the-point	zurück zum Punkt
+W	connector-to-resume	um fortzufahren
+W	connector-to-recap	um zusammenzufassen
+W	connector-to-put-it-mildly	gelinde gesagt
+W	connector-to-put-it-bluntly	offen gesagt
+W	connector-to-put-it-another-way	anders gesagt
+W	connector-put-another-way	anders ausgedrückt
+W	connector-to-wit	nämlich
+W	connector-videlicet	nämlich
+W	connector-a-fortiori	erst recht
+W	connector-a-posteriori	a posteriori
+W	connector-a-priori	a priori
+W	connector-mutatis-mutandis	mutatis mutandis
+W	connector-ceteris-paribus	ceteris paribus
+W	connector-ipso-facto	ipso facto
+W	connector-de-facto	de facto
+W	connector-de-jure	de jure
+W	connector-per-contra	hingegen
+W	connector-nathless	nichtsdestoweniger
+W	connector-natheless	nichtsdestoweniger
+W	connector-withal	dabei
+W	connector-hereupon	daraufhin
+W	connector-thereat	darüber
+W	connector-hereat	darüber
+W	connector-now-i-come-to-think-of-it	jetzt, wo ich daran denke
+W	connector-which-reminds-me	was mich daran erinnert
+W	connector-that-reminds-me	das erinnert mich
+W	connector-if-i-may-put-it-so	wenn ich es so sagen darf
+W	connector-strictly-off-the-record	streng vertraulich
+W	connector-in-the-event-of	im Falle von
+W	pronoun-whosoever	wer auch immer
+W	pronoun-whatsoever	was auch immer
+W	pronoun-whomsoever	wen auch immer
+W	pronoun-wheresoever	wo auch immer
+W	pronoun-whensoever	wann auch immer
+W	pronoun-howsoever	wie auch immer
+W	pronoun-whichsoever	welches auch immer
+W	pronoun-whoso	wer
+W	pronoun-whomso	wen
+W	pronoun-whosever	wessen auch immer
+W	pronoun-aught	etwas
+W	pronoun-naught	nichts
+W	pronoun-nought	Null
+W	pronoun-the-former	Ersterer
+W	pronoun-the-latter	Letzterer
+W	pronoun-the-same	derselbe
+W	pronoun-the-undersigned	der Unterzeichnete
+W	pronoun-the-aforesaid	der Vorgenannte
+W	pronoun-the-aforementioned	der Genannte
+W	pronoun-the-said	der besagte
+W	pronoun-the-one	der eine
+W	pronoun-the-other	der andere
+W	pronoun-one-another	einander
+W	pronoun-each-other	einander
+W	pronoun-one-and-all	alle ohne Ausnahme
+W	pronoun-each-and-every-one	jeder Einzelne
+W	pronoun-such-as-it-is	wie es ist
+W	pronoun-all-and-sundry	jedermann
+W	pronoun-one-and-the-same	ein und derselbe
+W	pronoun-none-other	kein anderer
+W	pronoun-none-but	niemand außer
+W	pronoun-no-one-else	niemand sonst
+W	pronoun-nobody-else	niemand sonst
+W	pronoun-anybody-else	irgendjemand sonst
+W	pronoun-anyone-else	irgendjemand sonst
+W	pronoun-someone-else	jemand anders
+W	pronoun-somebody-else	jemand anders
+W	pronoun-something-else	etwas anderes
+W	pronoun-nothing-else	nichts anderes
+W	pronoun-everything-else	alles andere
+W	pronoun-everyone-else	alle anderen
+W	pronoun-everybody-else	alle anderen
+W	pronoun-whoever-else	wer sonst
+W	pronoun-whatever-else	was sonst
+W	pronoun-whichever	welches auch immer
+W	pronoun-whatever	was auch immer
+W	pronoun-whoever	wer auch immer
+W	pronoun-whomever	wen auch immer
+W	pronoun-oneself	man selbst
+W	pronoun-one-s-own	das eigene
+W	pronoun-thyself	du selbst
+W	pronoun-thee	dich
+W	pronoun-thou	du
+W	pronoun-thy	dein
+W	pronoun-thine	deins
+W	pronoun-ye	Sie
+W	pronoun-yourselves	Sie selbst
+W	pronoun-ourselves	wir selbst
+W	pronoun-themselves	sie selbst
+W	pronoun-herself	sie selbst
+W	pronoun-himself	er selbst
+W	pronoun-anybody-s	jemandes
+W	pronoun-nobody-s	niemandes
+W	pronoun-somebody-s	jemandes
+W	pronoun-everybody-s	jedermanns
+W	pronoun-one-s	jemandes
+W	pronoun-suchlike	dergleichen
+W	pronoun-the-like	dergleichen
+W	pronoun-the-likes-of	Leute wie
+W	pronoun-the-likes-thereof	dergleichen
+W	pronoun-thereof	davon
+W	pronoun-thereto	dazu
+W	pronoun-therein	darin
+W	pronoun-thereon	darauf
+W	pronoun-therewith	damit
+W	pronoun-herewith	hiermit
+W	pronoun-herein	hierin
+W	pronoun-hereof	hiervon
+W	pronoun-hereto	hierzu
+W	pronoun-hereunder	nachstehend
+W	pronoun-hereunto	hierzu
+W	pronoun-thereunder	darunter
+W	pronoun-thereunto	dazu
+W	pronoun-wherein	worin
+W	pronoun-whereof	wovon
+W	pronoun-whereto	wozu
+W	pronoun-whereon	worauf
+W	pronoun-wherewith	womit
+W	pronoun-whereunder	worunter
+W	pronoun-whereunto	wozu
+W	pronoun-any-such	irgendein solcher
+W	pronoun-no-such	kein solcher
+W	pronoun-some-such	irgendein solcher
+W	pronoun-all-such	alle solche
+W	pronoun-each-such	jeder solche
+W	pronoun-the-party-of-the-first-part	die erste Partei
+W	pronoun-the-party-of-the-second-part	die zweite Partei
+W	pronoun-he-who	derjenige, der
+W	pronoun-she-who	diejenige, die
+W	pronoun-they-who	diejenigen, die
+W	pronoun-he-that	der, der
+W	pronoun-she-that	die, die
+W	pronoun-they-that	die, die
+W	pronoun-that-which	das, was
+W	pronoun-those-who	diejenigen, die
+W	pronoun-those-whom	diejenigen, die
+W	pronoun-those-whose	deren
+W	pronoun-those-which	diejenigen, die
+W	pronoun-that-same	ebenjener
+W	pronoun-this-same	ebendieser
+W	pronoun-such-a-one	ein solcher
+W	pronoun-many-a-one	mancher
+W	pronoun-not-a-one	nicht einer
+W	pronoun-nary-a-one	nicht einer
+W	pronoun-every-last-one	jeder Letzte
+W	pronoun-every-single-one	jeder Einzelne
+W	pronoun-one-or-other	der eine oder andere
+W	pronoun-one-or-the-other	der eine oder der andere
+W	pronoun-either-one	einer von beiden
+W	pronoun-neither-one	keiner von beiden
+W	pronoun-both-of-them	beide
+W	pronoun-all-of-them	sie alle
+W	pronoun-some-of-them	einige von ihnen
+W	pronoun-none-of-them	keiner von ihnen
+W	pronoun-few-of-them	wenige von ihnen
+W	pronoun-many-of-them	viele von ihnen
+W	pronoun-most-of-them	die meisten von ihnen
+W	pronoun-several-of-them	mehrere von ihnen
+W	pronoun-each-of-them	jeder von ihnen
+W	pronoun-any-of-them	irgendeiner von ihnen
+W	pronoun-either-of-them	einer von beiden
+W	pronoun-neither-of-them	keiner von beiden
+W	pronoun-the-pair-of-them	beide
+W	pronoun-the-lot-of-them	sie alle
+W	pronoun-the-whole-of-it	das Ganze
+W	pronoun-the-rest-of-them	der Rest
+W	pronoun-the-remainder	der Rest
+W	pronoun-the-rest	die übrigen
+W	pronoun-still-others	noch andere
+W	pronoun-yet-others	wieder andere
+W	pronoun-certain-ones	bestimmte
+W	pronoun-certain-others	bestimmte andere
+W	pronoun-sundry-others	verschiedene andere
+W	pronoun-sundry	verschiedene
+W	pronoun-divers	diverse
+W	pronoun-what-few	die wenigen, die
+W	pronoun-what-little	das Wenige, das
+W	pronoun-whatever-little	das Wenige, das auch immer
+W	pronoun-whichever-one	welcher auch immer
+W	pronoun-whichever-ones	welche auch immer
+W	pronoun-whoever-it-be	wer es auch sei
+W	pronoun-whatever-it-be	was es auch sei
+W	pronoun-to-whom-it-may-concern	an wen es auch gehen mag
+W	pronoun-as-much	soviel
+W	pronoun-so-much	soviel
+W	pronoun-this-much	dies
+W	pronoun-that-much	das
+W	pronoun-thus-much	soviel
+W	pronoun-as-many	soviele
+W	pronoun-so-many	soviele
+W	pronoun-this-many	diese
+W	pronoun-that-many	jene
+W	pronoun-nobody-in-particular	niemand Bestimmtes
+W	pronoun-somebody-or-other	irgendjemand
+W	pronoun-something-or-other	irgendetwas
+W	pronoun-anyone-at-all	irgendjemand
+W	pronoun-anything-at-all	irgendetwas
+W	pronoun-nothing-at-all	gar nichts
+W	pronoun-no-one-at-all	gar niemand
+W	pronoun-not-a-soul	keine Seele
+W	pronoun-not-a-whit	nicht im Geringsten
+W	pronoun-not-a-scrap	nicht das Geringste
+W	pronoun-not-a-shred	nicht die Spur
+W	pronoun-not-a-stitch	nicht ein Stück
+W	pronoun-not-a-jot	nicht ein Jota
+W	pronoun-not-a-tittle	nicht das Geringste
+W	pronoun-not-an-iota	nicht ein Jota
+W	pronoun-every-man-jack	jeder Einzelne
+W	pronoun-every-mother-s-son	jeder ohne Ausnahme
+W	pronoun-any-old-one	irgendeiner
+W	pronoun-such-as-they-are	wie sie nun einmal sind
+W	pronoun-for-one-s-part	seinerseits
+W	pronoun-for-my-part	meinerseits
+W	pronoun-for-his-part	seinerseits
+W	pronoun-in-and-of-itself	an und für sich
+W	pronoun-as-such	als solches
+W	pronoun-the-very-one	ebenjener
+W	pronoun-the-very-same	ebenderselbe
+W	pronoun-none-other-than	kein anderer als
+W	pronoun-no-less-than	nicht weniger als
+W	pronoun-no-fewer-than	nicht weniger als
+W	pronoun-each-in-turn	jeder der Reihe nach
+W	pronoun-one-after-another	einer nach dem anderen
+W	pronoun-one-after-the-other	einer hinter dem anderen
+W	pronoun-the-one-and-only	der Einzige
+W	pronoun-no-one-but	niemand außer
+W	pronoun-anyone-but	jeder außer
+W	pronoun-everyone-but	alle außer
+W	pronoun-the-both-of-us	wir beide
+W	pronoun-the-three-of-us	wir drei
+W	pronoun-each-and-all	alle und jeder
+W	pronoun-one-and-another	der eine und der andere
+W	pronoun-this-that-and-the-other	dies und jenes
+W	pronoun-what-have-you	und dergleichen
+W	pronoun-and-whatnot	und was nicht alles
+W	pronoun-or-what-have-you	oder dergleichen
+W	pronoun-whoever-it-may-be	wer es auch sei
+W	pronoun-whomever-it-may-be	wen es auch sei
+W	pronoun-whatever-it-may-be	was es auch sei
+W	pronoun-whichever-it-may-be	welches es auch sei
+W	pronoun-he-himself	er selbst
+W	pronoun-she-herself	sie selbst
+W	pronoun-they-themselves	sie selbst
+W	pronoun-we-ourselves	wir selbst

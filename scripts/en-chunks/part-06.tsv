@@ -1,0 +1,800 @@
+W	adverb-in-abeyance	adverbs	in abeyance	en suspenso
+W	adverb-in-deadlock	adverbs	in deadlock	en punto muerto
+W	adverb-in-reverse	adverbs	in reverse	a la inversa
+W	adverb-in-tandem	adverbs	in tandem	al unísono
+W	adverb-in-parallel	adverbs	in parallel	en paralelo
+W	adverb-in-isolation	adverbs	in isolation	de forma aislada
+W	adverb-in-concert	adverbs	in concert	de consuno
+W	adverb-in-droves	adverbs	in droves	en tropel
+W	adverb-in-bulk	adverbs	in bulk	a granel
+W	adverb-in-batches	adverbs	in batches	por lotes
+W	adverb-in-stages	adverbs	in stages	por etapas
+W	adverb-in-phases	adverbs	in phases	por fases
+W	adverb-in-waves	adverbs	in waves	por oleadas
+W	adverb-in-fits-and-starts	adverbs	in fits and starts	a trompicones
+W	adverb-in-dribs-and-drabs	adverbs	in dribs and drabs	a cuentagotas
+W	adverb-in-one-go	adverbs	in one go	de una vez
+W	adverb-in-one-sitting	adverbs	in one sitting	de una sentada
+W	adverb-in-one-stroke	adverbs	in one stroke	de un plumazo
+W	adverb-over-time	adverbs	over time	con el tiempo
+W	adverb-over-the-piece	adverbs	over the piece	a lo largo del conjunto
+W	adverb-over-the-long-haul	adverbs	over the long haul	a largo recorrido
+W	adverb-over-the-short-haul	adverbs	over the short haul	a corto recorrido
+W	adverb-at-short-notice	adverbs	at short notice	con poco preaviso
+W	adverb-at-long-last	adverbs	at long last	por fin
+W	adverb-at-face-value	adverbs	at face value	al pie de la letra
+W	adverb-at-cost	adverbs	at cost	a coste
+W	adverb-at-source	adverbs	at source	en origen
+W	adverb-at-source-level	adverbs	at source level	en origen
+W	adverb-at-board-level	adverbs	at board level	a nivel de consejo
+W	adverb-at-street-level	adverbs	at street level	a pie de calle
+W	adverb-at-ground-level	adverbs	at ground level	a ras de suelo
+W	adverb-at-cabinet-level	adverbs	at cabinet level	a nivel de gabinete
+W	adverb-at-ministerial-level	adverbs	at ministerial level	a nivel ministerial
+W	adverb-at-grassroots-level	adverbs	at grassroots level	a pie de calle
+W	adverb-from-scratch	adverbs	from scratch	desde cero
+W	adverb-from-the-ground-up	adverbs	from the ground up	desde los cimientos
+W	adverb-from-the-top-down	adverbs	from the top down	de arriba abajo
+W	adverb-from-the-bottom-up	adverbs	from the bottom up	de abajo arriba
+W	adverb-from-day-one	adverbs	from day one	desde el primer día
+W	adverb-from-the-start	adverbs	from the start	desde el arranque
+W	adverb-right-away	adverbs	right away	en el acto
+W	adverb-straight-away	adverbs	straight away	en el acto
+W	adverb-straight-off	adverbs	straight off	de entrada
+W	adverb-straight-out	adverbs	straight out	sin rodeos
+W	adverb-out-loud	adverbs	out loud	en voz alta
+W	adverb-out-of-hand	adverbs	out of hand	de sopetón
+W	adverb-out-of-turn	adverbs	out of turn	fuera de turno
+W	adverb-out-of-order	adverbs	out of order	fuera de lugar
+W	adverb-out-of-line	adverbs	out of line	fuera de raya
+W	adverb-out-of-kilter	adverbs	out of kilter	desajustado
+W	adverb-out-of-whack	adverbs	out of whack	descuadrado
+W	adverb-out-of-joint	adverbs	out of joint	desencajado
+W	adverb-out-of-pocket	adverbs	out of pocket	con cargo propio
+W	adverb-out-of-work	adverbs	out of work	en el paro
+W	adverb-out-of-office	adverbs	out of office	fuera del cargo
+W	adverb-out-of-favour	adverbs	out of favour	en desgracia
+W	adverb-out-of-fashion	adverbs	out of fashion	pasado de moda
+W	adverb-out-of-date	adverbs	out of date	desfasado
+W	adverb-up-to-date	adverbs	up to date	al día
+W	adverb-up-to-speed	adverbs	up to speed	al corriente
+W	adverb-up-to-scratch	adverbs	up to scratch	a la altura
+W	adverb-up-to-par	adverbs	up to par	a la altura
+W	adverb-on-track	adverbs	on track	en vía
+W	adverb-off-track	adverbs	off track	desviado
+W	adverb-on-course	adverbs	on course	en rumbo
+W	adverb-off-course	adverbs	off course	fuera de rumbo
+W	adverb-on-target	adverbs	on target	en el blanco
+W	adverb-off-target	adverbs	off target	fuera de blanco
+W	adverb-on-schedule	adverbs	on schedule	en plazo
+W	adverb-behind-schedule	adverbs	behind schedule	con retraso
+W	adverb-ahead-of-schedule	adverbs	ahead of schedule	con adelanto
+W	adverb-on-time	adverbs	on time	a tiempo
+W	adverb-behind-time	adverbs	behind time	con retraso
+W	adverb-in-time	adverbs	in time	a tiempo
+W	adverb-just-in-time	adverbs	just in time	justo a tiempo
+W	adverb-not-a-moment-too-soon	adverbs	not a moment too soon	ni un momento antes
+W	adverb-none-too-soon	adverbs	none too soon	ni un momento antes
+W	connector-setting-that-aside	connectors	setting that aside	apartando eso
+W	connector-putting-that-to-one-side	connectors	putting that to one side	poniendo eso a un lado
+W	connector-on-that-note	connectors	on that note	en esa línea
+W	connector-on-another-note	connectors	on another note	en otro tenor
+W	connector-on-a-lighter-note	connectors	on a lighter note	en un tono más ligero
+W	connector-on-a-more-serious-note	connectors	on a more serious note	en un tono más grave
+W	connector-turning-to	connectors	turning to	pasando a
+W	connector-moving-on-to	connectors	moving on to	pasando a
+W	connector-coming-back-to	connectors	coming back to	volviendo a
+W	connector-returning-to	connectors	returning to	regresando a
+W	connector-circling-back-to	connectors	circling back to	cerrando el círculo hacia
+W	connector-to-pick-up-on	connectors	to pick up on	para retomar
+W	connector-to-follow-up-on	connectors	to follow up on	para dar seguimiento a
+W	connector-to-expand-on	connectors	to expand on	para ampliar
+W	connector-to-dwell-on	connectors	to dwell on	para detenerse en
+W	connector-to-touch-on	connectors	to touch on	para rozar
+W	connector-to-build-on	connectors	to build on	para construir sobre
+W	connector-to-go-further	connectors	to go further	para ir más allá
+W	connector-going-further	connectors	going further	yendo más allá
+W	connector-taking-this-further	connectors	taking this further	llevando esto más lejos
+W	connector-on-this-score	connectors	on this score	en este particular
+W	connector-on-that-score	connectors	on that score	en ese particular
+W	connector-on-this-front	connectors	on this front	en este frente
+W	connector-on-that-front	connectors	on that front	en ese frente
+W	connector-on-this-count	connectors	on this count	en este punto
+W	connector-on-that-count	connectors	on that count	en ese punto
+W	connector-on-one-reading	connectors	on one reading	en una lectura
+W	connector-on-another-reading	connectors	on another reading	en otra lectura
+W	connector-on-a-narrow-reading	connectors	on a narrow reading	en una lectura estrecha
+W	connector-on-a-broad-reading	connectors	on a broad reading	en una lectura amplia
+W	connector-on-a-generous-reading	connectors	on a generous reading	en una lectura generosa
+W	connector-on-a-strict-reading	connectors	on a strict reading	en una lectura estricta
+W	connector-on-a-literal-reading	connectors	on a literal reading	en una lectura literal
+W	connector-on-a-close-reading	connectors	on a close reading	en una lectura atenta
+W	connector-taken-separately	connectors	taken separately	tomado por separado
+W	connector-taken-at-face-value	connectors	taken at face value	tomado al pie de la letra
+W	connector-taken-in-context	connectors	taken in context	tomado en contexto
+W	connector-viewed-this-way	connectors	viewed this way	visto así
+W	connector-viewed-in-isolation	connectors	viewed in isolation	visto de forma aislada
+W	connector-viewed-in-context	connectors	viewed in context	visto en contexto
+W	connector-seen-this-way	connectors	seen this way	visto de este modo
+W	connector-seen-as-a-whole	connectors	seen as a whole	visto en su conjunto
+W	connector-seen-in-isolation	connectors	seen in isolation	visto de forma aislada
+W	connector-seen-in-context	connectors	seen in context	visto en contexto
+W	connector-looked-at-this-way	connectors	looked at this way	mirado así
+W	connector-looked-at-as-a-whole	connectors	looked at as a whole	mirado en su conjunto
+W	connector-from-this-angle	connectors	from this angle	desde este ángulo
+W	connector-from-that-angle	connectors	from that angle	desde ese ángulo
+W	connector-from-this-standpoint	connectors	from this standpoint	desde este punto de vista
+W	connector-from-that-vantage	connectors	from that vantage	desde esa atalaya
+W	connector-from-this-perspective	connectors	from this perspective	desde esta perspectiva
+W	connector-from-that-perspective	connectors	from that perspective	desde esa perspectiva
+W	connector-from-this-viewpoint	connectors	from this viewpoint	desde este enfoque
+W	connector-from-that-viewpoint	connectors	from that viewpoint	desde ese enfoque
+W	connector-from-either-side	connectors	from either side	desde cualquiera de los dos lados
+W	connector-from-both-sides	connectors	from both sides	desde ambos lados
+W	connector-from-all-sides	connectors	from all sides	desde todos los lados
+W	connector-from-the-other-side	connectors	from the other side	desde el otro lado
+W	connector-pressed-further	connectors	pressed further	apretando más
+W	connector-pressed-on-this	connectors	pressed on this	apretando en esto
+W	connector-read-this-way	connectors	read this way	leído así
+W	connector-read-that-way	connectors	read that way	leído de ese modo
+W	connector-read-narrowly	connectors	read narrowly	leído en sentido estrecho
+W	connector-read-broadly	connectors	read broadly	leído en sentido amplio
+W	connector-leaving-that-to-one-side	connectors	leaving that to one side	dejando eso a un lado
+W	connector-setting-this-aside	connectors	setting this aside	apartando esto
+W	connector-putting-this-aside	connectors	putting this aside	poniendo esto a un lado
+W	connector-putting-this-to-one-side	connectors	putting this to one side	poniendo esto a un lado
+W	connector-shifting-the-focus	connectors	shifting the focus	desplazando el foco
+W	connector-shifting-ground	connectors	shifting ground	cambiando de terreno
+W	connector-changing-tack	connectors	changing tack	cambiando de rumbo
+W	connector-changing-course	connectors	changing course	cambiando de curso
+W	connector-changing-the-subject	connectors	changing the subject	cambiando de tema
+W	connector-staying-with-this	connectors	staying with this	siguiendo con esto
+W	connector-staying-with-that	connectors	staying with that	siguiendo con eso
+W	connector-sticking-with-this	connectors	sticking with this	ateniéndose a esto
+W	connector-sticking-with-that	connectors	sticking with that	ateniéndose a eso
+W	connector-holding-to-this	connectors	holding to this	manteniéndose en esto
+W	connector-holding-to-that	connectors	holding to that	manteniéndose en eso
+W	connector-holding-that-thought	connectors	holding that thought	guardando ese pensamiento
+W	connector-parking-that	connectors	parking that	aparcar eso
+W	connector-parking-this	connectors	parking this	aparcar esto
+W	connector-parking-that-for-now	connectors	parking that for now	aparcar eso por ahora
+W	connector-parking-this-for-now	connectors	parking this for now	aparcar esto por ahora
+W	connector-bracketing-that	connectors	bracketing that	poniendo eso entre paréntesis
+W	connector-bracketing-this	connectors	bracketing this	poniendo esto entre paréntesis
+W	connector-for-our-purposes	connectors	for our purposes	a nuestros efectos
+W	connector-for-those-purposes	connectors	for those purposes	a aquellos efectos
+W	connector-for-argument-s-sake	connectors	for argument's sake	a efectos de argumentación
+W	connector-for-the-sake-of-argument	connectors	for the sake of argument	a efectos de argumentación
+W	connector-for-discussion-s-sake	connectors	for discussion's sake	a efectos de debate
+W	connector-for-completeness	connectors	for completeness	a efectos de exhaustividad
+W	connector-for-the-avoidance-of-doubt	connectors	for the avoidance of doubt	para evitar dudas
+W	connector-for-clarity	connectors	for clarity	a efectos de claridad
+W	connector-for-the-sake-of-clarity	connectors	for the sake of clarity	en aras de la claridad
+W	connector-for-ease-of-reference	connectors	for ease of reference	para facilitar la consulta
+W	connector-for-ease-of-reading	connectors	for ease of reading	para facilitar la lectura
+W	connector-for-later-reference	connectors	for later reference	para consulta posterior
+W	connector-for-now	connectors	for now	por ahora
+W	connector-for-the-moment	connectors	for the moment	por el momento
+W	connector-for-the-time-being	connectors	for the time being	de momento
+W	connector-in-the-short-run	connectors	in the short run	a corto plazo
+W	connector-in-the-long-run	connectors	in the long run	a largo plazo
+W	connector-in-the-medium-term	connectors	in the medium term	a medio plazo
+W	connector-in-the-short-term	connectors	in the short term	a corto plazo
+W	connector-in-the-long-term	connectors	in the long term	a largo plazo
+W	connector-over-the-short-term	connectors	over the short term	en el corto plazo
+W	connector-over-the-long-term	connectors	over the long term	en el largo plazo
+W	connector-over-the-medium-term	connectors	over the medium term	en el medio plazo
+W	connector-over-time	connectors	over time	con el tiempo
+W	connector-over-the-piece	connectors	over the piece	a lo largo del conjunto
+W	connector-on-closer-inspection	connectors	on closer inspection	tras un examen más atento
+W	connector-on-closer-reading	connectors	on closer reading	tras una lectura más atenta
+W	connector-on-first-inspection	connectors	on first inspection	a primera vista
+W	connector-on-first-reading	connectors	on first reading	a primera lectura
+W	connector-on-second-thoughts	connectors	on second thoughts	pensándolo mejor
+W	connector-on-reflection	connectors	on reflection	tras reflexionar
+W	connector-on-further-reflection	connectors	on further reflection	tras mayor reflexión
+W	connector-on-balance-of-evidence	connectors	on balance of evidence	a la vista de las pruebas
+W	connector-that-much-granted	connectors	that much granted	concedido eso
+W	connector-that-much-conceded	connectors	that much conceded	concedido eso
+W	connector-granting-this	connectors	granting this	concediendo esto
+W	connector-granting-that	connectors	granting that	concediendo eso
+W	connector-allowing-for-this	connectors	allowing for this	teniendo esto en cuenta
+W	connector-allowing-for-the-fact-that	connectors	allowing for the fact that	teniendo en cuenta que
+W	connector-factoring-this-in	connectors	factoring this in	incorporando esto
+W	connector-factoring-that-in	connectors	factoring that in	incorporando eso
+W	connector-weighing-this-up	connectors	weighing this up	sopesando esto
+W	connector-weighing-that-up	connectors	weighing that up	sopesando eso
+W	connector-putting-it-together	connectors	putting it together	juntándolo
+W	connector-putting-it-in-context	connectors	putting it in context	poniéndolo en contexto
+W	pronoun-those-in-charge	pronouns	those in charge	los responsables
+W	pronoun-the-one-in-question	pronouns	the one in question	el de que se trata
+W	pronoun-the-ones-in-question	pronouns	the ones in question	los de que se trata
+W	pronoun-anyone-concerned	pronouns	anyone concerned	cualquiera afectado
+W	pronoun-anyone-involved	pronouns	anyone involved	cualquiera implicado
+W	pronoun-someone-in-charge	pronouns	someone in charge	alguien al mando
+W	pronoun-something-of-the-sort	pronouns	something of the sort	algo por el estilo
+W	pronoun-anything-of-the-kind	pronouns	anything of the kind	nada de ese jaez
+W	pronoun-such-people	pronouns	such people	tales personas
+W	pronoun-such-things	pronouns	such things	tales cosas
+W	pronoun-whoever-is-responsible	pronouns	whoever is responsible	quien resulte responsable
+W	pronoun-whatever-the-outcome	pronouns	whatever the outcome	sea cual sea el resultado
+W	pronoun-whichever-option	pronouns	whichever option	cualquiera de las opciones
+W	pronoun-anyone-of-note	pronouns	anyone of note	alguien de peso
+W	pronoun-none-whatsoever	pronouns	none whatsoever	ninguno en absoluto
+W	pronoun-all-concerned	pronouns	all concerned	todos los afectados
+W	pronoun-all-involved	pronouns	all involved	todos los implicados
+W	pronoun-all-present	pronouns	all present	todos los presentes
+W	pronoun-one-or-more	pronouns	one or more	uno o más
+W	pronoun-two-or-more	pronouns	two or more	dos o más
+W	pronoun-few-if-any	pronouns	few if any	pocos si es que alguno
+W	pronoun-little-if-any	pronouns	little if any	poco si es que algo
+W	pronoun-next-to-none	pronouns	next to none	casi ninguno
+W	pronoun-hardly-anything	pronouns	hardly anything	casi nada
+W	pronoun-scarcely-anything	pronouns	scarcely anything	apenas nada
+W	pronoun-barely-anything	pronouns	barely anything	apenas nada
+W	pronoun-practically-nobody	pronouns	practically nobody	prácticamente nadie
+W	pronoun-practically-nothing	pronouns	practically nothing	prácticamente nada
+W	pronoun-virtually-nobody	pronouns	virtually nobody	virtualmente nadie
+W	pronoun-virtually-nothing	pronouns	virtually nothing	virtualmente nada
+W	pronoun-almost-anyone	pronouns	almost anyone	casi cualquiera
+W	pronoun-almost-anything	pronouns	almost anything	casi cualquier cosa
+W	pronoun-pretty-much-anyone	pronouns	pretty much anyone	más o menos cualquiera
+W	pronoun-pretty-much-anything	pronouns	pretty much anything	más o menos cualquier cosa
+W	pronoun-the-vast-majority	pronouns	the vast majority	la gran mayoría
+W	pronoun-the-overwhelming-majority	pronouns	the overwhelming majority	la mayoría aplastante
+W	pronoun-a-handful-of-them	pronouns	a handful of them	un puñado de ellos
+W	pronoun-a-fraction-of-them	pronouns	a fraction of them	una fracción de ellos
+W	pronoun-a-minority-of-them	pronouns	a minority of them	una minoría de ellos
+W	pronoun-a-majority-of-them	pronouns	a majority of them	una mayoría de ellos
+W	pronoun-the-rest-of-us	pronouns	the rest of us	el resto de nosotros
+W	pronoun-the-rest-of-you	pronouns	the rest of you	el resto de ustedes
+W	pronoun-some-of-us	pronouns	some of us	algunos de nosotros
+W	pronoun-none-of-us	pronouns	none of us	ninguno de nosotros
+W	pronoun-all-of-us	pronouns	all of us	todos nosotros
+W	pronoun-either-of-us	pronouns	either of us	cualquiera de nosotros dos
+W	pronoun-neither-of-us	pronouns	neither of us	ninguno de nosotros dos
+W	pronoun-each-of-us	pronouns	each of us	cada uno de nosotros
+W	pronoun-any-of-us	pronouns	any of us	cualquiera de nosotros
+W	pronoun-few-of-us	pronouns	few of us	pocos de nosotros
+W	pronoun-many-of-us	pronouns	many of us	muchos de nosotros
+W	pronoun-most-of-us	pronouns	most of us	la mayoría de nosotros
+W	pronoun-several-of-us	pronouns	several of us	varios de nosotros
+W	pronoun-some-of-you	pronouns	some of you	algunos de ustedes
+W	pronoun-all-of-you	pronouns	all of you	todos ustedes
+W	pronoun-none-of-you	pronouns	none of you	ninguno de ustedes
+W	pronoun-those-of-us	pronouns	those of us	los de nosotros que
+W	pronoun-those-of-you	pronouns	those of you	los de ustedes que
+W	pronoun-those-among-us	pronouns	those among us	los de entre nosotros
+W	pronoun-those-among-you	pronouns	those among you	los de entre ustedes
+W	pronoun-the-likes-of-us	pronouns	the likes of us	gente como nosotros
+W	pronoun-people-like-us	pronouns	people like us	gente como nosotros
+W	pronoun-people-like-them	pronouns	people like them	gente como ellos
+W	pronoun-the-very-people	pronouns	the very people	precisamente esa gente
+W	pronoun-the-very-thing	pronouns	the very thing	precisamente eso
+W	pronoun-the-same-people	pronouns	the same people	la misma gente
+W	pronoun-the-same-thing	pronouns	the same thing	lo mismo
+W	pronoun-that-sort-of-thing	pronouns	that sort of thing	eso de ese tipo
+W	pronoun-this-sort-of-thing	pronouns	this sort of thing	esto de este tipo
+W	pronoun-that-kind-of-thing	pronouns	that kind of thing	eso de esa índole
+W	pronoun-this-kind-of-thing	pronouns	this kind of thing	esto de esta índole
+W	pronoun-things-of-that-kind	pronouns	things of that kind	cosas de esa índole
+W	pronoun-things-of-this-sort	pronouns	things of this sort	cosas de este tipo
+W	pronoun-the-whole-lot	pronouns	the whole lot	el lote entero
+W	pronoun-the-whole-thing	pronouns	the whole thing	el asunto entero
+W	pronoun-the-whole-affair	pronouns	the whole affair	todo el asunto
+W	pronoun-the-matter-at-hand	pronouns	the matter at hand	el asunto de que se trata
+W	pronoun-the-issue-at-hand	pronouns	the issue at hand	la cuestión de que se trata
+W	pronoun-the-point-at-issue	pronouns	the point at issue	el punto en liza
+W	pronoun-whatever-it-takes	pronouns	whatever it takes	lo que haga falta
+W	pronoun-anyone-willing	pronouns	anyone willing	cualquiera dispuesto
+W	pronoun-those-willing	pronouns	those willing	los dispuestos
+W	pronoun-those-unwilling	pronouns	those unwilling	los renuentes
+W	pronoun-those-opposed	pronouns	those opposed	los contrarios
+W	pronoun-those-in-favour	pronouns	those in favour	los partidarios
+W	pronoun-those-in-favor	pronouns	those in favor	los partidarios
+W	pronoun-the-latter-of-the-two	pronouns	the latter of the two	el segundo de los dos
+W	pronoun-the-former-of-the-two	pronouns	the former of the two	el primero de los dos
+W	pronoun-neither-of-the-two	pronouns	neither of the two	ninguno de los dos
+W	pronoun-either-of-the-two	pronouns	either of the two	cualquiera de los dos
+W	pronoun-both-of-the-two	pronouns	both of the two	ambos
+W	pronoun-one-of-the-two	pronouns	one of the two	uno de los dos
+W	pronoun-the-first-of-these	pronouns	the first of these	el primero de estos
+W	pronoun-the-last-of-these	pronouns	the last of these	el último de estos
+W	pronoun-the-next-of-these	pronouns	the next of these	el siguiente de estos
+W	pronoun-each-of-these	pronouns	each of these	cada uno de estos
+W	pronoun-all-of-these	pronouns	all of these	todos estos
+W	pronoun-some-of-these	pronouns	some of these	algunos de estos
+W	pronoun-none-of-these	pronouns	none of these	ninguno de estos
+W	pronoun-few-of-these	pronouns	few of these	pocos de estos
+W	pronoun-many-of-these	pronouns	many of these	muchos de estos
+W	pronoun-most-of-these	pronouns	most of these	la mayoría de estos
+W	pronoun-several-of-these	pronouns	several of these	varios de estos
+W	pronoun-any-of-these	pronouns	any of these	cualquiera de estos
+W	pronoun-either-of-these	pronouns	either of these	cualquiera de estos dos
+W	pronoun-neither-of-these	pronouns	neither of these	ninguno de estos dos
+W	pronoun-both-of-these	pronouns	both of these	ambos estos
+W	pronoun-all-of-those	pronouns	all of those	todos aquellos
+W	pronoun-some-of-those	pronouns	some of those	algunos de aquellos
+W	pronoun-none-of-those	pronouns	none of those	ninguno de aquellos
+W	pronoun-few-of-those	pronouns	few of those	pocos de aquellos
+W	pronoun-many-of-those	pronouns	many of those	muchos de aquellos
+W	pronoun-most-of-those	pronouns	most of those	la mayoría de aquellos
+W	pronoun-several-of-those	pronouns	several of those	varios de aquellos
+W	pronoun-any-of-those	pronouns	any of those	cualquiera de aquellos
+W	pronoun-each-of-those	pronouns	each of those	cada uno de aquellos
+W	pronoun-both-of-those	pronouns	both of those	ambos aquellos
+W	pronoun-either-of-those	pronouns	either of those	cualquiera de aquellos dos
+W	pronoun-neither-of-those	pronouns	neither of those	ninguno de aquellos dos
+W	pronoun-whoever-among-them	pronouns	whoever among them	quien de entre ellos
+W	pronoun-whoever-among-us	pronouns	whoever among us	quien de entre nosotros
+W	pronoun-anyone-among-them	pronouns	anyone among them	cualquiera de entre ellos
+W	pronoun-someone-among-them	pronouns	someone among them	alguien de entre ellos
+W	pronoun-no-one-among-them	pronouns	no one among them	nadie de entre ellos
+W	pronoun-the-ones-responsible	pronouns	the ones responsible	los responsables
+W	pronoun-the-ones-affected	pronouns	the ones affected	los perjudicados
+W	pronoun-the-ones-involved	pronouns	the ones involved	los implicados
+W	pronoun-the-ones-concerned	pronouns	the ones concerned	los afectados
+W	pronoun-the-ones-in-charge	pronouns	the ones in charge	los que mandan
+W	pronoun-the-ones-present	pronouns	the ones present	los que están
+W	pronoun-the-ones-absent	pronouns	the ones absent	los que faltan
+W	pronoun-the-ones-opposed	pronouns	the ones opposed	los que se oponen
+W	pronoun-the-ones-in-favour	pronouns	the ones in favour	los que lo apoyan
+W	pronoun-those-of-note	pronouns	those of note	los de peso
+W	pronoun-anyone-in-particular	pronouns	anyone in particular	alguien en concreto
+W	pronoun-someone-in-particular	pronouns	someone in particular	alguien en concreto
+W	pronoun-no-one-in-particular	pronouns	no one in particular	nadie en concreto
+W	preposition-according-to	prepositions	according to	según
+W	preposition-in-terms-of	prepositions	in terms of	en términos de
+W	preposition-in-view-of	prepositions	in view of	habida cuenta de
+W	preposition-rather-than	prepositions	rather than	en lugar de
+W	preposition-as-well-as	prepositions	as well as	así como
+W	preposition-in-charge-of	prepositions	in charge of	al frente de
+W	preposition-in-control-of	prepositions	in control of	al mando de
+W	preposition-in-possession-of	prepositions	in possession of	en posesión de
+W	preposition-in-receipt-of	prepositions	in receipt of	en recepción de
+W	preposition-in-need-of	prepositions	in need of	necesitado de
+W	preposition-in-search-of	prepositions	in search of	en busca de
+W	preposition-in-pursuit-of	prepositions	in pursuit of	en persecución de
+W	preposition-in-response-to	prepositions	in response to	en respuesta a
+W	preposition-in-reaction-to	prepositions	in reaction to	en reacción a
+W	preposition-in-reply-to	prepositions	in reply to	en contestación a
+W	preposition-in-answer-to	prepositions	in answer to	en respuesta a
+W	preposition-in-opposition-to	prepositions	in opposition to	en oposición a
+W	preposition-in-protest-at	prepositions	in protest at	en protesta por
+W	preposition-in-protest-against	prepositions	in protest against	en protesta contra
+W	preposition-in-recognition-of	prepositions	in recognition of	en reconocimiento de
+W	preposition-in-appreciation-of	prepositions	in appreciation of	en agradecimiento de
+W	preposition-in-acknowledgment-of	prepositions	in acknowledgment of	en reconocimiento de
+W	preposition-in-celebration-of	prepositions	in celebration of	en celebración de
+W	preposition-in-commemoration-of	prepositions	in commemoration of	en conmemoración de
+W	preposition-in-tribute-to	prepositions	in tribute to	en homenaje a
+W	preposition-in-deference-to	prepositions	in deference to	en deferencia a
+W	preposition-in-obedience-to	prepositions	in obedience to	en obediencia a
+W	preposition-in-compliance-with	prepositions	in compliance with	en cumplimiento de
+W	preposition-in-conformity-with	prepositions	in conformity with	en conformidad con
+W	preposition-consistent-with	prepositions	consistent with	acorde con
+W	preposition-incompatible-with	prepositions	incompatible with	incompatible con
+W	preposition-at-war-with	prepositions	at war with	en guerra con
+W	preposition-at-peace-with	prepositions	at peace with	en paz con
+W	preposition-at-home-with	prepositions	at home with	a gusto con
+W	preposition-at-ease-with	prepositions	at ease with	a sus anchas con
+W	preposition-in-conflict-with	prepositions	in conflict with	en conflicto con
+W	preposition-in-competition-with	prepositions	in competition with	en competencia con
+W	preposition-in-collaboration-with	prepositions	in collaboration with	en colaboración con
+W	preposition-in-partnership-with	prepositions	in partnership with	en sociedad con
+W	preposition-in-alliance-with	prepositions	in alliance with	en alianza con
+W	preposition-in-league-with	prepositions	in league with	en connivencia con
+W	preposition-in-tandem-with	prepositions	in tandem with	al unísono con
+W	preposition-in-parallel-with	prepositions	in parallel with	en paralelo con
+W	preposition-in-isolation-from	prepositions	in isolation from	al margen de
+W	preposition-far-from	prepositions	far from	lejos de
+W	preposition-in-favor-of	prepositions	in favor of	a favor de
+W	preposition-for-the-purpose-of	prepositions	for the purpose of	con el fin de
+W	preposition-in-the-interest-of	prepositions	in the interest of	en interés de
+W	preposition-with-the-exception-of	prepositions	with the exception of	con la excepción de
+W	preposition-with-the-aim-of	prepositions	with the aim of	con el objeto de
+W	preposition-with-the-intention-of	prepositions	with the intention of	con la intención de
+W	preposition-with-the-purpose-of	prepositions	with the purpose of	con el propósito de
+W	preposition-without-regard-to	prepositions	without regard to	sin atender a
+W	preposition-without-reference-to	prepositions	without reference to	sin referencia a
+W	preposition-without-prejudice-to	prepositions	without prejudice to	sin perjuicio de
+W	preposition-subject-to	prepositions	subject to	sujeto a
+W	preposition-based-on	prepositions	based on	asentado en
+W	preposition-founded-on	prepositions	founded on	fundado en
+W	preposition-grounded-in	prepositions	grounded in	asentado en
+W	preposition-rooted-in	prepositions	rooted in	enraizado en
+W	preposition-steeped-in	prepositions	steeped in	impregnado de
+W	preposition-wrapped-up-in	prepositions	wrapped up in	envuelto en
+W	preposition-caught-up-in	prepositions	caught up in	envuelto en
+W	preposition-tied-to	prepositions	tied to	atado a
+W	preposition-linked-to	prepositions	linked to	ligado a
+W	preposition-linked-with	prepositions	linked with	ligado con
+W	preposition-associated-with	prepositions	associated with	asociado a
+W	preposition-coupled-with	prepositions	coupled with	junto con
+W	preposition-paired-with	prepositions	paired with	emparejado con
+W	preposition-faced-with	prepositions	faced with	ante
+W	preposition-confronted-with	prepositions	confronted with	frente a
+W	preposition-presented-with	prepositions	presented with	ante
+W	preposition-provided-with	prepositions	provided with	dotado de
+W	preposition-equipped-with	prepositions	equipped with	equipado con
+W	preposition-armed-with	prepositions	armed with	armado de
+W	preposition-charged-with	prepositions	charged with	encargado de
+W	preposition-tasked-with	prepositions	tasked with	encomendado a
+W	preposition-saddled-with	prepositions	saddled with	cargado con
+W	preposition-lumbered-with	prepositions	lumbered with	cargado con
+W	preposition-stuck-with	prepositions	stuck with	atado a
+W	preposition-left-with	prepositions	left with	dejado con
+W	preposition-blessed-with	prepositions	blessed with	dotado de
+W	preposition-burdened-with	prepositions	burdened with	gravado con
+W	preposition-filled-with	prepositions	filled with	lleno de
+W	preposition-packed-with	prepositions	packed with	repleto de
+W	preposition-riddled-with	prepositions	riddled with	sembrado de
+W	preposition-dealing-with	prepositions	dealing with	frente a
+W	preposition-compared-with	prepositions	compared with	frente a
+W	preposition-compared-to	prepositions	compared to	frente a
+W	preposition-proportionate-to	prepositions	proportionate to	proporcionado a
+W	preposition-proportional-to	prepositions	proportional to	proporcional a
+W	preposition-equivalent-to	prepositions	equivalent to	equivalente a
+W	preposition-tantamount-to	prepositions	tantamount to	equivalente a
+W	preposition-conducive-to	prepositions	conducive to	propicio a
+W	preposition-prone-to	prepositions	prone to	propenso a
+W	preposition-liable-to	prepositions	liable to	expuesto a
+W	preposition-liable-for	prepositions	liable for	responsable de
+W	preposition-responsible-for	prepositions	responsible for	responsable de
+W	preposition-accountable-for	prepositions	accountable for	obligado a rendir cuentas de
+W	preposition-answerable-for	prepositions	answerable for	responsable de
+W	preposition-eligible-for	prepositions	eligible for	elegible para
+W	preposition-suitable-for	prepositions	suitable for	adecuado para
+W	preposition-unfit-for	prepositions	unfit for	incapaz para
+W	preposition-ripe-for	prepositions	ripe for	maduro para
+W	preposition-destined-for	prepositions	destined for	destinado a
+W	preposition-bound-for	prepositions	bound for	rumbo a
+W	preposition-headed-for	prepositions	headed for	encaminado a
+W	preposition-intended-for	prepositions	intended for	destinado a
+W	preposition-meant-for	prepositions	meant for	pensado para
+W	preposition-reserved-for	prepositions	reserved for	reservado a
+W	preposition-earmarked-for	prepositions	earmarked for	asignado a
+W	preposition-set-aside-for	prepositions	set aside for	reservado para
+W	preposition-in-store-for	prepositions	in store for	aguardando a
+W	preposition-in-wait-for	prepositions	in wait for	al acecho de
+W	preposition-known-for	prepositions	known for	conocido por
+W	preposition-noted-for	prepositions	noted for	señalado por
+W	preposition-renowned-for	prepositions	renowned for	afamado por
+W	preposition-notorious-for	prepositions	notorious for	tristemente célebre por
+W	preposition-blamed-for	prepositions	blamed for	culpado de
+W	preposition-praised-for	prepositions	praised for	elogiado por
+W	preposition-criticised-for	prepositions	criticised for	criticado por
+W	preposition-compensated-for	prepositions	compensated for	compensado por
+W	preposition-reimbursed-for	prepositions	reimbursed for	reembolsado por
+W	preposition-at-the-recommendation-of	prepositions	at the recommendation of	a recomendación de
+W	preposition-on-the-advice-of	prepositions	on the advice of	por consejo de
+W	preposition-on-the-recommendation-of	prepositions	on the recommendation of	por recomendación de
+W	preposition-on-the-instruction-of	prepositions	on the instruction of	por instrucción de
+W	preposition-on-the-orders-of	prepositions	on the orders of	por órdenes de
+W	preposition-under-the-orders-of	prepositions	under the orders of	bajo las órdenes de
+W	preposition-under-the-management-of	prepositions	under the management of	bajo la gestión de
+W	preposition-under-the-control-of	prepositions	under the control of	bajo el control de
+W	preposition-under-the-authority-of	prepositions	under the authority of	bajo la autoridad de
+W	preposition-under-the-leadership-of	prepositions	under the leadership of	bajo el liderazgo de
+W	preposition-under-the-protection-of	prepositions	under the protection of	bajo la protección de
+W	preposition-under-the-title-of	prepositions	under the title of	bajo el título de
+W	preposition-under-the-name-of	prepositions	under the name of	bajo el nombre de
+W	preposition-in-the-name-of	prepositions	in the name of	en nombre de
+W	preposition-in-the-shape-of	prepositions	in the shape of	en forma de
+W	preposition-in-the-form-of	prepositions	in the form of	en forma de
+W	preposition-in-the-mould-of	prepositions	in the mould of	al molde de
+W	preposition-in-the-style-of	prepositions	in the style of	al estilo de
+W	preposition-in-the-manner-of	prepositions	in the manner of	al modo de
+W	preposition-in-the-spirit-of	prepositions	in the spirit of	en el espíritu de
+W	preposition-in-the-tradition-of	prepositions	in the tradition of	en la tradición de
+W	preposition-in-the-footsteps-of	prepositions	in the footsteps of	tras los pasos de
+W	question-like-coffee	questions	Do you like coffee?	¿Te gusta el café?
+W	positive-like-coffee	positiveAnswers	Yes, I do.	Sí, me gusta.
+W	negative-like-coffee	negativeAnswers	No, I don't.	No, no me gusta.
+W	question-want-water	questions	Do you want some water?	¿Quieres agua?
+W	positive-want-water	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-want-water	negativeAnswers	No, thank you.	No, gracias.
+W	question-hungry	questions	Are you hungry?	¿Tienes hambre?
+W	positive-hungry	positiveAnswers	Yes, I am.	Sí, tengo hambre.
+W	negative-hungry	negativeAnswers	No, I'm not.	No, no tengo hambre.
+W	question-thirsty	questions	Are you thirsty?	¿Tienes sed?
+W	positive-thirsty	positiveAnswers	Yes, I am.	Sí, tengo sed.
+W	negative-thirsty	negativeAnswers	No, I'm not.	No, no tengo sed.
+W	question-tired	questions	Are you tired?	¿Estás cansado?
+W	positive-tired	positiveAnswers	Yes, I am.	Sí, estoy cansado.
+W	negative-tired	negativeAnswers	No, I'm not.	No, no estoy cansado.
+W	question-from-spain	questions	Are you from Spain?	¿Eres de España?
+W	positive-from-spain	positiveAnswers	Yes, I am.	Sí, soy de España.
+W	negative-from-spain	negativeAnswers	No, I'm not.	No, no soy de España.
+W	question-live-here	questions	Do you live here?	¿Vives aquí?
+W	positive-live-here	positiveAnswers	Yes, I do.	Sí, vivo aquí.
+W	negative-live-here	negativeAnswers	No, I don't.	No, no vivo aquí.
+W	question-speak-english	questions	Do you speak English?	¿Hablas inglés?
+W	positive-speak-english	positiveAnswers	Yes, I do.	Sí, hablo inglés.
+W	negative-speak-english	negativeAnswers	No, I don't.	No, no hablo inglés.
+W	question-have-time	questions	Do you have time?	¿Tienes tiempo?
+W	positive-have-time	positiveAnswers	Yes, I do.	Sí, tengo tiempo.
+W	negative-have-time	negativeAnswers	No, I don't.	No, no tengo tiempo.
+W	question-student	questions	Are you a student?	¿Eres estudiante?
+W	positive-student	positiveAnswers	Yes, I am.	Sí, soy estudiante.
+W	negative-student	negativeAnswers	No, I'm not.	No, no soy estudiante.
+W	question-ready	questions	Are you ready?	¿Estás listo?
+W	positive-ready	positiveAnswers	Yes, I am.	Sí, estoy listo.
+W	negative-ready	negativeAnswers	No, not yet.	No, todavía no.
+W	question-understand	questions	Do you understand?	¿Entiendes?
+W	positive-understand	positiveAnswers	Yes, I do.	Sí, entiendo.
+W	negative-understand	negativeAnswers	No, I don't.	No, no entiendo.
+W	question-know-him	questions	Do you know him?	¿Lo conoces?
+W	positive-know-him	positiveAnswers	Yes, I do.	Sí, lo conozco.
+W	negative-know-him	negativeAnswers	No, I don't.	No, no lo conozco.
+W	question-like-music	questions	Do you like music?	¿Te gusta la música?
+W	positive-like-music	positiveAnswers	Yes, I do.	Sí, me gusta.
+W	negative-like-music	negativeAnswers	No, I don't.	No, no me gusta.
+W	question-have-brother	questions	Do you have a brother?	¿Tienes un hermano?
+W	positive-have-brother	positiveAnswers	Yes, I do.	Sí, tengo un hermano.
+W	negative-have-brother	negativeAnswers	No, I don't.	No, no tengo hermano.
+W	question-work-here	questions	Do you work here?	¿Trabajas aquí?
+W	positive-work-here	positiveAnswers	Yes, I do.	Sí, trabajo aquí.
+W	negative-work-here	negativeAnswers	No, I don't.	No, no trabajo aquí.
+W	question-ok	questions	Are you OK?	¿Estás bien?
+W	positive-ok	positiveAnswers	Yes, I'm fine.	Sí, estoy bien.
+W	negative-ok	negativeAnswers	No, I'm not OK.	No, no estoy bien.
+W	question-cold	questions	Are you cold?	¿Tienes frío?
+W	positive-cold	positiveAnswers	Yes, I am.	Sí, tengo frío.
+W	negative-cold	negativeAnswers	No, I'm not.	No, no tengo frío.
+W	question-free-now	questions	Are you free now?	¿Estás libre ahora?
+W	positive-free-now	positiveAnswers	Yes, I am.	Sí, estoy libre.
+W	negative-free-now	negativeAnswers	No, I'm busy.	No, estoy ocupado.
+W	question-can-help	questions	Can you help me?	¿Puedes ayudarme?
+W	positive-can-help	positiveAnswers	Yes, I can.	Sí, puedo.
+W	negative-can-help	negativeAnswers	No, I can't.	No, no puedo.
+W	question-need-this	questions	Do you need this?	¿Necesitas esto?
+W	positive-need-this	positiveAnswers	Yes, I do.	Sí, lo necesito.
+W	negative-need-this	negativeAnswers	No, I don't.	No, no lo necesito.
+W	question-see-it	questions	Can you see it?	¿Lo ves?
+W	positive-see-it	positiveAnswers	Yes, I can.	Sí, lo veo.
+W	negative-see-it	negativeAnswers	No, I can't.	No, no lo veo.
+W	question-first-time	questions	Is this your first time?	¿Es tu primera vez?
+W	positive-first-time	positiveAnswers	Yes, it is.	Sí, es la primera vez.
+W	negative-first-time	negativeAnswers	No, it isn't.	No, ya he venido.
+W	question-coming	questions	Are you coming?	¿Vienes?
+W	positive-coming	positiveAnswers	Yes, I am.	Sí, voy.
+W	negative-coming	negativeAnswers	No, I'm not.	No, no voy.
+W	question-got-ticket	questions	Have you got a ticket?	¿Tienes un billete?
+W	positive-got-ticket	positiveAnswers	Yes, I have.	Sí, tengo un billete.
+W	negative-got-ticket	negativeAnswers	No, I haven't.	No, no tengo billete.
+W	question-pay-card	questions	Can I pay by card?	¿Puedo pagar con tarjeta?
+W	positive-pay-card	positiveAnswers	Yes, of course.	Sí, por supuesto.
+W	negative-pay-card	negativeAnswers	No, cash only.	No, solo en efectivo.
+W	question-far	questions	Is it far?	¿Queda lejos?
+W	positive-far	positiveAnswers	Yes, it is.	Sí, queda lejos.
+W	negative-far	negativeAnswers	No, it's close.	No, está cerquita.
+W	question-open-now	questions	Is it open?	¿Está abierto?
+W	positive-open-now	positiveAnswers	Yes, it is.	Sí, está abierto.
+W	negative-open-now	negativeAnswers	No, it's closed.	No, está cerrado.
+W	question-take-away	questions	Is this to take away?	¿Es para llevar?
+W	positive-take-away	positiveAnswers	Yes, to take away.	Sí, para llevar.
+W	negative-take-away	negativeAnswers	No, to eat in.	No, para tomar aquí.
+W	question-feel-well	questions	Do you feel well?	¿Te encuentras bien?
+W	positive-feel-well	positiveAnswers	Yes, I feel fine.	Sí, me encuentro bien.
+W	negative-feel-well	negativeAnswers	No, I don't feel well.	No, no me encuentro bien.
+W	question-missed-bus	questions	Did you miss the bus?	¿Perdiste el autobús?
+W	positive-missed-bus	positiveAnswers	Yes, I did.	Sí, lo perdí.
+W	negative-missed-bus	negativeAnswers	No, I didn't.	No, lo alcancé.
+W	question-finish-work	questions	Did you finish work?	¿Terminaste el trabajo?
+W	positive-finish-work	positiveAnswers	Yes, I did.	Sí, terminé.
+W	negative-finish-work	negativeAnswers	No, not yet.	No, todavía no.
+W	question-party	questions	Are you coming to the party?	¿Vienes a la fiesta?
+W	positive-party	positiveAnswers	Yes, I am.	Sí, voy.
+W	negative-party	negativeAnswers	No, I can't.	No, no puedo.
+W	question-need-taxi	questions	Do you need a taxi?	¿Necesita un taxi?
+W	positive-need-taxi	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-need-taxi	negativeAnswers	No, thank you.	No, gracias.
+W	question-speak-slowly	questions	Can you speak more slowly?	¿Puede hablar más despacio?
+W	positive-speak-slowly	positiveAnswers	Yes, of course.	Sí, por supuesto.
+W	negative-speak-slowly	negativeAnswers	Sorry, I can't.	Lo siento, no puedo.
+W	question-repeat	questions	Can you repeat that?	¿Puede repetirlo?
+W	positive-repeat	positiveAnswers	Yes, of course.	Sí, por supuesto.
+W	negative-repeat	negativeAnswers	Sorry, I have to go.	Lo siento, tengo que irme.
+W	question-sit-here	questions	Can I sit here?	¿Me puedo sentar aquí?
+W	positive-sit-here	positiveAnswers	Yes, of course.	Sí, por supuesto.
+W	negative-sit-here	negativeAnswers	No, it's taken.	No, está ocupado.
+W	question-wait-moment	questions	Can you wait a moment?	¿Puede esperar un momento?
+W	positive-wait-moment	positiveAnswers	Yes, I can.	Sí, puedo.
+W	negative-wait-moment	negativeAnswers	No, I'm in a hurry.	No, tengo prisa.
+W	question-going-out	questions	Are you going out tonight?	¿Sales esta noche?
+W	positive-going-out	positiveAnswers	Yes, I am.	Sí, salgo.
+W	negative-going-out	negativeAnswers	No, I'm staying in.	No, me quedo en casa.
+W	question-like-come	questions	Would you like to come?	¿Te gustaría venir?
+W	positive-like-come	positiveAnswers	Yes, I'd love to.	Sí, me encantaría.
+W	negative-like-come	negativeAnswers	No, thank you.	No, gracias.
+W	question-help-bag	questions	Can I help you with your bag?	¿Le ayudo con la bolsa?
+W	positive-help-bag	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-help-bag	negativeAnswers	No, I'm fine, thanks.	No, estoy bien, gracias.
+W	question-been-here	questions	Have you been here before?	¿Has estado aquí antes?
+W	positive-been-here	positiveAnswers	Yes, I have.	Sí, una vez.
+W	negative-been-here	negativeAnswers	No, never.	No, nunca.
+W	question-ever-london	questions	Have you ever been to London?	¿Has estado alguna vez en Londres?
+W	positive-ever-london	positiveAnswers	Yes, I have.	Sí, he estado.
+W	negative-ever-london	negativeAnswers	No, I haven't.	No, nunca.
+W	question-mind-window	questions	Would you mind if I opened the window?	¿Te importa si abro la ventana?
+W	positive-mind-window	positiveAnswers	Not at all.	No, en absoluto.
+W	negative-mind-window	negativeAnswers	I'd rather you didn't.	Preferiría que no.
+W	question-rather-stay	questions	Would you rather stay in?	¿Preferirías quedarte?
+W	positive-rather-stay	positiveAnswers	Yes, I'd rather stay.	Sí, prefiero quedarme.
+W	negative-rather-stay	negativeAnswers	No, I'd rather go out.	No, prefiero salir.
+W	question-used-to-live	questions	Did you use to live here?	¿Vivías aquí antes?
+W	positive-used-to-live	positiveAnswers	Yes, I did.	Sí, vivía aquí.
+W	negative-used-to-live	negativeAnswers	No, I never did.	No, nunca.
+W	question-think-so	questions	Do you think so?	¿Lo crees?
+W	positive-think-so	positiveAnswers	Yes, I think so.	Sí, eso creo.
+W	negative-think-so	negativeAnswers	No, I don't think so.	No, no lo creo.
+W	question-agree	questions	Do you agree?	¿Estás de acuerdo?
+W	positive-agree	positiveAnswers	Yes, I agree.	Sí, estoy de acuerdo.
+W	negative-agree	negativeAnswers	No, I don't agree.	No, no estoy de acuerdo.
+W	question-sure	questions	Are you sure?	¿Estás seguro?
+W	positive-sure	positiveAnswers	Yes, I'm sure.	Sí, estoy seguro.
+W	negative-sure	negativeAnswers	No, not really.	No, no del todo.
+W	question-available-tomorrow	questions	Will you be available tomorrow?	¿Estarás disponible mañana?
+W	positive-available-tomorrow	positiveAnswers	Yes, I will.	Sí, estaré libre.
+W	negative-available-tomorrow	negativeAnswers	No, I won't.	No, no puedo.
+W	question-join-us	questions	Would you like to join us?	¿Te gustaría unirte?
+W	positive-join-us	positiveAnswers	Yes, I'd love to.	Sí, me encantaría.
+W	negative-join-us	negativeAnswers	No, thank you.	No, gracias.
+W	question-keep-secret	questions	Can you keep a secret?	¿Puedes guardar un secreto?
+W	positive-keep-secret	positiveAnswers	Yes, of course.	Sí, por supuesto.
+W	negative-keep-secret	negativeAnswers	No, not really.	No, la verdad es que no.
+W	question-already-eaten	questions	Have you already eaten?	¿Ya has comido?
+W	positive-already-eaten	positiveAnswers	Yes, I have.	Sí, ya he comido.
+W	negative-already-eaten	negativeAnswers	No, not yet.	No, todavía no.
+W	question-need-anything	questions	Do you need anything else?	¿Necesita algo más?
+W	positive-need-anything	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-need-anything	negativeAnswers	No, that's all, thanks.	No, eso es todo, gracias.
+W	question-coming-back	questions	Are you coming back later?	¿Vuelves más tarde?
+W	positive-coming-back	positiveAnswers	Yes, I am.	Sí, vuelvo.
+W	negative-coming-back	negativeAnswers	No, not tonight.	No, esta noche no.
+W	question-tell-truth	questions	Are you telling the truth?	¿Dices la verdad?
+W	positive-tell-truth	positiveAnswers	Yes, I am.	Sí, digo la verdad.
+W	negative-tell-truth	negativeAnswers	No, I was joking.	No, estaba bromeando.
+W	question-mind-waiting	questions	Would you mind waiting here?	¿Le importaría esperar aquí?
+W	positive-mind-waiting	positiveAnswers	Not at all.	No, en absoluto.
+W	negative-mind-waiting	negativeAnswers	I'd rather not.	Preferiría que no.
+W	question-happen-time	questions	Do you happen to know the time?	¿No tendrá hora, por casualidad?
+W	positive-happen-time	positiveAnswers	Yes, it's three o'clock.	Sí, son las tres.
+W	negative-happen-time	negativeAnswers	No, sorry.	No, lo siento.
+W	question-do-favour	questions	Could you do me a favour?	¿Podría hacerme un favor?
+W	positive-do-favour	positiveAnswers	Yes, of course.	Sí, por supuesto.
+W	negative-do-favour	negativeAnswers	Sorry, I can't right now.	Lo siento, ahora no puedo.
+W	question-any-chance-help	questions	Is there any chance you could help?	¿Hay alguna posibilidad de que me ayude?
+W	positive-any-chance-help	positiveAnswers	Yes, I can try.	Sí, puedo intentarlo.
+W	negative-any-chance-help	negativeAnswers	No, I'm tied up.	No, estoy liado.
+W	question-worth-it	questions	Do you think it's worth it?	¿Crees que merece la pena?
+W	positive-worth-it	positiveAnswers	Yes, I think so.	Sí, creo que sí.
+W	negative-worth-it	negativeAnswers	No, I don't think so.	No, no lo creo.
+W	question-get-used	questions	Have you got used to it?	¿Te has acostumbrado?
+W	positive-get-used	positiveAnswers	Yes, I have now.	Sí, ahora sí.
+W	negative-get-used	negativeAnswers	No, not yet.	No, todavía no.
+W	question-by-chance-name	questions	Are you Mr Pérez, by any chance?	¿No será usted el señor Pérez?
+W	positive-by-chance-name	positiveAnswers	Yes, that's me.	Sí, soy yo.
+W	negative-by-chance-name	negativeAnswers	No, you've got the wrong person.	No, se equivoca.
+W	question-should-leave	questions	Should we leave now?	¿Deberíamos irnos ya?
+W	positive-should-leave	positiveAnswers	Yes, it's time.	Sí, es hora.
+W	negative-should-leave	negativeAnswers	No, we've still got time.	No, aún tenemos tiempo.
+W	question-could-spare	questions	Could you spare a minute?	¿Tiene un minuto?
+W	positive-could-spare	positiveAnswers	Yes, I've got a moment.	Sí, tengo un momento.
+W	negative-could-spare	negativeAnswers	No, I'm in a rush.	No, voy con prisa.
+W	question-far-fetched	questions	Isn't that a bit far-fetched?	¿No es un poco traído por los pelos?
+W	positive-far-fetched	positiveAnswers	Yes, the inference is rather stretched.	Sí, la inferencia está bastante estirada.
+W	negative-far-fetched	negativeAnswers	No, the reading is still defensible.	No, la lectura sigue siendo defendible.
+W	question-take-issue	questions	Do you take issue with that?	¿Pone usted objeciones a eso?
+W	positive-take-issue	positiveAnswers	Yes, I take issue with the conclusion.	Sí, discuto la conclusión.
+W	negative-take-issue	negativeAnswers	No, I have no objection on that point.	No, ninguna objeción en ese punto.
+W	question-remotely-interested	questions	Are you remotely interested?	¿Te interesa lo más mínimo?
+W	positive-remotely-interested	positiveAnswers	Yes, mildly, if the rest holds up.	Sí, algo, si el resto se sostiene.
+W	negative-remotely-interested	negativeAnswers	No, not in the slightest.	No, ni lo más mínimo.
+W	question-right-thinking	questions	Am I right in thinking you disagree?	¿Acierto si digo que no está de acuerdo?
+W	positive-right-thinking	positiveAnswers	Yes, you are right: I do not share that view.	Sí, acierta: no comparto esa lectura.
+W	negative-right-thinking	negativeAnswers	No, I actually agree with the substance of it.	No, en realidad coincido en el fondo.
+W	question-care-to-comment	questions	Would you care to comment?	¿Desea hacer algún comentario?
+W	positive-care-to-comment	positiveAnswers	Yes, I would like to put a point on the record.	Sí, querría dejar un punto en acta.
+W	negative-care-to-comment	negativeAnswers	No, I would rather not comment at this stage.	No, preferiría no comentar en esta fase.
+W	question-like-tea	questions	Do you like tea?	¿Te gusta el té?
+W	positive-like-tea	positiveAnswers	Yes, I do.	Sí, me gusta.
+W	negative-like-tea	negativeAnswers	No, I don't.	No, no me gusta.
+W	question-have-car	questions	Do you have a car?	¿Tienes coche?
+W	positive-have-car	positiveAnswers	Yes, I do.	Sí, tengo coche.
+W	negative-have-car	negativeAnswers	No, I don't.	No, no tengo coche.
+W	question-married	questions	Are you married?	¿Estás casado?
+W	positive-married	positiveAnswers	Yes, I am.	Sí, estoy casado.
+W	negative-married	negativeAnswers	No, I'm not.	No, no estoy casado.
+W	question-hot	questions	Are you hot?	¿Tienes calor?
+W	positive-hot	positiveAnswers	Yes, I am.	Sí, tengo calor.
+W	negative-hot	negativeAnswers	No, I'm not.	No, no tengo calor.
+W	question-have-phone	questions	Do you have a phone?	¿Tienes teléfono?
+W	positive-have-phone	positiveAnswers	Yes, I do.	Sí, tengo teléfono.
+W	negative-have-phone	negativeAnswers	No, I don't.	No, no tengo teléfono.
+W	question-this-yours	questions	Is this yours?	¿Esto es tuyo?
+W	positive-this-yours	positiveAnswers	Yes, it is.	Sí, es mío.
+W	negative-this-yours	negativeAnswers	No, it isn't.	No, no es mío.
+W	question-live-near	questions	Do you live near here?	¿Vives cerca de aquí?
+W	positive-live-near	positiveAnswers	Yes, I do.	Sí, vivo cerca.
+W	negative-live-near	negativeAnswers	No, I live far away.	No, vivo lejos.
+W	question-have-children	questions	Do you have children?	¿Tienes hijos?
+W	positive-have-children	positiveAnswers	Yes, I do.	Sí, tengo hijos.
+W	negative-have-children	negativeAnswers	No, I don't.	No, no tengo hijos.
+W	question-busy	questions	Are you busy?	¿Estás ocupado?
+W	positive-busy	positiveAnswers	Yes, I am.	Sí, estoy ocupado.
+W	negative-busy	negativeAnswers	No, I'm free.	No, estoy libre.
+W	question-want-tea	questions	Do you want some tea?	¿Quieres té?
+W	positive-want-tea	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-want-tea	negativeAnswers	No, thank you.	No, gracias.
+W	question-like-spicy	questions	Do you like spicy food?	¿Te gusta la comida picante?
+W	positive-like-spicy	positiveAnswers	Yes, I do.	Sí, me gusta.
+W	negative-like-spicy	negativeAnswers	No, I don't.	No, no me gusta.
+W	question-booked-table	questions	Have you booked a table?	¿Ha reservado mesa?
+W	positive-booked-table	positiveAnswers	Yes, I have.	Sí, he reservado.
+W	negative-booked-table	negativeAnswers	No, I haven't.	No, no he reservado.
+W	question-lost	questions	Are you lost?	¿Está perdido?
+W	positive-lost	positiveAnswers	Yes, I think so.	Sí, creo que sí.
+W	negative-lost	negativeAnswers	No, I know the way.	No, conozco el camino.
+W	question-need-receipt	questions	Do you need a receipt?	¿Necesita un recibo?
+W	positive-need-receipt	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-need-receipt	negativeAnswers	No, thank you.	No, gracias.
+W	question-call-back	questions	Can I call you back?	¿Puedo devolverle la llamada?
+W	positive-call-back	positiveAnswers	Yes, of course.	Sí, por supuesto.
+W	negative-call-back	negativeAnswers	No, I'd rather wait.	No, prefiero esperar.
+W	question-raining	questions	Is it raining?	¿Está lloviendo?
+W	positive-raining	positiveAnswers	Yes, it is.	Sí, está lloviendo.
+W	negative-raining	negativeAnswers	No, it isn't.	No, no está lloviendo.
+W	question-take-photo	questions	Can I take a photo?	¿Puedo hacer una foto?
+W	positive-take-photo	positiveAnswers	Yes, of course.	Sí, por supuesto.
+W	negative-take-photo	negativeAnswers	No, I'd rather you didn't.	No, preferiría que no.
+W	question-allergic	questions	Are you allergic to anything?	¿Es alérgico a algo?
+W	positive-allergic	positiveAnswers	Yes, I am.	Sí, soy alérgico.
+W	negative-allergic	negativeAnswers	No, I'm not.	No, no soy alérgico.
+W	question-mind-sharing	questions	Would you mind sharing?	¿Te importa compartir?
+W	positive-mind-sharing	positiveAnswers	Not at all.	No, en absoluto.
+W	negative-mind-sharing	negativeAnswers	I'd rather not.	Preferiría que no.
+W	question-heard-news	questions	Have you heard the news?	¿Te has enterado de la noticia?
+W	positive-heard-news	positiveAnswers	Yes, I have.	Sí, me he enterado.
+W	negative-heard-news	negativeAnswers	No, I haven't.	No, no me he enterado.
+W	question-coming-dinner	questions	Are you coming to dinner?	¿Vienes a cenar?
+W	positive-coming-dinner	positiveAnswers	Yes, I'll be there.	Sí, allí estaré.
+W	negative-coming-dinner	negativeAnswers	No, I can't tonight.	No, esta noche no puedo.
+W	question-need-hand	questions	Do you need a hand?	¿Necesitas una mano?
+W	positive-need-hand	positiveAnswers	Yes, please.	Sí, por favor.
+W	negative-need-hand	negativeAnswers	No, I'm fine, thanks.	No, estoy bien, gracias.
+W	question-still-there	questions	Will you still be there?	¿Seguirás allí?
+W	positive-still-there	positiveAnswers	Yes, I will.	Sí, seguiré allí.
+W	negative-still-there	negativeAnswers	No, I'll have left.	No, ya me habré ido.
+W	question-tried-this	questions	Have you tried this before?	¿Has probado esto antes?
+W	positive-tried-this	positiveAnswers	Yes, I have.	Sí, ya lo he probado.
+W	negative-tried-this	negativeAnswers	No, never.	No, nunca.
+W	question-put-off	questions	Would you mind putting it off?	¿Le importaría aplazarlo?
+W	positive-put-off	positiveAnswers	Not at all.	No, en absoluto.
+W	negative-put-off	negativeAnswers	I'd rather do it now.	Preferiría hacerlo ahora.
+W	question-in-a-position	questions	Are you in a position to help?	¿Está en condiciones de ayudar?
+W	positive-in-a-position	positiveAnswers	Yes, I think I am.	Sí, creo que sí.
+W	negative-in-a-position	negativeAnswers	No, I'm afraid not.	No, me temo que no.
+W	question-go-ahead	questions	Shall I go ahead?	¿Sigo adelante?
+W	positive-go-ahead	positiveAnswers	Yes, please do.	Sí, adelante.
+W	negative-go-ahead	negativeAnswers	No, wait a moment.	No, espere un momento.
+W	question-under-weather	questions	Are you feeling under the weather?	¿Se encuentra un poco mal?
+W	positive-under-weather	positiveAnswers	Yes, a bit.	Sí, un poco.
+W	negative-under-weather	negativeAnswers	No, I'm fine.	No, estoy bien.
+W	question-leave-it-there	questions	Shall we leave it at that?	¿Lo dejamos aquí?
+W	positive-leave-it-there	positiveAnswers	Yes, that's as far as we can usefully go today.	Sí, es hasta donde cabe llegar hoy con provecho.
+W	negative-leave-it-there	negativeAnswers	No, a material point is still outstanding.	No, sigue abierto un punto de fondo.
+W	question-reading-too-much	questions	Aren't you reading too much into it?	¿No le estás dando demasiadas vueltas?
+W	positive-reading-too-much	positiveAnswers	Yes, I may be loading it with more than the text will bear.	Sí, quizá le cargo más de lo que el texto aguanta.
+W	negative-reading-too-much	negativeAnswers	No, that implication is fairly there.	No, esa implicación está con fundamento.
+W	question-overstepping	questions	Am I overstepping?	¿Me estoy pasando de la raya?
+W	positive-overstepping	positiveAnswers	Yes, I've gone slightly beyond what was asked.	Sí, me he salido ligeramente de lo que se me pedía.
+W	negative-overstepping	negativeAnswers	No, I'm still within my brief.	No, sigo dentro de mi cometido.
+W	question-splitting-hairs	questions	Aren't we splitting hairs?	¿No estamos rizando el rizo?
+W	positive-splitting-hairs	positiveAnswers	Yes, we're drawing a distinction that barely matters.	Sí, estamos afinando una diferencia que apenas cuenta.
+W	negative-splitting-hairs	negativeAnswers	No, the distinction still has practical weight.	No, la distinción sigue teniendo peso práctico.
+W	question-devil-advocate	questions	Are you just playing devil's advocate?	¿Solo haces de abogado del diablo?
+W	positive-devil-advocate	positiveAnswers	Yes, I'm testing the argument, not endorsing it.	Sí, estoy poniendo a prueba el argumento, no lo suscribo.
+W	negative-devil-advocate	negativeAnswers	No, this is actually my position.	No, esta es realmente mi postura.
+W	question-pulling-leg	questions	Are you pulling my leg?	¿Me estás tomando el pelo?

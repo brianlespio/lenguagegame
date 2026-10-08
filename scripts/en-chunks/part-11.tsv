@@ -1,0 +1,800 @@
+W	tech-answer-b2t-known-issues	techAnswers	Each line needs the symptom, the workaround, and whether a fix is planned. A register of titles without those three fields will generate a second ticket every time.	Cada línea necesita el síntoma, el apaño y si hay arreglo previsto. Un registro de títulos sin esos tres campos generará un segundo ticket cada vez.
+W	tech-question-b2t-polite-chase	techQuestions	How do you write a second chase that stays polite but names a date?	¿Cómo escribir un segundo recordatorio educado que no obstante nombre una fecha?
+W	tech-answer-b2t-polite-chase	techAnswers	Refer to the first note, repeat the decision you need, and give a date after which you will escalate. A string of just checking in emails can be ignored forever.	Remita a la primera nota, repita la decisión que necesita y dé una fecha tras la cual escalará. Una ristra de solo quería saber se puede ignorar para siempre.
+W	tech-question-b2t-refuse-scope	techQuestions	How do you refuse extra scope in writing without closing the door?	¿Cómo rechazar alcance extra por escrito sin cerrar la puerta?
+W	tech-answer-b2t-refuse-scope	techAnswers	Say what you will deliver as agreed, then offer a dated option for the extra work. A blunt no with no path makes the next conversation harder.	Digan lo que entregarán según lo pactado, y ofrezcan una opción con fecha para el trabajo de más. Un no seco sin camino endurece la siguiente conversación.
+W	tech-question-b2t-ask-more-time	techQuestions	How do you ask your own manager for more time on an internal deadline?	¿Cómo pedir a su responsable más tiempo en un plazo interno?
+W	tech-answer-b2t-ask-more-time	techAnswers	Give the new date, the work that will slip if you keep the old one, and what you will drop or move. I am swamped is a feeling, not a request.	Dé la fecha nueva, el trabajo que se atrasará si mantiene la vieja y qué soltará o moverá. Voy desbordado es un sentimiento, no una petición.
+W	tech-question-b2t-confirm-verbal	techQuestions	How do you confirm a verbal agreement so it can be used later?	¿Cómo confirmar un acuerdo verbal para poder usarlo después?
+W	tech-answer-b2t-confirm-verbal	techAnswers	Write back the same day with the wording you heard and ask them to correct it if you have it wrong. Until that note exists, you only have a conversation.	Escriba el mismo día el texto que oyó y pídales que lo corrijan si está mal. Hasta que exista esa nota, solo tiene una conversación.
+W	tech-question-b2t-phone-decision	techQuestions	How do you document a decision taken on a phone call?	¿Cómo documentar una decisión tomada por teléfono?
+W	tech-answer-b2t-phone-decision	techAnswers	Send a three-line note: the decision, who was on the call, and the date it applies from. If they disagree, the correction will come while the call is still fresh.	Envíe una nota de tres líneas: la decisión, quién estaba en la llamada y desde qué fecha rige. Si no están de acuerdo, la corrección llegará mientras la llamada aún está fresca.
+W	tech-question-b2t-vacancy-handover	techQuestions	What should you write before a colleague leaves if you inherit their inbox?	¿Qué escribir antes de que se vaya un compañero si hereda su bandeja?
+W	tech-answer-b2t-vacancy-handover	techAnswers	Ask for a list of live threads, standing meetings and passwords in the vault, not in mail. A goodbye message with no list leaves you searching for a month.	Pida una lista de hilos vivos, reuniones fijas y contraseñas en la caja, no en el correo. Un mensaje de despedida sin lista le deja buscando un mes.
+W	tech-question-b2t-brief-replacement	techQuestions	How do you brief a temporary replacement in one page?	¿Cómo informar a un sustituto temporal en una página?
+W	tech-answer-b2t-brief-replacement	techAnswers	Give the live work, the people who will push, and where the files are, then name one person they can ask. A tour of every folder is not a brief.	Dé el trabajo vivo, las personas que apretarán y dónde están los archivos, y nombre a alguien a quien preguntar. Un tour de cada carpeta no es un brief.
+W	tech-question-b2t-request-access	techQuestions	How do you write an access request that security can approve quickly?	¿Cómo escribir una petición de acceso que seguridad pueda aprobar pronto?
+W	tech-answer-b2t-request-access	techAnswers	Name the system, the role you need, the dates, and the manager who approves. I need access like Maria's is not enough, because Maria may have rights you do not need.	Nombre el sistema, el rol que necesita, las fechas y el responsable que aprueba. Necesito el acceso de María no basta, porque María puede tener derechos que usted no necesita.
+W	tech-question-b2t-revoke-access	techQuestions	What should a leaver note say so access is actually removed?	¿Qué debe decir una nota de baja para que se quiten de verdad los accesos?
+W	tech-answer-b2t-revoke-access	techAnswers	List the systems, the shared inboxes and the cards, and give the last working day. Please disable everything is how accounts stay open.	Listen los sistemas, los buzones compartidos y las tarjetas, y den el último día de trabajo. Desactiven todo es como las cuentas se quedan abiertas.
+W	tech-question-b2t-client-apology	techQuestions	How do you write a client apology that does not make the next promise weaker?	¿Cómo escribir una disculpa al cliente que no debilite la siguiente promesa?
+W	tech-answer-b2t-client-apology	techAnswers	Say what went wrong, what you will do by which date, and how they will see the result. A long expression of regret with no date is not an apology they can use.	Digan qué falló, qué harán para qué fecha y cómo verán el resultado. Un lamento largo sin fecha no es una disculpa que puedan usar.
+W	tech-question-b2t-credit-note	techQuestions	How do you ask finance for a credit note in a way they can process?	¿Cómo pedir a finanzas una nota de abono de forma tramitable?
+W	tech-answer-b2t-credit-note	techAnswers	Give the invoice number, the amount, and the reason in their words, then attach the client email. A story without those three fields will bounce.	Dé el número de factura, el importe y el motivo en sus palabras, y adjunte el correo del cliente. Un relato sin esos tres campos rebotará.
+W	tech-question-b2t-ask-po	techQuestions	What does a purchase-order request need before finance will raise it?	¿Qué necesita una petición de pedido antes de que finanzas lo emita?
+W	tech-answer-b2t-ask-po	techAnswers	It needs the supplier, the amount, the cost code and the written approval. A screenshot of a catalogue page is not a request.	Necesita el proveedor, el importe, el código de coste y la aprobación escrita. Una captura de una página de catálogo no es una petición.
+W	tech-question-b2t-late-invoice	techQuestions	How do you explain a late invoice to a client without sounding careless?	¿Cómo explicar una factura tardía a un cliente sin parecer descuidado?
+W	tech-answer-b2t-late-invoice	techAnswers	Give the reason, the new send date, and confirm that the work dates on the invoice are unchanged. Silence until they chase you looks worse than a short early note.	Dé la razón, la nueva fecha de envío y confirme que las fechas de trabajo de la factura no han cambiado. El silencio hasta que ellos reclamen es peor que una nota breve temprana.
+W	tech-question-b2t-training-request	techQuestions	How do you write a training request that a manager can approve?	¿Cómo escribir una petición de formación que un responsable pueda aprobar?
+W	tech-answer-b2t-training-request	techAnswers	Name the course, the dates, the cost and what you will do differently afterwards. I would like to develop is not a business case.	Nombre el curso, las fechas, el coste y qué hará de otro modo después. Me gustaría desarrollarme no es un caso de negocio.
+W	tech-question-b2t-decline-overtime	techQuestions	How do you decline overtime in writing while keeping the delivery honest?	¿Cómo rechazar horas extra por escrito y mantener honesta la entrega?
+W	tech-answer-b2t-decline-overtime	techAnswers	Say you cannot take the extra hours, show what will still ship on time, and name what will wait. A silent no on the night leaves the plan looking complete when it is not.	Diga que no puede coger las horas de más, muestre lo que igual saldrá a tiempo y nombre lo que esperará. Un no silencioso por la noche deja el plan con pinta de completo cuando no lo está.
+W	tech-question-b2t-remote-days	techQuestions	How do you request remote days so the team can plan around them?	¿Cómo pedir días en remoto para que el equipo pueda organizarse?
+W	tech-answer-b2t-remote-days	techAnswers	Give the dates, how you will be reachable, and which meetings you will still join. I will be around on chat is not a plan for a workshop.	Dé las fechas, cómo se le localiza y a qué reuniones se unirá aún. Estaré por el chat no es un plan para un taller.
+W	tech-question-b2t-one-to-one	techQuestions	What should a written agenda for a one-to-one contain?	¿Qué debe llevar la agenda escrita de un cara a cara?
+W	tech-answer-b2t-one-to-one	techAnswers	List two work points, one career or feedback point, and anything you need a decision on. An empty invite with a catch-up title wastes the slot.	Listen dos puntos de trabajo, uno de carrera o retorno y aquello sobre lo que necesita una decisión. Una cita vacía titulada quedamos malgasta el hueco.
+W	tech-question-b2t-written-feedback	techQuestions	How do you give written feedback that the person can act on?	¿Cómo dar un retorno escrito sobre el que la persona pueda actuar?
+W	tech-answer-b2t-written-feedback	techAnswers	Describe one behaviour, the effect it had, and the change you want next time. A general you need to communicate better cannot be practised.	Describa una conducta, el efecto que tuvo y el cambio que quiere la próxima vez. Un hay que comunicar mejor no se puede practicar.
+W	tech-question-b2t-receive-feedback	techQuestions	How do you reply in writing when you receive critical feedback?	¿Cómo responder por escrito cuando recibe un retorno crítico?
+W	tech-answer-b2t-receive-feedback	techAnswers	Thank them, restate what you understood, and say what you will try by a date. A defence of every line closes the conversation.	Agradézcalo, reformule lo que entendió y diga qué intentará para una fecha. Defender cada línea cierra la conversación.
+W	tech-question-b2t-risk-register	techQuestions	How do you write a risk-register entry that a steering group can use?	¿Cómo escribir una entrada de registro de riesgos que un comité pueda usar?
+W	tech-answer-b2t-risk-register	techAnswers	Give the risk, the likelihood, the impact on the date or cost, and the next action with an owner. A paragraph of worry without those fields cannot be scored.	Dé el riesgo, la probabilidad, el impacto en la fecha o el coste y la siguiente acción con dueño. Un párrafo de preocupación sin esos campos no se puede puntuar.
+W	tech-question-b2t-team-dependency	techQuestions	How do you write a dependency on another team so it appears in their plan?	¿Cómo escribir una dependencia de otro equipo para que aparezca en su plan?
+W	tech-answer-b2t-team-dependency	techAnswers	Send it to the named owner with the artefact, the date and the effect if it slips, and copy their manager only if they asked to be copied. A mention in your own status report will not reach their backlog.	Envíela al dueño nombrado con el artefacto, la fecha y el efecto si se atrasa, y copie a su responsable solo si lo pidió. Una mención en su propio estado no llegará a su backlog.
+W	tech-question-b2t-legal-review	techQuestions	How do you ask legal for a quick look at a short customer note?	¿Cómo pedir a jurídico una mirada rápida a una nota breve de cliente?
+W	tech-answer-b2t-legal-review	techAnswers	Send the draft, the audience, the date you must send it, and the one question you need answered. Please review when you can is how the note sits for a fortnight.	Envíe el borrador, el destinatario, la fecha en que debe salir y la pregunta que necesita. Revísenlo cuando puedan es como la nota se queda quince días.
+W	tech-question-b2t-summarise-thread	techQuestions	How do you summarise a long email thread for someone joining late?	¿Cómo resumir un hilo largo para quien se incorpora tarde?
+W	tech-answer-b2t-summarise-thread	techAnswers	Write five lines: the ask, what was decided, what is still open, who owns it, and the next date. Pasting the thread and writing FYI is not a summary.	Escriba cinco líneas: la petición, lo decidido, lo que sigue abierto, quién lo lleva y la siguiente fecha. Pegar el hilo y escribir FYI no es un resumen.
+W	tech-question-b2t-decision-log	techQuestions	What belongs in a decision log that minutes do not always keep?	¿Qué debe llevar un registro de decisiones que el acta no siempre guarda?
+W	tech-answer-b2t-decision-log	techAnswers	Each row needs the decision, the date, the options rejected, and who approved. Minutes scatter those facts across weeks; a log keeps them in one place.	Cada fila necesita la decisión, la fecha, las opciones descartadas y quién aprobó. El acta esparce esos hechos a lo largo de semanas; el registro los tiene en un sitio.
+W	tech-question-b2t-date-change	techQuestions	How do you announce a date change to people who already booked travel?	¿Cómo anunciar un cambio de fecha a quienes ya reservaron viaje?
+W	tech-answer-b2t-date-change	techAnswers	Lead with the new date, say what stays the same, and tell them how expenses will be handled. Burying the new date in paragraph four is how people miss it.	Empiece por la fecha nueva, diga qué sigue igual y cómo se tratarán los gastos. Enterrar la fecha nueva en el cuarto párrafo es como se les pasa.
+W	tech-question-b2t-user-faq	techQuestions	How do you write a short FAQ after a process change?	¿Cómo escribir una FAQ breve tras un cambio de proceso?
+W	tech-answer-b2t-user-faq	techAnswers	Answer the three questions people will actually ask: what changed, what they must do, and who to write to. A FAQ that repeats the policy document will not be opened.	Responda a las tres preguntas que de verdad harán: qué cambió, qué deben hacer y a quién escribir. Una FAQ que repite el documento de política no se abrirá.
+W	tech-question-b2t-onboarding-steps	techQuestions	What should written onboarding steps look like for a new joiner's first week?	¿Cómo deben ser los pasos de acogida escritos de la primera semana de un fichaje?
+W	tech-answer-b2t-onboarding-steps	techAnswers	Give a dated list of accounts to request, people to meet, and files to read, with one owner per item. A welcome pack of twenty links is not a first week.	Dé una lista con fechas de cuentas que pedir, personas que ver y archivos que leer, con un dueño por punto. Un pack de bienvenida de veinte enlaces no es una primera semana.
+W	tech-question-b2t-golive-checklist	techQuestions	What belongs on a go-live checklist that a nervous team will actually tick?	¿Qué debe llevar una lista de salida a producción que un equipo nervioso sí marque?
+W	tech-answer-b2t-golive-checklist	techAnswers	List the must-pass checks, who signs each one, and the stop condition if a check fails. A checklist of nice-to-haves will be skipped under pressure.	Listen las comprobaciones imprescindibles, quién firma cada una y la condición de parada si alguna falla. Una lista de deseos se saltará bajo presión.
+W	tech-question-b2t-please-approve	techQuestions	How do you write a please-approve note that a busy reader can answer in one line?	¿Cómo escribir un por favor apruebe que un lector ocupado pueda responder en una línea?
+W	tech-answer-b2t-please-approve	techAnswers	State what they are approving, the amount or date, and the consequence of a delay, then offer yes or a named change. A five-page attachment with no ask will wait.	Digan qué aprueban, el importe o la fecha y la consecuencia de un retraso, y ofrezcan un sí o un cambio nombrado. Un adjunto de cinco páginas sin petición esperará.
+W	tech-question-b2t-please-hold	techQuestions	How do you ask a team to hold work without them guessing for how long?	¿Cómo pedir a un equipo que pause un trabajo sin que adivinen cuánto?
+W	tech-answer-b2t-please-hold	techAnswers	Say what to pause, why, and the date you will either release it or cancel it. Hold for now with no date freezes the wrong things for weeks.	Digan qué pausar, por qué y la fecha en que lo liberarán o lo cancelarán. En espera por ahora sin fecha congela lo equivocado durante semanas.
+W	tech-question-b2t-missed-window	techQuestions	How do you write that you missed a release window and what happens next?	¿Cómo escribir que se ha perdido una ventana de entrega y qué sigue?
+W	tech-answer-b2t-missed-window	techAnswers	Name the window, the reason, the next window, and what users will see in the meantime. We will try to squeeze it in is not a plan they can repeat to their own manager.	Nombre la ventana, la razón, la siguiente y qué verán los usuarios mientras tanto. Intentaremos colarlo no es un plan que puedan repetir a su responsable.
+W	tech-question-b2t-partial-delivery	techQuestions	How do you announce a partial delivery so it is not read as the whole job?	¿Cómo anunciar una entrega parcial para que no se lea como el trabajo entero?
+W	tech-answer-b2t-partial-delivery	techAnswers	List what is in, what is out, and when the rest will come, in that order. A cheerful We shipped today with no list will be remembered as finished.	Listen lo que entra, lo que queda fuera y cuándo llega el resto, en ese orden. Un alegre Hoy ha salido sin lista se recordará como terminado.
+W	tech-question-b2t-waiting-on-you	techQuestions	How do you write a waiting-on-you note that names the missing piece?	¿Cómo escribir una nota a la espera de usted que nombre la pieza que falta?
+W	tech-answer-b2t-waiting-on-you	techAnswers	Say exactly what you still need, the format, and the date after which your own date will move. Waiting on you with no detail sounds like a complaint.	Digan exactamente qué les falta, el formato y la fecha tras la cual se moverá su propio plazo. A la espera de usted sin detalle suena a queja.
+W	tech-question-b2t-thanks-next	techQuestions	How do you thank someone and still leave a next step in the same note?	¿Cómo agradecer y dejar aún un siguiente paso en la misma nota?
+W	tech-answer-b2t-thanks-next	techAnswers	Thank them in one line, then name the next action, the owner and the date. A thanks-only reply closes the thread before the work is finished.	Agradezca en una línea y nombre la siguiente acción, el dueño y la fecha. Un solo gracias cierra el hilo antes de que acabe el trabajo.
+W	tech-question-b2t-call-invite	techQuestions	What should a conference-call invite contain besides the link?	¿Qué debe llevar una cita de conferencia, además del enlace?
+W	tech-answer-b2t-call-invite	techAnswers	Give the purpose, the decision to take, the pre-read and the end time. A title that says catch-up will attract people who do not need to be there.	Dé el propósito, la decisión a tomar, la lectura previa y la hora de fin. Un título que diga quedamos atraerá a quien no necesita estar.
+W	tech-question-b2t-cancel-meeting	techQuestions	How do you cancel a meeting so the time is actually freed?	¿Cómo cancelar una reunión para que el tiempo se libere de verdad?
+W	tech-answer-b2t-cancel-meeting	techAnswers	Cancel the invite, say why in one line, and either set a new date or say the topic is closed. Leaving the slot in the calendar with a maybe later wastes the hour.	Cancele la cita, diga por qué en una línea y o bien fije una fecha nueva o bien diga que el tema está cerrado. Dejar el hueco con un ya veremos malgasta la hora.
+W	tech-question-b2t-reschedule	techQuestions	How do you reschedule without starting a long chain of alternative dates?	¿Cómo reprogramar sin abrir una cadena larga de fechas alternativas?
+W	tech-answer-b2t-reschedule	techAnswers	Offer two new slots, say which you prefer, and ask them to pick one. An open invitation to suggest any time restarts the whole negotiation.	Ofrezca dos huecos, diga cuál prefiere y pídales que elijan uno. Una invitación abierta a proponer cualquier hora reinicia toda la negociación.
+W	tech-question-b2t-use-the-ticket	techQuestions	How do you remind people to use the ticket instead of a private chat?	¿Cómo recordar que usen el ticket en vez de un chat privado?
+W	tech-answer-b2t-use-the-ticket	techAnswers	Say that decisions and files belong on the ticket so the next person can find them, and paste the number. A scolding tone will send the next update back into chat.	Diga que las decisiones y los archivos van al ticket para que la siguiente persona los encuentre, y pegue el número. Un tono de regaño devolverá la siguiente actualización al chat.
+W	tech-question-b2t-year-end-freeze	techQuestions	How do you announce a year-end change freeze so teams can plan?	¿Cómo anunciar una congelación de cambios de fin de año para que los equipos se organicen?
+W	tech-answer-b2t-year-end-freeze	techAnswers	Give the start and end dates, what may still go live, and the exception path for a genuine incident. A freeze with no exception path will be broken informally.	Dé las fechas de inicio y fin, qué puede salir aún y la vía de excepción para un incidente de verdad. Una congelación sin vía de excepción se romperá por lo bajo.
+W	tech-question-b2t-week-ahead	techQuestions	How do you write a week-ahead note so people can plan without another meeting?	¿Cómo escribir una nota de la semana que viene para que se pueda planear sin otra reunión?
+W	tech-answer-b2t-week-ahead	techAnswers	List the three immovable dates, the one decision you need, and who will be away. A calendar dump of every slot is not a plan; it is a second diary.	Listen las tres fechas fijas, la decisión que necesita y quién faltará. Un volcado de todos los huecos no es un plan; es una segunda agenda.
+W	open-question-your-name	openQuestions	What's your name?	¿Cómo te llamas?
+W	open-answer-your-name	openAnswers	My name's Ana.	Me llamo Ana.
+W	open-question-where-from	openQuestions	Where are you from?	¿De dónde eres?
+W	open-answer-where-from	openAnswers	I'm from Spain.	Soy de España.
+W	open-question-how-old	openQuestions	How old are you?	¿Cuántos años tienes?
+W	open-answer-how-old	openAnswers	I'm twenty-five.	Tengo veinticinco.
+W	open-question-where-live	openQuestions	Where do you live?	¿Dónde vives?
+W	open-answer-where-live	openAnswers	I live in Madrid.	Vivo en Madrid.
+W	open-question-what-do	openQuestions	What do you do?	¿A qué te dedicas?
+W	open-answer-what-do	openAnswers	I work in IT.	Trabajo en informática.
+W	open-question-how-are-you	openQuestions	How are you?	¿Cómo estás?
+W	open-answer-how-are-you	openAnswers	I'm fine, thanks. And you?	Bien, gracias. ¿Y tú?
+W	open-question-what-time	openQuestions	What time is it?	¿Qué hora es?
+W	open-answer-what-time	openAnswers	It's three o'clock.	Son las tres.
+W	open-question-what-job	openQuestions	What's your job?	¿Cuál es tu trabajo?
+W	open-answer-what-job	openAnswers	I'm a developer.	Soy desarrollador.
+W	open-question-who-is-that	openQuestions	Who is that?	¿Quién es?
+W	open-answer-who-is-that	openAnswers	That's my colleague.	Es mi compañero.
+W	open-question-how-much	openQuestions	How much is this?	¿Cuánto cuesta esto?
+W	open-answer-how-much	openAnswers	It's ten euros.	Son diez euros.
+W	open-question-what-doing	openQuestions	What are you doing?	¿Qué estás haciendo?
+W	open-answer-what-doing	openAnswers	I'm checking my emails.	Estoy mirando el correo.
+W	open-question-why-late	openQuestions	Why are you late?	¿Por qué llegas tarde?
+W	open-answer-why-late	openAnswers	The train was delayed.	El tren iba con retraso.
+W	open-question-how-get-work	openQuestions	How do you get to work?	¿Cómo vas al trabajo?
+W	open-answer-how-get-work	openAnswers	I take the metro.	Cojo el metro.
+W	open-question-how-long-here	openQuestions	How long have you lived here?	¿Cuánto tiempo llevas viviendo aquí?
+W	open-answer-how-long-here	openAnswers	For three years.	Tres años.
+W	open-question-what-yesterday	openQuestions	What did you do yesterday?	¿Qué hiciste ayer?
+W	open-answer-what-yesterday	openAnswers	I stayed at home.	Me quedé en casa.
+W	open-question-weather-like	openQuestions	What's the weather like?	¿Qué tiempo hace?
+W	open-answer-weather-like	openAnswers	It's raining.	Está lloviendo.
+W	open-question-how-weekend	openQuestions	How was your weekend?	¿Qué tal el fin de semana?
+W	open-answer-how-weekend	openAnswers	It was great, thanks.	Muy bien, gracias.
+W	open-question-where-station	openQuestions	Where's the station?	¿Dónde está la estación?
+W	open-answer-where-station	openAnswers	It's straight ahead, then left.	Todo recto y luego a la izquierda.
+W	open-question-what-brings	openQuestions	What brings you here?	¿Qué te trae por aquí?
+W	open-answer-what-brings	openAnswers	I'm here for a conference.	Vengo a una conferencia.
+W	open-question-spend-evenings	openQuestions	How do you usually spend your evenings?	¿Cómo sueles pasar las tardes?
+W	open-answer-spend-evenings	openAnswers	I usually cook and watch a series.	Suelo cocinar y ver una serie.
+W	open-question-how-to-centre	openQuestions	Could you tell me how to get to the centre?	¿Me puede decir cómo ir al centro?
+W	open-answer-how-to-centre	openAnswers	Go straight on and take the second left.	Siga todo recto y tome la segunda a la izquierda.
+W	open-question-looking-for	openQuestions	What are you looking for?	¿Qué busca?
+W	open-answer-looking-for	openAnswers	I'm looking for a quiet café.	Busco un café tranquilo.
+W	open-question-been-up-to	openQuestions	What have you been up to?	¿Qué has andado haciendo?
+W	open-answer-been-up-to	openAnswers	I've been busy with a new project.	He estado liado con un proyecto nuevo.
+W	open-question-what-recommend	openQuestions	What would you recommend?	¿Qué me recomienda?
+W	open-answer-what-recommend	openAnswers	I'd go to the place around the corner.	Yo iría al sitio de la esquina.
+W	open-question-what-can-get	openQuestions	What can I get you?	¿Qué le pongo?
+W	open-answer-what-can-get	openAnswers	I'll have a sparkling water, please.	Un agua con gas, por favor.
+W	open-question-table-for	openQuestions	Table for how many?	¿Mesa para cuántos?
+W	open-answer-table-for	openAnswers	For two, please.	Para dos, por favor.
+W	open-question-phone-number	openQuestions	What's your phone number?	¿Cuál es tu número?
+W	open-answer-phone-number	openAnswers	It's six seven eight, four five one two.	El seis siete ocho, cuatro cinco uno dos.
+W	open-question-when-meet	openQuestions	When shall we meet?	¿Cuándo nos vemos?
+W	open-answer-when-meet	openAnswers	How about tomorrow at six?	¿Mañana a las seis te va bien?
+W	open-question-where-meet	openQuestions	Where shall we meet?	¿Dónde quedamos?
+W	open-answer-where-meet	openAnswers	Let's meet in front of the café.	Delante del café.
+W	open-question-whose-this	openQuestions	Whose is this?	¿De quién es esto?
+W	open-answer-whose-this	openAnswers	It's mine.	Es mío.
+W	open-question-how-spell	openQuestions	How do you spell that?	¿Cómo se escribe?
+W	open-answer-how-spell	openAnswers	A-N-A.	A-N-A.
+W	open-question-when-free	openQuestions	When are you free?	¿Cuándo estás libre?
+W	open-answer-when-free	openAnswers	I'm free on Thursday evening.	El jueves por la tarde.
+W	open-question-what-think	openQuestions	What do you think?	¿Tú qué opinas?
+W	open-answer-what-think	openAnswers	I think it's a good idea.	Me parece una buena idea.
+W	open-question-plans-tonight	openQuestions	What are you doing tonight?	¿Qué haces esta noche?
+W	open-answer-plans-tonight	openAnswers	I'm staying in.	Me quedo en casa.
+W	open-question-what-mean	openQuestions	What does that mean?	¿Qué significa eso?
+W	open-answer-what-mean	openAnswers	It means 'see you later'.	Significa 'hasta luego'.
+W	open-question-leave-message	openQuestions	Would you like to leave a message?	¿Quiere dejar un recado?
+W	open-answer-leave-message	openAnswers	Yes, could you tell her I'll call later?	Sí, ¿le puede decir que llamaré más tarde?
+W	open-question-what-film	openQuestions	What film shall we watch?	¿Qué película vemos?
+W	open-answer-what-film	openAnswers	Let's watch a comedy.	Una comedia, si te parece.
+W	open-question-next-holiday	openQuestions	Where are you going on holiday?	¿Adónde te vas de vacaciones?
+W	open-answer-next-holiday	openAnswers	We're going to the coast.	Nos vamos a la costa.
+W	open-question-whats-wrong	openQuestions	What's wrong?	¿Qué te pasa?
+W	open-answer-whats-wrong	openAnswers	I've got a bit of a headache.	Me duele un poco la cabeza.
+W	open-question-how-pay	openQuestions	How would you like to pay?	¿Cómo va a pagar?
+W	open-answer-how-pay	openAnswers	By card, please.	Con tarjeta, por favor.
+W	open-question-how-know	openQuestions	How do you know each other?	¿Cómo os conocéis?
+W	open-answer-how-know	openAnswers	We used to work together, though we don't see much of each other now.	Trabajamos juntos, aunque ahora nos vemos poco.
+W	open-question-feel-about	openQuestions	How do you feel about that?	¿Qué te parece eso?
+W	open-answer-feel-about	openAnswers	I'm still of two minds; I can see the case either way.	Aún estoy indeciso; veo las dos caras.
+W	open-question-catch-up	openQuestions	When can we catch up?	¿Cuándo podemos vernos un rato?
+W	open-answer-catch-up	openAnswers	How about a coffee next week, if you can spare three-quarters of an hour?	¿Un café la semana que viene, si puedes sacar tres cuartos de hora?
+W	open-question-long-known	openQuestions	How long have you known each other?	¿Cuánto tiempo os conocéis?
+W	open-answer-long-known	openAnswers	Since school.	Desde el colegio.
+W	open-question-who-invited	openQuestions	Who invited you?	¿Quién te invitó?
+W	open-answer-who-invited	openAnswers	A friend from work.	Un amigo del trabajo.
+W	open-question-why-leave-early	openQuestions	Why did you leave so early?	¿Por qué te fuiste tan pronto?
+W	open-answer-why-leave-early	openAnswers	I had to get up early today.	Tenía que madrugar hoy.
+W	open-question-what-made-change	openQuestions	What made you change your mind?	¿Qué te hizo cambiar de opinión?
+W	open-answer-what-made-change	openAnswers	I slept on it, and the first version no longer held.	Lo dejé para pensarlo, y la primera versión ya no se sostenía.
+W	open-question-how-work-going	openQuestions	How's it going at work?	¿Qué tal el trabajo?
+W	open-answer-how-work-going	openAnswers	It's busy, but I'm enjoying it.	Hay mucho, pero me está gustando.
+W	open-question-to-what-extent	openQuestions	How much of that would you still stand by, now that we know more?	¿Hasta qué punto se mantendría en eso, ahora que sabemos más?
+W	open-answer-to-what-extent	openAnswers	Only the part that was about that group. The rest I would treat as a guess, not as a fact.	Solo en la parte que iba de ese grupo. El resto lo trataría como una conjetura, no como un hecho.
+W	open-question-how-reconcile	openQuestions	How do you put those two claims together without emptying both?	¿Cómo junta esas dos afirmaciones sin vaciar las dos?
+W	open-answer-how-reconcile	openAnswers	I don't. One of them has to go. A nice sentence that keeps both is just a dodge.	No las junto. Hay que soltar una. Una frase bonita que conserve las dos no es más que una evasiva.
+W	open-question-what-caveats	openQuestions	What would you insist on saying before that goes out as a fact?	¿Qué insistiría en decir antes de que eso salga como un hecho?
+W	open-answer-what-caveats	openAnswers	It holds for this group, under these conditions. I would not let it travel as if it were always true.	Se sostiene para este grupo, en estas condiciones. No lo dejaría circular como si fuera siempre verdad.
+W	open-question-where-do-you-draw-the-line	openQuestions	At what point does that stop being defensible, even on your own terms?	¿En qué punto deja de ser defendible, incluso en sus propios términos?
+W	open-answer-where-do-you-draw-the-line	openAnswers	When the harm to people we can name is no longer a maybe. Short of that I can still argue it. Past that I cannot.	Cuando el daño a gente a la que podemos nombrar ya no es un quizás. Por debajo aún puedo sostenerlo. Más allá, no.
+W	open-question-how-square-that	openQuestions	How do you square that with what you said earlier?	¿Cómo casa eso con lo que dijo antes?
+W	open-answer-how-square-that	openAnswers	I don't, not without a caveat. I overstated the first version. The later one is the one I would defend.	No casa, no sin un matiz. Cargué demasiado la primera versión. La que defendería es la de después.
+W	open-question-what-would-you-concede	openQuestions	What would you actually concede, without giving up the point?	¿Qué concedería de verdad, sin soltar el fondo?
+W	open-answer-what-would-you-concede	openAnswers	The timing was clumsy and the tone was poorly judged. I would not concede that the claim itself fails.	El momento fue torpe y el tono, mal medido. No concedería que falle la tesis misma.
+W	open-question-on-what-grounds	openQuestions	On what grounds are you rejecting that — the argument, not the person?	¿Con qué fundamento lo rechaza: el argumento, no la persona?
+W	open-answer-on-what-grounds	openAnswers	On the facts we have. Who said it does not matter. Those facts do not get you to that conclusion.	Sobre los hechos que tenemos. Quién lo dijo no importa. Esos hechos no llevan a esa conclusión.
+W	open-question-how-far-does-that-go	openQuestions	How far does that argument actually go, if you refuse the next leap?	¿Hasta dónde llega de verdad ese argumento, si rechaza el siguiente salto?
+W	open-answer-how-far-does-that-go	openAnswers	It covers this case, on these facts. It does not, on its own, cover the next case they want to tack on.	Cubre este caso, con estos hechos. Por sí solo no cubre el caso siguiente que quieren pegarle.
+W	open-question-c2o-hedge-put-it	openQuestions	How would you put that without making more of it than it is?	¿Cómo lo diría sin darle más de lo que tiene?
+W	open-answer-c2o-hedge-put-it	openAnswers	I would say it points that way; I would not call it settled. I would stop there on what we have.	Diría que apunta, no que cierra. Con lo que hay, me detendría ahí.
+W	open-question-c2o-hedge-as-far	openQuestions	How far are you prepared to take that?	¿Hasta dónde está dispuesto a llevar eso?
+W	open-answer-c2o-hedge-as-far	openAnswers	As far as the step from A to B is clear, and no further. Past that I am guessing out loud.	Hasta donde el paso de A a B está claro, y no más. A partir de ahí, conjeturo en voz alta.
+W	open-question-c2o-hedge-name-on-it	openQuestions	Would you put your name to that wording?	¿Pondría su nombre a esa redacción?
+W	open-answer-c2o-hedge-name-on-it	openAnswers	Not to that wording. I would keep the observation and drop the flourish.	Esa redacción no la firmaría. Me quedaría con la observación y soltaría el adorno.
+W	open-question-c2o-hedge-for-now	openQuestions	What can we treat as settled for the time being?	¿Qué podemos dar por sentado de momento?
+W	open-answer-c2o-hedge-for-now	openAnswers	For now, only the narrower reading. I would leave the wider one on probation.	De momento, solo la lectura estrecha. La ancha la dejaría en vilo.
+W	open-question-c2o-hedge-working-guess	openQuestions	Is that a finding or a working guess?	¿Es un hallazgo o una conjetura de trabajo?
+W	open-answer-c2o-hedge-working-guess	openAnswers	A working guess I would defend in this room. I would not print it as a finding.	Una pista que defendería en esta sala. No la imprimiría como hallazgo.
+W	open-question-c2o-hedge-read-into	openQuestions	How much are we reading into a thin signal?	¿Cuánto leemos en una señal flaca?
+W	open-answer-c2o-hedge-read-into	openAnswers	More than it will bear, if we let the story run ahead of the numbers.	Más de lo que aguanta, si dejamos que el relato se adelante a las cifras.
+W	open-question-c2o-hedge-if-pressed	openQuestions	If pressed, what would you actually stand behind?	Si le aprietan, ¿qué sostendría de verdad?
+W	open-answer-c2o-hedge-if-pressed	openAnswers	If pressed, the cautious version. The bolder one was a stretch, and I would take it back.	Si me aprietan, la versión cauta. La más osada era un estirón, y la retiraría.
+W	open-question-c2o-hedge-wont-swear	openQuestions	How sure are you, if you refuse to swear to it?	¿Qué tan seguro está, si se niega a jurarlo?
+W	open-answer-c2o-hedge-wont-swear	openAnswers	Sure enough to put it on the table. Not sure enough to swear to it if I am challenged.	Lo bastante para ponerlo sobre la mesa. No lo bastante para jurarlo si me contradicen.
+W	open-question-c2o-hedge-one-reading	openQuestions	Is that the only reading the material will support?	¿Es la única lectura que aguanta el material?
+W	open-answer-c2o-hedge-one-reading	openAnswers	One reading among others. I would not close the others without a better reason.	Una lectura entre otras. No cerraría las demás sin una razón mejor.
+W	open-question-c2o-hedge-hold-lightly	openQuestions	How tightly should we hold that claim overnight?	¿Con qué firmeza hay que sostener eso hasta mañana?
+W	open-answer-c2o-hedge-hold-lightly	openAnswers	Lightly. I would rather sleep on it than nail it down tonight.	Con poca. Prefiero dormir sobre ello a clavarlo esta noche.
+W	open-question-c2o-hedge-thin-ice	openQuestions	Where does that start to look like thin ice?	¿Dónde empieza eso a parecer hielo fino?
+W	open-answer-c2o-hedge-thin-ice	openAnswers	Where we leave what we measured and speak as if the rest were already shown.	Donde dejamos lo medido y hablamos como si el resto ya estuviera mostrado.
+W	open-question-c2o-hedge-say-rather	openQuestions	If you had to recast the sentence, how would it run?	Si tuviera que recuadrar la frase, ¿cómo iría?
+W	open-answer-c2o-hedge-say-rather	openAnswers	I would rather say it tends to hold in this window. I would drop the air of a law.	Diría más bien que suele sostenerse en esta ventana. Soltaría el aire de ley.
+W	open-question-c2o-hedge-pending-more	openQuestions	What hangs until more comes in?	¿Qué queda en el aire hasta que entre más?
+W	open-answer-c2o-hedge-pending-more	openAnswers	The leap to a general rule. The local observation can stay; the leap cannot.	El salto a una regla general. La observación local puede quedarse; el salto, no.
+W	open-question-c2o-hedge-not-gospel	openQuestions	Should we treat that as gospel in this discussion?	¿Hay que tomarlo como evangelio en esta conversación?
+W	open-answer-c2o-hedge-not-gospel	openAnswers	Treat it as a well-supported hunch. Gospel is the wrong tone for something still live.	Tómenlo como una corazonada bien apoyada. El evangelio es el tono equivocado para algo aún vivo.
+W	open-question-c2o-hedge-modest-claim	openQuestions	What is the most modest claim you can still defend?	¿Cuál es la tesis más modesta que aún puede defender?
+W	open-answer-c2o-hedge-modest-claim	openAnswers	That the effect shows up under these controls. Anything louder is decoration.	Que el efecto asoma bajo estos controles. Todo lo que suene más alto es adorno.
+W	open-question-c2o-hedge-not-settled	openQuestions	How unsettled is this, if we are honest?	¿Qué tan abierto está esto, si somos sinceros?
+W	open-answer-c2o-hedge-not-settled	openAnswers	Unsettled enough that I would mark it provisional in the note.	Lo bastante abierto como para marcarlo provisional en la nota.
+W	open-question-c2o-hedge-subject-to	openQuestions	What would have to hold for you to leave that sentence as it is?	¿Qué tendría que sostenerse para que dejara esa frase tal cual?
+W	open-answer-c2o-hedge-subject-to	openAnswers	The main assumption still has to hold. If that slips, the sentence goes with it.	El supuesto principal tiene que seguir en pie. Si ese se resbala, la frase se va con él.
+W	open-question-c2o-hedge-wary-wide	openQuestions	Why are you wary of the wide version?	¿Por qué recela de la versión ancha?
+W	open-answer-c2o-hedge-wary-wide	openAnswers	Because the wide version borrows certainty we have not earned. The narrow one we have.	Porque la versión ancha toma prestada una certeza que no hemos ganado. La estrecha, sí.
+W	open-question-c2o-hedge-under-erasure	openQuestions	Can we leave that on the board, crossed out?	¿Podemos dejarlo en la pizarra, tachado?
+W	open-answer-c2o-hedge-under-erasure	openAnswers	Leave it up, but struck through. I want it visible as a temptation, not as a conclusion.	Déjenlo, pero rayado. Lo quiero visible como tentación, no como conclusión.
+W	open-question-c2o-hedge-best-we-have	openQuestions	Is this the best account we have, or the best we can get?	¿Es el mejor relato que tenemos, o el mejor que se puede tener?
+W	open-answer-c2o-hedge-best-we-have	openAnswers	The best we have tonight. I would not confuse that with the best anyone could get.	El mejor que tenemos esta noche. No lo confundiría con el mejor que quepa tener.
+W	open-question-c2o-hedge-open-rewrite	openQuestions	How open are you to rewriting the opening?	¿Qué tan abierto está a reescribir la apertura?
+W	open-answer-c2o-hedge-open-rewrite	openAnswers	Wide open. The opening outruns the rest, and I would rather cut the opening than pad the rest.	Muy abierto. La apertura se adelanta al resto, y cortaría la apertura antes que hinchar el resto.
+W	open-question-c2o-hedge-half-step	openQuestions	Are you taking a full step or a half-step here?	¿Da un paso entero o medio paso aquí?
+W	open-answer-c2o-hedge-half-step	openAnswers	A half-step. I am pointing, not planting a flag.	Medio paso. Señalo, no clavo una bandera.
+W	open-question-c2o-hedge-until-rebutted	openQuestions	Shall we let it stand until someone knocks it down?	¿Lo dejamos en pie hasta que alguien lo tumbe?
+W	open-answer-c2o-hedge-until-rebutted	openAnswers	Let it stand as a working default, not as a trophy. A default can fall without drama.	Que quede como valor por defecto, no como trofeo. Un valor por defecto puede caer sin teatro.
+W	open-question-c2o-hedge-in-this-room	openQuestions	What are you willing to say in this room that you would not write?	¿Qué está dispuesto a decir en esta sala que no escribiría?
+W	open-answer-c2o-hedge-in-this-room	openAnswers	In this room I will float the stronger reading. I would not write it without another look.	Aquí lanzaré la lectura más fuerte. No la escribiría sin otra mirada.
+W	open-question-c2o-hedge-without-trumpets	openQuestions	Can we state it without the trumpets?	¿Podemos decirlo sin fanfarria?
+W	open-answer-c2o-hedge-without-trumpets	openAnswers	We can, and we should. The trumpets are doing work the figures have not done.	Podemos, y debemos. La fanfarria hace un trabajo que las cifras no han hecho.
+W	open-question-c2o-concede-timing	openQuestions	What do you concede about the timing?	¿Qué concede sobre el momento?
+W	open-answer-c2o-concede-timing	openAnswers	The timing was clumsy. I would not give up the substance on that account.	El momento fue torpe. No soltaría el fondo por eso.
+W	open-question-c2o-concede-tone	openQuestions	Where do you give way on tone?	¿En qué cede usted en el tono?
+W	open-answer-c2o-concede-tone	openAnswers	The tone was poorly judged. The point itself does not fall with the tone.	El tono estuvo mal medido. El fondo no cae con el tono.
+W	open-question-c2o-concede-wording	openQuestions	What in the wording would you now withdraw?	¿Qué retiraría ahora de la redacción?
+W	open-answer-c2o-concede-wording	openAnswers	The absolute. I would keep the milder comparison and drop the superlative.	Lo absoluto. Me quedaría con la comparación más suave y soltaría el superlativo.
+W	open-question-c2o-concede-narrow-hit	openQuestions	Did that objection land, even narrowly?	¿Dio en el blanco esa objeción, aunque por poco?
+W	open-answer-c2o-concede-narrow-hit	openAnswers	It landed on the example, not on the structure. I will retire the example.	Dio en el ejemplo, no en la armazón. Retiro el ejemplo.
+W	open-question-c2o-concede-first-pass	openQuestions	What was wrong with the first pass?	¿Qué fallaba en el primer envío?
+W	open-answer-c2o-concede-first-pass	openAnswers	It tried to do too much in one breath. I would split the claim and keep the first half.	Quiso hacer demasiado de un aliento. Partiría la tesis y me quedaría con la primera mitad.
+W	open-question-c2o-concede-left-out	openQuestions	What did you leave out that you ought to have marked?	¿Qué dejó fuera que debía haber marcado?
+W	open-answer-c2o-concede-left-out	openAnswers	A rival account I waved away. I should have said why it fails, not merely that it fails.	Un relato rival que aparté de un gesto. Debí decir por qué falla, no solo que falla.
+W	open-question-c2o-concede-emphasis	openQuestions	Was the emphasis fair?	¿Fue justo el énfasis?
+W	open-answer-c2o-concede-emphasis	openAnswers	It was lopsided. I still think the weight belongs here, but I overdid it.	Quedó sesgado. Sigo pensando que el peso está aquí, pero me pasé.
+W	open-question-c2o-concede-weak-example	openQuestions	How much does the weak example cost you?	¿Cuánto le cuesta el ejemplo flojo?
+W	open-answer-c2o-concede-weak-example	openAnswers	An illustration, not the case. I should have chosen a cleaner one.	Una ilustración, no el asunto. Debí elegir uno más limpio.
+W	open-question-c2o-concede-haste	openQuestions	What did haste do to the argument?	¿Qué le hizo la prisa al argumento?
+W	open-answer-c2o-concede-haste	openAnswers	It flattened a distinction I still need. I can restore it without abandoning the line.	Aplanó una distinción que aún necesito. Puedo restaurarla sin abandonar la línea.
+W	open-question-c2o-concede-scope-creep	openQuestions	Where did the scope creep?	¿Dónde se desbordó el perímetro?
+W	open-answer-c2o-concede-scope-creep	openAnswers	It drifted from this matter to a neighbouring one. I will pull it back here.	Se deslizó de este asunto al de al lado. Lo devuelvo aquí.
+W	open-question-c2o-concede-you-landed	openQuestions	Where did they land a fair blow?	¿Dónde dieron un golpe limpio?
+W	open-answer-c2o-concede-you-landed	openAnswers	On the missing step between the numbers and the verdict. I still think the verdict is right; the step was skipped.	En el paso que falta entre las cifras y el veredicto. Sigo pensando que el veredicto es bueno; el paso se saltó.
+W	open-question-c2o-concede-badly-put	openQuestions	Was it badly put, or badly thought?	¿Estuvo mal dicho, o mal pensado?
+W	open-answer-c2o-concede-badly-put	openAnswers	Badly put. The thought still holds if I say it more tightly.	Mal dicho. El pensamiento se sostiene si lo aprieto.
+W	open-question-c2o-concede-overreach	openQuestions	What, exactly, was the overreach?	¿Cuál fue, exactamente, el exceso?
+W	open-answer-c2o-concede-overreach	openAnswers	I treated a tendency as a rule. I will walk the rule back to a tendency.	Traté una tendencia como una regla. Devuelvo la regla a una tendencia.
+W	open-question-c2o-concede-missed-counter	openQuestions	Which counter did you miss?	¿Qué contraataque se le escapó?
+W	open-answer-c2o-concede-missed-counter	openAnswers	The one that attacks the bridge, not the banks. I had only answered the banks.	El que ataca el puente, no las orillas. Yo solo había contestado a las orillas.
+W	open-question-c2o-concede-style	openQuestions	How much of this is style rather than substance?	¿Cuánto de esto es forma y no fondo?
+W	open-answer-c2o-concede-style	openAnswers	The heat is style. The distinction I am drawing is substance, and I would keep it in a colder voice.	El calor es forma. La distinción que trazo es fondo, y la guardaría con voz más fría.
+W	open-question-c2o-concede-force-of-that	openQuestions	Do you feel the force of that point?	¿Siente la fuerza de ese punto?
+W	open-answer-c2o-concede-force-of-that	openAnswers	I feel it on the wording. I do not feel it on how the burden is really shared.	La siento en la redacción. No la siento en el verdadero reparto de la carga.
+W	open-question-c2o-concede-that-bit	openQuestions	Which bit can you give them without loss?	¿Qué trozo puede cederles sin pérdida?
+W	open-answer-c2o-concede-that-bit	openAnswers	The historical aside. It was colour, and I can lose the colour.	El aparte histórico. Era color, y puedo perder el color.
+W	open-question-c2o-concede-audience-miss	openQuestions	Where did you miss the room?	¿Dónde falló con la sala?
+W	open-answer-c2o-concede-audience-miss	openAnswers	I spoke as if everyone already had the background. They did not, and that was on me.	Hablé como si todos ya tuvieran el telón de fondo. No era así, y eso va por mi cuenta.
+W	open-question-c2o-concede-citation-thin	openQuestions	How thin was the citation?	¿Qué tan flaca era la cita?
+W	open-answer-c2o-concede-citation-thin	openAnswers	Thin enough that I should have flagged it as a hint, not as something the argument stands on.	Lo bastante flaca como para haberla marcado como una pista, no como aquello en que se apoya el argumento.
+W	open-question-c2o-concede-rhetoric	openQuestions	What does the rhetoric add that the case does not need?	¿Qué añade la retórica que el asunto no necesita?
+W	open-answer-c2o-concede-rhetoric	openAnswers	Heat. I can run the same case in a flatter voice and lose nothing that matters.	Calor. Puedo llevar el mismo asunto con voz más plana y no perder nada que importe.
+W	open-question-c2o-concede-unused-slice	openQuestions	What unused piece should have been on the table?	¿Qué pieza sin usar debía estar sobre la mesa?
+W	open-answer-c2o-concede-unused-slice	openAnswers	The dissenting note at the back. I knew it was there and I skated past it.	La nota disidente, al final. Sabía que estaba y la esquivé.
+W	open-question-c2o-concede-fair-warning	openQuestions	Did they give you fair warning?	¿Le avisaron con lealtad?
+W	open-answer-c2o-concede-fair-warning	openAnswers	They did. I chose to meet a cleaner target than the one they actually aimed at.	Lo hicieron. Elegí un blanco más limpio que el que apuntaban.
+W	open-question-c2o-concede-i-was-loose	openQuestions	Where were you loose?	¿Dónde estuvo holgado?
+W	open-answer-c2o-concede-i-was-loose	openAnswers	On the verbs. I said proves where I had only earned suggests.	En los verbos. Dije demuestra donde solo había ganado sugiere.
+W	open-question-c2o-concede-you-tighten	openQuestions	If they tighten it for you, what survives?	Si se lo aprietan, ¿qué sobrevive?
+W	open-answer-c2o-concede-you-tighten	openAnswers	The comparative claim survives. The absolute one does not, and I should have said so first.	La tesis comparativa sobrevive. La absoluta, no, y debí decirlo primero.
+W	open-question-c2o-concede-without-core	openQuestions	What can you concede without touching the core?	¿Qué puede conceder sin tocar el núcleo?
+W	open-answer-c2o-concede-without-core	openAnswers	The packaging and the pace. I will not concede that the heart of the inference fails.	El envoltorio y el ritmo. No concederé que falle el corazón de la inferencia.
+W	open-question-c2o-rebut-doesnt-follow	openQuestions	Does that actually follow from what we have?	¿Se sigue de verdad de lo que tenemos?
+W	open-answer-c2o-rebut-doesnt-follow	openAnswers	It does not follow. You have shown something sitting beside the conclusion, not the conclusion itself.	De eso no se sigue. Ha mostrado algo al lado de la conclusión, no la conclusión misma.
+W	open-question-c2o-rebut-wrong-level	openQuestions	Are we arguing at the same level?	¿Discutimos en el mismo piso?
+W	open-answer-c2o-rebut-wrong-level	openAnswers	We are not. You are answering a policy question with a laboratory result, and the levels do not meet.	No. Contesta a una pregunta de política con un resultado de laboratorio, y los pisos no se encuentran.
+W	open-question-c2o-rebut-moved-posts	openQuestions	Have the goalposts moved?	¿Se han movido los palos?
+W	open-answer-c2o-rebut-moved-posts	openAnswers	They have. First it was whether it happened; now it is whether it was wise. Those are different games.	Se han movido. Primero era si ocurrió; ahora, si fue cuerdo. Son dos juegos.
+W	open-question-c2o-rebut-straw-man	openQuestions	Are you answering the claim I made?	¿Contesta a la tesis que yo puse?
+W	open-answer-c2o-rebut-straw-man	openAnswers	You are answering a weaker twin. I did not say always; I said in this sort of case.	Contesta a una gemela más débil. No dije siempre; dije en este tipo de caso.
+W	open-question-c2o-rebut-not-my-claim	openQuestions	What, precisely, did I not claim?	¿Qué, precisamente, no sostuve?
+W	open-answer-c2o-rebut-not-my-claim	openAnswers	I did not claim it was the only way. I claimed it was enough on these facts, which is a smaller thing.	No sostuve que fuera el único camino. Sostuve que bastaba con estos hechos, que es cosa más chica.
+W	open-question-c2o-rebut-kind-mistake	openQuestions	What kind of mistake is that, if it is one?	¿Qué clase de error es ese, si lo es?
+W	open-answer-c2o-rebut-kind-mistake	openAnswers	A mistake of kind. You are treating a question of fit as if it were a question of truth.	Un error de clase. Trata una pregunta de encaje como si fuera una de verdad.
+W	open-question-c2o-rebut-word-shift	openQuestions	Where did the key word shift midstream?	¿Dónde se deslizó la palabra clave a mitad de camino?
+W	open-answer-c2o-rebut-word-shift	openAnswers	Fair shifted from even-handed to generous. Once that happens, we are no longer on the same rail.	Equitativo pasó de imparcial a generoso. Hecho eso, ya no vamos por el mismo raíl.
+W	open-question-c2o-rebut-burden-dump	openQuestions	Who is carrying the burden after that move?	¿Quién carga el peso después de ese gesto?
+W	open-answer-c2o-rebut-burden-dump	openAnswers	You just set it down. Whoever asserts the extra leap still has to make the extra leap.	Usted acaba de dejarlo. Quien afirma el salto de más sigue teniendo que darlo.
+W	open-question-c2o-rebut-one-story	openQuestions	What does one vivid story actually buy you?	¿Qué le compra una historia muy viva?
+W	open-answer-c2o-rebut-one-story	openAnswers	Colour, not coverage. A vivid story can illustrate a rule; it cannot found one.	Color, no cobertura. Una historia viva puede ilustrar una regla; no puede fundarla.
+W	open-question-c2o-rebut-picked-cases	openQuestions	How were those cases picked?	¿Cómo se eligieron esos casos?
+W	open-answer-c2o-rebut-picked-cases	openAnswers	They were picked to fit. If you draw only the tidy ones, the untidy ones will not vote.	Se eligieron para encajar. Si solo saca los limpios, los sucios no votan.
+W	open-question-c2o-rebut-afterward	openQuestions	Is that an explanation or a story after the fact?	¿Es una explicación o un relato a toro pasado?
+W	open-answer-c2o-rebut-afterward	openAnswers	A story after the fact. It fits what happened; it does not show it had to happen.	Un relato a toro pasado. Se ajusta a lo ocurrido; no muestra que tuviera que ocurrir.
+W	open-question-c2o-rebut-goes-in-circle	openQuestions	Where does that go in a circle?	¿Dónde da eso vueltas?
+W	open-answer-c2o-rebut-goes-in-circle	openAnswers	You define the good outcome as whatever your test already scores. That is a closed loop.	Define el buen resultado como lo que su prueba ya puntúa. Es un bucle cerrado.
+W	open-question-c2o-rebut-missing-step	openQuestions	Which step is missing?	¿Qué peldaño falta?
+W	open-answer-c2o-rebut-missing-step	openAnswers	The step from association to the lever. You have the togetherness; you have not shown the push.	El peldaño de la asociación a la palanca. Tiene el juntos; no ha mostrado el empujón.
+W	open-question-c2o-rebut-past-each	openQuestions	Are we talking past each other?	¿Nos hablamos de cosas distintas?
+W	open-answer-c2o-rebut-past-each	openAnswers	We are. You are answering how often; I asked how it works. Those can both be true and still miss.	Nos hablamos de cosas distintas. Usted responde al cuántas veces; yo pregunté al cómo. Pueden ser ambos verdad y aún fallarse.
+W	open-question-c2o-rebut-misses-objection	openQuestions	Does that meet the objection I actually raised?	¿Atiende eso a la objeción que planteé de verdad?
+W	open-answer-c2o-rebut-misses-objection	openAnswers	It skirts it. I asked for a reason that holds; you gave me a motive. Those are not the same thing.	La roza. Pedí una razón que se sostenga; me dio un motivo. No son lo mismo.
+W	open-question-c2o-rebut-changes-topic	openQuestions	Did that change the subject?	¿Cambió de tema eso?
+W	open-answer-c2o-rebut-changes-topic	openAnswers	It did, politely. The subject was whether the inference goes through, not whether the speaker is decent.	Lo hizo, con educación. El tema era si la inferencia pasa, no si quien habla es decente.
+W	open-question-c2o-rebut-false-likeness	openQuestions	How far does that likeness actually run?	¿Hasta dónde llega de verdad ese parecido?
+W	open-answer-c2o-rebut-false-likeness	openAnswers	As far as the surface. The inner joints are different, and the likeness snaps if you lean on it.	Hasta la superficie. Las juntas de dentro son otras, y el parecido se rompe si uno se apoya.
+W	open-question-c2o-rebut-fits-too-well	openQuestions	Why does that fit a little too well?	¿Por qué encaja eso un poco demasiado bien?
+W	open-answer-c2o-rebut-fits-too-well	openAnswers	Because it has no leftover. A real account usually leaves a remainder; this one swallows the plate.	Porque no sobra nada. Un relato de verdad suele dejar un resto; este se traga el plato.
+W	open-question-c2o-rebut-cant-fail	openQuestions	What would count as failure for that story?	¿Qué contaría como fracaso para ese relato?
+W	open-answer-c2o-rebut-cant-fail	openAnswers	Nothing you have named. If nothing can fail it, it is not doing empirical work.	Nada que haya nombrado. Si nada puede hacerle fallar, no hace trabajo empírico.
+W	open-question-c2o-rebut-at-the-speaker	openQuestions	Are we judging the speaker or the inference?	¿Juzgamos a quien habla o a la inferencia?
+W	open-answer-c2o-rebut-at-the-speaker	openAnswers	The inference. The speaker's manners are a sideshow, and I will not try the case there.	A la inferencia. Los modales de quien habla son un aparte, y no instruiré el asunto ahí.
+W	open-question-c2o-rebut-name-alone	openQuestions	What does a famous name buy in this exchange?	¿Qué le compra un nombre famoso en este intercambio?
+W	open-answer-c2o-rebut-name-alone	openAnswers	A hearing, not a free pass. The name gets the door open; it does not carry the inference.	Una escucha, no un salvoconducto. El nombre abre la puerta; no carga la inferencia.
+W	open-question-c2o-rebut-crowd-isnt-proof	openQuestions	Does wide agreement settle it?	¿Lo zanja el acuerdo amplio?
+W	open-answer-c2o-rebut-crowd-isnt-proof	openAnswers	It settles that the view is common. It does not settle that the view is sound.	Zanja que la vista está extendida. No zanja que sea sólida.
+W	open-question-c2o-rebut-slid-meaning	openQuestions	When did the meaning slide?	¿Cuándo se deslizó el sentido?
+W	open-answer-c2o-rebut-slid-meaning	openAnswers	When efficient stopped meaning spare and started meaning kind to our side. That is a slide, not a clarification.	Cuando eficaz dejó de querer decir parco y pasó a querer decir amable con los nuestros. Eso es un desliz, no un aclarado.
+W	open-question-c2o-rebut-hidden-ought	openQuestions	Where is the hidden ought in that sentence?	¿Dónde está el deber escondido en esa frase?
+W	open-answer-c2o-rebut-hidden-ought	openAnswers	In the move from what people do to what they must. You smuggled a duty inside a description.	En el paso de lo que la gente hace a lo que debe. Coló un deber dentro de una descripción.
+W	open-question-c2o-rebut-wrong-window	openQuestions	Is that the right window of time?	¿Es esa la ventana de tiempo adecuada?
+W	open-answer-c2o-rebut-wrong-window	openAnswers	It is a convenient window. It starts after the shock and ends before the hangover, which rather helps the story.	Es una ventana cómoda. Empieza después del golpe y acaba antes de la resaca, lo que le viene bien al relato.
+W	open-question-c2o-rebut-wrong-unit	openQuestions	Are we counting the right unit?	¿Contamos la unidad correcta?
+W	open-answer-c2o-rebut-wrong-unit	openAnswers	We are counting households as if they were persons. The story changes if you switch the unit.	Contamos hogares como si fueran personas. El relato cambia si cambia la unidad.
+W	open-question-c2o-rebut-no-how	openQuestions	Where is the how in that account?	¿Dónde está el cómo en ese relato?
+W	open-answer-c2o-rebut-no-how	openAnswers	Missing. You have a before and an after, and a shrug where the how should be.	Ausente. Tiene un antes y un después, y un encogimiento de hombros donde debería estar el cómo.
+W	open-question-c2o-rebut-other-cause	openQuestions	What other cause have we not killed off?	¿Qué otra causa no hemos matado?
+W	open-answer-c2o-rebut-other-cause	openAnswers	The seasonal one. Until that is dead, I will not let the fashionable one take the prize.	La de la estación. Hasta que esa no esté muerta, no dejaré que la de moda se lleve el premio.
+W	open-question-c2o-rebut-wont-travel	openQuestions	Will that travel outside this matter?	¿Viajará eso fuera de este asunto?
+W	open-answer-c2o-rebut-wont-travel	openAnswers	It will not travel. The joints are local, and they loosen if you move house.	Eso no viaja. Las juntas son de aquí, y se aflojan si uno se muda.
+W	open-question-c2o-rebut-not-enough	openQuestions	Is that enough to decide?	¿Basta eso para decidir?
+W	open-answer-c2o-rebut-not-enough	openAnswers	Enough to worry. Not enough to decide, unless we have agreed to decide on worry.	Basta para inquietar. No basta para decidir, salvo que hayamos acordado decidir sobre la inquietud.
+W	open-question-c2o-recast-as-guess	openQuestions	How would you recast that so it can be wrong?	¿Cómo lo recuadraría para que pueda estar equivocado?
+W	open-answer-c2o-recast-as-guess	openAnswers	Recast it as a guess with a killing test. As it stands it can only be restated, not failed.	Recuádrelo como pista con una prueba que lo mate. Tal cual, solo se puede repetir, no hacerle fallar.
+W	open-question-c2o-recast-as-query	openQuestions	What if we turn the claim into a question?	¿Y si convertimos la tesis en pregunta?
+W	open-answer-c2o-recast-as-query	openAnswers	Then we stop pretending we have arrived. The question is sharper than the claim we have been carrying.	Entonces dejamos de fingir que hemos llegado. La pregunta es más nítida que la tesis que veníamos cargando.
+W	open-question-c2o-recast-tighter	openQuestions	How much tighter can you draw it?	¿Cuánto más puede apretarlo?
+W	open-answer-c2o-recast-tighter	openAnswers	Tight enough to name the population and the window. Past that I would be inventing precision.	Lo bastante para nombrar la población y la ventana. Más allá inventaría precisión.
+W	open-question-c2o-recast-how-it-works	openQuestions	Can we recast this as a how rather than a that?	¿Podemos recuadrar esto como un cómo y no como un que?
+W	open-answer-c2o-recast-how-it-works	openAnswers	We can, and we should. A that without a how is a headline looking for a body.	Podemos, y debemos. Un que sin cómo es un titular en busca de cuerpo.
+W	open-question-c2o-recast-tradeoff	openQuestions	Is this a victory or a trade-off?	¿Es esto una victoria o un trueque?
+W	open-answer-c2o-recast-tradeoff	openAnswers	A trade-off. Calling it a victory hides the bill that comes due on the other side.	Un trueque. Llamarlo victoria esconde la cuenta que llega del otro lado.
+W	open-question-c2o-recast-not-two-boxes	openQuestions	Do we have to pick one of those two boxes?	¿Hay que elegir una de esas dos casillas?
+W	open-answer-c2o-recast-not-two-boxes	openAnswers	We do not. Those boxes were built for the debate, not for the world.	Eso no obliga. Esas casillas se hicieron para el debate, no para el mundo.
+W	open-question-c2o-recast-describe-first	openQuestions	Should we describe before we prescribe?	¿Debemos describir antes de recetar?
+W	open-answer-c2o-recast-describe-first	openAnswers	We should. We have been arguing about the medicine while the chart is still smudged.	Debemos. Estamos discutiendo la medicina con la hoja todavía manchada.
+W	open-question-c2o-recast-is-vs-ought	openQuestions	Are we mixing what is with what ought?	¿Mezclamos lo que es con lo que debe?
+W	open-answer-c2o-recast-is-vs-ought	openAnswers	We are. I can grant the is and still fight the ought; they were glued together for convenience.	Los mezclamos. Puedo conceder el es y seguir peleando el debe; los pegaron por comodidad.
+W	open-question-c2o-recast-local	openQuestions	Is this a local finding dressed as a law?	¿Es un hallazgo local vestido de ley?
+W	open-answer-c2o-recast-local	openAnswers	It is. Undress it and it is still useful; dressed as a law it starts to swagger.	Lo es. Desnudo sigue siendo útil; vestido de ley se pone a fanfarronear.
+W	open-question-c2o-recast-leaning	openQuestions	Shall we call it a leaning rather than a law?	¿Lo llamamos inclinación y no ley?
+W	open-answer-c2o-recast-leaning	openAnswers	Call it a leaning. A leaning can be weighed; a law dares you to dissent.	Llámenlo inclinación. Una inclinación se sopesa; una ley le reta a disentir.
+W	open-question-c2o-recast-bound	openQuestions	Is the real point a bound rather than a driver?	¿El punto de verdad es un tope y no un motor?
+W	open-answer-c2o-recast-bound	openAnswers	The real point is a bound. It tells you what cannot happen, not what must.	El punto de verdad es un tope. Dice lo que no puede pasar, no lo que debe.
+W	open-question-c2o-recast-diagnosis	openQuestions	Are we treating a diagnosis as a plan?	¿Tratamos un diagnóstico como un plan?
+W	open-answer-c2o-recast-diagnosis	openAnswers	We are. A diagnosis names the fault; a plan still has to pick a tool and a cost.	Lo hacemos. Un diagnóstico nombra la avería; un plan aún tiene que elegir herramienta y coste.
+W	open-question-c2o-recast-what-first	openQuestions	What should come first if we recast the order?	¿Qué debería ir primero si recuadramos el orden?
+W	open-answer-c2o-recast-what-first	openAnswers	The constraint, then the wish. We have been starting from the wish and discovering the wall later.	El aprieto, luego el deseo. Partíamos del deseo y descubríamos el muro después.
+W	open-question-c2o-recast-risk	openQuestions	Is that fate, or a risk we can price?	¿Es eso destino, o un riesgo que se puede tasar?
+W	open-answer-c2o-recast-risk	openAnswers	A risk we can price. Fate is a way of stopping the conversation before the price is named.	Un riesgo que se puede tasar. El destino es un modo de parar la conversación antes de nombrar el precio.
+W	open-question-c2o-recast-payoffs	openQuestions	Can we recast the fight as a clash of payoffs?	¿Podemos recuadrar la pelea como choque de ganancias?
+W	open-answer-c2o-recast-payoffs	openAnswers	We can. Once the payoffs are on the table, the moral heat drops and the trade becomes visible.	Podemos. Con las ganancias sobre la mesa, el calor moral baja y el trueque se ve.
+W	open-question-c2o-recast-can-do	openQuestions	Is the bottleneck will or capacity?	¿El cuello es la voluntad o la capacidad?
+W	open-answer-c2o-recast-can-do	openAnswers	Capacity. We have been scolding a will that is not the binding constraint.	La capacidad. Regañábamos una voluntad que no es el aprieto que aprieta.
+W	open-question-c2o-recast-when	openQuestions	Is this a what-question or a when-question?	¿Es una pregunta de qué o de cuándo?
+W	open-answer-c2o-recast-when	openAnswers	A when-question wearing what-clothing. The thing can be right and still be early.	Una de cuándo vestida de qué. La cosa puede ser justa y aun así temprana.
+W	open-question-c2o-recast-frame	openQuestions	What happens if we change the frame?	¿Qué pasa si cambiamos el marco?
+W	open-answer-c2o-recast-frame	openAnswers	The heroes and villains swap chairs. That is a reason to distrust the frame, not to pick a new team.	Los héroes y los villanos cambian de silla. Eso es razón para recelar del marco, no para elegir otro equipo.
+W	open-question-c2o-recast-who-pays	openQuestions	Who pays, if we recast the praise as a bill?	¿Quién paga, si recuadramos el elogio como cuenta?
+W	open-answer-c2o-recast-who-pays	openAnswers	The people off-stage. The praise names the winners; the bill is quiet, and that is the tell.	La gente fuera de escena. El elogio nombra a los ganadores; la cuenta está callada, y esa es la seña.
+W	open-question-c2o-recast-cutoff	openQuestions	Where would you put the cutoff if you had to name one?	¿Dónde pondría el corte si tuviera que nombrar uno?
+W	open-answer-c2o-recast-cutoff	openAnswers	Higher than the one in the brief. Their cutoff does too much work for the evidence behind it.	Más alto que el del escrito. Su corte hace demasiado trabajo para lo que hay detrás.
+W	open-question-c2o-recast-rule-of-thumb	openQuestions	Can we downgrade that from a rule to a rule of thumb?	¿Podemos bajarlo de regla a regla de pulgar?
+W	open-answer-c2o-recast-rule-of-thumb	openAnswers	We can, and then it becomes usable. As a rule it is brittle; as a rule of thumb it can bend.	Podemos, y entonces se vuelve usable. Como regla es quebradizo; como regla de pulgar puede doblarse.
+W	open-question-c2o-recast-against-what	openQuestions	Against what is that being compared?	¿Contra qué se compara eso?
+W	open-answer-c2o-recast-against-what	openAnswers	Against a quiet alternative that never got a hearing. Change the foil and the shine changes.	Contra una alternativa callada que nunca tuvo audiencia. Cambie el contraste y cambia el brillo.
+W	open-question-c2o-recast-hidden-cost	openQuestions	What hidden cost should enter the recast?	¿Qué coste escondido debería entrar en el recuadre?
+W	open-answer-c2o-recast-hidden-cost	openAnswers	The time of the people who have to run it. We priced the tool and forgot the hands.	El tiempo de la gente que tiene que hacerlo andar. Tasamos la herramienta y olvidamos las manos.
+W	open-question-c2o-recast-who-acts	openQuestions	Who is the agent in that sentence, once we recast it?	¿Quién es el agente en esa frase, una vez recuadrada?
+W	open-answer-c2o-recast-who-acts	openAnswers	An institution, not a mood. Moods do not sign; desks do.	Una institución, no un humor. Los humores no firman; los escritorios sí.
+W	open-question-c2o-recast-at-what-scale	openQuestions	At what scale does that stop being true?	¿A qué escala deja eso de ser verdad?
+W	open-answer-c2o-recast-at-what-scale	openAnswers	At the scale of a country. It holds for a shop; it sagged when we blew it up.	A la escala de un país. Se sostiene en una tienda; se afloja cuando lo hinchamos.
+W	open-question-c2o-false-either-or	openQuestions	Why is that not a real either-or?	¿Por qué eso no es un o esto o aquello de verdad?
+W	open-answer-c2o-false-either-or	openAnswers	Because a third path sits between the two stools, and you have ruled it out by the way you asked.	Porque un tercer camino se sienta entre los dos taburetes, y lo ha descartado por cómo preguntó.
+W	open-question-c2o-false-loyal-mute	openQuestions	Must one either fall in line or stay mute?	¿Hay que alinearse o callar?
+W	open-answer-c2o-false-loyal-mute	openAnswers	That is a false pair. One can dissent in the house and still keep faith with the work.	Eso es un par falso. Se puede disentir en casa y seguir guardando fe al trabajo.
+W	open-question-c2o-false-facts-or-worth	openQuestions	Do we have to choose between the facts and the worth of the thing?	¿Hay que elegir entre los hechos y el valer de la cosa?
+W	open-answer-c2o-false-facts-or-worth	openAnswers	We do not. The count can be right and the worth still open. You glued them to force a side.	Eso no obliga. El recuento puede ser justo y el valer seguir abierto. Los pegó para forzar un bando.
+W	open-question-c2o-false-grow-or-care	openQuestions	Is the choice really grow or care?	¿La elección es de verdad crecer o cuidar?
+W	open-answer-c2o-false-grow-or-care	openAnswers	It is a slogan, not a fork. Plenty of paths grow one thing and care for another.	Es un lema, no una horquilla. Sobran caminos que hacen crecer una cosa y cuidan otra.
+W	open-question-c2o-false-loose-or-just	openQuestions	Must it be loose to be free, or tight to be just?	¿Ha de ser holgado para ser libre, o prieto para ser justo?
+W	open-answer-c2o-false-loose-or-just	openAnswers	Neither horn is mandatory. A rule can be spare and still bite where it should.	Ningún cuerno es obligatorio. Una regla puede ser parca y aún morder donde debe.
+W	open-question-c2o-false-careful-or-fast	openQuestions	Are care and speed the only two gears?	¿Son el cuidado y la prisa las únicas marchas?
+W	open-answer-c2o-false-careful-or-fast	openAnswers	They are not. You can be slow on the hinge that matters and quick on the rest.	Esas no son las únicas. Se puede ir lento en el quicio que importa y rápido en lo demás.
+W	open-question-c2o-false-few-or-many	openQuestions	Is this a fight between the few and the many?	¿Es esto una pelea entre pocos y muchos?
+W	open-answer-c2o-false-few-or-many	openAnswers	That is a costume. The split that matters is between those who pay and those who speak.	Eso es un disfraz. El corte que importa es entre quienes pagan y quienes hablan.
+W	open-question-c2o-false-old-or-new	openQuestions	Must we pick the old way or the new one?	¿Hay que elegir el camino viejo o el nuevo?
+W	open-answer-c2o-false-old-or-new	openAnswers	We must pick what works on this joint. Age is a poor proxy for fit.	Hay que elegir lo que aguante en esta junta. La edad es un mal sustituto del encaje.
+W	open-question-c2o-false-desk-or-field	openQuestions	Is it desk knowledge or field knowledge, as if those were enemies?	¿Es saber de escritorio o de campo, como si fueran enemigos?
+W	open-answer-c2o-false-desk-or-field	openAnswers	They are not enemies. The desk without the field is air; the field without the desk is a pile.	Eso no los pone frente a frente. El escritorio sin el campo es aire; el campo sin el escritorio es un montón.
+W	open-question-c2o-false-shut-or-open	openQuestions	Do we shut the door or throw it wide?	¿Cerramos la puerta o la abrimos de par en par?
+W	open-answer-c2o-false-shut-or-open	openAnswers	A latch is not a wall. You can keep a filter without pretending the room is a vault or a street.	Un pestillo no es un muro. Se puede guardar un filtro sin hacer de la sala una caja o una calle.
+W	open-question-c2o-false-home-or-state	openQuestions	Is every fix either private or public?	¿Todo apaño es o privado o público?
+W	open-answer-c2o-false-home-or-state	openAnswers	Plenty of fixes sit in the messy middle: guilds, houses, boards that are neither hearth nor crown.	Sobran apaños en el medio revuelto: gremios, casas, juntas que no son ni hogar ni corona.
+W	open-question-c2o-false-win-lose	openQuestions	Who decided this was win or lose?	¿Quién decidió que esto era ganar o perder?
+W	open-answer-c2o-false-win-lose	openAnswers	The chair of a talk-show. A decent settlement leaves both sides shorter than their opening bid.	El presentador de un plató. Un arreglo decente deja a ambos más cortos que su primera puja.
+W	open-question-c2o-false-head-or-gut	openQuestions	Must we trust the head or the gut?	¿Hay que fiarse de la cabeza o de las tripas?
+W	open-answer-c2o-false-head-or-gut	openAnswers	That pair is a cartoon. Judgment uses both, and the work is to say which is in the driving seat here.	Ese par es un dibujo. El juicio usa ambos, y el trabajo es decir cuál lleva el volante aquí.
+W	open-question-c2o-false-code-or-pity	openQuestions	Is it the letter of the code or pity, as if those exhausted the case?	¿Es la letra del código o la lástima, como si eso agotara el asunto?
+W	open-answer-c2o-false-code-or-pity	openAnswers	They do not. Equity sits between them, and you have written it out of the menu.	Eso no lo agota. La equidad se sienta entre ambas, y usted la tachó del menú.
+W	open-question-c2o-false-one-voice	openQuestions	Does loyalty require one voice?	¿La lealtad exige una sola voz?
+W	open-answer-c2o-false-one-voice	openAnswers	Loyalty can bear a second voice. A chorus that never splits is usually rehearsed, not thought.	La lealtad puede cargar una segunda voz. Un coro que nunca se raja suele estar ensayado, no pensado.
+W	open-question-c2o-false-numbers-or-tale	openQuestions	Must we pick the numbers or the tale?	¿Hay que elegir las cifras o el relato?
+W	open-answer-c2o-false-numbers-or-tale	openAnswers	The tale without numbers is fog. The numbers without a tale are a heap. We need both, in that order.	El relato sin cifras es niebla. Las cifras sin relato son un montón. Hacen falta ambas, en ese orden.
+W	open-question-c2o-false-here-or-abroad	openQuestions	Is the only split here or abroad?	¿El único corte es aquí o fuera?
+W	open-answer-c2o-false-here-or-abroad	openAnswers	It is a lazy split. The same joint can fail at home and hold a street away.	Es un corte perezoso. La misma junta puede fallar en casa y aguantar a una calle de distancia.
+W	open-question-c2o-false-now-or-later	openQuestions	Is it now or later, with nothing in between?	¿Es ahora o luego, sin nada en medio?
+W	open-answer-c2o-false-now-or-later	openAnswers	There is a staged now. You can move the first joint today and leave the rest dated.	Hay un ahora por tramos. Se puede mover la primera junta hoy y dejar el resto con fecha.
+W	open-question-c2o-false-blame-or-pardon	openQuestions	Must we either blame or pardon?	¿Hay que culpar o perdonar?
+W	open-answer-c2o-false-blame-or-pardon	openAnswers	We can allocate without theatre. Blame and pardon are two heat-words for a colder task.	Se puede repartir sin teatro. Culpar y perdonar son dos palabras calientes para una tarea más fría.
+W	open-question-c2o-false-keep-or-bin	openQuestions	Is the only move to keep the lot or bin the lot?	¿El único gesto es guardar el lote o tirar el lote?
+W	open-answer-c2o-false-keep-or-bin	openAnswers	You can keep the joint and bin the flourish. All-or-nothing is how posters talk.	Se puede guardar la junta y tirar el adorno. El todo o nada es habla de cartel.
+W	open-question-c2o-scope-this-case	openQuestions	How far does this case actually take us?	¿Hasta dónde nos lleva de verdad este caso?
+W	open-answer-c2o-scope-this-case	openAnswers	This case, on these facts. It does not, on its own, give us the next one they want to fold in.	Este caso, con estos hechos. No nos da, por sí solo, el siguiente que quieren meterle.
+W	open-question-c2o-scope-this-stretch	openQuestions	What stretch of time is this good for?	¿Para qué tramo de tiempo vale esto?
+W	open-answer-c2o-scope-this-stretch	openAnswers	This stretch, and the one that shares its weather. I would not let it speak for a different season.	Este tramo, y el que comparte su tiempo. No lo dejaría hablar por otra estación.
+W	open-question-c2o-scope-this-slice	openQuestions	Which slice of the material does that cover?	¿Qué tajada del material cubre eso?
+W	open-answer-c2o-scope-this-slice	openAnswers	The measured slice. The rest is still white space, and I will not colour it in from here.	La tajada medida. El resto sigue en blanco, y no lo pintaré desde aquí.
+W	open-question-c2o-scope-this-bench	openQuestions	Does that bind beyond this table?	¿Eso vincula más allá de esta mesa?
+W	open-answer-c2o-scope-this-bench	openAnswers	It binds here. Other tables have other records, and I would not export our minute as their law.	Vincula aquí. Las demás mesas tienen otros expedientes, y no exportaría nuestra minuta como su ley.
+W	open-question-c2o-scope-this-cohort	openQuestions	How far can this cohort speak for the next?	¿Hasta dónde puede esta tanda hablar por la siguiente?
+W	open-answer-c2o-scope-this-cohort	openAnswers	As far as the intake matches. A later cohort with a different door is a different speaker.	Hasta donde la entrada se parezca. Una tanda posterior, por otra puerta, es otro hablante.
+W	open-question-c2o-scope-if-we-grant	openQuestions	If we grant your assumption, how far does the rest go?	Si concedemos su supuesto, ¿hasta dónde llega lo demás?
+W	open-answer-c2o-scope-if-we-grant	openAnswers	As far as the assumption is doing the work. Withdraw it and most of the rest sits down.	Hasta donde el supuesto hace el trabajo. Quítelo y la mayor parte de lo demás se sienta.
+W	open-question-c2o-scope-not-next-door	openQuestions	Why will that not cover the case next door?	¿Por qué eso no cubrirá el caso de al lado?
+W	open-answer-c2o-scope-not-next-door	openAnswers	Because next door fails a condition we used here. It looks alike from the street, not from the joints.	Porque el de al lado falla una condición que aquí usamos. Se parece visto desde la calle, no desde las juntas.
+W	open-question-c2o-scope-not-blank-cheque	openQuestions	Are you writing a blank cheque with that sentence?	¿Está extendiendo un cheque en blanco con esa frase?
+W	open-answer-c2o-scope-not-blank-cheque	openAnswers	I am not, if we keep the riders. Without the riders it starts to spend like a blank cheque.	Con las cláusulas, eso no es un cheque en blanco. Sin ellas, empieza a gastar como uno.
+W	open-question-c2o-scope-not-a-rule	openQuestions	When does a finding start pretending to be a rule?	¿Cuándo un hallazgo empieza a hacerse el de la regla?
+W	open-answer-c2o-scope-not-a-rule	openAnswers	When we drop the hedges and let it travel unnamed. I would keep the name of this matter on it.	Cuando soltamos las reservas y lo dejamos viajar sin nombre. Yo le dejaría el nombre de este asunto.
+W	open-question-c2o-scope-not-a-sermon	openQuestions	Are we doing description or a sermon?	¿Hacemos descripción o sermón?
+W	open-answer-c2o-scope-not-a-sermon	openAnswers	Description, if I have my way. The sermon crept in with the adjectives, and I would send it out.	Descripción, si por mí fuera. El sermón se coló con los adjetivos, y yo lo haría salir.
+W	open-question-c2o-scope-how-measured	openQuestions	How was that measured, and why does that bound the claim?	¿Cómo se midió eso, y por qué eso acota la tesis?
+W	open-answer-c2o-scope-how-measured	openAnswers	It was measured on a yardstick that ignores the tails. The claim cannot be louder than the yardstick.	Se midió con una vara que ignora las colas. La tesis no puede hablar más alto que la vara.
+W	open-question-c2o-scope-id-story	openQuestions	What assumption is this leaning on?	¿En qué supuesto se apoya esto?
+W	open-answer-c2o-scope-id-story	openAnswers	The one that says the leftover is as good as chance. If that slips, the whole lean goes with it.	En el que dice que el resto es como echado a suertes. Si ese supuesto se resbala, todo el apoyo se va con él.
+W	open-question-c2o-scope-holding-rest	openQuestions	What are we holding the rest of the world still for?	¿Qué estamos dejando quieto en el resto del mundo?
+W	open-answer-c2o-scope-holding-rest	openAnswers	For a sentence we could not write if the rest moved. That is a reason to whisper, not to shout.	Una frase que no podríamos escribir si el resto se moviera. Eso es razón para susurrar, no para gritar.
+W	open-question-c2o-scope-edge	openQuestions	Where is the edge of what we actually saw?	¿Dónde está el borde de lo que vimos de verdad?
+W	open-answer-c2o-scope-edge	openAnswers	At the last row we could name. Past that row I am decorating the dark.	En la última fila que pudimos nombrar. Más allá de esa fila, estoy adornando lo oscuro.
+W	open-question-c2o-scope-outside-slice	openQuestions	What happens outside the slice?	¿Qué pasa fuera de la tajada?
+W	open-answer-c2o-scope-outside-slice	openAnswers	We do not know, and the honest move is to say so rather than to paint by adjacency.	Lo ignoramos, y el gesto honrado es decirlo en vez de pintar por vecindad.
+W	open-question-c2o-scope-wont-translate	openQuestions	Will that wording travel into another house?	¿Viajará esa redacción a otra casa?
+W	open-answer-c2o-scope-wont-translate	openAnswers	The wording will travel; the force will not. Other houses load the same words differently.	La redacción viajará; la fuerza, no. Otras casas cargan las mismas palabras de otro modo.
+W	open-question-c2o-scope-wont-scale	openQuestions	What breaks if we scale this up?	¿Qué se rompe si lo subimos de escala?
+W	open-answer-c2o-scope-wont-scale	openAnswers	The informal checks. They hold in a room; they vanish in a crowd, and the claim was leaning on them.	Los controles informales. Aguantan en una sala; se evanecen en una muchedumbre, y la tesis se apoyaba en ellos.
+W	open-question-c2o-scope-that-era	openQuestions	Does that belong to that era or to ours?	¿Eso es de aquella época o de la nuestra?
+W	open-answer-c2o-scope-that-era	openAnswers	To that era, unless we show the same joints. Nostalgia is not a method.	De aquella época, salvo que mostremos las mismas juntas. La nostalgia no es un método.
+W	open-question-c2o-scope-this-house	openQuestions	What is true in this house that may be false in the next?	¿Qué es verdad en esta casa y tal vez falso en la siguiente?
+W	open-answer-c2o-scope-this-house	openAnswers	The unwritten rule about who may speak. Export that and you have exported a climate, not a finding.	La regla no escrita sobre quién puede hablar. Exporte eso y ha exportado un clima, no un hallazgo.
+W	open-question-c2o-scope-said-aloud	openQuestions	How much of this is true only because it was said aloud in this room?	¿Cuánto de esto es verdad solo porque se dijo en voz alta aquí?
+W	open-answer-c2o-scope-said-aloud	openAnswers	More than we like. Some of the force is the room nodding, and that will not be in the transcript.	Más de lo que nos gusta. Parte de la fuerza es la sala que asiente, y eso no estará en la transcripción.
+W	open-question-c2o-burden-still-yours	openQuestions	Who still has the burden after that flourish?	¿Quién sigue cargando el peso después de ese adorno?
+W	open-answer-c2o-burden-still-yours	openAnswers	You do. A flourish is not a showing, and the extra leap is still yours to make.	Usted. Un adorno no es una muestra, y el salto de más sigue siendo suyo.
+W	open-question-c2o-burden-thin-file	openQuestions	How thin is the file you are asking us to trust?	¿Qué tan flaco es el expediente que nos pide creer?
+W	open-answer-c2o-burden-thin-file	openAnswers	Thin enough that I would mark it as a pointer. I would not hand it the verdict.	Lo bastante flaco como para marcarlo como un recado. No le daría el veredicto.
+W	open-question-c2o-burden-quiet-isnt	openQuestions	Does their silence count as agreement?	¿Cuenta su silencio como acuerdo?
+W	open-answer-c2o-burden-quiet-isnt	openAnswers	Silence is not a signature. If you needed assent, you should have asked for a hand, not a hush.	El silencio no es una firma. Si necesitaba asentimiento, debió pedir una mano, no un silencio.
+W	open-question-c2o-burden-who-claims	openQuestions	Who has to show what, if we keep the roles clean?	¿Quién tiene que mostrar qué, si dejamos los papeles limpios?
+W	open-answer-c2o-burden-who-claims	openAnswers	The one who adds a clause. I do not have to disprove a clause I never opened.	Quien añade una cláusula. Yo no tengo que deshacer una cláusula que no abrí.
+W	open-question-c2o-burden-tall-claim	openQuestions	How tall is that claim relative to the showing?	¿Qué tan alta es esa tesis respecto de la muestra?
+W	open-answer-c2o-burden-tall-claim	openAnswers	Taller than the showing by a storey. Extraordinary height needs more than an ordinary brick.	Más alta que la muestra por un piso. Una altura fuera de lo común pide más que un ladrillo corriente.
+W	open-question-c2o-burden-gap-isnt	openQuestions	Does a gap in my file prove your story?	¿Un hueco en mi expediente prueba su relato?
+W	open-answer-c2o-burden-gap-isnt	openAnswers	A gap is a gap. It does not, by itself, elect your story as the tenant.	Un hueco es un hueco. Por sí solo no elige su relato como inquilino.
+W	open-question-c2o-burden-do-it-again	openQuestions	What would a second pass have to show before I move?	¿Qué tendría que mostrar una segunda pasada para que yo me mueva?
+W	open-answer-c2o-burden-do-it-again	openAnswers	The same joint, under a different hand. One elegant pass is a performance; two is a start.	La misma junta, bajo otra mano. Una pasada elegante es una función; dos es un comienzo.
+W	open-question-c2o-burden-said-in-advance	openQuestions	Did we say in advance what would count?	¿Dijimos de antemano qué iba a contar?
+W	open-answer-c2o-burden-said-in-advance	openAnswers	We did not, and that is the rot. After the fact, every hit looks intended.	Eso no se dijo, y ahí está lo podrido. A toro pasado, cada acierto parece buscado.
+W	open-question-c2o-burden-what-counts	openQuestions	What would count, for you, as enough?	¿Qué contaría, para usted, como bastante?
+W	open-answer-c2o-burden-what-counts	openAnswers	A showing that kills the rival I named. Until then I will keep that rival on the table.	Una muestra que mate al rival que nombré. Hasta entonces lo dejo sobre la mesa.
+W	open-question-c2o-burden-killing-test	openQuestions	What is the killing test for that story?	¿Cuál es la prueba que mataría ese relato?
+W	open-answer-c2o-burden-killing-test	openAnswers	A stretch where the lever is pulled and the outcome stays put. If that cannot happen, the story is padded.	Un tramo donde se tira de la palanca y el resultado se queda. Si eso no puede pasar, el relato va relleno.
+W	open-question-c2o-burden-rival-story	openQuestions	Why must the rival story be heard before we close?	¿Por qué hay que oír el relato rival antes de cerrar?
+W	open-answer-c2o-burden-rival-story	openAnswers	Because a closed room flatters the first speaker. I want the rival to have a chair, not a footnote.	Porque una sala cerrada adula a quien habla primero. Quiero para el rival una silla, no una nota al pie.
+W	open-question-c2o-burden-how-common	openQuestions	How common is the thing you just treated as typical?	¿Qué tan frecuente es eso que acaba de tratar como típico?
+W	open-answer-c2o-burden-how-common	openAnswers	Rarer than the tone suggested. Typical was doing rhetorical work the base rate would not do.	Más raro de lo que el tono decía. Típico hacía un trabajo de retórica que la tasa de base no haría.
+W	open-question-c2o-burden-null-stands	openQuestions	Does the null still stand?	¿Sigue en pie el nulo?
+W	open-answer-c2o-burden-null-stands	openAnswers	It still stands. You have bruised it; you have not buried it, and I will not read a bruise as a burial.	Sigue en pie. Lo ha magullado; no lo ha enterrado, y no leeré un moretón como un entierro.
+W	open-question-c2o-burden-picked-cherries	openQuestions	How do we know those are not the pretty cases?	¿Cómo sabemos que no son los casos bonitos?
+W	open-answer-c2o-burden-picked-cherries	openAnswers	We do not, until you show the ugly ones. Pretty cases are what a drawer offers a guest.	Lo ignoramos, hasta que muestre los feos. Los casos bonitos son lo que un cajón ofrece al invitado.
+W	open-question-c2o-burden-one-paper	openQuestions	What can one paper settle in a live fight?	¿Qué puede zanjar un solo papel en una pelea viva?
+W	open-answer-c2o-burden-one-paper	openAnswers	A direction, if it is clean. It cannot settle a live fight unless we have agreed to be easy to impress.	Una dirección, si está limpio. No puede zanjar una pelea viva salvo que hayamos acordado dejarnos impresionar fácil.
+W	open-question-c2o-burden-drawer	openQuestions	What is sitting in the drawer that we have not seen?	¿Qué hay en el cajón que no hemos visto?
+W	open-answer-c2o-burden-drawer	openAnswers	The misses, almost certainly. Drawers are where the story goes to be less pretty.	Los fallos, casi seguro. Los cajones son adonde el relato va a ponerse menos bonito.
+W	open-question-c2o-burden-noisy-stick	openQuestions	How noisy is the yardstick?	¿Qué ruido hace la vara?
+W	open-answer-c2o-burden-noisy-stick	openAnswers	Noisy enough that a small shift could be dust. I will not let dust wear a crown.	El bastante para que un pequeño corrimiento sea polvo. No dejaré que el polvo lleve corona.
+W	open-question-c2o-burden-stand-in	openQuestions	What is that a stand-in for, and does the stand-in leak?	¿De qué es eso un sustituto, y se escapa el sustituto?
+W	open-answer-c2o-burden-stand-in	openAnswers	It stands in for harm we cannot count. It leaks wherever the stand-in loves a different master.	Sustituye un daño que no sabemos contar. Se escapa donde el sustituto quiere a otro amo.
+W	open-question-c2o-burden-who-lasted	openQuestions	Who lasted long enough to enter the file?	¿Quién duró lo bastante para entrar en el expediente?
+W	open-answer-c2o-burden-who-lasted	openAnswers	The survivors. If you read the file as the world, you have already lost the ones who left early.	Los que quedaron. Si lee el expediente como el mundo, ya perdió a los que se fueron pronto.
+W	open-question-c2o-burden-what-got-printed	openQuestions	What got printed, and what does that do to our trust?	¿Qué se imprimió, y qué le hace eso a nuestra confianza?
+W	open-answer-c2o-burden-what-got-printed	openAnswers	The hits got printed. That tilts the shelf, and I would lean the other way until shown otherwise.	Se imprimieron los aciertos. Eso tuerce el estante, y yo me inclinaría al otro lado hasta que me muestren lo contrario.
+W	open-question-c2o-disagree-weight	openQuestions	Where do we disagree on the weight?	¿En qué discrepamos sobre el peso?
+W	open-answer-c2o-disagree-weight	openAnswers	On how heavy that fact is. I grant it is a fact; I do not grant it the chair at the head of the table.	En lo pesado que es ese hecho. Lo concedo como hecho; no le concedo la cabecera de la mesa.
+W	open-question-c2o-disagree-order	openQuestions	If we agree on the pieces, where do we still split?	Si coincidimos en las piezas, ¿dónde nos rajamos aún?
+W	open-answer-c2o-disagree-order	openAnswers	On the order. You want the moral piece first; I want the constraint first, or the rest is theatre.	En el orden. Usted quiere la pieza moral primero; yo quiero el aprieto primero, o el resto es teatro.
+W	open-question-c2o-disagree-reading	openQuestions	Is that the only reading of the minute?	¿Es esa la única lectura del acta?
+W	open-answer-c2o-disagree-reading	openAnswers	It is a possible reading. Mine keeps the qualifier you dropped, and that qualifier does real work.	Es una lectura posible. La mía guarda el matiz que usted soltó, y ese matiz trabaja de verdad.
+W	open-question-c2o-disagree-yardstick	openQuestions	Why do you refuse their yardstick?	¿Por qué rechaza su vara?
+W	open-answer-c2o-disagree-yardstick	openAnswers	Because it scores a proxy they already love. A yardstick that cannot surprise you is a cheerleader.	Porque puntúa un sustituto que ya les gusta. Una vara que no puede sorprenderle es una animadora.
+W	open-question-c2o-disagree-cutoff	openQuestions	Where would you set the cutoff, against theirs?	¿Dónde pondría el corte, frente al suyo?
+W	open-answer-c2o-disagree-cutoff	openAnswers	A notch higher. Theirs lets through cases I would still call noise.	Un punto más alto. El suyo deja pasar casos que yo seguiría llamando ruido.
+W	open-question-c2o-disagree-likeness	openQuestions	Do you buy the likeness they are selling?	¿Compra el parecido que venden?
+W	open-answer-c2o-disagree-likeness	openAnswers	I buy a family resemblance, not a twin. They are selling a twin because twins travel better.	Compro un aire de familia, no un gemelo. Venden un gemelo porque los gemelos viajan mejor.
+W	open-question-c2o-disagree-back-story	openQuestions	What in the back-story do you not accept?	¿Qué no acepta del relato de antes?
+W	open-answer-c2o-disagree-back-story	openAnswers	The cleanliness of the origin. Origins are usually messier than the later telling, and this one is too washed.	La limpieza del origen. Los orígenes suelen ser más sucios que el relato posterior, y este está demasiado lavado.
+W	open-question-c2o-disagree-brief	openQuestions	Where does their paper claim more than it was asked to do?	¿Dónde su escrito pide más de lo que se le pidió?
+W	open-answer-c2o-disagree-brief	openAnswers	Where it treats a brief to look into it as a brief to settle it. Those are different jobs.	Donde trata un encargo de mirar como un encargo de zanjar. Son dos oficios.
+W	open-question-c2o-disagree-with-respect	openQuestions	How would you mark the disagreement without making it personal?	¿Cómo marcaría el desacuerdo sin hacerlo personal?
+W	open-answer-c2o-disagree-with-respect	openAnswers	With respect, the inference does not go through. I have no quarrel with the person who drew it.	Con el debido respeto, la inferencia no pasa. No tengo querella con quien la trazó.
+W	open-question-c2o-disagree-not-personal	openQuestions	What are you refusing, if it is not the speaker?	¿Qué rechaza, si no es a quien habla?
+W	open-answer-c2o-disagree-not-personal	openAnswers	The step. The speaker can be in good faith and the step still fail; those two facts live together.	El peldaño. Quien habla puede ir de buena fe y el peldaño fallar igual; esos dos hechos conviven.
+W	open-question-c2o-chair-hold-that	openQuestions	Can we park that thread without killing it?	¿Podemos aparcar ese hilo sin matarlo?
+W	open-answer-c2o-chair-hold-that	openAnswers	Park it, dated. I do not want it to die; I want it to stop eating the hour.	Apárquenlo, con fecha. No quiero que muera; quiero que deje de comerse la hora.
+W	open-question-c2o-chair-best-version	openQuestions	Before we knock it, what is the best version of that case?	Antes de tumbarlo, ¿cuál es la mejor versión de ese asunto?
+W	open-answer-c2o-chair-best-version	openAnswers	The best version drops the swagger and keeps the hinge. That is the one worth answering.	La mejor suelta el alarde y guarda el quicio. Esa es la que merece respuesta.
+W	open-question-c2o-chair-name-the-word	openQuestions	Which word are we actually fighting over?	¿Qué palabra nos estamos disputando de verdad?
+W	open-answer-c2o-chair-name-the-word	openAnswers	Proof. Until we mean the same thing by it, we shall keep winning against ghosts.	Prueba. Hasta que no entendamos esa palabra igual, seguiremos ganando a fantasmas.
+W	open-question-c2o-chair-one-thread	openQuestions	Can we take one thread at a time?	¿Podemos tomar un hilo cada vez?
+W	open-answer-c2o-chair-one-thread	openAnswers	We can, and we must. Two threads at once is how a room talks past itself.	Podemos, y debemos. Dos hilos a la vez es como una sala se habla por encima.
+W	open-question-c2o-chair-for-the-minutes	openQuestions	What should go into the note from that exchange?	¿Qué debe entrar en la nota de ese intercambio?
+W	open-answer-c2o-chair-for-the-minutes	openAnswers	That we split on the burden, not on the goodwill. I want that distinction on paper.	Que nos rajamos en la carga, no en la buena voluntad. Quiero esa distinción en el papel.
+W	open-question-c2o-walk-back-flourish	openQuestions	What would you walk back if we held you to the flourish?	¿Qué retiraría si lo tuviéramos al adorno?
+W	open-answer-c2o-walk-back-flourish	openAnswers	The flourish. I overcooked the opening; the body of the case can live without the spice.	El adorno. Recocí la apertura; el cuerpo del asunto puede vivir sin la especia.
+W	open-question-c2o-finer-point	openQuestions	If I may put a finer point on it, where do we actually split?	Si me permite afinar, ¿dónde nos rajamos de verdad?
+W	open-answer-c2o-finer-point	openAnswers	On whether what we have here carries the next case. I grant this one; I refuse the leap.	En si lo que tenemos aquí carga el caso siguiente. Concedo este; rechazo el salto.
+W	open-question-c2o-not-that-hill	openQuestions	Is that the hill you would die on?	¿Es esa la colina donde se dejaría la vida?
+W	open-answer-c2o-not-that-hill	openAnswers	It is not. I will spend capital on the hinge, not on the adjective that rode in with it.	Esa no me lleva. Gastaré capital en el quicio, no en el adjetivo que llegó montado.
+W	open-question-c2o-grant-x-keep-y	openQuestions	What can you grant without giving away the store?	¿Qué puede conceder sin entregar la tienda?
+W	open-answer-c2o-grant-x-keep-y	openAnswers	I can grant the delay was clumsy. I will not grant that clumsiness undoes the point.	Puedo conceder que el retraso fue torpe. No concederé que la torpeza deshaga el fondo.
+W	open-question-c2o-hidden-step	openQuestions	What suppressed step is doing the work?	¿Qué peldaño callado hace el trabajo?
+W	open-answer-c2o-hidden-step	openAnswers	The step that says their silence was a choice. That step is doing all the moral work, and it is not on the table.	El que dice que su silencio fue una elección. Ese peldaño hace todo el trabajo moral, y no está sobre la mesa.
+W	open-question-c2o-two-asks	openQuestions	How many asks are glued together there?	¿Cuántas preguntas van pegadas ahí?
+W	open-answer-c2o-two-asks	openAnswers	Two. You asked whether it happened and whether it was decent, and you will not let me answer one without the other.	Dos. Preguntó si ocurrió y si fue decente, y no me deja contestar a una sin la otra.
+W	open-question-c2o-lawful-not-right	openQuestions	Are you collapsing lawful and right?	¿Está mezclando lo lícito y lo justo?
+W	open-answer-c2o-lawful-not-right	openAnswers	You are. I can grant it was lawful and still deny it was right. Those are different stamps.	Lo está. Puedo conceder que fue lícito y negar aún que fuera justo. Son dos sellos.
+W	open-question-c2o-meant-vs-done	openQuestions	Are we judging what was meant or what was done?	¿Juzgamos lo que se quiso o lo que se hizo?
+W	open-answer-c2o-meant-vs-done	openAnswers	What was done. Meaning is a later story people tell when the doing has become awkward.	Lo que se hizo. El querer es un relato posterior que se cuenta cuando el hacer se volvió incómodo.
+W	open-question-c2o-reason-not-wish	openQuestions	Is that a reason or a wish wearing reason's coat?	¿Es eso una razón o un deseo vestido de razón?
+W	open-answer-c2o-reason-not-wish	openAnswers	A wish wearing the coat. It tells you where they want to arrive, not why the road goes there.	Un deseo vestido. Dice adónde quieren llegar, no por qué el camino va allá.
+W	open-question-c2o-fact-not-verdict	openQuestions	Did we just hear a fact or a verdict?	¿Acabamos de oír un hecho o un veredicto?
+W	open-answer-c2o-fact-not-verdict	openAnswers	A verdict in fact-clothing. The clothing was the count; the verdict was the adjective that followed it.	Un veredicto vestido de hecho. El traje era el recuento; el veredicto era el adjetivo que lo siguió.
+W	open-question-c2o-tool-not-aim	openQuestions	Is that a tool or an aim?	¿Es eso una herramienta o un fin?
+W	open-answer-c2o-tool-not-aim	openAnswers	A tool they have started to love as an aim. Once a tool becomes an aim, you cannot put it down.	Una herramienta que han empezado a querer como fin. Cuando la herramienta se vuelve fin, ya no se puede soltar.
+W	open-question-c2o-can-not-must	openQuestions	Are we sliding from can to must?	¿Estamos pasando del poder al deber?
+W	open-answer-c2o-can-not-must	openAnswers	We are. Can opens a door; must nags you through it. I will keep the door and refuse the nag.	Estamos. Poder abre una puerta; deber le empuja por ella. Yo me quedo con la puerta y rechazo el empujón.
+W	open-question-c2o-typical-not-possible	openQuestions	Are you treating the possible as typical?	¿Está tratando lo posible como lo típico?
+W	open-answer-c2o-typical-not-possible	openAnswers	You are. Possible is a wide field; typical is a path through it. You just paved the field.	Lo está. Lo posible es un campo ancho; lo típico es un sendero. Acaba de asfaltar el campo.
+W	open-question-c2o-public-reason	openQuestions	What can we say in public reason that we cannot say as a preference?	¿Qué podemos decir en razón pública que no podemos decir como gusto?
+W	open-answer-c2o-public-reason	openAnswers	That it binds others. A preference binds me; a public reason has to survive other people's premises.	Que ata a otros. Un gusto me ata a mí; una razón pública tiene que sobrevivir a las premisas ajenas.
+W	open-question-c2o-said-not-hinted	openQuestions	Did they say it, or did we hear a hint and promote it?	¿Lo dijeron, o oímos un guiño y lo ascendimos?
+W	open-answer-c2o-said-not-hinted	openAnswers	We promoted a hint. The sentence they uttered is smaller, and I would try the smaller one.	Ascendimos un guiño. La frase que dijeron es más chica, y yo instruiría esa.
+W	open-question-c2o-might-not-right	openQuestions	Are we confusing might with right?	¿Estamos confundiendo la fuerza con lo justo?
+W	open-answer-c2o-might-not-right	openAnswers	We are. Might can close a meeting; it cannot settle whether it was right.	Los estamos confundiendo. La fuerza puede cerrar una sesión; no puede zanjar si fue justo.
+W	open-question-c2o-risk-not-fog	openQuestions	Is that a risk we can name, or fog we are calling risk?	¿Es un riesgo que se puede nombrar, o niebla a la que llamamos riesgo?
+W	open-answer-c2o-risk-not-fog	openAnswers	Fog. A risk has a hinge and a range; this has atmosphere and a frown.	Niebla. Un riesgo tiene quicio y rango; esto tiene ambiente y un ceño.
+W	open-question-c2o-equal-not-same	openQuestions	Are we treating equal as same?	¿Estamos tratando lo igual como lo mismo?
+W	open-answer-c2o-equal-not-same	openAnswers	We are, and that is the smear. Equal can leave room for difference; same flattens the room.	Lo estamos, y ahí está el embadurne. Lo igual puede dejar sitio a lo distinto; lo mismo aplana la sala.
+W	open-question-c2o-leave-not-assent	openQuestions	Did they leave, or did they assent?	¿Se fueron, o asintieron?
+W	open-answer-c2o-leave-not-assent	openAnswers	They left. Reading a departure as a blessing is a trick people play on notes.	Se fueron. Leer una marcha como una bendición es un truco que se les hace a las notas.
+W	open-question-c2o-excuse-not-warrant	openQuestions	Is that an excuse or a reason that actually holds?	¿Es eso una disculpa o una razón que se sostenga?
+W	open-answer-c2o-excuse-not-warrant	openAnswers	An excuse. It tells us why a hand slipped; it does not tell us the slip was in order.	Una disculpa. Dice por qué se resbaló una mano; no dice que el resbalón estuviera en regla.
+W	open-question-c1o-hedge-put-softer	openQuestions	Can you say that a bit more gently?	¿Lo podría decir un poco más suave?
+W	open-answer-c1o-hedge-put-softer	openAnswers	I'd call it something we keep seeing this month, not a rule. I'd leave the 'always' out.	Yo lo llamaría algo que nos sale mucho este mes, no una regla. Soltaría el «siempre».
+W	open-question-c1o-hedge-how-far	openQuestions	How far are you willing to take that tonight?	¿Hasta dónde está dispuesto a llevar eso esta noche?
+W	open-answer-c1o-hedge-how-far	openAnswers	As far as what we saw here. Past that I'm guessing in front of people.	Hasta lo que vimos aquí. A partir de ahí, estoy conjeturando en público.
+W	open-question-c1o-hedge-name-under	openQuestions	Would you put your name under that sentence as it stands?	¿Pondría su nombre bajo esa frase tal cual?
+W	open-answer-c1o-hedge-name-under	openAnswers	Not under that one. I'd keep what we actually saw and cut the last punch.	Esa no la firmaría. Me quedaría con lo que vimos de verdad y cortaría el remate.
+W	open-question-c1o-hedge-for-now	openQuestions	What can we treat as settled for now?	¿Qué podemos dar por sentado de momento?
+W	open-answer-c1o-hedge-for-now	openAnswers	For now, only the narrower reading. I'd leave the wider one until Friday.	De momento, solo la lectura estrecha. La ancha la dejaría hasta el viernes.
+W	open-question-c1o-hedge-working	openQuestions	Are you saying you know this, or are you still guessing?	¿Dice que lo sabe, o todavía está adivinando?
+W	open-answer-c1o-hedge-working	openAnswers	I'm still guessing, but I'd defend the guess in this room. I wouldn't put it in an email yet.	Sigo adivinando, pero defendería la pista en esta sala. Aún no la pondría en un correo.
+W	open-question-c1o-hedge-thin-signal	openQuestions	How much are we reading into a thin bit of evidence?	¿Cuánto leemos en una prueba flaca?
+W	open-answer-c1o-hedge-thin-signal	openAnswers	More than it can carry, if we let the story run ahead of the numbers. I'd keep the numbers and park the story.	Más de lo que aguanta, si dejamos que el relato se adelante a los números. Me quedaría con los números y aparcaría el relato.
+W	open-question-c1o-hedge-if-pressed	openQuestions	If someone pushed you, what would you actually stand behind?	Si le apretaran, ¿qué sostendría de verdad?
+W	open-answer-c1o-hedge-if-pressed	openAnswers	The cautious version. The bolder one was a reach, and I'd take it back.	La versión cauta. La más osada se pasaba, y la retiraría.
+W	open-question-c1o-hedge-wont-swear	openQuestions	How sure are you, if you won't swear to it?	¿Qué tan seguro está, si no quiere jurarlo?
+W	open-answer-c1o-hedge-wont-swear	openAnswers	Sure enough to put it on the table. Not sure enough to swear to it if someone pushes back.	Lo bastante para ponerlo sobre la mesa. No lo bastante para jurarlo si alguien me contradice.
+W	open-question-c1o-hedge-one-reading	openQuestions	Is that the only way to read what we have?	¿Es la única forma de leer lo que tenemos?
+W	open-answer-c1o-hedge-one-reading	openAnswers	One way among others. I wouldn't shut the others down without a better reason.	Una forma entre otras. No cerraría las demás sin una razón mejor.
+W	open-question-c1o-hedge-hold-lightly	openQuestions	How tightly should we hold that overnight?	¿Con qué firmeza hay que sostener eso hasta mañana?
+W	open-answer-c1o-hedge-hold-lightly	openAnswers	Lightly. I'd rather sleep on it than nail it down tonight.	Con poca. Prefiero dormir sobre ello a clavarlo esta noche.
+W	open-question-c1o-hedge-thin-ice	openQuestions	Where does that start to look like thin ice?	¿Dónde empieza eso a parecer hielo fino?
+W	open-answer-c1o-hedge-thin-ice	openAnswers	Where we leave what we measured and talk as if the rest were already shown. That's the line I wouldn't cross in the notes.	Donde dejamos lo medido y hablamos como si el resto ya estuviera mostrado. Esa es la raya que no cruzaría en las notas.
+W	open-question-c1o-hedge-recast	openQuestions	If you had to say that sentence again, how would it run?	Si tuviera que decir esa frase otra vez, ¿cómo iría?
+W	open-answer-c1o-hedge-recast	openAnswers	I'd rather say it tends to hold for now. I'd drop the air of a law.	Diría más bien que suele sostenerse por ahora. Soltaría el aire de ley.
+W	open-question-c1o-hedge-pending	openQuestions	What do we leave hanging until more comes in?	¿Qué dejamos en el aire hasta que entre más?
+W	open-answer-c1o-hedge-pending	openAnswers	The leap to a general rule. What we saw here can stay; the leap cannot.	El salto a una regla general. Lo que vimos aquí puede quedarse; el salto, no.
+W	open-question-c1o-hedge-not-gospel	openQuestions	Should we treat that as gospel in this conversation?	¿Hay que tomarlo como evangelio en esta conversación?
+W	open-answer-c1o-hedge-not-gospel	openAnswers	Treat it as a hunch with decent support. Gospel is too strong for a live file.	Tómenlo como una corazonada bien apoyada. El evangelio es demasiado para un expediente vivo.
+W	open-question-c1o-hedge-modest	openQuestions	What's the most modest claim you can still defend?	¿Cuál es la afirmación más modesta que aún puede defender?
+W	open-answer-c1o-hedge-modest	openAnswers	That it shows up when we keep the rest still. Anything louder is decoration.	Que asoma cuando dejamos el resto quieto. Todo lo que suene más alto es adorno.
+W	open-question-c1o-hedge-unsettled	openQuestions	How unsettled is this, if we're honest?	¿Qué tan abierto está esto, si somos sinceros?
+W	open-answer-c1o-hedge-unsettled	openAnswers	Unsettled enough that I'd mark it provisional in the notes. I wouldn't let it travel as a decision.	Lo bastante abierto como para marcarlo provisional en las notas. No lo dejaría circular como una decisión.
+W	open-question-c1o-hedge-subject-to	openQuestions	What would have to stay true for you to leave that sentence up?	¿Qué tendría que seguir siendo verdad para dejar esa frase en pie?
+W	open-answer-c1o-hedge-subject-to	openAnswers	That we still measured the thing we think we measured. If that slips, the sentence goes with it.	Que aún hayamos medido lo que creemos haber medido. Si eso se resbala, la frase se va con ello.
+W	open-question-c1o-hedge-wary-wide	openQuestions	Why are you wary of the wide version?	¿Por qué recela de la versión ancha?
+W	open-answer-c1o-hedge-wary-wide	openAnswers	Because the wide version borrows certainty we haven't earned. The narrow one we have.	Porque la versión ancha toma prestada una certeza que no hemos ganado. La estrecha, sí la tenemos.
+W	open-question-c1o-hedge-under-erasure	openQuestions	Can we leave that on the board, but crossed out?	¿Podemos dejarlo en la pizarra, pero tachado?
+W	open-answer-c1o-hedge-under-erasure	openAnswers	Leave it up, but scored through. I want it visible as a temptation, not as something we found.	Déjenlo, pero rayado. Lo quiero visible como tentación, no como algo que hayamos hallado.
+W	open-question-c1o-hedge-best-have	openQuestions	Is this the best account we have, or the best anyone could get?	¿Es el mejor relato que tenemos, o el mejor que se puede tener?
+W	open-answer-c1o-hedge-best-have	openAnswers	The best we have tonight. I wouldn't confuse that with the best anyone could get.	El mejor que tenemos esta noche. No lo confundiría con el mejor que quepa tener.
+W	open-question-c1o-hedge-rewrite-lead	openQuestions	How open are you to rewriting the opening line?	¿Qué tan abierto está a reescribir la primera frase?
+W	open-answer-c1o-hedge-rewrite-lead	openAnswers	Wide open. The opening runs ahead of the rest, and I'd rather cut it than pad what follows.	Muy abierto. La entradilla se adelanta al resto, y la cortaría antes que hinchar lo que sigue.
+W	open-question-c1o-hedge-half-step	openQuestions	Are you taking a full step or a half-step here?	¿Da un paso entero o medio paso aquí?
+W	open-answer-c1o-hedge-half-step	openAnswers	A half-step. I'm pointing, not planting a flag.	Medio paso. Señalo, no clavo una bandera.
+W	open-question-c1o-hedge-until-rebutted	openQuestions	Shall we let it stand until someone knocks it down?	¿Lo dejamos en pie hasta que alguien lo tumbe?
+W	open-answer-c1o-hedge-until-rebutted	openAnswers	Let it stand as a starting point, not as a trophy. A starting point can fall without drama.	Que quede como punto de partida, no como trofeo. Un punto de partida puede caer sin teatro.
+W	open-question-c1o-hedge-in-room	openQuestions	What are you willing to say in this room that you wouldn't write?	¿Qué está dispuesto a decir en esta sala que no escribiría?
+W	open-answer-c1o-hedge-in-room	openAnswers	In this room I'll float the stronger reading. I wouldn't write it without another look.	Aquí lanzaré la lectura más fuerte. No la escribiría sin otra mirada.
+W	open-question-c1o-hedge-no-trumpets	openQuestions	Can we say it without the fanfare?	¿Podemos decirlo sin fanfarria?
+W	open-answer-c1o-hedge-no-trumpets	openAnswers	We can, and we should. The fanfare is doing work the numbers haven't done.	Podemos, y debemos. La fanfarria hace un trabajo que las cifras no han hecho.
+W	open-question-c1o-hedge-mark-provisional	openQuestions	How should we mark this in the note?	¿Cómo hay que marcarlo en la nota?
+W	open-answer-c1o-hedge-mark-provisional	openAnswers	Mark it provisional and date the next look. A clean sentence without that mark would overclaim.	Márquenlo provisional y fechen la próxima mirada. Una frase limpia sin esa marca se pasaría de afirmación.
+W	open-question-c1o-hedge-two-cents	openQuestions	How much weight should that little story carry?	¿Qué peso debe cargar esa anécdota?
+W	open-answer-c1o-hedge-two-cents	openAnswers	Colour, not weight. I wouldn't let it steer what we recommend.	Color, no peso. No la dejaría gobernar lo que recomendamos.
+W	open-question-c1o-hedge-sample-size	openQuestions	Can we really talk that loudly off so few cases?	¿De verdad podemos hablar tan alto con tan pocos casos?
+W	open-answer-c1o-hedge-sample-size	openAnswers	We can talk softly. We can't talk as if everyone were already in the room.	Podemos hablar bajo. No podemos hablar como si ya estuviera todo el mundo en la sala.
+W	open-question-c1o-hedge-outlier	openQuestions	What do we do with the one awkward case?	¿Qué hacemos con el caso incómodo?
+W	open-answer-c1o-hedge-outlier	openAnswers	Name it and leave it visible. I wouldn't delete it to tidy the story.	Nombrarlo y dejarlo visible. No lo borraría para alisar el relato.
+W	open-question-c1o-hedge-seasonal	openQuestions	Could the time of year be doing some of this?	¿Podría la época del año estar haciendo parte de esto?
+W	open-answer-c1o-hedge-seasonal	openAnswers	It could, and we haven't boxed that off yet. I wouldn't close the file until we've checked.	Podría, y aún no lo hemos acotado. No cerraría el expediente hasta haberlo comprobado.
+W	open-question-c1o-hedge-selection	openQuestions	How much of this is who stayed, rather than what we did?	¿Cuánto de esto es quién se quedó, y no lo que hicimos?
+W	open-answer-c1o-hedge-selection	openAnswers	Enough that I wouldn't sell it as the effect of what we did. I'd sell it as a difference that still needs a fair test.	Lo bastante como para no venderlo como el efecto de lo que hicimos. Lo vendería como una diferencia que aún pide una prueba justa.
+W	open-question-c1o-hedge-missingness	openQuestions	What if the people who dropped out aren't like the rest?	¿Y si quienes se fueron no se parecen al resto?
+W	open-answer-c1o-hedge-missingness	openAnswers	Then the average we like is an average of the people who stayed. I'd say that in the same breath as the number.	Entonces la media que nos gusta es la de quienes se quedaron. Lo diría en el mismo aliento que el número.
+W	open-question-c1o-hedge-external	openQuestions	How far does this travel beyond our place?	¿Hasta dónde viaja esto fuera de aquí?
+W	open-answer-c1o-hedge-external	openAnswers	It travels as a guess, not as a template. I wouldn't brief another team as if the transfer were free.	Viaja como hipótesis, no como plantilla. No informaría a otro equipo como si el traslado fuera gratis.
+W	open-question-c1o-hedge-mechanism	openQuestions	Do we actually know why this happens, or have we just seen it move together?	¿Sabemos de verdad por qué pasa esto, o solo hemos visto que se mueve junto?
+W	open-answer-c1o-hedge-mechanism	openAnswers	We have a plausible why and a together. I wouldn't treat the why as shown.	Tenemos un porqué plausible y un juntos. No daría el porqué por mostrado.
+W	open-question-c1o-hedge-pre-reg	openQuestions	Did we pick this cut before we looked, or find it after?	¿Elegimos este corte antes de mirar, o lo hallamos después?
+W	open-answer-c1o-hedge-pre-reg	openAnswers	We found it after looking. I'd label it exploratory and not let it lead the summary.	Lo hallamos después de mirar. Lo marcaría exploratorio y no lo dejaría encabezar el resumen.
+W	open-question-c1o-hedge-multiple	openQuestions	Have we paid for how many times we looked?	¿Hemos pagado el número de veces que miramos?
+W	open-answer-c1o-hedge-multiple	openAnswers	We haven't. I'd either correct for that or admit the looks in the note.	Aún no. Corregiría o confesaría las miradas en la nota.
+W	open-question-c1o-hedge-language	openQuestions	Which verb would you actually stand behind?	¿Qué verbo sostendría de verdad?
+W	open-answer-c1o-hedge-language	openAnswers	Tends to, not demonstrates. Demonstrates is a verb we haven't earned.	Tiende a, no demuestra. Demuestra es un verbo que no hemos ganado.
+W	open-question-c1o-hedge-interval	openQuestions	What does that range actually let us say?	¿Qué nos deja decir de verdad ese rango?
+W	open-answer-c1o-hedge-interval	openAnswers	It lets us say the size is poorly pinned, not that it's zero. I wouldn't collapse that into a shrug.	Nos deja decir que el tamaño está mal clavado, no que es cero. No lo reduciría a un encogimiento de hombros.
+W	open-question-c1o-hedge-qual	openQuestions	How far can a handful of conversations carry a general claim?	¿Hasta dónde puede cargar un puñado de conversaciones una afirmación general?
+W	open-answer-c1o-hedge-qual	openAnswers	They can carry a texture and a few reasons why. They can't carry a 'how common' we didn't count.	Pueden cargar una textura y unos porqués. No pueden cargar un «qué tan común» que no contamos.
+W	open-question-c1o-hedge-one-site	openQuestions	What should a one-place study refuse to say?	¿Qué debe negarse a decir un estudio de un solo sitio?
+W	open-answer-c1o-hedge-one-site	openAnswers	It should refuse to lay down the law for the whole sector. It can still say what happened here, carefully.	Debe negarse a legislar para todo el sector. Aún puede decir con cuidado lo que pasó aquí.
+W	open-question-c1o-hedge-draft-stamp	openQuestions	What stamp would you put on this draft?	¿Qué sello pondría a este borrador?
+W	open-answer-c1o-hedge-draft-stamp	openAnswers	Working draft, not for quoting. I'd rather lose a day than see it quoted as settled.	Borrador de trabajo, no para citar. Preferiría perder un día a verlo citado como zanjado.
+W	open-question-c1o-hedge-board-pack	openQuestions	How much of this belongs in the note to upstairs?	¿Cuánto de esto cabe en la nota para arriba?
+W	open-answer-c1o-hedge-board-pack	openAnswers	The finding and the caveat, in the same paragraph. The speculation belongs at the end, or nowhere.	El hallazgo y la salvedad, en el mismo párrafo. La especulación va al final o a ninguna parte.
+W	open-question-c1o-hedge-press-line	openQuestions	What's the line for the press that you'd actually own?	¿Qué frase para la prensa firmaría de verdad?
+W	open-answer-c1o-hedge-press-line	openAnswers	That the picture is mixed and the next check is dated. I wouldn't own a cleaner line than that.	Que el cuadro es mixto y que el próximo cotejo está fechado. No firmaría una frase más limpia.
+W	open-question-c1o-hedge-compare	openQuestions	Are we comparing like with like?	¿Estamos comparando lo comparable?
+W	open-answer-c1o-hedge-compare	openAnswers	Not yet. I'd hold the comparison until the windows match.	Todavía no. Retendría la comparación hasta que coincidan las ventanas.
+W	open-question-c1o-hedge-base-rate	openQuestions	Have we remembered how common this usually is?	¿Hemos recordado qué tan común suele ser esto?
+W	open-answer-c1o-hedge-base-rate	openAnswers	We haven't, and the story looks rarer than it is. I'd put the usual rate in the first sentence.	Se nos ha olvidado, y la historia parece más rara de lo que es. Pondría lo habitual en la primera frase.
+W	open-question-c1o-hedge-survivor	openQuestions	Is this a survivor story dressed as a typical one?	¿Es una historia de supervivientes vestida de caso típico?
+W	open-answer-c1o-hedge-survivor	openAnswers	It may be. I'd ask what happened to the cases that didn't make the slide.	Puede ser. Preguntaría qué pasó con los casos que no llegaron a la diapositiva.
+W	open-question-c1o-hedge-silence	openQuestions	What does the silence in the file actually mean?	¿Qué significa de verdad el silencio del expediente?
+W	open-answer-c1o-hedge-silence	openAnswers	It means we haven't looked, not that there's nothing there. I wouldn't brief the silence as evidence.	Significa que no hemos mirado, no que no hay nada. No presentaría el silencio como prueba.
+W	open-question-c1o-hedge-model	openQuestions	How much of this picture is just a convenient way to add things up?	¿Cuánto de este cuadro es solo una forma cómoda de sumar?
+W	open-answer-c1o-hedge-model	openAnswers	Enough that I wouldn't treat that number as a fact about the world. I'd treat it as a fact about this way of adding.	Lo bastante como para no tratar ese número como un hecho del mundo. Lo trataría como un hecho de esta forma de sumar.
+W	open-question-c1o-hedge-tomorrow	openQuestions	What would you still believe tomorrow if the next table moved?	¿Qué seguiría creyendo mañana si la próxima tabla se moviera?
+W	open-answer-c1o-hedge-tomorrow	openAnswers	The worry about how we set it up. I'd let the exact number go without a fight.	La inquietud sobre cómo lo montamos. Soltaría el número exacto sin pelear.
+W	open-question-c1o-hedge-two-hands	openQuestions	Can you say it with both hands visible?	¿Puede decirlo con las dos manos a la vista?
+W	open-answer-c1o-hedge-two-hands	openAnswers	On one hand the direction is stable; on the other the size is not. I'd rather say both than pick the prettier hand.	Por un lado la dirección es estable; por el otro el tamaño no. Preferiría decir ambas a elegir la mano más bonita.
+W	open-question-c1o-hedge-clock	openQuestions	Is this ready to leave the room?	¿Está listo para salir de la sala?
+W	open-answer-c1o-hedge-clock	openAnswers	It's ready to leave as a question, not as a conclusion. I'd put that word in the subject line.	Está listo para salir como pregunta, no como conclusión. Pondría esa palabra en el asunto.
+W	open-question-c1o-hedge-peer	openQuestions	What would a hostile reader do with this paragraph?	¿Qué haría un lector hostil con este párrafo?
+W	open-answer-c1o-hedge-peer	openAnswers	They'd lift the strongest verb and ignore the caveat. I'd swap the verb before they do.	Levantaría el verbo más fuerte e ignoraría la salvedad. Cambiaría el verbo antes de que lo haga.
+W	open-question-c1o-hedge-oral-vs-slide	openQuestions	Why does the spoken version sound cleaner than the slide?	¿Por qué lo hablado suena más limpio que la diapositiva?
+W	open-answer-c1o-hedge-oral-vs-slide	openAnswers	Because I dropped the ugly clause when I spoke. I'd put the ugly clause back on the slide.	Porque solté la cláusula fea al hablar. Volvería a ponerla en la diapositiva.
+W	open-question-c1o-hedge-ask-less	openQuestions	What would asking less of the numbers look like?	¿Cómo se vería pedirle menos a los números?
+W	open-answer-c1o-hedge-ask-less	openAnswers	A smaller claim and a longer note on how we got there. I'd rather look modest than look wrong.	Una afirmación más pequeña y una nota más larga sobre cómo llegamos. Preferiría parecer modesto a parecer falso.
+W	open-question-c1o-hedge-hold-week	openQuestions	Can this wait a week without harm?	¿Puede esto esperar una semana sin daño?
+W	open-answer-c1o-hedge-hold-week	openAnswers	It can, if we say we're waiting. Silence for a week would be read as a decision.	Puede, si decimos que esperamos. Un silencio de una semana se leería como una decisión.
+W	open-question-c1o-hedge-third-party	openQuestions	How would you say it to someone who wasn't in the room?	¿Cómo se lo diría a alguien que no estaba en la sala?
+W	open-answer-c1o-hedge-third-party	openAnswers	I'd lead with the limit, then the finding. The other way round invites a headline we can't own.	Empezaría por el límite y luego el hallazgo. Al revés invita a un titular que no podemos firmar.
+W	open-question-c1o-concede-timing	openQuestions	What do you concede about the timing?	¿Qué concede sobre el momento?
+W	open-answer-c1o-concede-timing	openAnswers	The timing was clumsy. I wouldn't drop the substance for that.	El momento fue torpe. No soltaría el fondo por eso.
+W	open-question-c1o-concede-tone	openQuestions	Where do you give way on tone?	¿En qué cede usted en el tono?
+W	open-answer-c1o-concede-tone	openAnswers	The tone was poorly judged. The underlying case doesn't fall with the tone.	El tono estuvo mal medido. El asunto de fondo no cae con el tono.
+W	open-question-c1o-concede-wording	openQuestions	What in the wording would you now withdraw?	¿Qué retiraría ahora de la redacción?
+W	open-answer-c1o-concede-wording	openAnswers	The absolute. I'd keep the comparative and bin the superlative.	Lo absoluto. Me quedaría con el comparativo y tiraría el superlativo.
+W	open-question-c1o-concede-narrow-hit	openQuestions	Did that objection land, even narrowly?	¿Dio en el blanco esa objeción, aunque por poco?
+W	open-answer-c1o-concede-narrow-hit	openAnswers	It landed on the example, not on the structure. I'll retire the example.	Dio en el ejemplo, no en la armazón. Retiro el ejemplo.
+W	open-question-c1o-concede-first-pass	openQuestions	What was wrong with the first pass?	¿Qué fallaba en el primer envío?
+W	open-answer-c1o-concede-first-pass	openAnswers	It tried to do too much in one breath. I'd split the claim and keep the first half.	Quiso hacer demasiado de un aliento. Partiría la afirmación y me quedaría con la primera mitad.
+W	open-question-c1o-concede-left-out	openQuestions	What did you leave out that you ought to have marked?	¿Qué dejó fuera que debía haber marcado?
+W	open-answer-c1o-concede-left-out	openAnswers	A rival account that I waved away. I should have said why it fails, not that it fails.	Un relato rival que aparté de un gesto. Debí decir por qué falla, no que falla.
+W	open-question-c1o-concede-emphasis	openQuestions	Was the emphasis fair?	¿Fue justo el énfasis?
+W	open-answer-c1o-concede-emphasis	openAnswers	The emphasis was lopsided. I still think the weight belongs here, but I overcooked it.	El énfasis quedó sesgado. Sigo pensando que el peso está aquí, pero lo recocí.
+W	open-question-c1o-concede-weak-ex	openQuestions	How much does the weak example cost you?	¿Cuánto le cuesta el ejemplo flojo?
+W	open-answer-c1o-concede-weak-ex	openAnswers	It costs me an illustration, not the case. I should have picked a cleaner one.	Me cuesta una ilustración, no el asunto. Debí tomar uno más limpio.
+W	open-question-c1o-concede-haste	openQuestions	What did haste do to the argument?	¿Qué le hizo la prisa al argumento?
+W	open-answer-c1o-concede-haste	openAnswers	It flattened a distinction I need. I can repair that without abandoning the line.	Aplanó una distinción que necesito. Puedo repararla sin abandonar la línea.
+W	open-question-c1o-concede-scope	openQuestions	Where did the scope creep?	¿Dónde se desbordó el perímetro?
+W	open-answer-c1o-concede-scope	openAnswers	It crept from this file to a neighbouring one. I'll pull it back to this file.	Se deslizó de este expediente al de al lado. Lo devuelvo a este expediente.
+W	open-question-c1o-concede-you-landed	openQuestions	Where did they land a fair blow?	¿Dónde dieron un golpe limpio?
+W	open-answer-c1o-concede-you-landed	openAnswers	On the missing step between the count and the verdict. I still think the verdict is right; the step was skipped.	En el eslabón que falta entre el recuento y el veredicto. Sigo pensando que el veredicto es bueno; el eslabón se saltó.
+W	open-question-c1o-concede-badly-put	openQuestions	Was it badly put, or badly thought?	¿Estuvo mal dicho, o mal pensado?
+W	open-answer-c1o-concede-badly-put	openAnswers	Badly put. The thought still holds if I say it more tightly.	Mal dicho. El pensamiento se sostiene si lo aprieto.
+W	open-question-c1o-concede-citation	openQuestions	What is wrong with the citation as used?	¿Qué falla en la cita tal como se usó?
+W	open-answer-c1o-concede-citation	openAnswers	It supports a weaker claim than the one I hung on it. I'll hang the weaker claim or find a better paper.	Sostiene una afirmación más flaca que la que le colgué. Colgaré la más flaca o buscaré un artículo mejor.
+W	open-question-c1o-concede-chart	openQuestions	What does the chart not show that I implied it showed?	¿Qué no muestra el gráfico que di a entender?
+W	open-answer-c1o-concede-chart	openAnswers	It doesn't show a cause. I implied one in the title and I'll rewrite the title.	El gráfico no muestra una causa. La di a entender en el título y reescribiré el título.
+W	open-question-c1o-concede-audience	openQuestions	Who did you talk past?	¿A quién habló por encima?
+W	open-answer-c1o-concede-audience	openAnswers	The people who already knew the method. I owed them the limit, not another victory lap.	A quienes ya conocían el método. Les debía el límite, no otra vuelta de honor.
+W	open-question-c1o-concede-length	openQuestions	Where did the paper get fat?	¿Dónde se puso gordo el papel?
+W	open-answer-c1o-concede-length	openAnswers	In the literature tour that doesn't earn its keep. I'll cut two pages and keep the test.	En el recorrido de literatura que no se gana el puesto. Cortaré dos páginas y me quedaré con la prueba.
+W	open-question-c1o-concede-jargon	openQuestions	Which piece of jargon was doing no work?	¿Qué jerga no hacía ningún trabajo?
+W	open-answer-c1o-concede-jargon	openAnswers	The borrowed term in paragraph three. I'll say it in ordinary words or drop it.	El término prestado del tercer párrafo. Lo diré con palabras ordinarias o lo soltaré.
+W	open-question-c1o-concede-promise	openQuestions	What did you promise that the draft cannot keep?	¿Qué prometió que el borrador no puede cumplir?
+W	open-answer-c1o-concede-promise	openAnswers	A lesson for the whole sector. I can keep a lesson from this place, and I'll write that instead.	Una lección para todo el sector. Puedo cumplir una lección de este sitio, y eso escribiré.
+W	open-question-c1o-concede-slide-order	openQuestions	Was the slide order honest?	¿Fue honesto el orden de las diapositivas?
+W	open-answer-c1o-concede-slide-order	openAnswers	It put the pretty result first and the ugly limit last. I'll swap them.	Puso el resultado bonito primero y el límite feo al final. Los trocaré.
+W	open-question-c1o-concede-question	openQuestions	Did you answer the question that was asked?	¿Contestó la pregunta que se hizo?
+W	open-answer-c1o-concede-question	openAnswers	I answered a neighbour of it. I'll answer the one that was asked, even if the answer is thinner.	Contesté a una vecina. Contestaré la que se hizo, aunque la respuesta sea más flaca.
+W	open-question-c1o-concede-data-cut	openQuestions	Which cut was opportunistic?	¿Qué corte fue oportunista?
+W	open-answer-c1o-concede-data-cut	openAnswers	The extra subgroup that smiled. I'll move it to the end and say it wasn't planned.	El subgrupo de más que sonreía. Lo pasaré al final y diré que no estaba previsto.
+W	open-question-c1o-concede-conflict	openQuestions	Where should you have declared an interest sooner?	¿Dónde debió declarar un interés antes?
+W	open-answer-c1o-concede-conflict	openAnswers	In the first paragraph, not the last. I'll move the declaration up.	En el primer párrafo, no en el último. Subiré la declaración.
+W	open-question-c1o-concede-credit	openQuestions	Who did you under-credit?	¿A quién dejó corto de crédito?
+W	open-answer-c1o-concede-credit	openAnswers	The colleague who built the file. I'll name them in the next version.	Al colega que armó el expediente. Lo nombraré en la próxima versión.
+W	open-question-c1o-concede-delay	openQuestions	What did the delay cost the room?	¿Qué le costó la demora a la sala?
+W	open-answer-c1o-concede-delay	openAnswers	A week of rumours and thinner trust. I should have sent a holding note on the Tuesday.	Una semana de rumores y una confianza más flaca. Debí enviar una nota de espera el martes.
+W	open-question-c1o-concede-joke	openQuestions	Did the joke earn its keep?	¿Se ganó el puesto el chiste?
+W	open-answer-c1o-concede-joke	openAnswers	It didn't. It cost a person in the room and I won't reuse it.	No se lo ganó. Le costó a alguien en la sala y no lo reutilizaré.
+W	open-question-c1o-concede-cc	openQuestions	Who should not have been copied?	¿A quién no debió copiarse?
+W	open-answer-c1o-concede-cc	openAnswers	The wider list. I turned a correction into a spectacle and I'll apologise to the person named.	A la lista ancha. Convertí una corrección en espectáculo y me disculparé con la persona nombrada.
+W	open-question-c1o-concede-deadline	openQuestions	Was the deadline you set realistic?	¿Fue realista el plazo que puso?
+W	open-answer-c1o-concede-deadline	openAnswers	It was a wish dressed as a date. I'll reset it with the dependencies named.	Fue un deseo vestido de fecha. Lo repondré con las dependencias nombradas.
+W	open-question-c1o-concede-brief	openQuestions	Where did you leave the brief?	¿Dónde dejó el encargo?
+W	open-answer-c1o-concede-brief	openAnswers	I answered a more convenient brief. I'll return to the one that was set.	Contesté un encargo más cómodo. Volveré al que se planteó.
+W	open-question-c1o-concede-visual	openQuestions	What did the visual hide?	¿Qué escondía el visual?
+W	open-answer-c1o-concede-visual	openAnswers	The axis that started above zero. I'll restore a zero baseline or say why I can't.	El eje que empezaba por encima de cero. Restauré una base en cero o diré por qué no puedo.
+W	open-question-c1o-concede-footnote	openQuestions	What did you bury in a footnote that belonged upstairs?	¿Qué enterró en una nota que debía ir arriba?
+W	open-answer-c1o-concede-footnote	openAnswers	The exception that eats the rule. I'll bring it into the body.	La excepción que se come la regla. La subiré al cuerpo.
+W	open-question-c1o-concede-question-time	openQuestions	Did you leave enough time for challenge?	¿Dejó tiempo bastante para el reto?
+W	open-answer-c1o-concede-question-time	openAnswers	I didn't. I'll cut my own remarks and leave ten minutes.	Dejé demasiado poco. Cortaré mis propias palabras y dejaré diez minutos.
+W	open-question-c1o-concede-translation	openQuestions	Where did the translation overclaim?	¿Dónde se pasó de afirmación la traducción?
+W	open-answer-c1o-concede-translation	openAnswers	In the verb. The source hedges and the translation didn't; I'll restore the hedge.	En el verbo. La fuente mataiza y la traducción no; restauraré la cautela.
+W	open-question-c1o-concede-minute	openQuestions	What did the notes get wrong?	¿Qué tomaron mal las notas?
+W	open-answer-c1o-concede-minute	openAnswers	They recorded a decision where we only had a leaning. I'll ask for a correction before it circulates further.	Consignaron una decisión donde solo había una inclinación. Pediré una corrección antes de que circule más.
+W	open-question-c1o-concede-role	openQuestions	Where did you step out of role?	¿Dónde se salió del papel?
+W	open-answer-c1o-concede-role	openAnswers	I advocated where I was asked to referee. I'll put the whistle back on.	Alegué donde se me pedía arbitrar. Volveré a ponerme el silbato.
+W	open-question-c1o-concede-data-room	openQuestions	What did you learn too late in the data room?	¿Qué aprendió demasiado tarde en la sala de datos?
+W	open-answer-c1o-concede-data-room	openAnswers	That a key series starts later than the slide implied. I'll date the series honestly.	Que una serie clave empieza más tarde de lo que daba a entender la diapositiva. Fecharé la serie con honestidad.
+W	open-question-c1o-concede-peer-note	openQuestions	What in the peer note do you now accept?	¿Qué acepta ahora de la nota de pares?
+W	open-answer-c1o-concede-peer-note	openAnswers	The request for a paragraph on what should not have moved. I'll write it and I should have written it first.	El pedido de un párrafo sobre lo que no debía haberse movido. Lo escribiré y debí haberlo escrito primero.
+W	open-question-c1o-concede-headline	openQuestions	How did the headline betray the piece?	¿Cómo traicionó el titular a la pieza?
+W	open-answer-c1o-concede-headline	openAnswers	It promised a scandal the piece doesn't deliver. I'll write a headline the piece can keep.	Prometía un escándalo que la pieza no cumple. Escribiré un titular que la pieza pueda cumplir.
+W	open-question-c1o-concede-both-sides	openQuestions	Did you steel-man the other side?	¿Fortaleció al otro lado?
+W	open-answer-c1o-concede-both-sides	openAnswers	I didn't; I used a weaker version. I'll state their best case before I answer it.	No lo hice; usé una versión más flaca. Expondré su mejor caso antes de contestarlo.
+W	open-question-c1o-concede-number	openQuestions	Which number should not have been rounded that way?	¿Qué número no debió redondearse así?
+W	open-answer-c1o-concede-number	openAnswers	The one that crossed a threshold only after rounding. I'll show it unrounded.	El que solo cruzaba un umbral después del redondeo. Lo mostraré sin redondear.
+W	open-question-c1o-concede-silence-room	openQuestions	Whose silence did you misread as assent?	¿El silencio de quién tomó por un sí?
+W	open-answer-c1o-concede-silence-room	openAnswers	The people who hadn't yet seen the last pages. I won't treat that silence as a yes.	El de quienes aún no habían visto las últimas páginas. No trataré ese silencio como un sí.
+W	open-question-c1o-concede-next-draft	openQuestions	What will the next draft do that this one did not?	¿Qué hará el próximo borrador que este no hizo?
+W	open-answer-c1o-concede-next-draft	openAnswers	It will put the limit in the same paragraph as the claim. This one left the limit downstairs.	Pondrá el límite en el mismo párrafo que la afirmación. Este dejó el límite abajo.
+W	open-question-c1o-rebut-not-the-point	openQuestions	Why is that not the point we were asked to decide?	¿Por qué no es el punto que se nos pidió decidir?
+W	open-answer-c1o-rebut-not-the-point	openAnswers	Because it's interesting and it doesn't bear on the decision in front of us. I'd park it and return to what we were asked.	Porque es interesante y no carga sobre la decisión que tenemos delante. Lo aparcaría y volvería al encargo.
+W	open-question-c1o-rebut-category	openQuestions	Why is that a category error?	¿Por qué es un error de categoría?
+W	open-answer-c1o-rebut-category	openAnswers	Because it treats a preference as if it were a constraint. I'd put the preference back in the values column.	Porque trata una preferencia como si fuera una constricción. Devolvería la preferencia a la columna de valores.
+W	open-question-c1o-rebut-straw	openQuestions	How is that a weaker version of what I said?	¿En qué es una versión más flaca de lo que dije?
+W	open-answer-c1o-rebut-straw	openAnswers	It drops the caveat I led with and then knocks down the leftover. I'd ask that the caveat be put back before we argue.	Suelta la salvedad con la que empecé y luego tumba el resto. Pediría que se reponga la salvedad antes de discutir.
+W	open-question-c1o-rebut-goalposts	openQuestions	How have the success criteria moved?	¿Cómo se han movido los criterios de éxito?
+W	open-answer-c1o-rebut-goalposts	openAnswers	They moved after the first criterion was met. I'd hold us to the criterion we published.	Se movieron cuando se cumplió el primero. Nos atendría al criterio que publicamos.
+W	open-question-c1o-rebut-anecdote	openQuestions	Why does that story not defeat the pattern?	¿Por qué esa historia no derrota el patrón?
+W	open-answer-c1o-rebut-anecdote	openAnswers	Because a story can sit inside a pattern without cancelling it. I'd ask for a count, not a louder story.	Porque una historia puede habitar un patrón sin anularlo. Pediría un recuento, no una historia más alta.
+W	open-question-c1o-rebut-motive	openQuestions	Why is motive not the issue?	¿Por qué el móvil no es el asunto?
+W	open-answer-c1o-rebut-motive	openAnswers	Because a bad motive can travel with a true claim. I'd test the claim and leave the motive to another room.	Porque un mal móvil puede viajar con una afirmación verdadera. Probaría la afirmación y dejaría el móvil para otra sala.
+W	open-question-c1o-rebut-tone-police	openQuestions	Why is tone not a rebuttal?	¿Por qué el tono no es una refutación?

@@ -1,5 +1,6 @@
 import type { VocabularyEntry, VerbItem, VocabularyItem } from "../types/vocabulary";
 import { allEntries } from "./englishCatalog";
+import { measureParity } from "./parity";
 import { isVerbItem } from "../utils/vocabulary";
 
 interface WordGloss {
@@ -85,4 +86,5 @@ const mapped: VocabularyEntry[] = allEntries.flatMap((entry) => {
   return next ? [next] : [];
 });
 
-export const germanEntries: VocabularyEntry[] = mapped.length === allEntries.length ? mapped : [];
+/** Publish only when the 89 % parity contract is met (phase 34). Below that, stay empty. */
+export const germanEntries: VocabularyEntry[] = measureParity(mapped).meetsParity ? mapped : [];

@@ -1,0 +1,800 @@
+W	pronoun-you-yourself	Sie selbst
+W	pronoun-i-myself	ich selbst
+W	pronoun-one-oneself	man selbst
+W	pronoun-each-himself	jeder für sich
+W	pronoun-no-man	niemand
+W	pronoun-no-woman	keine
+W	pronoun-everyman	der gemeine Mann
+W	pronoun-any-man	jeder Mann
+W	pronoun-any-woman	jede Frau
+W	pronoun-every-man	jeder Mann
+W	pronoun-every-woman	jede Frau
+W	pronoun-some-man	irgendein Mann
+W	pronoun-some-woman	irgendeine Frau
+W	pronoun-the-grantor	Veräußerer
+W	pronoun-the-grantee	Zessionar
+W	pronoun-the-decedent	Erblasser
+W	pronoun-the-testator	Testator
+W	pronoun-the-legatee	Vermächtnisnehmer
+W	pronoun-the-assignor	Zedent
+W	pronoun-the-assignee	Zessionar
+W	pronoun-the-promisee	Versprechensgläubiger
+W	pronoun-the-promisor	Versprechensschuldner
+W	pronoun-the-hereinabove	Vorgenannter
+W	pronoun-the-hereinafter-named	Nachstehendgenannter
+W	pronoun-yours-truly	ergebener Diener
+W	pronoun-your-humble-servant	Ihr ergebener Diener
+W	pronoun-the-writer	Unterzeichner
+W	pronoun-the-speaker	Sprecher
+W	pronoun-the-present-writer	Schreiber dieser Zeilen
+W	pronoun-this-one	dieser
+W	pronoun-that-one	jener
+W	pronoun-yon	jener
+W	pronoun-yonder-one	jener dort
+W	preposition-pursuant-to	gemäß
+W	preposition-notwithstanding	ungeachtet
+W	preposition-inasmuch-as	insofern als
+W	preposition-for-want-of	mangels
+W	preposition-at-variance-with	im Widerspruch zu
+W	preposition-in-lieu-of	anstelle von
+W	preposition-by-virtue-of	kraft
+W	preposition-by-dint-of	kraft
+W	preposition-in-keeping-with	im Einklang mit
+W	preposition-at-odds-with	im Zwist mit
+W	preposition-in-defiance-of	trotz
+W	preposition-with-a-view-to	mit Blick auf
+W	preposition-with-an-eye-to	mit dem Ziel
+W	preposition-for-the-sake-of	um … willen
+W	preposition-on-pain-of	bei Strafe von
+W	preposition-under-pain-of	unter Strafe von
+W	preposition-in-the-teeth-of	wider
+W	preposition-in-the-face-of	angesichts
+W	preposition-in-the-wake-of	im Gefolge von
+W	preposition-on-the-heels-of	auf den Fersen von
+W	preposition-at-the-behest-of	auf Geheiß von
+W	preposition-at-the-instance-of	auf Antrag von
+W	preposition-by-order-of	auf Anordnung von
+W	preposition-in-furtherance-of	zur Förderung von
+W	preposition-in-pursuance-of	in Erfüllung von
+W	preposition-in-default-of	mangels
+W	preposition-in-the-absence-of	in Abwesenheit von
+W	preposition-for-lack-of	aus Mangel an
+W	preposition-for-fear-of	aus Furcht vor
+W	preposition-for-love-of	aus Liebe zu
+W	preposition-in-spite-of	trotz
+W	preposition-irrespective-of	unabhängig von
+W	preposition-regardless-of	ungeachtet
+W	preposition-short-of	mangels
+W	preposition-shy-of	knapp unter
+W	preposition-barring	abgesehen von
+W	preposition-save	außer
+W	preposition-save-for	außer
+W	preposition-excepting	ausgenommen
+W	preposition-failing	mangels
+W	preposition-pending	bis zur Entscheidung von
+W	preposition-absent	mangels
+W	preposition-anent	bezüglich
+W	preposition-athwart	quer durch
+W	preposition-aslant	schräg über
+W	preposition-aslope	abschüssig zu
+W	preposition-betwixt	zwischen
+W	preposition-unto	bis zu
+W	preposition-vis-a-vis	gegenüber
+W	preposition-a-propos-of	apropos
+W	preposition-as-regards	was … betrifft
+W	preposition-as-to	hinsichtlich
+W	preposition-as-for	was … angeht
+W	preposition-as-per	laut
+W	preposition-touching	betreffend
+W	preposition-respecting	bezüglich
+W	preposition-considering	angesichts
+W	preposition-given	angesichts
+W	preposition-granted	zugegeben
+W	preposition-ahead-of	vor
+W	preposition-along-with	zusammen mit
+W	preposition-apart-from	abgesehen von
+W	preposition-aside-from	neben
+W	preposition-away-from	weg von
+W	preposition-because-of	wegen
+W	preposition-close-to	nahe bei
+W	preposition-contrary-to	entgegen
+W	preposition-depending-on	je nach
+W	preposition-due-to	aufgrund von
+W	preposition-except-for	außer
+W	preposition-exclusive-of	ohne
+W	preposition-instead-of	statt
+W	preposition-next-to	neben
+W	preposition-on-account-of	wegen
+W	preposition-on-behalf-of	im Namen von
+W	preposition-on-top-of	auf
+W	preposition-other-than	außer
+W	preposition-out-of	aus
+W	preposition-outside-of	außerhalb von
+W	preposition-owing-to	aufgrund von
+W	preposition-preliminary-to	vor
+W	preposition-previous-to	vor
+W	preposition-prior-to	vor
+W	preposition-relative-to	bezüglich
+W	preposition-subsequent-to	nach
+W	preposition-thanks-to	dank
+W	preposition-together-with	zusammen mit
+W	preposition-up-against	gegenüber
+W	preposition-up-to	bis zu
+W	preposition-up-until	bis
+W	preposition-void-of	bar
+W	preposition-wanting	mangels
+W	preposition-with-respect-to	in Bezug auf
+W	preposition-with-regard-to	im Hinblick auf
+W	preposition-with-reference-to	unter Bezugnahme auf
+W	preposition-in-respect-of	hinsichtlich
+W	preposition-in-regard-to	bezüglich
+W	preposition-in-reference-to	unter Bezug auf
+W	preposition-in-relation-to	im Verhältnis zu
+W	preposition-in-connection-with	im Zusammenhang mit
+W	preposition-in-accordance-with	in Übereinstimmung mit
+W	preposition-in-agreement-with	in Übereinstimmung mit
+W	preposition-in-line-with	im Einklang mit
+W	preposition-in-step-with	im Gleichschritt mit
+W	preposition-in-concert-with	im Einvernehmen mit
+W	preposition-in-conjunction-with	in Verbindung mit
+W	preposition-in-combination-with	in Kombination mit
+W	preposition-in-company-with	in Begleitung von
+W	preposition-in-common-with	gemeinsam mit
+W	preposition-in-comparison-with	im Vergleich zu
+W	preposition-in-contrast-to	im Gegensatz zu
+W	preposition-in-contrast-with	gegenüber
+W	preposition-in-exchange-for	im Tausch gegen
+W	preposition-in-return-for	als Gegenleistung für
+W	preposition-in-payment-of	in Zahlung von
+W	preposition-in-settlement-of	zur Abgeltung von
+W	preposition-in-satisfaction-of	zur Befriedigung von
+W	preposition-in-discharge-of	zur Entlastung von
+W	preposition-in-place-of	anstelle von
+W	preposition-in-substitution-for	als Ersatz für
+W	preposition-in-addition-to	neben
+W	preposition-in-excess-of	über … hinaus
+W	preposition-in-advance-of	im Voraus vor
+W	preposition-in-back-of	hinter
+W	preposition-in-front-of	vor
+W	preposition-in-the-middle-of	inmitten von
+W	preposition-in-the-midst-of	mitten in
+W	preposition-in-the-thick-of	mitten im Getümmel von
+W	preposition-in-the-heart-of	im Herzen von
+W	preposition-in-the-course-of	im Laufe von
+W	preposition-in-the-process-of	dabei, zu
+W	preposition-in-the-act-of	beim
+W	preposition-in-the-habit-of	in der Gewohnheit von
+W	preposition-in-danger-of	in Gefahr von
+W	preposition-in-fear-of	in Furcht vor
+W	preposition-in-awe-of	in Ehrfurcht vor
+W	preposition-in-dread-of	in Schrecken vor
+W	preposition-in-hope-of	in der Hoffnung auf
+W	preposition-in-expectation-of	in Erwartung von
+W	preposition-in-anticipation-of	in Voraussicht von
+W	preposition-in-token-of	zum Zeichen von
+W	preposition-in-honour-of	zu Ehren von
+W	preposition-in-memory-of	zum Andenken an
+W	preposition-in-praise-of	zum Lobe von
+W	preposition-in-favour-of	zugunsten von
+W	preposition-in-support-of	zur Unterstützung von
+W	preposition-in-defence-of	zur Verteidigung von
+W	preposition-on-the-part-of	seitens
+W	preposition-on-the-side-of	aufseiten von
+W	preposition-on-the-strength-of	kraft
+W	preposition-on-the-basis-of	auf der Grundlage von
+W	preposition-on-the-grounds-of	aus Gründen von
+W	preposition-on-the-occasion-of	anlässlich
+W	preposition-on-the-subject-of	zum Thema
+W	preposition-on-the-matter-of	in der Sache
+W	preposition-on-the-point-of	im Begriff zu
+W	preposition-on-the-verge-of	am Rande von
+W	preposition-on-the-brink-of	am Rande von
+W	preposition-on-the-edge-of	am Rand von
+W	preposition-on-the-eve-of	am Vorabend von
+W	preposition-on-the-threshold-of	an der Schwelle von
+W	preposition-at-the-mercy-of	auf Gedeih und Verderb von
+W	preposition-at-the-expense-of	auf Kosten von
+W	preposition-at-the-cost-of	um den Preis von
+W	preposition-at-the-risk-of	unter Gefahr von
+W	preposition-at-the-hands-of	durch die Hand von
+W	preposition-at-the-foot-of	am Fuß von
+W	preposition-at-the-head-of	an der Spitze von
+W	preposition-at-the-top-of	oben auf
+W	preposition-at-the-bottom-of	am Grunde von
+W	preposition-at-the-back-of	hinter
+W	preposition-at-the-front-of	an der Front von
+W	preposition-at-the-side-of	an der Seite von
+W	preposition-at-the-heart-of	im Kern von
+W	preposition-at-the-root-of	an der Wurzel von
+W	preposition-at-the-core-of	im Mark von
+W	preposition-by-means-of	mittels
+W	preposition-by-way-of	im Wege von
+W	preposition-by-force-of	kraft
+W	preposition-by-reason-of	aufgrund von
+W	preposition-by-right-of	kraft Rechts von
+W	preposition-by-leave-of	mit Erlaubnis von
+W	preposition-by-consent-of	mit Zustimmung von
+W	preposition-by-authority-of	kraft Befugnis von
+W	preposition-by-direction-of	auf Weisung von
+W	preposition-by-command-of	auf Befehl von
+W	preposition-under-cover-of	unter dem Schutz von
+W	preposition-under-colour-of	unter dem Deckmantel von
+W	preposition-under-guise-of	unter dem Anschein von
+W	preposition-under-pretence-of	unter dem Vorwand von
+W	preposition-under-the-pretence-of	unter dem Vorwand von
+W	preposition-under-the-guise-of	unter dem Mantel von
+W	preposition-under-the-cloak-of	unter dem Schleier von
+W	preposition-under-the-shadow-of	im Schatten von
+W	preposition-under-the-wing-of	unter dem Flügel von
+W	preposition-under-the-thumb-of	unter der Knute von
+W	preposition-under-the-heel-of	unter der Ferse von
+W	preposition-over-and-above	über … hinaus
+W	preposition-over-against	gegenüber
+W	preposition-outwith	außerhalb von
+W	preposition-from-among	aus … heraus
+W	preposition-from-amongst	aus … heraus
+W	preposition-from-between	aus … zwischen
+W	preposition-from-under	unter … hervor
+W	preposition-from-above	von oben herab
+W	preposition-from-beneath	unter … hervor
+W	preposition-from-behind	von hinten
+W	preposition-from-beyond	von jenseits
+W	preposition-from-within	von innen aus
+W	preposition-from-without	von außen her
+W	preposition-from-across	von jenseits
+W	preposition-subsequent-upon	infolge von
+W	preposition-consequent-upon	infolge von
+W	preposition-attendant-upon	verbunden mit
+W	preposition-incumbent-upon	obliegend
+W	preposition-binding-upon	bindend für
+W	preposition-dependent-upon	abhängig von
+W	preposition-contingent-upon	bedingt durch
+W	preposition-conditional-upon	bedingt durch
+W	preposition-predicated-upon	gestützt auf
+W	preposition-founded-upon	gegründet auf
+W	preposition-based-upon	beruhend auf
+W	preposition-grounded-upon	beruhend auf
+W	preposition-premised-upon	beruhend auf
+W	preposition-predicated-on	gestützt auf
+W	preposition-akin-to	verwandt mit
+W	preposition-allied-to	verwandt mit
+W	preposition-apropos-of	apropos
+W	preposition-back-of	hinter
+W	preposition-further-to	im Anschluss an
+W	preposition-inside-of	innerhalb von
+W	preposition-near-to	nahe bei
+W	preposition-opposite-to	gegenüber
+W	preposition-preparatory-to	zur Vorbereitung auf
+W	preposition-preparatory-for	zur Vorbereitung auf
+W	preposition-pursuant-of	in Verfolgung von
+W	preposition-round-about	rund um
+W	preposition-short-for	Kurzform für
+W	preposition-besides	neben
+W	preposition-amongst	unter
+W	preposition-amidst	inmitten von
+W	preposition-across-from	gegenüber von
+W	preposition-adjacent-to	angrenzend an
+W	preposition-contiguous-to	grenzend an
+W	preposition-proximate-to	nahe bei
+W	preposition-antecedent-to	vorausgehend zu
+W	preposition-posterior-to	nachfolgend zu
+W	preposition-anterior-to	vorausgehend zu
+W	preposition-for-and-on-behalf-of	für und im Namen von
+W	preposition-for-and-in-consideration-of	für und als Gegenleistung für
+W	preposition-in-and-around	in und um
+W	preposition-in-and-out-of	hinein und hinaus aus
+W	preposition-on-and-after	ab
+W	preposition-on-or-about	am oder um
+W	preposition-on-or-before	am oder vor
+W	preposition-on-or-after	am oder nach
+W	preposition-as-from	ab
+W	preposition-as-of	Stand
+W	preposition-as-against	gegenüber
+W	preposition-as-between	zwischen
+W	preposition-but-for	wäre da nicht
+W	preposition-excepting-only	ausgenommen nur
+W	preposition-failing-which	andernfalls
+W	preposition-for-and-against	für und wider
+W	preposition-in-and-for	in und für
+W	preposition-of-and-concerning	von und betreffend
+W	preposition-to-and-including	bis einschließlich
+W	preposition-up-to-and-including	bis einschließlich
+W	preposition-with-and-subject-to	mit und vorbehaltlich
+W	preposition-sans	ohne
+W	preposition-versus	gegen
+W	preposition-circa	circa
+W	preposition-mid	Mitte
+W	preposition-neath	unter
+W	preposition-o-er	über
+W	preposition-to-the-detriment-of	zum Nachteil von
+W	preposition-to-the-exclusion-of	unter Ausschluss von
+W	preposition-anear	nahe bei
+W	preposition-anenst	bezüglich
+W	preposition-fornent	gegenüber
+W	preposition-outbye	jenseits
+W	preposition-inbye	hineinwärts
+W	preposition-withinside	innerhalb von
+W	preposition-withoutside	außerhalb von
+W	preposition-alongside	längsseits
+W	preposition-alongside-of	längsseits von
+W	preposition-abeam-of	querab von
+W	preposition-abaft-of	achteraus von
+W	preposition-forward-of	vorwärts von
+W	preposition-astern-of	achteraus von
+W	preposition-inboard-of	binnenseits von
+W	preposition-outboard-of	außenseits von
+W	preposition-to-windward-of	luvwärts von
+W	preposition-to-leeward-of	leewärts von
+W	preposition-seaward-of	seewärts von
+W	preposition-landward-of	landwärts von
+W	preposition-downstream-of	flussabwärts von
+W	preposition-upstream-of	flussaufwärts von
+W	preposition-downriver-of	stromabwärts von
+W	preposition-upriver-of	stromaufwärts von
+W	preposition-this-side-of	diesseits von
+W	preposition-the-far-side-of	jenseits von
+W	preposition-the-near-side-of	diesseits von
+W	preposition-hard-by	dicht bei
+W	preposition-nigh-unto	nahe bei
+W	preposition-hard-upon	dicht an
+W	preposition-full-upon	mitten auf
+W	preposition-smack-against	mitten gegen
+W	preposition-bang-against	prall gegen
+W	preposition-flush-with	bündig mit
+W	preposition-level-with	auf gleicher Höhe mit
+W	preposition-even-with	gleichauf mit
+W	preposition-abreast-of	auf Höhe von
+W	preposition-in-the-lee-of	im Windschatten von
+W	noun-shortfall	Fehlbetrag
+W	noun-uptake	Aufnahme
+W	noun-buy-in	Zustimmung
+W	noun-trade-off	Zielkonflikt
+W	noun-knock-on	Folgewirkung
+W	noun-spillover	Übertragungseffekt
+W	noun-blowback	politischer Rückschlag
+W	noun-pushback	Widerstand
+W	noun-walkout	Sitzungsauszug
+W	noun-lockout	Aussperrung
+W	noun-stand-off	Pattsituation
+W	noun-climbdown	Rückzieher
+W	noun-about-turn	Kehrtwende
+W	noun-write-off	Abschreibung
+W	noun-write-down	Wertberichtigung
+W	noun-sell-off	Massenverkauf
+W	noun-takeover	Übernahme
+W	noun-spin-off	Abspaltung
+W	noun-carve-out	Ausgliederung
+W	noun-headcount	Personalbestand
+W	noun-headroom	Handlungsspielraum
+W	noun-war-chest	Kriegskasse
+W	noun-slush-fund	schwarzer Fonds
+W	noun-sinecure	Sinekure
+W	noun-incumbency	Amtsinhaberschaft
+W	noun-remit	Zuständigkeit
+W	noun-caseload	Aktenlast
+W	noun-backlog	Rückstand
+W	noun-throughput	Durchsatz
+W	noun-turnaround	Sanierung
+W	noun-lead-time	Vorlaufzeit
+W	noun-slippage	Terminverzug
+W	noun-overrun	Kostenüberschreitung
+W	noun-overspend	Mehrverbrauch
+W	noun-underspend	Minderverbrauch
+W	noun-mismatch	Missverhältnis
+W	noun-misalignment	Fehlausrichtung
+W	noun-disconnect	Entkopplung
+W	noun-fault-line	Bruchlinie
+W	noun-flashpoint	Zündpunkt
+W	noun-tinderbox	Pulverfass
+W	noun-powder-keg	Pulverfass
+W	noun-tripwire	Auslöser
+W	noun-tipping-point	Kipppunkt
+W	noun-juncture	Lage
+W	noun-crossroads	Scheideweg
+W	noun-impasse	Sackgasse
+W	noun-logjam	Verfahrensstau
+W	noun-choke-point	Flaschenhals
+W	noun-stranglehold	Würgegriff
+W	noun-leverage	Hebelwirkung
+W	noun-sway	Einfluss
+W	noun-heft	Gewicht
+W	noun-firepower	finanzielle Schlagkraft
+W	noun-footprint	Fußabdruck
+W	noun-bandwidth	Aufmerksamkeitsspanne
+W	noun-uproar	Aufruhr
+W	noun-hue-and-cry	öffentlicher Aufschrei
+W	noun-secondment	Abordnung
+W	noun-furlough	Zwangsbeurlaubung
+W	noun-garden-leave	bezahlte Freistellung
+W	noun-notice-period	Kündigungsfrist
+W	noun-cooling-off	Widerrufsfrist
+W	noun-standstill	Stillhalteabkommen
+W	noun-surcharge	Zuschlag
+W	noun-clawback	Rückforderung
+W	noun-haircut	Haarschnitt
+W	noun-bailout	Rettungspaket
+W	noun-bail-in	Bail-in
+W	noun-fire-sale	Notverkauf
+W	noun-going-concern	Fortführungsunternehmen
+W	noun-goodwill	Geschäftswert
+W	noun-whistleblower	Hinweisgeber
+W	noun-leak	Leck
+W	noun-briefing	Unterrichtung
+W	noun-backgrounder	Hintergrundnotiz
+W	noun-doorstep	Türschwelleninterview
+W	noun-soundbite	Soundbite
+W	noun-talking-point	Gesprächspunkt
+W	noun-holding-line	Warteformel
+W	noun-watchdog	Aufsichtsorgan
+W	noun-ombudsman	Bürgerbeauftragter
+W	noun-quango	Quango
+W	noun-think-tank	Denkfabrik
+W	noun-task-force	Einsatzgruppe
+W	noun-working-party	Arbeitsgruppe
+W	noun-steering-group	Lenkungsgruppe
+W	noun-standing-committee	ständiger Ausschuss
+W	noun-select-committee	Untersuchungsausschuss
+W	noun-inquiry	Untersuchungskommission
+W	noun-inquest	gerichtliche Untersuchung
+W	noun-hearing	Anhörung
+W	noun-sitting	Plenarsitzung
+W	noun-adjournment	Vertagung
+W	noun-deferral	Aufschub
+W	noun-stay	Aussetzung
+W	noun-injunction	Unterlassungsverfügung
+W	noun-restraining-order	Näherungsverbot
+W	noun-gagging-order	Schweigegebot
+W	noun-super-injunction	Superinjunction
+W	noun-discovery	Aktenherausgabe
+W	noun-shortlist	Auswahlliste
+W	noun-longlist	Langliste
+W	noun-run-off	Stichwahl
+W	noun-recount	Nachzählung
+W	noun-hung-parliament	Parlament ohne Mehrheit
+W	noun-hung-jury	uneinige Jury
+W	noun-landslide	Erdrutschsieg
+W	noun-wipeout	Vernichtung
+W	noun-swing	Wählerwanderung
+W	noun-turnout	Wahlbeteiligung
+W	noun-spoilt-ballot	ungültiger Stimmzettel
+W	noun-postal-vote	Briefwahl
+W	noun-proxy-vote	Stimmvollmacht
+W	noun-three-line-whip	strenger Fraktionszwang
+W	noun-free-vote	Gewissensabstimmung
+W	noun-pairing	Paarung
+W	noun-by-election	Nachwahl
+W	noun-snap-election	vorzeitige Wahl
+W	noun-caretaker-government	Übergangsregierung
+W	noun-no-confidence	Misstrauensvotum
+W	noun-censure-motion	Missbilligungsantrag
+W	noun-white-paper	Weißbuch
+W	noun-green-paper	Grünbuch
+W	noun-command-paper	Regierungsvorlage
+W	noun-statutory-instrument	Rechtsverordnung
+W	noun-sunset-clause	Auslaufklausel
+W	noun-grandfathering	Bestandsschutz
+W	noun-wrecking-amendment	Zerstörungsänderung
+W	noun-reasoned-amendment	Ablehnungsänderung
+W	noun-caveat	Vorbehalt
+W	noun-proviso	Vorbehaltsklausel
+W	noun-rider	Zusatzklausel
+W	noun-small-print	Kleingedrucktes
+W	noun-get-out	Ausstiegsklausel
+W	noun-break-clause	Kündigungsklausel
+W	noun-lock-in	Bindungsfrist
+W	noun-lock-up	Sperrfrist
+W	noun-non-compete	Wettbewerbsverbot
+W	noun-sign-off	Freigabe
+W	noun-go-ahead	grünes Licht
+W	noun-scorecard	Kennzahlenblatt
+W	noun-headline-figure	Schlagzeilenzahl
+W	noun-headline-rate	Schlagzeilenrate
+W	noun-underlying-rate	Kernrate
+W	noun-controlling-stake	Kontrollbeteiligung
+W	noun-blocking-stake	Sperrbeteiligung
+W	noun-golden-share	Goldene Aktie
+W	noun-poison-pill	Giftpille
+W	noun-white-knight	Weißer Ritter
+W	noun-dawn-raid	Morgengrauen-Übernahme
+W	noun-concert-party	Abstimmungskonsortium
+W	noun-receivership	Zwangsverwaltung
+W	noun-winding-up	Gesellschaftsauflösung
+W	noun-stewardship	Treuhandführung
+W	noun-chairmanship	Vorsitz
+W	noun-speakership	Parlamentspräsidium
+W	noun-rapporteurship	Berichterstattung
+W	noun-workload	Arbeitslast
+W	noun-pipeline	Projektpipeline
+W	noun-runway	Liquiditätspuffer
+W	noun-burn-rate	Verbrennungsrate
+W	noun-revolving-door	Drehtür
+W	noun-glass-ceiling	gläserne Decke
+W	noun-old-boy-network	Seilschaft
+W	noun-golden-handshake	goldener Handschlag
+W	noun-golden-parachute	goldener Fallschirm
+W	noun-sweetheart-deal	Gefälligkeitsgeschäft
+W	noun-pork-barrel	Klientelismus
+W	noun-cap	Obergrenze
+W	noun-collar	Preiskorridor
+W	noun-bracket	Stufe
+W	noun-tier	Ebene
+W	noun-rung	Sprosse
+W	noun-windfall-tax	Zufallsgewinnsteuer
+W	noun-deep-background	anonyme Quelle
+W	noun-line-to-take	Sprachregelung
+W	noun-gag	Maulkorb
+W	noun-disclosure-duty	Offenlegungspflicht
+W	noun-public-interest	öffentliches Interesse
+W	noun-money-bill	Haushaltsgesetz
+W	noun-enabling-act	Ermächtigungsgesetz
+W	noun-framework-law	Rahmengesetz
+W	noun-hardship-clause	Härteklausel
+W	noun-gagging-clause	Schweigeklausel
+W	noun-bottom-line	Ergebnis
+W	noun-top-line	Umsatz
+W	noun-holdings	Beteiligungen
+W	noun-stakeholding	Anteilsbesitz
+W	noun-tutelage	Vormundschaft
+W	noun-wardship	Pflegschaft
+W	noun-trusteeship	Treuhänderschaft
+W	noun-black-knight	schwarzer Ritter
+W	noun-cooling-off-period	Bedenkfrist
+W	noun-notice-to-quit	Räumungsaufforderung
+W	noun-show-of-hands	Handabstimmung
+W	noun-roll-call	namentliche Abstimmung
+W	noun-voice-vote	Akklamation
+W	noun-casting-vote	Stichentscheid
+W	noun-proxy-battle	Vollmachtkampf
+W	noun-rights-issue	Bezugsrechtsemission
+W	noun-scrip-issue	Gratisaktienemission
+W	noun-share-buyback	Aktienrückkauf
+W	noun-dividend-strip	Dividendenschnitt
+W	noun-chinese-wall	Chinesische Mauer
+W	noun-ring-fence	Vermögensabschirmung
+W	noun-safe-harbour	Safe Harbour
+W	noun-safe-seat	sicheres Mandat
+W	noun-marginal-seat	unsicheres Mandat
+W	noun-bellwether-seat	Indikatormandat
+W	noun-rotten-borough	fauler Wahlkreis
+W	noun-pocket-borough	Taschenwahlkreis
+W	noun-gerrymander	Wahlkreisziehung
+W	noun-dog-whistle	Hundepfeife
+W	noun-dead-cat	tote Katze
+W	noun-kite-flying	Versuchsballon
+W	noun-trial-balloon	Versuchsballon
+W	noun-straw-poll	Strohhalmumfrage
+W	noun-exit-poll	Nachwahlumfrage
+W	noun-opinion-former	Meinungsbildner
+W	noun-gatekeeper	Torwächter
+W	noun-rainmaker	Großkundenwerber
+W	noun-rainy-day-fund	Notgroschen
+W	noun-sinking-fund	Tilgungsfonds
+W	noun-escrow	Treuhanddepot
+W	noun-earnest-money	Anzahlungsbetrag
+W	noun-retainer	Vorschuss
+W	noun-success-fee	Erfolgshonorar
+W	noun-contingency-fee	Erfolgshonorar
+W	noun-brief	Mandat
+W	noun-docket	Verhandlungsliste
+W	noun-case-file	Aktenstück
+W	noun-paper-trail	Papierspur
+W	noun-audit-trail	Prüfungsspur
+W	noun-smoking-gun	rauchende Pistole
+W	noun-red-flag	Warnsignal
+W	noun-yellow-card	gelbe Karte
+W	noun-red-card	rote Karte
+W	noun-own-goal	Eigentor
+W	noun-banana-skin	Bananenschale
+W	noun-banana-peel	Bananenschale
+W	noun-hot-potato	heiße Kartoffel
+W	noun-poisoned-chalice	vergifteter Kelch
+W	noun-hospital-pass	Krankenhauspass
+W	noun-poisoned-well	vergifteter Brunnen
+W	noun-fig-leaf	Feigenblatt
+W	noun-smokescreen	Nebelwand
+W	noun-window-dressing	Bilanzkosmetik
+W	noun-creative-accounting	kreative Buchführung
+W	noun-off-books	außerbilanziell
+W	noun-shadow-banking	Schattenbankwesen
+W	noun-shadow-cabinet	Schattenkabinett
+W	noun-kitchen-cabinet	Küchenkabinett
+W	noun-war-room	Kriegsraum
+W	noun-situation-room	Lagezentrum
+W	noun-press-pack	Pressemeute
+W	noun-lobby-fodder	Parlamentskanonenfutter
+W	noun-cannon-fodder	Kanonenfutter
+W	noun-rank-and-file	Basis
+W	noun-grass-roots	Graswurzelbasis
+W	noun-astroturf	Scheinmobilisierung
+W	noun-astroturfing	Scheinmobilisierung
+W	noun-sock-puppet	Strohmannkonto
+W	noun-front-organisation	Tarnorganisation
+W	noun-cut-out	Schnittstelle
+W	noun-go-between	Vermittler
+W	noun-middleman	Zwischenhändler
+W	noun-gatekeeping	Zugangskontrolle
+W	noun-capture	Regulierungseroberung
+W	noun-regulatory-capture	Regulierungseroberung
+W	noun-mission-creep	Auftragsausweitung
+W	noun-scope-creep	Umfangsausweitung
+W	noun-feature-creep	Funktionsaufblähung
+W	noun-function-creep	Nutzungsverschiebung
+W	noun-mandate	Auftrag
+W	noun-terms-of-reference	Untersuchungsmandat
+W	noun-terms-of-trade	Terms of Trade
+W	noun-terms-of-engagement	Auftragsbedingungen
+W	noun-rules-of-engagement	Einsatzregeln
+W	noun-ground-rules	Grundregeln
+W	noun-house-rules	Hausordnung
+W	noun-standing-orders	Geschäftsordnung
+W	noun-order-paper	Tagesordnung
+W	noun-order-of-business	Arbeitsordnung
+W	noun-business-of-the-house	Parlamentsgeschäfte
+W	noun-points-of-order	Geschäftsordnungsfragen
+W	noun-point-of-order	Geschäftsordnungsfrage
+W	noun-point-of-privilege	Privilegienfrage
+W	noun-contempt	Missachtung
+W	noun-privilege-motion	Privilegienantrag
+W	noun-early-day-motion	Frühzeitmotion
+W	noun-ten-minute-rule	Zehn-Minuten-Regel
+W	noun-private-member-s-bill	Abgeordneteninitiative
+W	noun-hybrid-bill	Hybridgesetz
+W	noun-money-resolution	Haushaltsermächtigung
+W	noun-ways-and-means	Wege und Mittel
+W	noun-supply-day	Bewilligungstag
+W	noun-estimates-day	Haushaltstag
+W	noun-queen-s-speech	Thronrede
+W	noun-king-s-speech	Thronrede
+W	noun-gracious-speech	Thronrede
+W	noun-prorogation	Sitzungspause
+W	noun-dissolution	Auflösung
+W	noun-writ-of-election	Wahlausschreiben
+W	noun-returning-officer	Wahlleiter
+W	noun-presiding-officer	Wahlvorsteher
+W	noun-teller	Stimmenzähler
+W	noun-whip-s-office	Fraktionsdisziplinbüro
+W	noun-usual-channels	übliche Kanäle
+W	noun-behind-the-chair	hinter dem Stuhl
+W	noun-smoke-filled-room	rauchgefülltes Zimmer
+W	noun-backroom-deal	Hinterzimmerdeal
+W	noun-side-deal	Nebenabrede
+W	noun-side-letter	Nebenbrief
+W	noun-memorandum-of-understanding	Absichtserklärung
+W	noun-heads-of-terms	Eckpunkte
+W	noun-term-sheet	Konditionenblatt
+W	noun-letter-of-intent	Absichtserklärung
+W	noun-comfort-letter	Comfort Letter
+W	noun-side-agreement	Nebenvereinbarung
+W	noun-lock-out-agreement	Exklusivitätsvereinbarung
+W	noun-exclusivity	Exklusivität
+W	noun-earn-out	Earn-out
+W	noun-claw-in	Bonusrückbehalt
+W	noun-malus	Malus
+W	noun-deferred-bonus	aufgeschobener Bonus
+W	noun-golden-hello	Antrittsprämie
+W	noun-handcuff-clause	Handschellenklausel
+W	noun-garden-leave-clause	Freistellungsklausel
+W	noun-severance	Abfindung
+W	noun-redundancy	betriebsbedingte Kündigung
+W	noun-layoff	Entlassung
+W	noun-furlough-scheme	Kurzarbeit
+W	noun-work-to-rule	Dienst nach Vorschrift
+W	noun-go-slow	Bummelstreik
+W	noun-wildcat-strike	wilder Streik
+W	noun-sympathy-strike	Solidaritätsstreik
+W	noun-secondary-action	unterstützende Aktion
+W	noun-picketing	Streikposten
+W	noun-flying-picket	fliegender Streikposten
+W	noun-closed-shop	Closed Shop
+W	noun-check-off	Gewerkschaftsabzug
+W	noun-recognition	Gewerkschaftsanerkennung
+W	noun-bargaining-unit	Tarifeinheit
+W	noun-pay-round	Tarifrunde
+W	noun-pay-freeze	Lohnstopp
+W	noun-pay-cap	Lohndeckel
+W	noun-pay-drag	Lohnschlepp
+W	noun-fiscal-drag	kalte Progression
+W	noun-bracket-creep	Stufenkriechen
+W	noun-tax-take	Steuereinnahmen
+W	noun-tax-gap	Steuerlücke
+W	noun-tax-wedge	Steuerkeil
+W	noun-tax-shelter	Steuerschlupfloch
+W	noun-tax-haven	Steuerparadies
+W	noun-brass-plate	Briefkastenfirma
+W	noun-letterbox-company	Briefkastengesellschaft
+W	noun-shell-company	Mantelgesellschaft
+W	noun-front-company	Scheinfirma
+W	noun-nominee-shareholder	Treuhandaktionär
+W	noun-beneficial-owner	wirtschaftlicher Eigentümer
+W	noun-ultimate-owner	letztendlicher Eigentümer
+W	noun-person-of-significant-control	Person mit signifikanter Kontrolle
+W	noun-politically-exposed-person	politisch exponierte Person
+W	noun-source-of-wealth	Vermögensherkunft
+W	noun-source-of-funds	Mittelherkunft
+W	noun-know-your-customer	Kundenprüfung
+W	noun-enhanced-due-diligence	verstärkte Sorgfalt
+W	noun-red-flag-report	Warnbericht
+W	noun-suspicious-activity-report	Verdachtsmeldung
+W	noun-tipping-off	Tipp-Off
+W	noun-safe-harbour-letter	Safe-Harbour-Schreiben
+W	noun-no-action-letter	No-Action-Letter
+W	noun-comfort-opinion	Comfort Opinion
+W	noun-legal-opinion	Rechtsgutachten
+W	noun-counsel-s-opinion	Anwaltsgutachten
+W	noun-leading-counsel	führender Anwalt
+W	noun-junior-counsel	Assistenzanwalt
+W	noun-silk	Seidenrobe
+W	noun-stuff-gown	Stoffrobe
+W	noun-bench	Richterbank
+W	noun-inns-of-court	Inns of Court
+W	noun-chambers	Anwaltskammer
+W	noun-clerk-of-chambers	Kammersekretär
+W	noun-brief-fee	Mandatsgebühr
+W	noun-refresher	Fortsetzungshonorar
+W	noun-wasted-costs	unnötige Kosten
+W	noun-security-for-costs	Kostensicherheit
+W	noun-without-prejudice-save	Kosten vorbehalten
+W	noun-calderbank-offer	Calderbank-Angebot
+W	noun-part-36-offer	Part-36-Angebot
+W	noun-tomlin-order	Tomlin-Beschluss
+W	noun-consent-order	Zustimmungsbeschluss
+W	noun-unless-order	Androhungsbeschluss
+W	noun-unless-notice	Androhungsaufforderung
+W	noun-unless-direction	Androhungsverfügung
+W	adjective-far-reaching	weitreichend
+W	adjective-wide-ranging	breitgefächert
+W	adjective-sweeping	pauschal
+W	adjective-blanket	flächendeckend
+W	adjective-across-the-board	durchgängig
+W	adjective-unqualified	uneingeschränkt
+W	adjective-unreserved	vorbehaltlos
+W	adjective-unequivocal	eindeutig
+W	adjective-unambiguous	unzweideutig
+W	adjective-clear-cut	klar
+W	adjective-cut-and-dried	abgeschlossen
+W	adjective-open-and-shut	sonnenklar
+W	adjective-watertight	wasserdicht
+W	adjective-airtight	luftdicht
+W	adjective-bulletproof	kugelsicher
+W	adjective-fireproof	feuersicher
+W	adjective-copper-bottomed	voll solvent
+W	adjective-gilt-edged	erstklassig
+W	adjective-blue-chip	Blue-Chip
+W	adjective-top-flight	erstklassig
+W	adjective-high-calibre	hochkarätig
+W	adjective-heavyweight	schwergewichtig
+W	adjective-lightweight	leichtgewichtig
+W	adjective-middleweight	mittelgewichtig
+W	adjective-featherweight	federgewichtig
+W	adjective-paper-thin	papierdünn
+W	adjective-skin-deep	oberflächlich
+W	adjective-deep-rooted	tief verwurzelt
+W	adjective-long-standing	langlebig
+W	adjective-long-running	langjährig
+W	adjective-short-lived	kurzlebig
+W	adjective-short-term	kurzfristig
+W	adjective-medium-term	mittelfristig
+W	adjective-long-term	langfristig
+W	adjective-near-term	nahefristig
+W	adjective-full-blown	voll ausgebildet
+W	adjective-full-scale	großmaßstäblich
+W	adjective-full-throated	lautstark
+W	adjective-full-blooded	unverblümt
+W	adjective-half-hearted	halbherzig
+W	adjective-wholehearted	ganzherzig
+W	adjective-single-minded	zielstrebig
+W	adjective-narrow-minded	engstirnig
+W	adjective-broad-minded	weltoffen
+W	adjective-open-minded	aufgeschlossen
+W	adjective-closed-minded	engköpfig
+W	adjective-even-tempered	gleichmütig
+W	adjective-quick-tempered	jähzornig
+W	adjective-short-tempered	reizbar
+W	adjective-hot-tempered	hitzig
+W	adjective-cool-headed	kühlköpfig
+W	adjective-hard-nosed	hartgesotten
+W	adjective-hard-edged	scharfkantig
+W	adjective-soft-spoken	leise sprechend
+W	adjective-plain-spoken	geradeheraus
+W	adjective-outspoken	freimütig
+W	adjective-soft-pedalled	abgeschwächt

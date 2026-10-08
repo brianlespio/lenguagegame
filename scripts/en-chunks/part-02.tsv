@@ -1,0 +1,800 @@
+W	adjective-smug	adjectives	smug	presumido
+W	adjective-snide	adjectives	snide	socarrón
+W	adjective-soggy	adjectives	soggy	empapado
+W	adjective-sordid	adjectives	sordid	ruin y sucio
+W	adjective-spry	adjectives	spry	ágil de años
+W	adjective-staid	adjectives	staid	formalón
+W	adjective-stark	adjectives	stark	desnudo
+W	adjective-steely	adjectives	steely	acerado
+W	adjective-stern	adjectives	stern	severo
+W	adjective-stodgy	adjectives	stodgy	pesado
+W	adjective-stolid	adjectives	stolid	impasible
+W	adjective-surly	adjectives	surly	arisco
+W	adjective-swarthy	adjectives	swarthy	moreno recio
+W	adjective-tacky	adjectives	tacky	hortera
+W	adjective-testy	adjectives	testy	irascible
+W	adjective-thrifty	adjectives	thrifty	ahorrativo
+W	adjective-uncouth	adjectives	uncouth	zafio
+W	adjective-unruly	adjectives	unruly	díscolo
+W	adjective-unwieldy	adjectives	unwieldy	ingobernable
+W	adjective-uppity	adjectives	uppity	engreído
+W	adjective-wary	adjectives	wary	receloso
+W	adjective-wayward	adjectives	wayward	díscolo
+W	adjective-wily	adjectives	wily	artero
+W	adjective-winsome	adjectives	winsome	cautivador
+W	adjective-wistful	adjectives	wistful	melancólico
+W	adjective-wry	adjectives	wry	irónico
+W	adjective-zany	adjectives	zany	chocarrero
+W	adverb-sorely	adverbs	sorely	gravemente
+W	adverb-nigh	adverbs	nigh	casi
+W	adverb-well-nigh	adverbs	well-nigh	casi del todo
+W	adverb-outright	adverbs	outright	de plano
+W	adverb-piecemeal	adverbs	piecemeal	a trozos
+W	adverb-wholesale	adverbs	wholesale	en bloque
+W	adverb-willy-nilly	adverbs	willy-nilly	quiera o no
+W	adverb-pell-mell	adverbs	pell-mell	a la desbandada
+W	adverb-helter-skelter	adverbs	helter-skelter	a la desbandada
+W	adverb-harum-scarum	adverbs	harum-scarum	a la ligera
+W	adverb-topsy-turvy	adverbs	topsy-turvy	al revés
+W	adverb-headlong	adverbs	headlong	de cabeza
+W	adverb-askance	adverbs	askance	de soslayo
+W	adverb-aslant	adverbs	aslant	al sesgo
+W	adverb-asunder	adverbs	asunder	en dos
+W	adverb-amiss	adverbs	amiss	mal
+W	adverb-apace	adverbs	apace	a paso vivo
+W	adverb-afresh	adverbs	afresh	de nuevo
+W	adverb-anew	adverbs	anew	otra vez
+W	adverb-afield	adverbs	afield	a campo
+W	adverb-afar	adverbs	afar	a lo lejos
+W	adverb-afoot	adverbs	afoot	en marcha
+W	adverb-abed	adverbs	abed	en el lecho
+W	adverb-aloft	adverbs	aloft	en lo alto
+W	adverb-amain	adverbs	amain	a toda fuerza
+W	adverb-amok	adverbs	amok	como un loco
+W	adverb-athwart	adverbs	athwart	de través
+W	adverb-aslope	adverbs	aslope	en pendiente
+W	adverb-awhile	adverbs	awhile	un rato
+W	adverb-betimes	adverbs	betimes	a tiempo
+W	adverb-forthwith	adverbs	forthwith	de inmediato
+W	adverb-henceforth	adverbs	henceforth	de aquí en adelante
+W	adverb-thenceforth	adverbs	thenceforth	de allí en adelante
+W	adverb-hereafter	adverbs	hereafter	de ahora en adelante
+W	adverb-thereafter	adverbs	thereafter	después de ello
+W	adverb-heretofore	adverbs	heretofore	hasta ahora
+W	adverb-theretofore	adverbs	theretofore	hasta entonces
+W	adverb-hitherto	adverbs	hitherto	hasta aquí
+W	adverb-hereby	adverbs	hereby	por la presente
+W	adverb-thereby	adverbs	thereby	con ello
+W	adverb-whereby	adverbs	whereby	por lo cual
+W	adverb-wherein	adverbs	wherein	en lo cual
+W	adverb-whereof	adverbs	whereof	de lo cual
+W	adverb-wherefore	adverbs	wherefore	por lo cual
+W	adverb-whence	adverbs	whence	de donde
+W	adverb-thence	adverbs	thence	de allí
+W	adverb-hence	adverbs	hence	de aquí
+W	adverb-hither	adverbs	hither	acá
+W	adverb-thither	adverbs	thither	allá
+W	adverb-whither	adverbs	whither	adónde
+W	adverb-yonder	adverbs	yonder	allá a lo lejos
+W	adverb-forsooth	adverbs	forsooth	en verdad
+W	adverb-verily	adverbs	verily	de veras
+W	adverb-perchance	adverbs	perchance	acaso
+W	adverb-peradventure	adverbs	peradventure	por ventura
+W	adverb-mayhap	adverbs	mayhap	quizá
+W	adverb-haply	adverbs	haply	por ventura
+W	adverb-belike	adverbs	belike	según parece
+W	adverb-fain	adverbs	fain	de grado
+W	adverb-lief	adverbs	lief	de buena gana
+W	adverb-passing	adverbs	passing	sumamente
+W	adverb-devilishly	adverbs	devilishly	endiabladamente
+W	adverb-exceedingly	adverbs	exceedingly	en grado sumo
+W	adverb-surpassingly	adverbs	surpassingly	de modo sobresaliente
+W	adverb-singularly	adverbs	singularly	de modo singular
+W	adverb-peculiarly	adverbs	peculiarly	de modo extraño
+W	adverb-uncommonly	adverbs	uncommonly	fuera de lo común
+W	adverb-markedly	adverbs	markedly	de modo marcado
+W	adverb-strikingly	adverbs	strikingly	de modo llamativo
+W	adverb-glaringly	adverbs	glaringly	de modo flagrante
+W	adverb-blatantly	adverbs	blatantly	descaradamente
+W	adverb-downright	adverbs	downright	de lleno
+W	adverb-plumb	adverbs	plumb	de lleno
+W	adverb-point-blank	adverbs	point-blank	a quemarropa
+W	adverb-stock-still	adverbs	stock-still	inmóvil del todo
+W	adverb-slap-bang	adverbs	slap-bang	de sopetón
+W	adverb-overmuch	adverbs	overmuch	en demasía
+W	adverb-overlong	adverbs	overlong	con exceso de tiempo
+W	adverb-unduly	adverbs	unduly	en demasía
+W	adverb-unwittingly	adverbs	unwittingly	sin saberlo
+W	adverb-wittingly	adverbs	wittingly	a sabiendas
+W	adverb-advisedly	adverbs	advisedly	a sabiendas
+W	adverb-designedly	adverbs	designedly	adrede
+W	adverb-studiedly	adverbs	studiedly	de estudio
+W	adverb-pointedly	adverbs	pointedly	de modo puntilloso
+W	adverb-avowedly	adverbs	avowedly	declaradamente
+W	adverb-ostensibly	adverbs	ostensibly	en apariencia
+W	adverb-stealthily	adverbs	stealthily	a hurtadillas
+W	adverb-furtively	adverbs	furtively	a escondidas
+W	adverb-covertly	adverbs	covertly	encubiertamente
+W	adverb-underhand	adverbs	underhand	con disimulo
+W	adverb-on-the-sly	adverbs	on the sly	a escondidas
+W	adverb-on-the-quiet	adverbs	on the quiet	en silencio
+W	adverb-on-the-hop	adverbs	on the hop	de improviso
+W	adverb-on-the-fly	adverbs	on the fly	sobre la marcha
+W	adverb-on-the-trot	adverbs	on the trot	sin parar
+W	adverb-offhandedly	adverbs	offhandedly	a la ligera
+W	adverb-extempore	adverbs	extempore	de improviso
+W	adverb-sidelong	adverbs	sidelong	de soslayo
+W	adverb-edgewise	adverbs	edgewise	de canto
+W	adverb-endwise	adverbs	endwise	de punta
+W	adverb-lengthwise	adverbs	lengthwise	a lo largo
+W	adverb-crosswise	adverbs	crosswise	al través
+W	adverb-elsewise	adverbs	elsewise	de otro modo
+W	adverb-anywise	adverbs	anywise	de algún modo
+W	adverb-nowise	adverbs	nowise	de ningún modo
+W	adverb-nohow	adverbs	nohow	de ningún modo
+W	adverb-nevermore	adverbs	nevermore	nunca jamás
+W	adverb-forevermore	adverbs	forevermore	por siempre jamás
+W	adverb-overnight	adverbs	overnight	de la noche a la mañana
+W	adverb-overboard	adverbs	overboard	por la borda
+W	adverb-underfoot	adverbs	underfoot	bajo los pies
+W	adverb-downwind	adverbs	downwind	a sotavento
+W	adverb-upwind	adverbs	upwind	a barlovento
+W	adverb-seaward	adverbs	seaward	hacia el mar
+W	adverb-landward	adverbs	landward	hacia tierra
+W	adverb-homeward	adverbs	homeward	hacia casa
+W	adverb-heavenward	adverbs	heavenward	hacia el cielo
+W	adverb-skyward	adverbs	skyward	cielo arriba
+W	adverb-earthward	adverbs	earthward	hacia el suelo
+W	adverb-leeward	adverbs	leeward	a sotavento
+W	adverb-windward	adverbs	windward	a barlovento
+W	adverb-abaft	adverbs	abaft	a popa
+W	adverb-abeam	adverbs	abeam	por el través
+W	adverb-amidships	adverbs	amidships	a mitad del buque
+W	adverb-astern	adverbs	astern	a popa
+W	adverb-aground	adverbs	aground	encallado
+W	adverb-adrift	adverbs	adrift	a la deriva
+W	adverb-afloat	adverbs	afloat	a flote
+W	adverb-awash	adverbs	awash	anegado
+W	adverb-astride	adverbs	astride	a horcajadas
+W	adverb-astray	adverbs	astray	extraviado
+W	adverb-ashore	adverbs	ashore	a tierra
+W	adverb-higgledy-piggledy	adverbs	higgledy-piggledy	revuelto del todo
+W	adverb-arsy-versy	adverbs	arsy-versy	al revés
+W	adverb-lock-stock-and-barrel	adverbs	lock, stock and barrel	con todo y el resto
+W	adverb-hook-line-and-sinker	adverbs	hook, line and sinker	con cebo y anzuelo
+W	adverb-hammer-and-tongs	adverbs	hammer and tongs	con ahínco feroz
+W	adverb-tooth-and-nail	adverbs	tooth and nail	uñas y dientes
+W	adverb-neck-and-neck	adverbs	neck and neck	a la par
+W	adverb-hand-over-fist	adverbs	hand over fist	a espuertas
+W	adverb-hand-in-glove	adverbs	hand in glove	en connivencia
+W	adverb-head-over-heels	adverbs	head over heels	perdidamente
+W	adverb-to-and-fro	adverbs	to and fro	de acá para allá
+W	adverb-far-and-wide	adverbs	far and wide	por doquier
+W	adverb-far-and-away	adverbs	far and away	de largo
+W	adverb-out-and-out	adverbs	out and out	de cabo a rabo
+W	adverb-through-and-through	adverbs	through and through	hasta los tuétanos
+W	adverb-once-and-for-all	adverbs	once and for all	de una vez por todas
+W	adverb-high-and-low	adverbs	high and low	por todas partes
+W	adverb-then-and-there	adverbs	then and there	allí mismo
+W	adverb-here-and-now	adverbs	here and now	aquí y ahora
+W	adverb-time-and-again	adverbs	time and again	una y otra vez
+W	adverb-day-in-day-out	adverbs	day in day out	día sí y día también
+W	adverb-year-in-year-out	adverbs	year in year out	año tras año
+W	adverb-round-the-clock	adverbs	round the clock	día y noche
+W	adverb-at-a-stretch	adverbs	at a stretch	de un tirón
+W	adverb-at-a-sitting	adverbs	at a sitting	de una sentada
+W	adverb-at-a-stroke	adverbs	at a stroke	de un golpe
+W	adverb-at-a-glance	adverbs	at a glance	de una ojeada
+W	adverb-at-a-pinch	adverbs	at a pinch	en un apuro
+W	adverb-at-a-push	adverbs	at a push	si apura
+W	adverb-at-full-tilt	adverbs	at full tilt	a todo trapo
+W	adverb-at-full-pelt	adverbs	at full pelt	a escape
+W	adverb-at-sixes-and-sevens	adverbs	at sixes and sevens	patas arriba
+W	adverb-at-loggerheads	adverbs	at loggerheads	a la greña
+W	adverb-at-bay	adverbs	at bay	acorralado
+W	adverb-at-large	adverbs	at large	en libertad
+W	adverb-at-leisure	adverbs	at leisure	con sosiego
+W	adverb-at-length	adverbs	at length	por extenso
+W	adverb-at-will	adverbs	at will	a voluntad
+W	adverb-at-random	adverbs	at random	al azar
+W	adverb-of-late	adverbs	of late	de un tiempo a esta parte
+W	adverb-of-old	adverbs	of old	de antiguo
+W	adverb-of-yore	adverbs	of yore	antaño
+W	adverb-of-necessity	adverbs	of necessity	por fuerza
+W	adverb-in-earnest	adverbs	in earnest	en serio
+W	adverb-in-vain	adverbs	in vain	en vano
+W	adverb-in-toto	adverbs	in toto	en su totalidad
+W	adverb-in-full	adverbs	in full	íntegramente
+W	adverb-in-brief	adverbs	in brief	en breve
+W	adverb-in-short	adverbs	in short	en suma
+W	adverb-in-sum	adverbs	in sum	en resumen
+W	adverb-in-kind	adverbs	in kind	en especie
+W	adverb-in-stride	adverbs	in stride	sin inmutarse
+W	adverb-in-store	adverbs	in store	en espera
+W	adverb-in-train	adverbs	in train	en marcha
+W	adverb-in-tow	adverbs	in tow	a remolque
+W	adverb-in-thrall	adverbs	in thrall	sojuzgado
+W	adverb-in-jest	adverbs	in jest	en broma
+W	adverb-in-sooth	adverbs	in sooth	en verdad
+W	adverb-in-fine	adverbs	in fine	en fin
+W	adverb-in-the-main	adverbs	in the main	en lo principal
+W	adverb-on-balance	adverbs	on balance	en conjunto
+W	adverb-on-cue	adverbs	on cue	como por arte de birlibirloque
+W	adverb-on-end	adverbs	on end	sin parar
+W	adverb-on-impulse	adverbs	on impulse	por impulso
+W	adverb-on-spec	adverbs	on spec	a riesgo
+W	adverb-on-tap	adverbs	on tap	a mano
+W	adverb-on-trust	adverbs	on trust	fiado
+W	adverb-offhand	adverbs	offhand	de sopetón
+W	adverb-cheek-by-jowl	adverbs	cheek by jowl	a ras
+W	adverb-by-and-by	adverbs	by and by	más adelante
+W	adverb-by-and-large	adverbs	by and large	en líneas generales
+W	adverb-off-and-on	adverbs	off and on	a ratos
+W	adverb-on-and-off	adverbs	on and off	a intervalos
+W	adverb-back-and-forth	adverbs	back and forth	de un lado a otro
+W	adverb-more-often-than-not	adverbs	more often than not	las más de las veces
+W	adverb-as-often-as-not	adverbs	as often as not	unas veces sí y otras no
+W	adverb-every-so-often	adverbs	every so often	de vez en cuando
+W	adverb-night-and-day	adverbs	night and day	noche y día
+W	adverb-at-full-stretch	adverbs	at full stretch	al límite
+W	adverb-at-hand	adverbs	at hand	al alcance
+W	adverb-at-issue	adverbs	at issue	en litigio
+W	adverb-at-stake	adverbs	at stake	en juego
+W	adverb-at-worst	adverbs	at worst	en el peor de los casos
+W	adverb-at-best	adverbs	at best	en el mejor de los casos
+W	adverb-at-most	adverbs	at most	cuando más
+W	adverb-in-situ	adverbs	in situ	en el sitio
+W	adverb-over-and-above	adverbs	over and above	por añadidura
+W	adverb-first-and-last	adverbs	first and last	ante todo
+W	adverb-left-and-right	adverbs	left and right	a diestro y siniestro
+W	adverb-now-and-again	adverbs	now and again	de cuando en cuando
+W	adverb-time-after-time	adverbs	time after time	una vez y otra
+W	adverb-week-in-week-out	adverbs	week in week out	semana tras semana
+W	adverb-at-a-blow	adverbs	at a blow	de un golpe
+W	adverb-at-a-trot	adverbs	at a trot	al trote
+W	adverb-knowingly	adverbs	knowingly	a sabiendas
+W	adverb-purposely	adverbs	purposely	adrede
+W	adverb-seemingly	adverbs	seemingly	al parecer
+W	adverb-outwardly	adverbs	outwardly	por fuera
+W	adverb-inwardly	adverbs	inwardly	por dentro
+W	adverb-overly	adverbs	overly	en exceso
+W	adverb-headfirst	adverbs	headfirst	de bruces
+W	adverb-smack	adverbs	smack	de lleno
+W	adverb-bang	adverbs	bang	de golpe
+W	adverb-flat	adverbs	flat	de plano
+W	adverb-clean	adverbs	clean	de un tajo
+W	adverb-wide	adverbs	wide	por mucho
+W	adverb-hard-by	adverbs	hard by	muy cerca
+W	adverb-full-well	adverbs	full well	muy bien
+W	adverb-right-well	adverbs	right well	de lo lindo
+W	adverb-passing-well	adverbs	passing well	de lo lindo
+W	adverb-sore	adverbs	sore	muy
+W	adverb-needs	adverbs	needs	por fuerza
+W	adverb-anon	adverbs	anon	en breve
+W	adverb-eftsoons	adverbs	eftsoons	en seguida
+W	adverb-whilom	adverbs	whilom	antaño
+W	adverb-withal	adverbs	withal	con todo
+W	adverb-therewithal	adverbs	therewithal	además de ello
+W	adverb-hereupon	adverbs	hereupon	tras esto
+W	adverb-thereupon	adverbs	thereupon	tras ello
+W	adverb-hereat	adverbs	hereat	ante esto
+W	adverb-thereat	adverbs	thereat	ante ello
+W	adverb-whereat	adverbs	whereat	ante lo cual
+W	adverb-herein	adverbs	herein	en el presente
+W	adverb-therein	adverbs	therein	en ello
+W	adverb-hereon	adverbs	hereon	sobre esto
+W	adverb-thereon	adverbs	thereon	sobre ello
+W	adverb-herewith	adverbs	herewith	adjunto
+W	adverb-therewith	adverbs	therewith	con ello
+W	adverb-hereunder	adverbs	hereunder	más abajo
+W	adverb-thereunder	adverbs	thereunder	bajo ello
+W	adverb-hereunto	adverbs	hereunto	a esto
+W	adverb-thereunto	adverbs	thereunto	a ello
+W	adverb-whereto	adverbs	whereto	a lo cual
+W	adverb-whereon	adverbs	whereon	sobre lo cual
+W	adverb-wherewith	adverbs	wherewith	con lo cual
+W	adverb-whereunder	adverbs	whereunder	bajo lo cual
+W	adverb-aloof	adverbs	aloof	a distancia
+W	adverb-askew	adverbs	askew	de través
+W	adverb-awry	adverbs	awry	torcido
+W	adverb-sideways	adverbs	sideways	de lado
+W	adverb-endways	adverbs	endways	de punta
+W	adverb-lengthways	adverbs	lengthways	a lo largo
+W	adverb-crossways	adverbs	crossways	al través
+W	adverb-clockwise	adverbs	clockwise	en el sentido de las agujas
+W	adverb-widdershins	adverbs	widdershins	a contrarreloj
+W	adverb-deasil	adverbs	deasil	a favor del sol
+W	adverb-sunwise	adverbs	sunwise	a favor del sol
+W	adverb-counterclockwise	adverbs	counterclockwise	a contrarreloj
+W	adverb-broadside	adverbs	broadside	de costado
+W	adverb-end-on	adverbs	end-on	de frente
+W	adverb-head-on	adverbs	head-on	de frente
+W	adverb-obliquely	adverbs	obliquely	al sesgo
+W	connector-that-said	connectors	that said	dicho esto
+W	connector-that-being-said	connectors	that being said	dicho lo cual
+W	connector-having-said-that	connectors	having said that	sentado lo cual
+W	connector-all-that-said	connectors	all that said	con todo lo dicho
+W	connector-even-then	connectors	even then	aun entonces
+W	connector-albeit	connectors	albeit	si bien
+W	connector-for-all-that	connectors	for all that	pese a todo
+W	connector-for-all	connectors	for all	pese a
+W	connector-be-that-as-it-may	connectors	be that as it may	sea como fuere
+W	connector-that-being-so	connectors	that being so	siendo así
+W	connector-that-being-the-case	connectors	that being the case	siendo ese el caso
+W	connector-such-being-the-case	connectors	such being the case	siendo tal el caso
+W	connector-this-being-so	connectors	this being so	siendo esto así
+W	connector-just-the-same	connectors	just the same	igual
+W	connector-still-and-all	connectors	still and all	con todo y con eso
+W	connector-come-what-may	connectors	come what may	pase lo que pase
+W	connector-come-what-will	connectors	come what will	venga lo que venga
+W	connector-come-hell-or-high-water	connectors	come hell or high water	caiga quien caiga
+W	connector-sink-or-swim	connectors	sink or swim	sálvese quien pueda
+W	connector-like-it-or-not	connectors	like it or not	quiera o no
+W	connector-like-it-or-lump-it	connectors	like it or lump it	trague o atragántese
+W	connector-much-as	connectors	much as	por más que
+W	connector-much-though	connectors	much though	aunque mucho
+W	connector-try-as-one-might	connectors	try as one might	por más que uno se empeñe
+W	connector-try-as-one-will	connectors	try as one will	por más que uno quiera
+W	connector-be-it-as-it-may	connectors	be it as it may	sea ello como fuere
+W	connector-so-be-it	connectors	so be it	así sea
+W	connector-so-it-goes	connectors	so it goes	así marcha
+W	connector-thus-it-is	connectors	thus it is	así es
+W	connector-whence-it-follows	connectors	whence it follows	de donde se sigue
+W	connector-it-follows-that	connectors	it follows that	de lo que se sigue que
+W	connector-it-transpires-that	connectors	it transpires that	transciende que
+W	connector-truth-be-told	connectors	truth be told	a decir verdad
+W	connector-to-tell-the-truth	connectors	to tell the truth	a decir verdad
+W	connector-to-be-sure	connectors	to be sure	a fe que
+W	connector-to-be-fair	connectors	to be fair	en justicia
+W	connector-to-be-frank	connectors	to be frank	con franqueza
+W	connector-strictly-speaking	connectors	strictly speaking	en rigor
+W	connector-loosely-speaking	connectors	loosely speaking	en sentido laxo
+W	connector-broadly-speaking	connectors	broadly speaking	en líneas generales
+W	connector-relatively-speaking	connectors	relatively speaking	en términos relativos
+W	connector-comparatively-speaking	connectors	comparatively speaking	por comparación
+W	connector-all-things-considered	connectors	all things considered	todo bien mirado
+W	connector-by-and-large	connectors	by and large	en líneas generales
+W	connector-on-the-whole	connectors	on the whole	en conjunto
+W	connector-in-the-main	connectors	in the main	en lo principal
+W	connector-for-the-most-part	connectors	for the most part	en su mayor parte
+W	connector-in-large-part	connectors	in large part	en gran parte
+W	connector-in-no-small-part	connectors	in no small part	en no poca medida
+W	connector-not-least	connectors	not least	no menos
+W	connector-last-but-not-least	connectors	last but not least	por último pero no menos
+W	connector-first-and-foremost	connectors	first and foremost	ante todo
+W	connector-first-of-all	connectors	first of all	antes que nada
+W	connector-in-the-first-place	connectors	in the first place	en primer término
+W	connector-in-the-second-place	connectors	in the second place	en segundo término
+W	connector-at-the-outset	connectors	at the outset	de entrada
+W	connector-from-the-outset	connectors	from the outset	desde el primer momento
+W	connector-from-the-get-go	connectors	from the get-go	desde el vamos
+W	connector-from-the-word-go	connectors	from the word go	desde el primer instante
+W	connector-at-the-end-of-the-day	connectors	at the end of the day	a fin de cuentas
+W	connector-when-all-is-said-and-done	connectors	when all is said and done	cuando todo está dicho
+W	connector-when-it-comes-down-to-it	connectors	when it comes down to it	a la hora de la verdad
+W	connector-in-the-last-analysis	connectors	in the last analysis	en última instancia
+W	connector-at-bottom	connectors	at bottom	en el fondo
+W	connector-at-root	connectors	at root	en la raíz
+W	connector-in-essence	connectors	in essence	en lo esencial
+W	connector-in-substance	connectors	in substance	en lo sustancial
+W	connector-in-point-of-fact	connectors	in point of fact	en punto de hecho
+W	connector-as-a-matter-of-fact	connectors	as a matter of fact	de hecho
+W	connector-as-it-happens	connectors	as it happens	según se da el caso
+W	connector-as-it-turns-out	connectors	as it turns out	según resulta
+W	connector-as-luck-would-have-it	connectors	as luck would have it	por ventura
+W	connector-as-chance-would-have-it	connectors	as chance would have it	por chiripa
+W	connector-as-fate-would-have-it	connectors	as fate would have it	por designio
+W	connector-needless-to-say	connectors	needless to say	huelga decir
+W	connector-it-goes-without-saying	connectors	it goes without saying	cae de su peso
+W	connector-suffice-it-to-say	connectors	suffice it to say	baste decir
+W	connector-let-it-be-said	connectors	let it be said	dígase
+W	connector-mark-my-words	connectors	mark my words	fíjese en lo que digo
+W	connector-mind-you	connectors	mind you	ojo
+W	connector-far-be-it-from-me	connectors	far be it from me	lejos de mí
+W	connector-far-from-it	connectors	far from it	ni mucho menos
+W	connector-nothing-of-the-kind	connectors	nothing of the kind	nada de eso
+W	connector-nothing-of-the-sort	connectors	nothing of the sort	nada semejante
+W	connector-quite-the-contrary	connectors	quite the contrary	antes al contrario
+W	connector-quite-the-reverse	connectors	quite the reverse	todo lo contrario
+W	connector-by-the-same-token	connectors	by the same token	por la misma razón
+W	connector-by-that-token	connectors	by that token	por esa misma razón
+W	connector-in-the-same-vein	connectors	in the same vein	en la misma línea
+W	connector-along-the-same-lines	connectors	along the same lines	por el mismo tenor
+W	connector-to-that-end	connectors	to that end	a tal fin
+W	connector-to-this-end	connectors	to this end	a este fin
+W	connector-to-that-effect	connectors	to that effect	en ese sentido
+W	connector-to-this-effect	connectors	to this effect	en este sentido
+W	connector-with-that	connectors	with that	con eso
+W	connector-thereupon	connectors	thereupon	en seguida
+W	connector-whereupon	connectors	whereupon	tras lo cual
+W	connector-wherefore	connectors	wherefore	por lo cual
+W	connector-whereat	connectors	whereat	ante lo cual
+W	connector-thence	connectors	thence	de ahí que
+W	connector-whence	connectors	whence	de donde
+W	connector-henceforth	connectors	henceforth	de aquí en adelante
+W	connector-thenceforth	connectors	thenceforth	de allí en adelante
+W	connector-henceforward	connectors	henceforward	en lo sucesivo
+W	connector-thenceforward	connectors	thenceforward	desde entonces
+W	connector-hereafter	connectors	hereafter	en lo venidero
+W	connector-thereafter	connectors	thereafter	de ahí en adelante
+W	connector-as-yet	connectors	as yet	hasta ahora
+W	connector-thus-far	connectors	thus far	hasta aquí
+W	connector-hitherto	connectors	hitherto	hasta la fecha
+W	connector-heretofore	connectors	heretofore	hasta el presente
+W	connector-theretofore	connectors	theretofore	hasta entonces
+W	connector-ever-since	connectors	ever since	desde entonces
+W	connector-ever-after	connectors	ever after	para siempre jamás
+W	connector-and-yet	connectors	and yet	y sin embargo
+W	connector-but-then	connectors	but then	pero entonces
+W	connector-but-then-again	connectors	but then again	aunque bien mirado
+W	connector-then-again	connectors	then again	por otra parte
+W	connector-once-more	connectors	once more	una vez más
+W	connector-what-is-more	connectors	what is more	es más
+W	connector-what-is-worse	connectors	what is worse	lo que es peor
+W	connector-worse-still	connectors	worse still	peor aún
+W	connector-better-still	connectors	better still	mejor aún
+W	connector-better-yet	connectors	better yet	aún mejor
+W	connector-still-worse	connectors	still worse	todavía peor
+W	connector-still-better	connectors	still better	todavía mejor
+W	connector-more-to-the-point	connectors	more to the point	más al caso
+W	connector-to-the-point	connectors	to the point	al caso
+W	connector-beside-the-point	connectors	beside the point	fuera de lugar
+W	connector-neither-here-nor-there	connectors	neither here nor there	ni viene ni va
+W	connector-by-the-by	connectors	by the by	a propósito
+W	connector-by-the-bye	connectors	by the bye	dicho sea de paso
+W	connector-in-passing	connectors	in passing	de pasada
+W	connector-en-passant	connectors	en passant	de pasada
+W	connector-for-that-matter	connectors	for that matter	ya puestos
+W	connector-for-that-reason	connectors	for that reason	por esa razón
+W	connector-for-which-reason	connectors	for which reason	por cuya razón
+W	connector-on-that-account	connectors	on that account	por ese motivo
+W	connector-on-this-account	connectors	on this account	por este motivo
+W	connector-on-which-account	connectors	on which account	por cuyo motivo
+W	connector-on-no-account	connectors	on no account	de ningún modo
+W	connector-in-that-regard	connectors	in that regard	en ese particular
+W	connector-in-this-regard	connectors	in this regard	en este particular
+W	connector-in-that-respect	connectors	in that respect	en ese respecto
+W	connector-in-this-respect	connectors	in this respect	en este respecto
+W	connector-in-that-connection	connectors	in that connection	a ese tenor
+W	connector-in-this-connection	connectors	in this connection	a este tenor
+W	connector-as-regards-that	connectors	as regards that	en lo tocante a eso
+W	connector-as-to-that	connectors	as to that	en cuanto a eso
+W	connector-as-for-that	connectors	as for that	por lo que a eso hace
+W	connector-so-far-as-that-goes	connectors	so far as that goes	en lo que a eso toca
+W	connector-for-what-it-is-worth	connectors	for what it is worth	por lo que valga
+W	connector-if-anything	connectors	if anything	si acaso
+W	connector-if-at-all	connectors	if at all	si es que
+W	connector-if-ever	connectors	if ever	si alguna vez
+W	connector-if-need-be	connectors	if need be	si hace falta
+W	connector-if-so	connectors	if so	si es así
+W	connector-if-not	connectors	if not	si no
+W	connector-failing-that	connectors	failing that	en su defecto
+W	connector-failing-which	connectors	failing which	a falta de lo cual
+W	connector-or-else	connectors	or else	o si no
+W	connector-elsewise	connectors	elsewise	de otro modo
+W	connector-save-that	connectors	save that	salvo que
+W	connector-except-that	connectors	except that	excepto que
+W	connector-but-that	connectors	but that	si no fuera porque
+W	connector-only-that	connectors	only that	sólo que
+W	connector-insomuch-as	connectors	insomuch as	por cuanto
+W	connector-insomuch-that	connectors	insomuch that	hasta el punto de que
+W	connector-to-such-an-extent-that	connectors	to such an extent that	hasta tal punto que
+W	connector-to-the-extent-that	connectors	to the extent that	en la medida en que
+W	connector-to-the-degree-that	connectors	to the degree that	en el grado en que
+W	connector-in-so-far-as	connectors	in so far as	en tanto que
+W	connector-so-far-as	connectors	so far as	por lo que
+W	connector-as-far-as	connectors	as far as	en lo que respecta
+W	connector-as-much-as	connectors	as much as	por más que
+W	connector-so-much-as	connectors	so much as	siquiera
+W	connector-forasmuch-as	connectors	forasmuch as	por cuanto
+W	connector-whilst	connectors	whilst	en tanto
+W	connector-meantime	connectors	meantime	en el ínterin
+W	connector-in-the-meantime	connectors	in the meantime	mientras tanto
+W	connector-in-the-meanwhile	connectors	in the meanwhile	en el entretanto
+W	connector-at-the-same-time	connectors	at the same time	al mismo tiempo
+W	connector-all-the-while	connectors	all the while	todo el tiempo
+W	connector-now-then	connectors	now then	vamos a ver
+W	connector-well-then	connectors	well then	pues bien
+W	connector-so-then	connectors	so then	así pues
+W	connector-and-so	connectors	and so	y así
+W	connector-and-so-forth	connectors	and so forth	y así sucesivamente
+W	connector-and-so-on	connectors	and so on	y demás
+W	connector-and-the-like	connectors	and the like	y lo semejante
+W	connector-and-the-rest	connectors	and the rest	y lo demás
+W	connector-among-other-things	connectors	among other things	entre otras cosas
+W	connector-inter-alia	connectors	inter alia	entre otras
+W	connector-not-to-mention	connectors	not to mention	por no hablar de
+W	connector-to-say-nothing-of	connectors	to say nothing of	sin contar
+W	connector-let-alone	connectors	let alone	ni qué decir
+W	connector-still-less	connectors	still less	menos aún
+W	connector-much-less	connectors	much less	cuanto menos
+W	connector-never-mind	connectors	never mind	ni caso
+W	connector-no-matter	connectors	no matter	no importa
+W	connector-no-matter-what	connectors	no matter what	pase lo que pase
+W	connector-no-matter-how	connectors	no matter how	por más que
+W	connector-howbeit	connectors	howbeit	con todo
+W	connector-albeit-that	connectors	albeit that	si bien es cierto que
+W	connector-granted-that	connectors	granted that	concedido que
+W	connector-considering-that	connectors	considering that	habida cuenta de que
+W	connector-provided-always	connectors	provided always	siempre y cuando
+W	connector-providing-that	connectors	providing that	siempre que
+W	connector-so-long-as	connectors	so long as	con tal de que
+W	connector-in-the-event-that	connectors	in the event that	en el caso de que
+W	connector-should-it-be-that	connectors	should it be that	si se diera que
+W	connector-were-it-not-that	connectors	were it not that	si no fuera porque
+W	connector-but-for-the-fact-that	connectors	but for the fact that	a no ser porque
+W	connector-save-for-the-fact-that	connectors	save for the fact that	salvo por el hecho de que
+W	connector-were-that-the-case	connectors	were that the case	si tal fuera
+W	connector-if-that-be-so	connectors	if that be so	si tal es
+W	connector-if-that-were-so	connectors	if that were so	si tal fuera el caso
+W	connector-be-it-noted	connectors	be it noted	nótese
+W	connector-note-well	connectors	note well	nótese bien
+W	connector-mark-well	connectors	mark well	téngase presente
+W	connector-for-the-record	connectors	for the record	para que conste
+W	connector-off-the-record	connectors	off the record	extraoficialmente
+W	connector-between-ourselves	connectors	between ourselves	en confianza
+W	connector-between-you-and-me	connectors	between you and me	entre usted y yo
+W	connector-if-i-may-say-so	connectors	if I may say so	si se me permite
+W	connector-if-you-will	connectors	if you will	si se quiere
+W	connector-as-it-were	connectors	as it were	por así decir
+W	connector-so-to-speak	connectors	so to speak	por decirlo así
+W	connector-so-to-say	connectors	so to say	vamos
+W	connector-in-a-manner-of-speaking	connectors	in a manner of speaking	en cierto modo de hablar
+W	connector-after-a-fashion	connectors	after a fashion	a su manera
+W	connector-after-a-sort	connectors	after a sort	en cierto modo
+W	connector-in-a-sense	connectors	in a sense	en cierto sentido
+W	connector-in-some-sense	connectors	in some sense	en algún sentido
+W	connector-in-every-sense	connectors	in every sense	en todos los sentidos
+W	connector-in-no-sense	connectors	in no sense	en ningún sentido
+W	connector-in-no-wise	connectors	in no wise	de ningún modo
+W	connector-in-any-event	connectors	in any event	en todo caso
+W	connector-in-any-case	connectors	in any case	de todos modos
+W	connector-at-all-events	connectors	at all events	en cualquier caso
+W	connector-at-any-rate	connectors	at any rate	en todo caso
+W	connector-come-to-that	connectors	come to that	ya puestos
+W	connector-come-to-think-of-it	connectors	come to think of it	ahora que lo pienso
+W	connector-speaking-of-which	connectors	speaking of which	hablando de eso
+W	connector-to-return-to-the-point	connectors	to return to the point	volviendo al hilo
+W	connector-to-resume	connectors	to resume	reanudando
+W	connector-to-recap	connectors	to recap	recapitulando
+W	connector-to-put-it-mildly	connectors	to put it mildly	por no decir más
+W	connector-to-put-it-bluntly	connectors	to put it bluntly	dicho sin ambages
+W	connector-to-put-it-another-way	connectors	to put it another way	dicho de otro modo
+W	connector-put-another-way	connectors	put another way	en otras palabras
+W	connector-to-wit	connectors	to wit	a saber
+W	connector-videlicet	connectors	videlicet	a saber
+W	connector-a-fortiori	connectors	a fortiori	con mayor razón
+W	connector-a-posteriori	connectors	a posteriori	partiendo de lo observado
+W	connector-a-priori	connectors	a priori	partiendo de lo supuesto
+W	connector-mutatis-mutandis	connectors	mutatis mutandis	cambiando lo que haya que cambiar
+W	connector-ceteris-paribus	connectors	ceteris paribus	siendo lo demás igual
+W	connector-ipso-facto	connectors	ipso facto	por el hecho mismo
+W	connector-de-facto	connectors	de facto	de hecho
+W	connector-de-jure	connectors	de jure	de derecho
+W	connector-per-contra	connectors	per contra	por el contrario
+W	connector-nathless	connectors	nathless	no obstante
+W	connector-natheless	connectors	natheless	con todo
+W	connector-withal	connectors	withal	con todo
+W	connector-hereupon	connectors	hereupon	tras esto
+W	connector-thereat	connectors	thereat	ante ello
+W	connector-hereat	connectors	hereat	ante esto
+W	connector-now-i-come-to-think-of-it	connectors	now I come to think of it	ahora que caigo
+W	connector-which-reminds-me	connectors	which reminds me	lo cual me recuerda
+W	connector-that-reminds-me	connectors	that reminds me	eso me recuerda
+W	connector-if-i-may-put-it-so	connectors	if I may put it so	si se me permite decirlo así
+W	connector-strictly-off-the-record	connectors	strictly off the record	en estricta reserva
+W	connector-in-the-event-of	connectors	in the event of	en caso de
+W	pronoun-whosoever	pronouns	whosoever	quienquiera que
+W	pronoun-whatsoever	pronouns	whatsoever	cualquier cosa que
+W	pronoun-whomsoever	pronouns	whomsoever	a quienquiera que
+W	pronoun-wheresoever	pronouns	wheresoever	dondequiera que
+W	pronoun-whensoever	pronouns	whensoever	cuandoquiera que
+W	pronoun-howsoever	pronouns	howsoever	comoquiera que
+W	pronoun-whichsoever	pronouns	whichsoever	cualesquiera que
+W	pronoun-whoso	pronouns	whoso	quien
+W	pronoun-whomso	pronouns	whomso	a quien
+W	pronoun-whosever	pronouns	whosever	de quienquiera
+W	pronoun-aught	pronouns	aught	algo
+W	pronoun-naught	pronouns	naught	nada
+W	pronoun-nought	pronouns	nought	cero
+W	pronoun-the-former	pronouns	the former	el primero
+W	pronoun-the-latter	pronouns	the latter	el segundo
+W	pronoun-the-same	pronouns	the same	el mismo
+W	pronoun-the-undersigned	pronouns	the undersigned	el abajo firmante
+W	pronoun-the-aforesaid	pronouns	the aforesaid	el antedicho
+W	pronoun-the-aforementioned	pronouns	the aforementioned	el mencionado
+W	pronoun-the-said	pronouns	the said	el referido
+W	pronoun-the-one	pronouns	the one	el uno
+W	pronoun-the-other	pronouns	the other	el otro
+W	pronoun-one-another	pronouns	one another	el uno al otro
+W	pronoun-each-other	pronouns	each other	mutuamente
+W	pronoun-one-and-all	pronouns	one and all	todos sin excepción
+W	pronoun-each-and-every-one	pronouns	each and every one	cada cual
+W	pronoun-such-as-it-is	pronouns	such as it is	tal cual es
+W	pronoun-all-and-sundry	pronouns	all and sundry	todo el mundo
+W	pronoun-one-and-the-same	pronouns	one and the same	uno y el mismo
+W	pronoun-none-other	pronouns	none other	ningún otro
+W	pronoun-none-but	pronouns	none but	nadie sino
+W	pronoun-no-one-else	pronouns	no one else	nadie más
+W	pronoun-nobody-else	pronouns	nobody else	nadie más
+W	pronoun-anybody-else	pronouns	anybody else	cualquier otro
+W	pronoun-anyone-else	pronouns	anyone else	cualquier otro
+W	pronoun-someone-else	pronouns	someone else	otro
+W	pronoun-somebody-else	pronouns	somebody else	otro
+W	pronoun-something-else	pronouns	something else	otra cosa
+W	pronoun-nothing-else	pronouns	nothing else	nada más
+W	pronoun-everything-else	pronouns	everything else	todo lo demás
+W	pronoun-everyone-else	pronouns	everyone else	los demás
+W	pronoun-everybody-else	pronouns	everybody else	los demás
+W	pronoun-whoever-else	pronouns	whoever else	quien más
+W	pronoun-whatever-else	pronouns	whatever else	lo que más
+W	pronoun-whichever	pronouns	whichever	cualquiera de los cuales
+W	pronoun-whatever	pronouns	whatever	lo que sea
+W	pronoun-whoever	pronouns	whoever	quienquiera
+W	pronoun-whomever	pronouns	whomever	a quienquiera
+W	pronoun-oneself	pronouns	oneself	uno mismo
+W	pronoun-one-s-own	pronouns	one's own	el propio
+W	pronoun-thyself	pronouns	thyself	tú mismo
+W	pronoun-thee	pronouns	thee	te
+W	pronoun-thou	pronouns	thou	tú
+W	pronoun-thy	pronouns	thy	tu
+W	pronoun-thine	pronouns	thine	tuyo
+W	pronoun-ye	pronouns	ye	vosotros
+W	pronoun-yourselves	pronouns	yourselves	vosotros mismos
+W	pronoun-ourselves	pronouns	ourselves	nosotros mismos
+W	pronoun-themselves	pronouns	themselves	ellos mismos
+W	pronoun-herself	pronouns	herself	ella misma
+W	pronoun-himself	pronouns	himself	él mismo
+W	pronoun-anybody-s	pronouns	anybody's	de cualquiera
+W	pronoun-nobody-s	pronouns	nobody's	de nadie
+W	pronoun-somebody-s	pronouns	somebody's	de alguien
+W	pronoun-everybody-s	pronouns	everybody's	de todos
+W	pronoun-one-s	pronouns	one's	de uno
+W	pronoun-suchlike	pronouns	suchlike	tales
+W	pronoun-the-like	pronouns	the like	lo semejante
+W	pronoun-the-likes-of	pronouns	the likes of	gente como
+W	pronoun-the-likes-thereof	pronouns	the likes thereof	los de su jaez
+W	pronoun-thereof	pronouns	thereof	de ello
+W	pronoun-thereto	pronouns	thereto	a ello
+W	pronoun-therein	pronouns	therein	en ello
+W	pronoun-thereon	pronouns	thereon	sobre ello
+W	pronoun-therewith	pronouns	therewith	con ello
+W	pronoun-herewith	pronouns	herewith	adjunto
+W	pronoun-herein	pronouns	herein	en el presente
+W	pronoun-hereof	pronouns	hereof	del presente
+W	pronoun-hereto	pronouns	hereto	al presente
+W	pronoun-hereunder	pronouns	hereunder	más abajo
+W	pronoun-hereunto	pronouns	hereunto	a esto
+W	pronoun-thereunder	pronouns	thereunder	bajo ello
+W	pronoun-thereunto	pronouns	thereunto	a ello
+W	pronoun-wherein	pronouns	wherein	en el cual
+W	pronoun-whereof	pronouns	whereof	del cual
+W	pronoun-whereto	pronouns	whereto	al cual
+W	pronoun-whereon	pronouns	whereon	sobre el cual
+W	pronoun-wherewith	pronouns	wherewith	con el cual
+W	pronoun-whereunder	pronouns	whereunder	bajo el cual
+W	pronoun-whereunto	pronouns	whereunto	hacia el cual
+W	pronoun-any-such	pronouns	any such	cualquiera de tales
+W	pronoun-no-such	pronouns	no such	ningún tal
+W	pronoun-some-such	pronouns	some such	alguno de tales
+W	pronoun-all-such	pronouns	all such	todos tales
+W	pronoun-each-such	pronouns	each such	cada tal
+W	pronoun-the-party-of-the-first-part	pronouns	the party of the first part	la primera parte
+W	pronoun-the-party-of-the-second-part	pronouns	the party of the second part	la segunda parte
+W	pronoun-he-who	pronouns	he who	aquel que
+W	pronoun-she-who	pronouns	she who	aquella que
+W	pronoun-they-who	pronouns	they who	aquellos que
+W	pronoun-he-that	pronouns	he that	el que
+W	pronoun-she-that	pronouns	she that	la que
+W	pronoun-they-that	pronouns	they that	los que
+W	pronoun-that-which	pronouns	that which	aquello que
+W	pronoun-those-who	pronouns	those who	quienes
+W	pronoun-those-whom	pronouns	those whom	a quienes
+W	pronoun-those-whose	pronouns	those whose	cuyos
+W	pronoun-those-which	pronouns	those which	los cuales
+W	pronoun-that-same	pronouns	that same	ese mismo
+W	pronoun-this-same	pronouns	this same	este mismo
+W	pronoun-such-a-one	pronouns	such a one	uno tal
+W	pronoun-many-a-one	pronouns	many a one	más de uno
+W	pronoun-not-a-one	pronouns	not a one	ni uno
+W	pronoun-nary-a-one	pronouns	nary a one	ni uno solo
+W	pronoun-every-last-one	pronouns	every last one	hasta el último
+W	pronoun-every-single-one	pronouns	every single one	todos y cada uno
+W	pronoun-one-or-other	pronouns	one or other	uno u otro
+W	pronoun-one-or-the-other	pronouns	one or the other	uno o el otro
+W	pronoun-either-one	pronouns	either one	cualquiera de los dos
+W	pronoun-neither-one	pronouns	neither one	ninguno de los dos
+W	pronoun-both-of-them	pronouns	both of them	ambos
+W	pronoun-all-of-them	pronouns	all of them	todos ellos
+W	pronoun-some-of-them	pronouns	some of them	algunos de ellos
+W	pronoun-none-of-them	pronouns	none of them	ninguno de ellos
+W	pronoun-few-of-them	pronouns	few of them	pocos de ellos
+W	pronoun-many-of-them	pronouns	many of them	muchos de ellos
+W	pronoun-most-of-them	pronouns	most of them	la mayoría de ellos
+W	pronoun-several-of-them	pronouns	several of them	varios de ellos
+W	pronoun-each-of-them	pronouns	each of them	cada uno de ellos
+W	pronoun-any-of-them	pronouns	any of them	cualquiera de ellos
+W	pronoun-either-of-them	pronouns	either of them	cualquiera de ambos
+W	pronoun-neither-of-them	pronouns	neither of them	ninguno de ambos
+W	pronoun-the-pair-of-them	pronouns	the pair of them	el par
+W	pronoun-the-lot-of-them	pronouns	the lot of them	todos ellos
+W	pronoun-the-whole-of-it	pronouns	the whole of it	el todo
+W	pronoun-the-rest-of-them	pronouns	the rest of them	el resto
+W	pronoun-the-remainder	pronouns	the remainder	el resto
+W	pronoun-the-rest	pronouns	the rest	los demás
+W	pronoun-still-others	pronouns	still others	otros más
+W	pronoun-yet-others	pronouns	yet others	otros aún
+W	pronoun-certain-ones	pronouns	certain ones	ciertos
+W	pronoun-certain-others	pronouns	certain others	ciertos otros
+W	pronoun-sundry-others	pronouns	sundry others	otros varios
+W	pronoun-sundry	pronouns	sundry	varios
+W	pronoun-divers	pronouns	divers	diversos
+W	pronoun-what-few	pronouns	what few	los pocos que
+W	pronoun-what-little	pronouns	what little	lo poco que
+W	pronoun-whatever-little	pronouns	whatever little	lo poco que sea
+W	pronoun-whichever-one	pronouns	whichever one	cualquiera
+W	pronoun-whichever-ones	pronouns	whichever ones	cualesquiera
+W	pronoun-whoever-it-be	pronouns	whoever it be	sea quien sea
+W	pronoun-whatever-it-be	pronouns	whatever it be	sea lo que sea
+W	pronoun-to-whom-it-may-concern	pronouns	to whom it may concern	a quien corresponda
+W	pronoun-as-much	pronouns	as much	tanto
+W	pronoun-so-much	pronouns	so much	tanto
+W	pronoun-this-much	pronouns	this much	esto
+W	pronoun-that-much	pronouns	that much	eso
+W	pronoun-thus-much	pronouns	thus much	tanto
+W	pronoun-as-many	pronouns	as many	tantos
+W	pronoun-so-many	pronouns	so many	tantos
+W	pronoun-this-many	pronouns	this many	estos
+W	pronoun-that-many	pronouns	that many	esos
+W	pronoun-nobody-in-particular	pronouns	nobody in particular	nadie en concreto
+W	pronoun-somebody-or-other	pronouns	somebody or other	alguien
+W	pronoun-something-or-other	pronouns	something or other	algo
+W	pronoun-anyone-at-all	pronouns	anyone at all	cualquiera
+W	pronoun-anything-at-all	pronouns	anything at all	cualquier cosa
+W	pronoun-nothing-at-all	pronouns	nothing at all	absolutamente nada
+W	pronoun-no-one-at-all	pronouns	no one at all	absolutamente nadie
+W	pronoun-not-a-soul	pronouns	not a soul	ni un alma
+W	pronoun-not-a-whit	pronouns	not a whit	ni pizca
+W	pronoun-not-a-scrap	pronouns	not a scrap	ni migaja
+W	pronoun-not-a-shred	pronouns	not a shred	ni rastro
+W	pronoun-not-a-stitch	pronouns	not a stitch	ni una prenda
+W	pronoun-not-a-jot	pronouns	not a jot	ni jota
+W	pronoun-not-a-tittle	pronouns	not a tittle	ni una tilde
+W	pronoun-not-an-iota	pronouns	not an iota	ni una iota
+W	pronoun-every-man-jack	pronouns	every man jack	hasta el último
+W	pronoun-every-mother-s-son	pronouns	every mother's son	todos sin excepción
+W	pronoun-any-old-one	pronouns	any old one	cualquiera
+W	pronoun-such-as-they-are	pronouns	such as they are	tales cuales son
+W	pronoun-for-one-s-part	pronouns	for one's part	por su parte
+W	pronoun-for-my-part	pronouns	for my part	por mi parte
+W	pronoun-for-his-part	pronouns	for his part	por su parte
+W	pronoun-in-and-of-itself	pronouns	in and of itself	en sí mismo
+W	pronoun-as-such	pronouns	as such	como tal
+W	pronoun-the-very-one	pronouns	the very one	precisamente ese
+W	pronoun-the-very-same	pronouns	the very same	el mismísimo
+W	pronoun-none-other-than	pronouns	none other than	nadie menos que
+W	pronoun-no-less-than	pronouns	no less than	nada menos que
+W	pronoun-no-fewer-than	pronouns	no fewer than	no menos de
+W	pronoun-each-in-turn	pronouns	each in turn	cada cual por turno
+W	pronoun-one-after-another	pronouns	one after another	uno tras otro
+W	pronoun-one-after-the-other	pronouns	one after the other	uno detrás de otro
+W	pronoun-the-one-and-only	pronouns	the one and only	el único
+W	pronoun-no-one-but	pronouns	no one but	nadie sino
+W	pronoun-anyone-but	pronouns	anyone but	cualquiera menos
+W	pronoun-everyone-but	pronouns	everyone but	todos menos
+W	pronoun-the-both-of-us	pronouns	the both of us	nosotros dos
+W	pronoun-the-three-of-us	pronouns	the three of us	nosotros tres
+W	pronoun-each-and-all	pronouns	each and all	todos y cada uno
+W	pronoun-one-and-another	pronouns	one and another	uno y otro
+W	pronoun-this-that-and-the-other	pronouns	this, that and the other	una cosa y otra
+W	pronoun-what-have-you	pronouns	what have you	y demás
+W	pronoun-and-whatnot	pronouns	and whatnot	y lo que sea
+W	pronoun-or-what-have-you	pronouns	or what have you	o lo que fuere
+W	pronoun-whoever-it-may-be	pronouns	whoever it may be	sea quien fuere
+W	pronoun-whomever-it-may-be	pronouns	whomever it may be	sea a quien fuere
+W	pronoun-whatever-it-may-be	pronouns	whatever it may be	sea lo que fuere
+W	pronoun-whichever-it-may-be	pronouns	whichever it may be	sea cual fuere
+W	pronoun-he-himself	pronouns	he himself	él mismo
+W	pronoun-she-herself	pronouns	she herself	ella misma
+W	pronoun-they-themselves	pronouns	they themselves	ellos mismos
+W	pronoun-we-ourselves	pronouns	we ourselves	nosotros mismos

@@ -1,0 +1,418 @@
+V	verb-underpin	untermauern	hat untermauert	untermauert
+V	verb-outweigh	überwiegen	hat überwogen	überwogen
+V	verb-outstrip	überflügeln	hat überflügelt	überflügelt
+V	verb-outpace	überholen	hat überholt	überholt
+V	verb-overhaul	grundlegend überholen	hat grundlegend überholt	grundlegend überholt
+V	verb-override	außer Kraft setzen	hat außer Kraft gesetzt	außer Kraft gesetzt
+V	verb-overrule	überstimmen	hat überstimmt	überstimmt
+V	verb-overstep	überschreiten	hat überschritten	überschritten
+V	verb-undercut	unterbieten	hat unterboten	unterboten
+V	verb-underwrite	zeichnen	hat gezeichnet	gezeichnet
+V	verb-undermine	untergraben	hat untergraben	untergraben
+V	verb-underscore	unterstreichen	hat unterstrichen	unterstrichen
+V	verb-undertake	unternehmen	hat unternommen	unternommen
+V	verb-undergo	sich unterziehen	hat sich unterzogen	unterzogen
+V	verb-overshadow	überschatten	hat überschattet	überschattet
+V	verb-overwhelm	überwältigen	hat überwältigt	überwältigt
+V	verb-overstate	übertreiben	hat übertrieben	übertrieben
+V	verb-understate	untertreiben	hat untertrieben	untertrieben
+V	verb-overplay	aufbauschen	hat aufgebauscht	aufgebauscht
+V	verb-underplay	herunterspielen	hat heruntergespielt	heruntergespielt
+V	verb-shelve	zurückstellen	hat zurückgestellt	zurückgestellt
+V	verb-mothball	einmotten	hat eingemottet	eingemottet
+V	verb-fudge	frisieren	hat frisiert	frisiert
+V	verb-prevaricate	herumreden	hat herumgeredet	herumgeredet
+V	verb-leapfrog	überspringen	hat übersprungen	übersprungen
+V	verb-green-light	grünes Licht geben	hat grünes Licht gegeben	grünes Licht gegeben
+V	verb-rubber-stamp	absegnen	hat abgesegnet	abgesegnet
+V	verb-fast-track	beschleunigen	hat beschleunigt	beschleunigt
+V	verb-backtrack	zurückrudern	hat zurückgerudert	zurückgerudert
+V	verb-backpedal	zurückrudern	hat zurückgerudert	zurückgerudert
+V	verb-second-guess	hinterfragen	hat hinterfragt	hinterfragt
+V	verb-cherry-pick	herauspicken	hat herausgepickt	herausgepickt
+V	verb-short-change	übervorteilen	hat übervorteilt	übervorteilt
+V	verb-shortlist	in die engere Wahl nehmen	hat in die engere Wahl genommen	in die engere Wahl genommen
+V	verb-headhunt	abwerben	hat abgeworben	abgeworben
+V	verb-sandbag	zurückhalten	hat zurückgehalten	zurückgehalten
+V	verb-railroad	durchpeitschen	hat durchgepeitscht	durchgepeitscht
+V	verb-steamroll	überrollen	hat überrollt	überrollt
+V	verb-bulldoze	plattwalzen	hat plattgewalzt	plattgewalzt
+V	verb-strong-arm	nötigen	hat genötigt	genötigt
+V	verb-ring-fence	abschotten	hat abgeschottet	abgeschottet
+V	verb-earmark	zweckbinden	hat zweckgebunden	zweckgebunden
+V	verb-front-load	vorziehen	hat vorgezogen	vorgezogen
+V	verb-back-load	nach hinten verlagern	hat nach hinten verlagert	nach hinten verlagert
+V	verb-drip-feed	dosiert zuführen	hat dosiert zugeführt	dosiert zugeführt
+V	verb-spoon-feed	vorgekaut servieren	hat vorgekaut serviert	vorgekaut serviert
+V	verb-force-feed	zwangsfüttern	hat zwangsgefüttert	zwangsgefüttert
+V	verb-blacklist	auf die schwarze Liste setzen	hat auf die schwarze Liste gesetzt	auf die schwarze Liste gesetzt
+V	verb-whitelist	auf die weiße Liste setzen	hat auf die weiße Liste gesetzt	auf die weiße Liste gesetzt
+V	verb-red-flag	alarmieren	hat alarmiert	alarmiert
+V	verb-snowball	sich aufschaukeln	hat sich aufgeschaukelt	aufgeschaukelt
+V	verb-balloon	aufblähen	hat aufgebläht	aufgebläht
+V	verb-mushroom	ins Kraut schießen	ist ins Kraut geschossen	ins Kraut geschossen
+V	verb-crater	einbrechen	ist eingebrochen	eingebrochen
+V	verb-plunge	abstürzen	ist abgestürzt	abgestürzt
+V	verb-slump	einbrechen	ist eingebrochen	eingebrochen
+V	verb-tank	abstürzen	ist abgestürzt	abgestürzt
+V	verb-nosedive	abstürzen	ist abgestürzt	abgestürzt
+V	verb-tailspin	in den Trudeln geraten	ist in den Trudeln geraten	in den Trudeln geraten
+V	verb-freefall	im freien Fall stürzen	ist im freien Fall gestürzt	im freien Fall gestürzt
+V	verb-rebound	sich erholen	hat sich erholt	erholt
+V	verb-rally	sich erholen	hat sich erholt	erholt
+V	verb-overtake	überholen	hat überholt	überholt
+V	verb-overhang	überhängen	hat übergehängt	übergehängt
+V	verb-overrun	überrennen	hat überrannt	überrannt
+V	verb-overdo	übertreiben	hat übertrieben	übertrieben
+V	verb-overshoot	überschießen	hat überschossen	überschossen
+V	verb-undershoot	unterschießen	hat unterschossen	unterschossen
+V	verb-undersell	unterbieten	hat unterboten	unterboten
+V	verb-offset	ausgleichen	hat ausgeglichen	ausgeglichen
+V	verb-forecast	prognostizieren	hat prognostiziert	prognostiziert
+V	verb-recast	umformulieren	hat umformuliert	umformuliert
+V	verb-proofread	Korrektur lesen	hat Korrektur gelesen	Korrektur gelesen
+V	verb-misread	falsch lesen	hat falsch gelesen	falsch gelesen
+V	verb-rewrite	umschreiben	hat umgeschrieben	umgeschrieben
+V	verb-overwrite	überschreiben	hat überschrieben	überschrieben
+V	verb-shed	abstoßen	hat abgestoßen	abgestoßen
+V	verb-thrust	stoßen	hat gestoßen	gestoßen
+V	verb-upset	umstoßen	hat umgestoßen	umgestoßen
+V	verb-unwind	auflösen	hat aufgelöst	aufgelöst
+V	verb-rewind	zurückspulen	hat zurückgespult	zurückgespult
+V	verb-unbind	lösen	hat gelöst	gelöst
+V	verb-unstick	lösen	hat gelöst	gelöst
+V	verb-misspeak	sich versprechen	hat sich versprochen	versprochen
+V	verb-misspell	falsch schreiben	hat falsch geschrieben	falsch geschrieben
+V	verb-misspend	verschwenden	hat verschwendet	verschwendet
+V	verb-mislead	irreführen	hat irregeführt	irregeführt
+V	verb-mishear	falsch hören	hat falsch gehört	falsch gehört
+V	verb-mislay	verlegen	hat verlegt	verlegt
+V	verb-outdo	übertreffen	hat übertroffen	übertroffen
+V	verb-outgrow	herauswachsen	ist herausgewachsen	herausgewachsen
+V	verb-outrun	überholen	hat überholt	überholt
+V	verb-outsell	mehr verkaufen	hat mehr verkauft	mehr verkauft
+V	verb-outspend	mehr ausgeben	hat mehr ausgegeben	mehr ausgegeben
+V	verb-outbid	überbieten	hat überboten	überboten
+V	verb-foresee	vorhersehen	hat vorhergesehen	vorhergesehen
+V	verb-foretell	prophezeien	hat prophezeit	prophezeit
+V	verb-reframe	umdeuten	hat umgedeutet	umgedeutet
+V	verb-hone	schärfen	hat geschärft	geschärft
+V	verb-fine-tune	feinabstimmen	hat feinabgestimmt	feinabgestimmt
+V	verb-tweak	feinjustieren	hat feinjustiert	feinjustiert
+V	verb-gazette	amtlich verkünden	hat amtlich verkündet	amtlich verkündet
+V	verb-table	auf die Tagesordnung setzen	hat auf die Tagesordnung gesetzt	auf die Tagesordnung gesetzt
+V	verb-second	unterstützen	hat unterstützt	unterstützt
+V	verb-repeal	aufheben	hat aufgehoben	aufgehoben
+V	verb-revoke	widerrufen	hat widerrufen	widerrufen
+V	verb-overturn	umstoßen	hat umgestoßen	umgestoßen
+V	verb-endorse	befürworten	hat befürwortet	befürwortet
+V	verb-paper-over	übertünchen	hat übertüncht	übertüncht
+V	verb-gloss-over	hinweggehen	ist hinweggegangen	hinweggegangen
+V	verb-skate-over	streifen	hat gestreift	gestreift
+V	verb-shrug-off	abschütteln	hat abgeschüttelt	abgeschüttelt
+V	verb-brush-aside	beiseiteschieben	hat beiseitegeschoben	beiseitegeschoben
+V	verb-set-forth	darlegen	hat dargelegt	dargelegt
+V	verb-weigh-up	abwägen	hat abgewogen	abgewogen
+V	verb-sound-out	ausloten	hat ausgelotet	ausgelotet
+V	verb-crowd-out	verdrängen	hat verdrängt	verdrängt
+V	verb-freeze-out	ausschließen	hat ausgeschlossen	ausgeschlossen
+V	verb-lock-out	aussperren	hat ausgesperrt	ausgesperrt
+V	verb-lock-in	festbinden	hat festgebunden	festgebunden
+V	verb-box-in	einengen	hat eingeengt	eingeengt
+V	verb-hem-in	einschließen	hat eingeschlossen	eingeschlossen
+V	verb-hive-off	ausgliedern	hat ausgegliedert	ausgegliedert
+V	verb-wall-off	abmauern	hat abgemauert	abgemauert
+V	verb-walk-back	zurücknehmen	hat zurückgenommen	zurückgenommen
+V	verb-row-back	zurückrudern	hat zurückgerudert	zurückgerudert
+V	verb-claw-back	zurückholen	hat zurückgeholt	zurückgeholt
+V	verb-write-down	abschreiben	hat abgeschrieben	abgeschrieben
+V	verb-write-off	abschreiben	hat abgeschrieben	abgeschrieben
+V	verb-spin-off	ausgliedern	hat ausgegliedert	ausgegliedert
+V	verb-carve-out	herauslösen	hat herausgelöst	herausgelöst
+V	verb-phase-out	auslaufen lassen	hat auslaufen lassen	auslaufen lassen
+V	verb-phase-in	einführen	hat eingeführt	eingeführt
+V	verb-roll-out	ausrollen	hat ausgerollt	ausgerollt
+V	verb-roll-back	rückgängig machen	hat rückgängig gemacht	rückgängig gemacht
+V	verb-scale-back	zurückfahren	hat zurückgefahren	zurückgefahren
+V	verb-scale-up	hochskalieren	hat hochskaliert	hochskaliert
+V	verb-wind-down	abwickeln	hat abgewickelt	abgewickelt
+V	verb-wind-up	liquidieren	hat liquidiert	liquidiert
+V	verb-shut-down	stilllegen	hat stillgelegt	stillgelegt
+V	verb-start-up	anfahren	hat angefahren	angefahren
+V	verb-kick-start	anschieben	hat angeschoben	angeschoben
+V	verb-jump-start	ankurbeln	hat angekurbelt	angekurbelt
+V	verb-fast-forward	vorspulen	hat vorgespult	vorgespult
+V	verb-slow-walk	verschleppen	hat verschleppt	verschleppt
+V	verb-run-down	herunterwirtschaften	hat heruntergewirtschaftet	heruntergewirtschaftet
+V	verb-talk-down	herunterreden	hat heruntergeredet	heruntergeredet
+V	verb-talk-up	hochreden	hat hochgeredet	hochgeredet
+V	verb-talk-round	umstimmen	hat umgestimmt	umgestimmt
+V	verb-talk-through	durchsprechen	hat durchgesprochen	durchgesprochen
+V	verb-walk-through	durchgehen	ist durchgegangen	durchgegangen
+V	verb-run-through	durchlaufen	hat durchlaufen	durchlaufen
+V	verb-zero-in	einpeilen	hat eingepeilt	eingepeilt
+V	verb-home-in	anvisieren	hat anvisiert	anvisiert
+V	verb-zero-out	auf null setzen	hat auf null gesetzt	auf null gesetzt
+V	verb-net-off	saldieren	hat saldiert	saldiert
+V	verb-set-off	aufrechnen	hat aufgerechnet	aufgerechnet
+V	verb-set-aside	zurücklegen	hat zurückgelegt	zurückgelegt
+V	verb-set-about	sich machen an	hat sich gemacht an	gemacht
+V	verb-pit-against	ausspielen	hat ausgespielt	ausgespielt
+V	verb-play-down	herunterspielen	hat heruntergespielt	heruntergespielt
+V	verb-play-up	hochspielen	hat hochgespielt	hochgespielt
+V	verb-play-off	gegeneinander ausspielen	hat gegeneinander ausgespielt	gegeneinander ausgespielt
+V	verb-fob-off	abwimmeln	hat abgewimmelt	abgewimmelt
+V	verb-palm-off	andrehen	hat angedreht	angedreht
+V	verb-fob-onto	aufhalsen	hat aufgehalst	aufgehalst
+V	verb-saddle-with	aufbürden	hat aufgebürdet	aufgebürdet
+V	verb-saddle	belasten	hat belastet	belastet
+V	verb-saddle-on	aufbürden	hat aufgebürdet	aufgebürdet
+V	verb-saddle-upon	aufbürden	hat aufgebürdet	aufgebürdet
+V	verb-saddle-onto	aufbürden	hat aufgebürdet	aufgebürdet
+V	verb-saddle-off	entlasten	hat entlastet	entlastet
+V	verb-unload	abladen	hat abgeladen	abgeladen
+V	verb-offload	abwälzen	hat abgewälzt	abgewälzt
+V	verb-dump	abstoßen	hat abgestoßen	abgestoßen
+V	verb-unload-onto	aufhalsen	hat aufgehalst	aufgehalst
+V	verb-offload-onto	abwälzen auf	hat abgewälzt auf	abgewälzt
+V	verb-dump-onto	aufhalsen	hat aufgehalst	aufgehalst
+V	verb-front-run	vorlaufen	ist vorgelaufen	vorgelaufen
+V	verb-insider-deal	Insidergeschäfte tätigen	hat Insidergeschäfte getätigt	Insidergeschäfte getätigt
+V	verb-whistle-blow	Alarm schlagen	hat Alarm geschlagen	Alarm geschlagen
+V	verb-leak	durchsickern lassen	hat durchsickern lassen	durchsickern lassen
+V	verb-brief	unterrichten	hat unterrichtet	unterrichtet
+V	verb-debrief	nachbesprechen	hat nachbesprochen	nachbesprochen
+V	verb-doorstep	belagern	hat belagert	belagert
+V	verb-ambush	auflauern	hat aufgelauert	aufgelauert
+V	verb-lowball	niedrig bieten	hat niedrig geboten	niedrig geboten
+V	verb-highball	hoch bieten	hat hoch geboten	hoch geboten
+V	verb-low-ball	niedrig anbieten	hat niedrig angeboten	niedrig angeboten
+V	verb-high-ball	hoch fordern	hat hoch gefordert	hoch gefordert
+V	verb-anchor	verankern	hat verankert	verankert
+V	verb-peg	anbinden	hat angebunden	angebunden
+V	verb-unpeg	lösen	hat gelöst	gelöst
+V	verb-depeg	abkoppeln	hat abgekoppelt	abgekoppelt
+V	verb-repeg	wieder anbinden	hat wieder angebunden	wieder angebunden
+V	verb-cap	deckeln	hat gedeckelt	gedeckelt
+V	verb-uncap	den Deckel aufheben	hat den Deckel aufgehoben	den Deckel aufgehoben
+V	verb-floor	einen Boden setzen	hat einen Boden gesetzt	einen Boden gesetzt
+V	verb-collar	bandeln	hat gebandelt	gebandelt
+V	verb-unhedge	die Absicherung aufheben	hat die Absicherung aufgehoben	die Absicherung aufgehoben
+V	verb-net	netto abrechnen	hat netto abgerechnet	netto abgerechnet
+V	verb-gross-up	brutto hochrechnen	hat brutto hochgerechnet	brutto hochgerechnet
+V	verb-net-down	netto herunterrechnen	hat netto heruntergerechnet	netto heruntergerechnet
+V	verb-write-up	aufwerten	hat aufgewertet	aufgewertet
+V	verb-mark-up	aufschlagen	hat aufgeschlagen	aufgeschlagen
+V	verb-mark-down	herabsetzen	hat herabgesetzt	herabgesetzt
+V	verb-mark-to-market	zum Marktwert bewerten	hat zum Marktwert bewertet	zum Marktwert bewertet
+V	verb-impair	wertmindern	hat wertgemindert	wertgemindert
+V	verb-unimpair	die Wertminderung aufheben	hat die Wertminderung aufgehoben	die Wertminderung aufgehoben
+V	verb-provision	rückstellen	hat rückgestellt	rückgestellt
+V	verb-unprovision	Rückstellung auflösen	hat Rückstellung aufgelöst	Rückstellung aufgelöst
+V	verb-release	freigeben	hat freigegeben	freigegeben
+V	verb-charge	belasten	hat belastet	belastet
+V	verb-recharge	nachbelasten	hat nachbelastet	nachbelastet
+V	verb-overcharge	zu viel berechnen	hat zu viel berechnet	zu viel berechnet
+V	verb-undercharge	zu wenig berechnen	hat zu wenig berechnet	zu wenig berechnet
+V	verb-surcharge	zuschlagen	hat zugeschlagen	zugeschlagen
+V	verb-claw	entreißen	hat entrissen	entrissen
+V	verb-recoup	wettmachen	hat wettgemacht	wettgemacht
+V	verb-recapture	zurückerobern	hat zurückerobert	zurückerobert
+V	verb-reclaim	zurückfordern	hat zurückgefordert	zurückgefordert
+V	verb-clawback	zurückfordern	hat zurückgefordert	zurückgefordert
+V	verb-escheat	an den Fiskus fallen	ist an den Fiskus gefallen	an den Fiskus gefallen
+V	verb-disapply	außer Anwendung lassen	hat außer Anwendung gelassen	außer Anwendung gelassen
+V	verb-sunset	auslaufen lassen	hat auslaufen lassen	auslaufen lassen
+V	verb-grandfather	Bestandsschutz gewähren	hat Bestandsschutz gewährt	Bestandsschutz gewährt
+V	verb-hard-wire	fest verdrahten	hat fest verdrahtet	fest verdrahtet
+V	verb-soft-wire	flexibel verdrahten	hat flexibel verdrahtet	flexibel verdrahtet
+V	verb-future-proof	zukunftssicher machen	hat zukunftssicher gemacht	zukunftssicher gemacht
+V	verb-futureproof	zukunftssicher machen	hat zukunftssicher gemacht	zukunftssicher gemacht
+V	verb-stress-test	einem Stresstest unterziehen	hat einem Stresstest unterzogen	einem Stresstest unterzogen
+V	verb-road-test	Praxistest unterziehen	hat Praxistest unterzogen	Praxistest unterzogen
+V	verb-field-test	im Feld testen	hat im Feld getestet	im Feld getestet
+V	verb-beta-test	beta-testen	hat beta-getestet	beta-getestet
+V	verb-pilot	erproben	hat erprobt	erprobt
+V	verb-trial	erproben	hat erprobt	erprobt
+V	verb-outflank	umgehen	hat umgangen	umgangen
+V	verb-rollout	ausrollen	hat ausgerollt	ausgerollt
+V	verb-soft-launch	leise starten	hat leise gestartet	leise gestartet
+V	verb-hard-launch	mit Pauken starten	hat mit Pauken gestartet	mit Pauken gestartet
+V	verb-soft-open	leise eröffnen	hat leise eröffnet	leise eröffnet
+V	verb-hard-close	fest schließen	hat fest geschlossen	fest geschlossen
+V	verb-soft-close	sanft schließen	hat sanft geschlossen	sanft geschlossen
+V	verb-hard-stop	hart stoppen	hat hart gestoppt	hart gestoppt
+V	verb-soft-stop	sanft stoppen	hat sanft gestoppt	sanft gestoppt
+V	verb-spike	abschießen	hat abgeschossen	abgeschossen
+V	verb-outmanoeuvre	ausmanövrieren	hat ausmanövriert	ausmanövriert
+V	verb-bin	in den Papierkorb werfen	hat in den Papierkorb geworfen	in den Papierkorb geworfen
+V	verb-can	einstampfen	hat eingestampft	eingestampft
+V	verb-axe	streichen	hat gestrichen	gestrichen
+V	verb-scrap	verschrotten	hat verschrottet	verschrottet
+V	verb-junk	wegwerfen	hat weggeworfen	weggeworfen
+V	verb-ditch	fallen lassen	hat fallen lassen	fallen lassen
+V	verb-jettison	über Bord werfen	hat über Bord geworfen	über Bord geworfen
+V	verb-jettison-off	über Bord werfen	hat über Bord geworfen	über Bord geworfen
+V	verb-warehouse	einlagern	hat eingelagert	eingelagert
+V	verb-stockpile	horten	hat gehortet	gehortet
+V	verb-hoard	horten	hat gehortet	gehortet
+V	verb-squirrel	beiseitelegen	hat beiseitegelegt	beiseitegelegt
+V	verb-squirrel-away	auf die hohe Kante legen	hat auf die hohe Kante gelegt	auf die hohe Kante gelegt
+V	verb-ringfence	abschotten	hat abgeschottet	abgeschottet
+V	verb-firewall	abschotten	hat abgeschottet	abgeschottet
+V	verb-silo	abkapseln	hat abgekapselt	abgekapselt
+V	verb-unsilo	aus dem Silo holen	hat aus dem Silo geholt	aus dem Silo geholt
+V	verb-silo-off	abkapseln	hat abgekapselt	abgekapselt
+V	verb-redistrict	Wahlkreise neu schneiden	hat Wahlkreise neu geschnitten	Wahlkreise neu geschnitten
+V	verb-firewall-off	mit Brandmauer abschotten	hat mit Brandmauer abgeschottet	mit Brandmauer abgeschottet
+V	verb-chinese-wall	eine Chinese Wall errichten	hat eine Chinese Wall errichtet	eine Chinese Wall errichtet
+V	verb-gag	knebeln	hat geknebelt	geknebelt
+V	verb-ungag	den Knebel lösen	hat den Knebel gelöst	den Knebel gelöst
+V	verb-gag-order	Knebelverfügung erlassen	hat Knebelverfügung erlassen	Knebelverfügung erlassen
+V	verb-injunct	untersagen	hat untersagt	untersagt
+V	verb-restrain	einschränken	hat eingeschränkt	eingeschränkt
+V	verb-unstay	die Aussetzung aufheben	hat die Aussetzung aufgehoben	die Aussetzung aufgehoben
+V	verb-adjourn	vertagen	hat vertagt	vertagt
+V	verb-prorogue	schließen	hat geschlossen	geschlossen
+V	verb-unseat	absetzen	hat abgesetzt	abgesetzt
+V	verb-prorogate	verlängern	hat verlängert	verlängert
+V	verb-whip	Fraktionsdisziplin auferlegen	hat Fraktionsdisziplin auferlegt	Fraktionsdisziplin auferlegt
+V	verb-unwhip	Fraktionsdisziplin aufheben	hat Fraktionsdisziplin aufgehoben	Fraktionsdisziplin aufgehoben
+V	verb-pair	paaren	hat gepaart	gepaart
+V	verb-unpair	entpaaren	hat entpaart	entpaart
+V	verb-cloture	die Debatte schließen	hat die Debatte geschlossen	die Debatte geschlossen
+V	verb-outvote	überstimmen	hat überstimmt	überstimmt
+V	verb-timetable	terminieren	hat terminiert	terminiert
+V	verb-steamroller	überrollen	hat überrollt	überrollt
+V	verb-guillotine	die Debatte abschneiden	hat die Debatte abgeschnitten	die Debatte abgeschnitten
+V	verb-kangaroo	Änderungsanträge überspringen	hat Änderungsanträge übersprungen	Änderungsanträge übersprungen
+V	verb-closure	den Schluss beschließen	hat den Schluss beschlossen	den Schluss beschlossen
+V	verb-oversee	beaufsichtigen	hat beaufsichtigt	beaufsichtigt
+V	verb-overlook	übersehen	hat übersehen	übersehen
+V	verb-upgrade	aufwerten	hat aufgewertet	aufgewertet
+V	verb-update	aktualisieren	hat aktualisiert	aktualisiert
+V	verb-unfold	sich entfalten	hat sich entfaltet	entfaltet
+V	verb-unravel	entwirren	hat entwirrt	entwirrt
+V	verb-unveil	enthüllen	hat enthüllt	enthüllt
+V	verb-outlast	überdauern	hat überdauert	überdauert
+V	verb-outnumber	zahlenmäßig übertreffen	hat zahlenmäßig übertroffen	zahlenmäßig übertroffen
+V	verb-outperform	übertreffen	hat übertroffen	übertroffen
+V	verb-reassess	neu bewerten	hat neu bewertet	neu bewertet
+V	verb-rethink	überdenken	hat überdacht	überdacht
+V	verb-reshuffle	umbesetzen	hat umbesetzt	umbesetzt
+V	verb-restructure	umstrukturieren	hat umstrukturiert	umstrukturiert
+V	verb-realign	neu ausrichten	hat neu ausgerichtet	neu ausgerichtet
+V	verb-reallocate	umverteilen	hat umverteilt	umverteilt
+V	verb-renegotiate	neu verhandeln	hat neu verhandelt	neu verhandelt
+V	verb-reimburse	erstatten	hat erstattet	erstattet
+V	verb-broker	vermitteln	hat vermittelt	vermittelt
+V	verb-spearhead	anführen	hat angeführt	angeführt
+V	verb-phase out	auslaufen lassen	hat auslaufen lassen	auslaufen lassen
+V	verb-phase in	einführen	hat eingeführt	eingeführt
+V	verb-roll out	ausrollen	hat ausgerollt	ausgerollt
+V	verb-roll back	rückgängig machen	hat rückgängig gemacht	rückgängig gemacht
+V	verb-scale back	zurückfahren	hat zurückgefahren	zurückgefahren
+V	verb-scale up	hochskalieren	hat hochskaliert	hochskaliert
+V	verb-step down	zurücktreten	ist zurückgetreten	zurückgetreten
+V	verb-step up	intensivieren	hat intensiviert	intensiviert
+V	verb-step aside	beiseitetreten	ist beiseigetreten	beiseigetreten
+V	verb-step in	eingreifen	hat eingegriffen	eingegriffen
+V	verb-stand down	zurücktreten	ist zurückgetreten	zurückgetreten
+V	verb-stand by	festhalten	hat festgehalten	festgehalten
+V	verb-stand for	bedeuten	hat bedeutet	bedeutet
+V	verb-back down	nachgeben	hat nachgegeben	nachgegeben
+V	verb-back out	zurücktreten	ist zurückgetreten	zurückgetreten
+V	verb-back off	zurückweichen	ist zurückgewichen	zurückgewichen
+V	verb-call off	absagen	hat abgesagt	abgesagt
+V	verb-call out	öffentlich benennen	hat öffentlich benannt	öffentlich benannt
+V	verb-call in	hinzuziehen	hat hinzugezogen	hinzugezogen
+V	verb-call for	fordern	hat gefordert	gefordert
+V	verb-crack down	hart durchgreifen	hat hart durchgegriffen	hart durchgegriffen
+V	verb-clamp down	einen Riegel vorschieben	hat einen Riegel vorgeschoben	einen Riegel vorgeschoben
+V	verb-write off	abschreiben	hat abgeschrieben	abgeschrieben
+V	verb-take over	übernehmen	hat übernommen	übernommen
+V	verb-take on	übernehmen	hat übernommen	übernommen
+V	verb-take up	aufgreifen	hat aufgegriffen	aufgegriffen
+V	verb-take apart	auseinandernehmen	hat auseinandergenommen	auseinandergenommen
+V	verb-bring about	herbeiführen	hat herbeigeführt	herbeigeführt
+V	verb-bring forward	vorziehen	hat vorgezogen	vorgezogen
+V	verb-bring in	einführen	hat eingeführt	eingeführt
+V	verb-bring out	ans Licht bringen	hat ans Licht gebracht	ans Licht gebracht
+V	verb-put forward	vorbringen	hat vorgebracht	vorgebracht
+V	verb-put off	aufschieben	hat aufgeschoben	aufgeschoben
+V	verb-put through	durchbringen	hat durchgebracht	durchgebracht
+V	verb-put across	verständlich machen	hat verständlich gemacht	verständlich gemacht
+V	verb-put aside	beiseitelegen	hat beiseitegelegt	beiseitegelegt
+V	verb-get across	rüberbringen	hat rübergebracht	rübergebracht
+V	verb-get away with	davonkommen mit	ist davongekommen mit	davongekommen
+V	verb-get on with	weitermachen mit	hat weitergemacht mit	weitergemacht
+V	verb-come under	geraten unter	ist geraten unter	geraten
+V	verb-come down to	hinauslaufen auf	ist hinausgelaufen auf	hinausgelaufen
+V	verb-come up with	finden	hat gefunden	gefunden
+V	verb-come out with	herausplatzen mit	ist herausgeplatzt mit	herausgeplatzt
+V	verb-go along with	mitgehen mit	ist mitgegangen mit	mitgegangen
+V	verb-go through with	durchziehen	hat durchgezogen	durchgezogen
+V	verb-go back on	zurücknehmen	hat zurückgenommen	zurückgenommen
+V	verb-hold off	zurückhalten	hat zurückgehalten	zurückgehalten
+V	verb-hold out	standhalten	hat standgehalten	standgehalten
+V	verb-hold back	zurückhalten	hat zurückgehalten	zurückgehalten
+V	verb-hold on	festhalten	hat festgehalten	festgehalten
+V	verb-turn down	ablehnen	hat abgelehnt	abgelehnt
+V	verb-turn out	sich herausstellen	hat sich herausgestellt	herausgestellt
+V	verb-turn around	umdrehen	hat umgedreht	umgedreht
+V	verb-turn over	übergeben	hat übergeben	übergeben
+V	verb-turn up	erscheinen	ist erschienen	erschienen
+V	verb-carry out	durchführen	hat durchgeführt	durchgeführt
+V	verb-carry on	weitermachen	hat weitergemacht	weitergemacht
+V	verb-follow through	zu Ende führen	hat zu Ende geführt	zu Ende geführt
+V	verb-follow up	nachverfolgen	hat nachverfolgt	nachverfolgt
+V	verb-look into	untersuchen	hat untersucht	untersucht
+V	verb-look over	durchsehen	hat durchgesehen	durchgesehen
+V	verb-see through	durchschauen	hat durchschaut	durchschaut
+V	verb-see to	sich kümmern um	hat sich gekümmert um	gekümmert
+V	verb-see about	sich kümmern um	hat sich gekümmert um	gekümmert
+V	verb-set out	darlegen	hat dargelegt	dargelegt
+V	verb-set off	auslösen	hat ausgelöst	ausgelöst
+V	verb-set aside	zurücklegen	hat zurückgelegt	zurückgelegt
+V	verb-set about	sich machen an	hat sich gemacht an	gemacht
+V	verb-set in	einsetzen	hat eingesetzt	eingesetzt
+V	verb-lay off	entlassen	hat entlassen	entlassen
+V	verb-lay out	darlegen	hat dargelegt	dargelegt
+V	verb-lay down	festlegen	hat festgelegt	festgelegt
+V	verb-wind up	enden	ist geendet	geendet
+V	verb-wind down	sich entspannen	hat sich entspannt	entspannt
+V	verb-spin	verdrehen	hat verdreht	verdreht
+V	verb-flag	markieren	hat markiert	markiert
+V	verb-tap	anzapfen	hat angezapft	angezapft
+V	verb-sound out	ausloten	hat ausgelotet	ausgelotet
+V	verb-flesh out	ausarbeiten	hat ausgearbeitet	ausgearbeitet
+V	verb-iron out	ausbügeln	hat ausgebügelt	ausgebügelt
+V	verb-rule out	ausschließen	hat ausgeschlossen	ausgeschlossen
+V	verb-single out	herausgreifen	hat herausgegriffen	herausgegriffen
+V	verb-spell out	darlegen	hat dargelegt	dargelegt
+V	verb-map out	abstecken	hat abgesteckt	abgesteckt
+V	verb-play down	herunterspielen	hat heruntergespielt	heruntergespielt
+V	verb-play up	hervorheben	hat hervorgehoben	hervorgehoben
+V	verb-water down	verwässern	hat verwässert	verwässert
+V	verb-ratchet up	hochschrauben	hat hochgeschraubt	hochgeschraubt
+V	verb-double down	verdoppeln	hat verdoppelt	verdoppelt
+V	verb-walk back	zurücknehmen	hat zurückgenommen	zurückgenommen
+V	verb-row back	zurückrudern	hat zurückgerudert	zurückgerudert
+V	verb-push back	sich stemmen	hat sich gestemmt	gestemmt
+V	verb-push through	durchbringen	hat durchgebracht	durchgebracht
+V	verb-fall short	zurückbleiben	ist zurückgeblieben	zurückgeblieben
+V	verb-fall behind	zurückfallen	ist zurückgefallen	zurückgefallen
+V	verb-live up to	gerecht werden	ist gerecht geworden	gerecht geworden
+V	verb-measure up	mithalten	hat mitgehalten	mitgehalten
+V	verb-gauge	einschätzen	hat eingeschätzt	eingeschätzt
+V	verb-lobby	lobbyieren	hat lobbyiert	lobbyiert
+V	verb-tone down	abmildern	hat abgemildert	abgemildert
+V	verb-beef up	aufstocken	hat aufgestockt	aufgestockt
+V	verb-shore up	abstützen	hat abgestützt	abgestützt
+V	verb-paper over	übertünchen	hat übertüncht	übertüncht
+V	verb-gloss over	hinweggehen	ist hinweggegangen	hinweggegangen
+V	verb-talk down	herunterspielen	hat heruntergespielt	heruntergespielt
+V	verb-talk up	hochspielen	hat hochgespielt	hochgespielt
+V	verb-clock off	austempeln	hat ausgestempelt	ausgestempelt
+V	verb-phone in	dienstlich abliefern	hat dienstlich abgeliefert	dienstlich abgeliefert
+V	verb-write in	schreiben	hat geschrieben	geschrieben

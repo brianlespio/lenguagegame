@@ -1,0 +1,800 @@
+W	adverb-in-abeyance	in der Schwebe
+W	adverb-in-deadlock	in der Sackgasse
+W	adverb-in-reverse	umgekehrt
+W	adverb-in-tandem	im Gleichklang
+W	adverb-in-parallel	parallel
+W	adverb-in-isolation	isoliert
+W	adverb-in-concert	gemeinsam
+W	adverb-in-droves	scharenweise
+W	adverb-in-bulk	en gros
+W	adverb-in-batches	chargenweise
+W	adverb-in-stages	stufenweise
+W	adverb-in-phases	phasenweise
+W	adverb-in-waves	in Wellen
+W	adverb-in-fits-and-starts	stoßweise
+W	adverb-in-dribs-and-drabs	tröpfchenweise
+W	adverb-in-one-go	auf einmal
+W	adverb-in-one-sitting	in einem Rutsch
+W	adverb-in-one-stroke	mit einem Federstrich
+W	adverb-over-time	mit der Zeit
+W	adverb-over-the-piece	über das Ganze hinweg
+W	adverb-over-the-long-haul	auf lange Sicht
+W	adverb-over-the-short-haul	auf kurze Sicht
+W	adverb-at-short-notice	kurzfristig
+W	adverb-at-long-last	endlich
+W	adverb-at-face-value	wörtlich
+W	adverb-at-cost	zum Selbstkostenpreis
+W	adverb-at-source	an der Quelle
+W	adverb-at-source-level	auf Quellenebene
+W	adverb-at-board-level	auf Vorstandsebene
+W	adverb-at-street-level	auf Straßenebene
+W	adverb-at-ground-level	auf Bodenhöhe
+W	adverb-at-cabinet-level	auf Kabinettsebene
+W	adverb-at-ministerial-level	auf Ministerialebene
+W	adverb-at-grassroots-level	an der Basis
+W	adverb-from-scratch	von Grund auf
+W	adverb-from-the-ground-up	von den Fundamenten aus
+W	adverb-from-the-top-down	von oben nach unten
+W	adverb-from-the-bottom-up	von unten nach oben
+W	adverb-from-day-one	vom ersten Tag an
+W	adverb-from-the-start	von Anfang an
+W	adverb-right-away	auf der Stelle
+W	adverb-straight-away	auf der Stelle
+W	adverb-straight-off	von vornherein
+W	adverb-straight-out	unverblümt
+W	adverb-out-loud	laut
+W	adverb-out-of-hand	plötzlich
+W	adverb-out-of-turn	außer der Reihe
+W	adverb-out-of-order	unangebracht
+W	adverb-out-of-line	ungebührlich
+W	adverb-out-of-kilter	aus dem Lot
+W	adverb-out-of-whack	aus dem Gleichgewicht
+W	adverb-out-of-joint	aus den Fugen
+W	adverb-out-of-pocket	aus eigener Tasche
+W	adverb-out-of-work	arbeitslos
+W	adverb-out-of-office	außer Amt
+W	adverb-out-of-favour	in Ungnade
+W	adverb-out-of-fashion	aus der Mode
+W	adverb-out-of-date	veraltet
+W	adverb-up-to-date	auf dem neuesten Stand
+W	adverb-up-to-speed	auf dem Laufenden
+W	adverb-up-to-scratch	auf der Höhe
+W	adverb-up-to-par	auf der Höhe
+W	adverb-on-track	auf Kurs
+W	adverb-off-track	vom Kurs ab
+W	adverb-on-course	auf Kurs
+W	adverb-off-course	vom Kurs ab
+W	adverb-on-target	im Ziel
+W	adverb-off-target	am Ziel vorbei
+W	adverb-on-schedule	planmäßig
+W	adverb-behind-schedule	im Rückstand
+W	adverb-ahead-of-schedule	vor dem Zeitplan
+W	adverb-on-time	pünktlich
+W	adverb-behind-time	verspätet
+W	adverb-in-time	rechtzeitig
+W	adverb-just-in-time	gerade noch rechtzeitig
+W	adverb-not-a-moment-too-soon	keinen Moment zu früh
+W	adverb-none-too-soon	keinen Moment zu früh
+W	connector-setting-that-aside	davon abgesehen
+W	connector-putting-that-to-one-side	das zur Seite gelegt
+W	connector-on-that-note	in diesem Sinne
+W	connector-on-another-note	in einem anderen Zusammenhang
+W	connector-on-a-lighter-note	in einem leichteren Ton
+W	connector-on-a-more-serious-note	in einem ernsteren Ton
+W	connector-turning-to	übergehend zu
+W	connector-moving-on-to	weiter zu
+W	connector-coming-back-to	zurückkommend auf
+W	connector-returning-to	zurückkehrend zu
+W	connector-circling-back-to	nochmals zurückkommend auf
+W	connector-to-pick-up-on	um anzuknüpfen an
+W	connector-to-follow-up-on	um nachzugehen
+W	connector-to-expand-on	um auszuführen
+W	connector-to-dwell-on	um zu verweilen bei
+W	connector-to-touch-on	um anzureißen
+W	connector-to-build-on	um aufzubauen auf
+W	connector-to-go-further	um weiterzugehen
+W	connector-going-further	weitergehend
+W	connector-taking-this-further	dies weiterführend
+W	connector-on-this-score	in diesem Punkt
+W	connector-on-that-score	in jenem Punkt
+W	connector-on-this-front	auf dieser Front
+W	connector-on-that-front	auf jener Front
+W	connector-on-this-count	in diesem Punkt
+W	connector-on-that-count	in jenem Punkt
+W	connector-on-one-reading	bei einer Lesart
+W	connector-on-another-reading	bei einer anderen Lesart
+W	connector-on-a-narrow-reading	bei enger Lesart
+W	connector-on-a-broad-reading	bei weiter Lesart
+W	connector-on-a-generous-reading	bei großzügiger Lesart
+W	connector-on-a-strict-reading	bei strenger Lesart
+W	connector-on-a-literal-reading	bei wörtlicher Lesart
+W	connector-on-a-close-reading	bei genauer Lesart
+W	connector-taken-separately	einzeln genommen
+W	connector-taken-at-face-value	wörtlich genommen
+W	connector-taken-in-context	im Zusammenhang genommen
+W	connector-viewed-this-way	so betrachtet
+W	connector-viewed-in-isolation	isoliert betrachtet
+W	connector-viewed-in-context	im Zusammenhang betrachtet
+W	connector-seen-this-way	so gesehen
+W	connector-seen-as-a-whole	im Ganzen gesehen
+W	connector-seen-in-isolation	isoliert gesehen
+W	connector-seen-in-context	im Zusammenhang gesehen
+W	connector-looked-at-this-way	so betrachtet
+W	connector-looked-at-as-a-whole	im Ganzen betrachtet
+W	connector-from-this-angle	aus diesem Blickwinkel
+W	connector-from-that-angle	aus jenem Blickwinkel
+W	connector-from-this-standpoint	von diesem Standpunkt aus
+W	connector-from-that-vantage	von jenem Aussichtspunkt aus
+W	connector-from-this-perspective	aus dieser Perspektive
+W	connector-from-that-perspective	aus jener Perspektive
+W	connector-from-this-viewpoint	aus diesem Blickwinkel
+W	connector-from-that-viewpoint	aus jenem Blickwinkel
+W	connector-from-either-side	von einer der beiden Seiten
+W	connector-from-both-sides	von beiden Seiten
+W	connector-from-all-sides	von allen Seiten
+W	connector-from-the-other-side	von der anderen Seite
+W	connector-pressed-further	weiter gedrängt
+W	connector-pressed-on-this	hierauf gedrängt
+W	connector-read-this-way	so gelesen
+W	connector-read-that-way	jenermaßen gelesen
+W	connector-read-narrowly	eng gelesen
+W	connector-read-broadly	weit gelesen
+W	connector-leaving-that-to-one-side	das beiseitegelassen
+W	connector-setting-this-aside	hiervon abgesehen
+W	connector-putting-this-aside	dies zur Seite gelegt
+W	connector-putting-this-to-one-side	dies zur Seite gelegt
+W	connector-shifting-the-focus	den Fokus verlagernd
+W	connector-shifting-ground	das Terrain wechselnd
+W	connector-changing-tack	den Kurs wechselnd
+W	connector-changing-course	den Kurs ändernd
+W	connector-changing-the-subject	das Thema wechselnd
+W	connector-staying-with-this	bei diesem bleibend
+W	connector-staying-with-that	bei jenem bleibend
+W	connector-sticking-with-this	bei diesem bleibend
+W	connector-sticking-with-that	bei jenem bleibend
+W	connector-holding-to-this	an diesem festhaltend
+W	connector-holding-to-that	an jenem festhaltend
+W	connector-holding-that-thought	diesen Gedanken festhaltend
+W	connector-parking-that	das zurückstellend
+W	connector-parking-this	dies zurückstellend
+W	connector-parking-that-for-now	das vorerst zurückstellend
+W	connector-parking-this-for-now	dies vorerst zurückstellend
+W	connector-bracketing-that	das in Klammern setzend
+W	connector-bracketing-this	dies in Klammern setzend
+W	connector-for-our-purposes	für unsere Zwecke
+W	connector-for-those-purposes	für jene Zwecke
+W	connector-for-argument-s-sake	der Argumentation halber
+W	connector-for-the-sake-of-argument	der Argumentation halber
+W	connector-for-discussion-s-sake	der Diskussion halber
+W	connector-for-completeness	der Vollständigkeit halber
+W	connector-for-the-avoidance-of-doubt	um Zweifel auszuschließen
+W	connector-for-clarity	der Klarheit halber
+W	connector-for-the-sake-of-clarity	der Klarheit halber
+W	connector-for-ease-of-reference	zur leichteren Bezugnahme
+W	connector-for-ease-of-reading	zur leichteren Lesbarkeit
+W	connector-for-later-reference	für spätere Bezugnahme
+W	connector-for-now	vorerst
+W	connector-for-the-moment	im Moment
+W	connector-for-the-time-being	vorläufig
+W	connector-in-the-short-run	kurzfristig
+W	connector-in-the-long-run	langfristig
+W	connector-in-the-medium-term	mittelfristig
+W	connector-in-the-short-term	kurzfristig
+W	connector-in-the-long-term	langfristig
+W	connector-over-the-short-term	auf kurze Sicht
+W	connector-over-the-long-term	auf lange Sicht
+W	connector-over-the-medium-term	auf mittlere Sicht
+W	connector-over-time	mit der Zeit
+W	connector-over-the-piece	über das Ganze hinweg
+W	connector-on-closer-inspection	bei genauerer Prüfung
+W	connector-on-closer-reading	bei genauerer Lesart
+W	connector-on-first-inspection	auf den ersten Blick
+W	connector-on-first-reading	bei erster Lesart
+W	connector-on-second-thoughts	bei näherer Überlegung
+W	connector-on-reflection	nach Überlegung
+W	connector-on-further-reflection	nach weiterer Überlegung
+W	connector-on-balance-of-evidence	nach Abwägung der Beweise
+W	connector-that-much-granted	das eingeräumt
+W	connector-that-much-conceded	das zugestanden
+W	connector-granting-this	dies einräumend
+W	connector-granting-that	das einräumend
+W	connector-allowing-for-this	dies berücksichtigend
+W	connector-allowing-for-the-fact-that	angesichts der Tatsache, dass
+W	connector-factoring-this-in	dies einbeziehend
+W	connector-factoring-that-in	das einbeziehend
+W	connector-weighing-this-up	dies abwägend
+W	connector-weighing-that-up	das abwägend
+W	connector-putting-it-together	zusammengenommen
+W	connector-putting-it-in-context	es in den Zusammenhang stellend
+W	pronoun-those-in-charge	Verantwortliche
+W	pronoun-the-one-in-question	Betreffender
+W	pronoun-the-ones-in-question	Betreffende
+W	pronoun-anyone-concerned	jeder Betroffene
+W	pronoun-anyone-involved	jeder Beteiligte
+W	pronoun-someone-in-charge	jemand Verantwortlicher
+W	pronoun-something-of-the-sort	etwas dergleichen
+W	pronoun-anything-of-the-kind	nichts dergleichen
+W	pronoun-such-people	solche Leute
+W	pronoun-such-things	solche Dinge
+W	pronoun-whoever-is-responsible	wer auch immer verantwortlich ist
+W	pronoun-whatever-the-outcome	wie auch immer das Ergebnis ausfällt
+W	pronoun-whichever-option	welche Option auch immer
+W	pronoun-anyone-of-note	jemand von Gewicht
+W	pronoun-none-whatsoever	keinerlei
+W	pronoun-all-concerned	alle Betroffenen
+W	pronoun-all-involved	alle Beteiligten
+W	pronoun-all-present	alle Anwesenden
+W	pronoun-one-or-more	einer oder mehrere
+W	pronoun-two-or-more	zwei oder mehr
+W	pronoun-few-if-any	wenige, wenn überhaupt welche
+W	pronoun-little-if-any	wenig, wenn überhaupt etwas
+W	pronoun-next-to-none	fast keiner
+W	pronoun-hardly-anything	kaum etwas
+W	pronoun-scarcely-anything	kaum etwas
+W	pronoun-barely-anything	kaum etwas
+W	pronoun-practically-nobody	praktisch niemand
+W	pronoun-practically-nothing	praktisch nichts
+W	pronoun-virtually-nobody	so gut wie niemand
+W	pronoun-virtually-nothing	so gut wie nichts
+W	pronoun-almost-anyone	fast jeder
+W	pronoun-almost-anything	fast alles
+W	pronoun-pretty-much-anyone	so gut wie jeder
+W	pronoun-pretty-much-anything	so gut wie alles
+W	pronoun-the-vast-majority	große Mehrheit
+W	pronoun-the-overwhelming-majority	überwältigende Mehrheit
+W	pronoun-a-handful-of-them	Handvoll von ihnen
+W	pronoun-a-fraction-of-them	Bruchteil von ihnen
+W	pronoun-a-minority-of-them	Minderheit von ihnen
+W	pronoun-a-majority-of-them	Mehrheit von ihnen
+W	pronoun-the-rest-of-us	Rest von uns
+W	pronoun-the-rest-of-you	Rest von Ihnen
+W	pronoun-some-of-us	einige von uns
+W	pronoun-none-of-us	keiner von uns
+W	pronoun-all-of-us	wir alle
+W	pronoun-either-of-us	einer von uns beiden
+W	pronoun-neither-of-us	keiner von uns beiden
+W	pronoun-each-of-us	jeder von uns
+W	pronoun-any-of-us	irgendeiner von uns
+W	pronoun-few-of-us	wenige von uns
+W	pronoun-many-of-us	viele von uns
+W	pronoun-most-of-us	die meisten von uns
+W	pronoun-several-of-us	mehrere von uns
+W	pronoun-some-of-you	einige von Ihnen
+W	pronoun-all-of-you	Sie alle
+W	pronoun-none-of-you	keiner von Ihnen
+W	pronoun-those-of-us	diejenigen von uns
+W	pronoun-those-of-you	diejenigen von Ihnen
+W	pronoun-those-among-us	die unter uns
+W	pronoun-those-among-you	die unter Ihnen
+W	pronoun-the-likes-of-us	Leute wie wir
+W	pronoun-people-like-us	Leute wie wir
+W	pronoun-people-like-them	Leute wie sie
+W	pronoun-the-very-people	gerade diese Leute
+W	pronoun-the-very-thing	gerade das
+W	pronoun-the-same-people	dieselben Leute
+W	pronoun-the-same-thing	dasselbe
+W	pronoun-that-sort-of-thing	so etwas
+W	pronoun-this-sort-of-thing	so etwas
+W	pronoun-that-kind-of-thing	dergleichen
+W	pronoun-this-kind-of-thing	dergleichen
+W	pronoun-things-of-that-kind	Dinge jener Art
+W	pronoun-things-of-this-sort	Dinge dieser Art
+W	pronoun-the-whole-lot	das Ganze
+W	pronoun-the-whole-thing	ganze Sache
+W	pronoun-the-whole-affair	ganze Angelegenheit
+W	pronoun-the-matter-at-hand	vorliegende Sache
+W	pronoun-the-issue-at-hand	vorliegende Frage
+W	pronoun-the-point-at-issue	strittiger Punkt
+W	pronoun-whatever-it-takes	was auch immer nötig ist
+W	pronoun-anyone-willing	jeder Bereitwillige
+W	pronoun-those-willing	Bereitwillige
+W	pronoun-those-unwilling	Unwillige
+W	pronoun-those-opposed	Gegner
+W	pronoun-those-in-favour	Befürworter
+W	pronoun-those-in-favor	Befürworter
+W	pronoun-the-latter-of-the-two	Letzterer von beiden
+W	pronoun-the-former-of-the-two	Ersterer von beiden
+W	pronoun-neither-of-the-two	keiner von beiden
+W	pronoun-either-of-the-two	einer von beiden
+W	pronoun-both-of-the-two	beide
+W	pronoun-one-of-the-two	einer von beiden
+W	pronoun-the-first-of-these	Erster davon
+W	pronoun-the-last-of-these	Letzter davon
+W	pronoun-the-next-of-these	Nächster davon
+W	pronoun-each-of-these	jeder davon
+W	pronoun-all-of-these	all diese
+W	pronoun-some-of-these	einige davon
+W	pronoun-none-of-these	keiner davon
+W	pronoun-few-of-these	wenige davon
+W	pronoun-many-of-these	viele davon
+W	pronoun-most-of-these	die meisten davon
+W	pronoun-several-of-these	mehrere davon
+W	pronoun-any-of-these	irgendeiner davon
+W	pronoun-either-of-these	einer von diesen beiden
+W	pronoun-neither-of-these	keiner von diesen beiden
+W	pronoun-both-of-these	beide diese
+W	pronoun-all-of-those	all jene
+W	pronoun-some-of-those	einige von jenen
+W	pronoun-none-of-those	keiner von jenen
+W	pronoun-few-of-those	wenige von jenen
+W	pronoun-many-of-those	viele von jenen
+W	pronoun-most-of-those	die meisten von jenen
+W	pronoun-several-of-those	mehrere von jenen
+W	pronoun-any-of-those	irgendeiner von jenen
+W	pronoun-each-of-those	jeder von jenen
+W	pronoun-both-of-those	beide jene
+W	pronoun-either-of-those	einer von jenen beiden
+W	pronoun-neither-of-those	keiner von jenen beiden
+W	pronoun-whoever-among-them	wer unter ihnen
+W	pronoun-whoever-among-us	wer unter uns
+W	pronoun-anyone-among-them	jemand unter ihnen
+W	pronoun-someone-among-them	jemand unter ihnen
+W	pronoun-no-one-among-them	niemand unter ihnen
+W	pronoun-the-ones-responsible	Verantwortliche
+W	pronoun-the-ones-affected	Betroffene
+W	pronoun-the-ones-involved	Beteiligte
+W	pronoun-the-ones-concerned	Betroffene
+W	pronoun-the-ones-in-charge	Verantwortliche
+W	pronoun-the-ones-present	Anwesende
+W	pronoun-the-ones-absent	Abwesende
+W	pronoun-the-ones-opposed	Gegner
+W	pronoun-the-ones-in-favour	Befürworter
+W	pronoun-those-of-note	die von Gewicht
+W	pronoun-anyone-in-particular	jemand Bestimmter
+W	pronoun-someone-in-particular	jemand Bestimmter
+W	pronoun-no-one-in-particular	niemand Bestimmter
+W	preposition-according-to	laut
+W	preposition-in-terms-of	hinsichtlich
+W	preposition-in-view-of	angesichts
+W	preposition-rather-than	anstatt
+W	preposition-as-well-as	sowie
+W	preposition-in-charge-of	an der Spitze von
+W	preposition-in-control-of	am Steuer von
+W	preposition-in-possession-of	im Besitz von
+W	preposition-in-receipt-of	im Empfang von
+W	preposition-in-need-of	bedürftig
+W	preposition-in-search-of	auf der Suche nach
+W	preposition-in-pursuit-of	in Verfolgung von
+W	preposition-in-response-to	als Antwort auf
+W	preposition-in-reaction-to	als Reaktion auf
+W	preposition-in-reply-to	als Erwiderung auf
+W	preposition-in-answer-to	als Antwort auf
+W	preposition-in-opposition-to	im Gegensatz zu
+W	preposition-in-protest-at	aus Protest gegen
+W	preposition-in-protest-against	aus Protest gegen
+W	preposition-in-recognition-of	in Anerkennung von
+W	preposition-in-appreciation-of	in Würdigung von
+W	preposition-in-acknowledgment-of	in Anerkennung von
+W	preposition-in-celebration-of	zur Feier von
+W	preposition-in-commemoration-of	zum Gedenken an
+W	preposition-in-tribute-to	als Hommage an
+W	preposition-in-deference-to	aus Rücksicht auf
+W	preposition-in-obedience-to	im Gehorsam gegenüber
+W	preposition-in-compliance-with	in Übereinstimmung mit
+W	preposition-in-conformity-with	in Einklang mit
+W	preposition-consistent-with	vereinbar mit
+W	preposition-incompatible-with	unvereinbar mit
+W	preposition-at-war-with	im Krieg mit
+W	preposition-at-peace-with	im Frieden mit
+W	preposition-at-home-with	vertraut mit
+W	preposition-at-ease-with	ungezwungen mit
+W	preposition-in-conflict-with	im Konflikt mit
+W	preposition-in-competition-with	im Wettbewerb mit
+W	preposition-in-collaboration-with	in Zusammenarbeit mit
+W	preposition-in-partnership-with	in Partnerschaft mit
+W	preposition-in-alliance-with	im Bündnis mit
+W	preposition-in-league-with	im Bund mit
+W	preposition-in-tandem-with	im Gleichklang mit
+W	preposition-in-parallel-with	parallel zu
+W	preposition-in-isolation-from	losgelöst von
+W	preposition-far-from	weit entfernt von
+W	preposition-in-favor-of	zugunsten von
+W	preposition-for-the-purpose-of	zum Zwecke von
+W	preposition-in-the-interest-of	im Interesse von
+W	preposition-with-the-exception-of	mit Ausnahme von
+W	preposition-with-the-aim-of	mit dem Ziel
+W	preposition-with-the-intention-of	mit der Absicht
+W	preposition-with-the-purpose-of	mit dem Zweck
+W	preposition-without-regard-to	ohne Rücksicht auf
+W	preposition-without-reference-to	ohne Bezug auf
+W	preposition-without-prejudice-to	unbeschadet
+W	preposition-subject-to	vorbehaltlich
+W	preposition-based-on	gestützt auf
+W	preposition-founded-on	gegründet auf
+W	preposition-grounded-in	verankert in
+W	preposition-rooted-in	verwurzelt in
+W	preposition-steeped-in	durchtränkt von
+W	preposition-wrapped-up-in	vertieft in
+W	preposition-caught-up-in	verwickelt in
+W	preposition-tied-to	gebunden an
+W	preposition-linked-to	verbunden mit
+W	preposition-linked-with	verbunden mit
+W	preposition-associated-with	verbunden mit
+W	preposition-coupled-with	verbunden mit
+W	preposition-paired-with	gepaart mit
+W	preposition-faced-with	angesichts
+W	preposition-confronted-with	konfrontiert mit
+W	preposition-presented-with	angesichts
+W	preposition-provided-with	versehen mit
+W	preposition-equipped-with	ausgestattet mit
+W	preposition-armed-with	bewaffnet mit
+W	preposition-charged-with	beauftragt mit
+W	preposition-tasked-with	betraut mit
+W	preposition-saddled-with	belastet mit
+W	preposition-lumbered-with	aufgeladen mit
+W	preposition-stuck-with	gebunden an
+W	preposition-left-with	übriggeblieben mit
+W	preposition-blessed-with	gesegnet mit
+W	preposition-burdened-with	belastet mit
+W	preposition-filled-with	gefüllt mit
+W	preposition-packed-with	vollgepackt mit
+W	preposition-riddled-with	durchsetzt von
+W	preposition-dealing-with	gegenüber
+W	preposition-compared-with	gegenüber
+W	preposition-compared-to	gegenüber
+W	preposition-proportionate-to	im Verhältnis zu
+W	preposition-proportional-to	proportional zu
+W	preposition-equivalent-to	gleichwertig mit
+W	preposition-tantamount-to	gleichbedeutend mit
+W	preposition-conducive-to	förderlich für
+W	preposition-prone-to	anfällig für
+W	preposition-liable-to	ausgesetzt
+W	preposition-liable-for	haftbar für
+W	preposition-responsible-for	verantwortlich für
+W	preposition-accountable-for	rechenschaftspflichtig für
+W	preposition-answerable-for	verantwortlich für
+W	preposition-eligible-for	berechtigt zu
+W	preposition-suitable-for	geeignet für
+W	preposition-unfit-for	ungeeignet für
+W	preposition-ripe-for	reif für
+W	preposition-destined-for	bestimmt für
+W	preposition-bound-for	unterwegs nach
+W	preposition-headed-for	auf dem Weg nach
+W	preposition-intended-for	bestimmt für
+W	preposition-meant-for	gedacht für
+W	preposition-reserved-for	vorbehalten für
+W	preposition-earmarked-for	vorgesehen für
+W	preposition-set-aside-for	zurückgelegt für
+W	preposition-in-store-for	bevorstehend für
+W	preposition-in-wait-for	auf der Lauer nach
+W	preposition-known-for	bekannt für
+W	preposition-noted-for	bekannt für
+W	preposition-renowned-for	berühmt für
+W	preposition-notorious-for	berüchtigt für
+W	preposition-blamed-for	verantwortlich gemacht für
+W	preposition-praised-for	gelobt wegen
+W	preposition-criticised-for	kritisiert wegen
+W	preposition-compensated-for	entschädigt für
+W	preposition-reimbursed-for	erstattet für
+W	preposition-at-the-recommendation-of	auf Empfehlung von
+W	preposition-on-the-advice-of	auf Rat von
+W	preposition-on-the-recommendation-of	auf Empfehlung von
+W	preposition-on-the-instruction-of	auf Anweisung von
+W	preposition-on-the-orders-of	auf Befehl von
+W	preposition-under-the-orders-of	unter den Befehlen von
+W	preposition-under-the-management-of	unter der Leitung von
+W	preposition-under-the-control-of	unter der Kontrolle von
+W	preposition-under-the-authority-of	unter der Autorität von
+W	preposition-under-the-leadership-of	unter der Führung von
+W	preposition-under-the-protection-of	unter dem Schutz von
+W	preposition-under-the-title-of	unter dem Titel
+W	preposition-under-the-name-of	unter dem Namen
+W	preposition-in-the-name-of	im Namen von
+W	preposition-in-the-shape-of	in Gestalt von
+W	preposition-in-the-form-of	in Form von
+W	preposition-in-the-mould-of	nach dem Muster von
+W	preposition-in-the-style-of	im Stil von
+W	preposition-in-the-manner-of	nach Art von
+W	preposition-in-the-spirit-of	im Geiste von
+W	preposition-in-the-tradition-of	in der Tradition von
+W	preposition-in-the-footsteps-of	in den Fußstapfen von
+W	question-like-coffee	Mögen Sie Kaffee?
+W	positive-like-coffee	Ja, ich mag ihn.
+W	negative-like-coffee	Nein, ich mag ihn nicht.
+W	question-want-water	Möchten Sie etwas Wasser?
+W	positive-want-water	Ja, bitte.
+W	negative-want-water	Nein, danke.
+W	question-hungry	Haben Sie Hunger?
+W	positive-hungry	Ja, ich habe Hunger.
+W	negative-hungry	Nein, ich habe keinen Hunger.
+W	question-thirsty	Haben Sie Durst?
+W	positive-thirsty	Ja, ich habe Durst.
+W	negative-thirsty	Nein, ich habe keinen Durst.
+W	question-tired	Sind Sie müde?
+W	positive-tired	Ja, ich bin müde.
+W	negative-tired	Nein, ich bin nicht müde.
+W	question-from-spain	Kommen Sie aus Spanien?
+W	positive-from-spain	Ja, ich komme aus Spanien.
+W	negative-from-spain	Nein, ich komme nicht aus Spanien.
+W	question-live-here	Wohnen Sie hier?
+W	positive-live-here	Ja, ich wohne hier.
+W	negative-live-here	Nein, ich wohne nicht hier.
+W	question-speak-english	Sprechen Sie Englisch?
+W	positive-speak-english	Ja, ich spreche Englisch.
+W	negative-speak-english	Nein, ich spreche kein Englisch.
+W	question-have-time	Haben Sie Zeit?
+W	positive-have-time	Ja, ich habe Zeit.
+W	negative-have-time	Nein, ich habe keine Zeit.
+W	question-student	Sind Sie Student?
+W	positive-student	Ja, ich bin Student.
+W	negative-student	Nein, ich bin kein Student.
+W	question-ready	Sind Sie bereit?
+W	positive-ready	Ja, ich bin bereit.
+W	negative-ready	Nein, noch nicht.
+W	question-understand	Verstehen Sie?
+W	positive-understand	Ja, ich verstehe.
+W	negative-understand	Nein, ich verstehe nicht.
+W	question-know-him	Kennen Sie ihn?
+W	positive-know-him	Ja, ich kenne ihn.
+W	negative-know-him	Nein, ich kenne ihn nicht.
+W	question-like-music	Mögen Sie Musik?
+W	positive-like-music	Ja, ich mag sie.
+W	negative-like-music	Nein, ich mag sie nicht.
+W	question-have-brother	Haben Sie einen Bruder?
+W	positive-have-brother	Ja, ich habe einen Bruder.
+W	negative-have-brother	Nein, ich habe keinen Bruder.
+W	question-work-here	Arbeiten Sie hier?
+W	positive-work-here	Ja, ich arbeite hier.
+W	negative-work-here	Nein, ich arbeite nicht hier.
+W	question-ok	Geht es Ihnen gut?
+W	positive-ok	Ja, mir geht es gut.
+W	negative-ok	Nein, mir geht es nicht gut.
+W	question-cold	Ist Ihnen kalt?
+W	positive-cold	Ja, mir ist kalt.
+W	negative-cold	Nein, mir ist nicht kalt.
+W	question-free-now	Sind Sie jetzt frei?
+W	positive-free-now	Ja, ich bin frei.
+W	negative-free-now	Nein, ich bin beschäftigt.
+W	question-can-help	Können Sie mir helfen?
+W	positive-can-help	Ja, ich kann.
+W	negative-can-help	Nein, ich kann nicht.
+W	question-need-this	Brauchen Sie das?
+W	positive-need-this	Ja, ich brauche es.
+W	negative-need-this	Nein, ich brauche es nicht.
+W	question-see-it	Sehen Sie es?
+W	positive-see-it	Ja, ich sehe es.
+W	negative-see-it	Nein, ich sehe es nicht.
+W	question-first-time	Ist das Ihr erstes Mal?
+W	positive-first-time	Ja, es ist das erste Mal.
+W	negative-first-time	Nein, ich war schon einmal da.
+W	question-coming	Kommen Sie?
+W	positive-coming	Ja, ich komme.
+W	negative-coming	Nein, ich komme nicht.
+W	question-got-ticket	Haben Sie eine Fahrkarte?
+W	positive-got-ticket	Ja, ich habe eine Fahrkarte.
+W	negative-got-ticket	Nein, ich habe keine Fahrkarte.
+W	question-pay-card	Kann ich mit Karte zahlen?
+W	positive-pay-card	Ja, natürlich.
+W	negative-pay-card	Nein, nur bar.
+W	question-far	Ist es weit?
+W	positive-far	Ja, es ist weit.
+W	negative-far	Nein, es ist ganz nah.
+W	question-open-now	Ist geöffnet?
+W	positive-open-now	Ja, es ist geöffnet.
+W	negative-open-now	Nein, es ist geschlossen.
+W	question-take-away	Ist das zum Mitnehmen?
+W	positive-take-away	Ja, zum Mitnehmen.
+W	negative-take-away	Nein, zum Hieressen.
+W	question-feel-well	Fühlen Sie sich wohl?
+W	positive-feel-well	Ja, mir geht es gut.
+W	negative-feel-well	Nein, mir geht es nicht gut.
+W	question-missed-bus	Haben Sie den Bus verpasst?
+W	positive-missed-bus	Ja, ich habe ihn verpasst.
+W	negative-missed-bus	Nein, ich habe ihn noch erwischt.
+W	question-finish-work	Haben Sie die Arbeit beendet?
+W	positive-finish-work	Ja, ich bin fertig.
+W	negative-finish-work	Nein, noch nicht.
+W	question-party	Kommen Sie zur Party?
+W	positive-party	Ja, ich komme.
+W	negative-party	Nein, ich kann nicht.
+W	question-need-taxi	Brauchen Sie ein Taxi?
+W	positive-need-taxi	Ja, bitte.
+W	negative-need-taxi	Nein, danke.
+W	question-speak-slowly	Können Sie langsamer sprechen?
+W	positive-speak-slowly	Ja, natürlich.
+W	negative-speak-slowly	Tut mir leid, ich kann nicht.
+W	question-repeat	Können Sie das wiederholen?
+W	positive-repeat	Ja, natürlich.
+W	negative-repeat	Tut mir leid, ich muss gehen.
+W	question-sit-here	Darf ich mich hier hinsetzen?
+W	positive-sit-here	Ja, natürlich.
+W	negative-sit-here	Nein, der Platz ist belegt.
+W	question-wait-moment	Können Sie einen Moment warten?
+W	positive-wait-moment	Ja, ich kann.
+W	negative-wait-moment	Nein, ich habe es eilig.
+W	question-going-out	Gehen Sie heute Abend aus?
+W	positive-going-out	Ja, ich gehe aus.
+W	negative-going-out	Nein, ich bleibe zu Hause.
+W	question-like-come	Möchten Sie mitkommen?
+W	positive-like-come	Ja, sehr gerne.
+W	negative-like-come	Nein, danke.
+W	question-help-bag	Darf ich Ihnen mit der Tasche helfen?
+W	positive-help-bag	Ja, bitte.
+W	negative-help-bag	Nein, danke, ich schaffe es.
+W	question-been-here	Waren Sie schon einmal hier?
+W	positive-been-here	Ja, einmal.
+W	negative-been-here	Nein, noch nie.
+W	question-ever-london	Waren Sie schon einmal in London?
+W	positive-ever-london	Ja, ich war schon dort.
+W	negative-ever-london	Nein, noch nie.
+W	question-mind-window	Stört es Sie, wenn ich das Fenster öffne?
+W	positive-mind-window	Überhaupt nicht.
+W	negative-mind-window	Ich hätte es lieber, Sie täten es nicht.
+W	question-rather-stay	Bleiben Sie lieber zu Hause?
+W	positive-rather-stay	Ja, ich bleibe lieber.
+W	negative-rather-stay	Nein, ich gehe lieber aus.
+W	question-used-to-live	Haben Sie früher hier gewohnt?
+W	positive-used-to-live	Ja, ich habe hier gewohnt.
+W	negative-used-to-live	Nein, nie.
+W	question-think-so	Glauben Sie das?
+W	positive-think-so	Ja, das glaube ich.
+W	negative-think-so	Nein, das glaube ich nicht.
+W	question-agree	Sind Sie einverstanden?
+W	positive-agree	Ja, ich bin einverstanden.
+W	negative-agree	Nein, ich bin nicht einverstanden.
+W	question-sure	Sind Sie sicher?
+W	positive-sure	Ja, ich bin sicher.
+W	negative-sure	Nein, nicht wirklich.
+W	question-available-tomorrow	Sind Sie morgen verfügbar?
+W	positive-available-tomorrow	Ja, ich bin frei.
+W	negative-available-tomorrow	Nein, ich kann nicht.
+W	question-join-us	Möchten Sie sich uns anschließen?
+W	positive-join-us	Ja, sehr gerne.
+W	negative-join-us	Nein, danke.
+W	question-keep-secret	Können Sie ein Geheimnis für sich behalten?
+W	positive-keep-secret	Ja, natürlich.
+W	negative-keep-secret	Nein, ehrlich gesagt nicht.
+W	question-already-eaten	Haben Sie schon gegessen?
+W	positive-already-eaten	Ja, ich habe schon gegessen.
+W	negative-already-eaten	Nein, noch nicht.
+W	question-need-anything	Brauchen Sie noch etwas?
+W	positive-need-anything	Ja, bitte.
+W	negative-need-anything	Nein, das ist alles, danke.
+W	question-coming-back	Kommen Sie später zurück?
+W	positive-coming-back	Ja, ich komme zurück.
+W	negative-coming-back	Nein, heute Abend nicht.
+W	question-tell-truth	Sagen Sie die Wahrheit?
+W	positive-tell-truth	Ja, ich sage die Wahrheit.
+W	negative-tell-truth	Nein, ich habe nur gescherzt.
+W	question-mind-waiting	Würde es Ihnen etwas ausmachen, hier zu warten?
+W	positive-mind-waiting	Überhaupt nicht.
+W	negative-mind-waiting	Lieber nicht.
+W	question-happen-time	Haben Sie zufällig die Uhrzeit?
+W	positive-happen-time	Ja, es ist drei Uhr.
+W	negative-happen-time	Nein, tut mir leid.
+W	question-do-favour	Könnten Sie mir einen Gefallen tun?
+W	positive-do-favour	Ja, natürlich.
+W	negative-do-favour	Tut mir leid, jetzt gerade nicht.
+W	question-any-chance-help	Könnten Sie mir vielleicht helfen?
+W	positive-any-chance-help	Ja, ich kann es versuchen.
+W	negative-any-chance-help	Nein, ich bin eingespannt.
+W	question-worth-it	Glauben Sie, dass es sich lohnt?
+W	positive-worth-it	Ja, das glaube ich.
+W	negative-worth-it	Nein, das glaube ich nicht.
+W	question-get-used	Haben Sie sich daran gewöhnt?
+W	positive-get-used	Ja, jetzt schon.
+W	negative-get-used	Nein, noch nicht.
+W	question-by-chance-name	Sind Sie zufällig Herr Pérez?
+W	positive-by-chance-name	Ja, das bin ich.
+W	negative-by-chance-name	Nein, Sie haben die falsche Person.
+W	question-should-leave	Sollten wir jetzt gehen?
+W	positive-should-leave	Ja, es ist Zeit.
+W	negative-should-leave	Nein, wir haben noch Zeit.
+W	question-could-spare	Hätten Sie eine Minute?
+W	positive-could-spare	Ja, ich habe einen Moment.
+W	negative-could-spare	Nein, ich bin in Eile.
+W	question-far-fetched	Ist das nicht etwas weit hergeholt?
+W	positive-far-fetched	Ja, der Schluss ist ziemlich gedehnt.
+W	negative-far-fetched	Nein, die Lesart bleibt vertretbar.
+W	question-take-issue	Haben Sie etwas dagegen einzuwenden?
+W	positive-take-issue	Ja, ich bestreite die Schlussfolgerung.
+W	negative-take-issue	Nein, in dem Punkt habe ich keine Einwände.
+W	question-remotely-interested	Interessiert Sie das überhaupt?
+W	positive-remotely-interested	Ja, ein wenig, wenn der Rest standhält.
+W	negative-remotely-interested	Nein, nicht im Geringsten.
+W	question-right-thinking	Liege ich richtig, wenn ich annehme, dass Sie anderer Meinung sind?
+W	positive-right-thinking	Ja, Sie liegen richtig: Ich teile diese Auffassung nicht.
+W	negative-right-thinking	Nein, im Kern stimme ich tatsächlich zu.
+W	question-care-to-comment	Möchten Sie etwas dazu sagen?
+W	positive-care-to-comment	Ja, ich möchte einen Punkt zu Protokoll geben.
+W	negative-care-to-comment	Nein, ich möchte in diesem Stadium lieber nicht kommentieren.
+W	question-like-tea	Mögen Sie Tee?
+W	positive-like-tea	Ja, ich mag ihn.
+W	negative-like-tea	Nein, ich mag ihn nicht.
+W	question-have-car	Haben Sie ein Auto?
+W	positive-have-car	Ja, ich habe ein Auto.
+W	negative-have-car	Nein, ich habe kein Auto.
+W	question-married	Sind Sie verheiratet?
+W	positive-married	Ja, ich bin verheiratet.
+W	negative-married	Nein, ich bin nicht verheiratet.
+W	question-hot	Ist Ihnen warm?
+W	positive-hot	Ja, mir ist warm.
+W	negative-hot	Nein, mir ist nicht warm.
+W	question-have-phone	Haben Sie ein Telefon?
+W	positive-have-phone	Ja, ich habe ein Telefon.
+W	negative-have-phone	Nein, ich habe kein Telefon.
+W	question-this-yours	Gehört das Ihnen?
+W	positive-this-yours	Ja, es gehört mir.
+W	negative-this-yours	Nein, es gehört mir nicht.
+W	question-live-near	Wohnen Sie hier in der Nähe?
+W	positive-live-near	Ja, ich wohne in der Nähe.
+W	negative-live-near	Nein, ich wohne weit weg.
+W	question-have-children	Haben Sie Kinder?
+W	positive-have-children	Ja, ich habe Kinder.
+W	negative-have-children	Nein, ich habe keine Kinder.
+W	question-busy	Sind Sie beschäftigt?
+W	positive-busy	Ja, ich bin beschäftigt.
+W	negative-busy	Nein, ich bin frei.
+W	question-want-tea	Möchten Sie Tee?
+W	positive-want-tea	Ja, bitte.
+W	negative-want-tea	Nein, danke.
+W	question-like-spicy	Mögen Sie scharfes Essen?
+W	positive-like-spicy	Ja, ich mag es.
+W	negative-like-spicy	Nein, ich mag es nicht.
+W	question-booked-table	Haben Sie einen Tisch reserviert?
+W	positive-booked-table	Ja, ich habe reserviert.
+W	negative-booked-table	Nein, ich habe nicht reserviert.
+W	question-lost	Haben Sie sich verlaufen?
+W	positive-lost	Ja, ich glaube schon.
+W	negative-lost	Nein, ich kenne den Weg.
+W	question-need-receipt	Brauchen Sie eine Quittung?
+W	positive-need-receipt	Ja, bitte.
+W	negative-need-receipt	Nein, danke.
+W	question-call-back	Kann ich Sie zurückrufen?
+W	positive-call-back	Ja, natürlich.
+W	negative-call-back	Nein, ich warte lieber.
+W	question-raining	Regnet es?
+W	positive-raining	Ja, es regnet.
+W	negative-raining	Nein, es regnet nicht.
+W	question-take-photo	Darf ich ein Foto machen?
+W	positive-take-photo	Ja, natürlich.
+W	negative-take-photo	Nein, ich hätte es lieber nicht.
+W	question-allergic	Sind Sie gegen etwas allergisch?
+W	positive-allergic	Ja, ich bin allergisch.
+W	negative-allergic	Nein, ich bin nicht allergisch.
+W	question-mind-sharing	Stört es Sie, zu teilen?
+W	positive-mind-sharing	Überhaupt nicht.
+W	negative-mind-sharing	Lieber nicht.
+W	question-heard-news	Haben Sie von der Nachricht erfahren?
+W	positive-heard-news	Ja, ich habe davon erfahren.
+W	negative-heard-news	Nein, ich habe nichts davon erfahren.
+W	question-coming-dinner	Kommen Sie zum Abendessen?
+W	positive-coming-dinner	Ja, ich werde da sein.
+W	negative-coming-dinner	Nein, heute Abend kann ich nicht.
+W	question-need-hand	Brauchen Sie Hilfe?
+W	positive-need-hand	Ja, bitte.
+W	negative-need-hand	Nein, danke, ich schaffe es.
+W	question-still-there	Werden Sie noch dort sein?
+W	positive-still-there	Ja, ich werde noch dort sein.
+W	negative-still-there	Nein, ich werde schon weg sein.
+W	question-tried-this	Haben Sie das schon einmal probiert?
+W	positive-tried-this	Ja, ich habe es schon probiert.
+W	negative-tried-this	Nein, noch nie.
+W	question-put-off	Würde es Ihnen etwas ausmachen, es zu verschieben?
+W	positive-put-off	Überhaupt nicht.
+W	negative-put-off	Ich würde es lieber jetzt machen.
+W	question-in-a-position	Sind Sie in der Lage zu helfen?
+W	positive-in-a-position	Ja, ich glaube schon.
+W	negative-in-a-position	Nein, leider nicht.
+W	question-go-ahead	Soll ich weitermachen?
+W	positive-go-ahead	Ja, bitte tun Sie das.
+W	negative-go-ahead	Nein, warten Sie einen Moment.
+W	question-under-weather	Fühlen Sie sich nicht ganz wohl?
+W	positive-under-weather	Ja, ein bisschen.
+W	negative-under-weather	Nein, mir geht es gut.
+W	question-leave-it-there	Lassen wir es dabei bewenden?
+W	positive-leave-it-there	Ja, weiter kommen wir heute sinnvoll nicht.
+W	negative-leave-it-there	Nein, ein wesentlicher Punkt ist noch offen.
+W	question-reading-too-much	Lesen Sie da nicht zu viel hinein?
+W	positive-reading-too-much	Ja, ich belaste es vielleicht mit mehr, als der Text trägt.
+W	negative-reading-too-much	Nein, diese Implikation liegt durchaus nahe.
+W	question-overstepping	Gehe ich zu weit?
+W	positive-overstepping	Ja, ich bin etwas über das Geforderte hinausgegangen.
+W	negative-overstepping	Nein, ich bleibe im Rahmen meines Auftrags.
+W	question-splitting-hairs	Betreiben wir nicht Haarspalterei?
+W	positive-splitting-hairs	Ja, wir ziehen eine Unterscheidung, die kaum zählt.
+W	negative-splitting-hairs	Nein, die Unterscheidung hat noch praktisches Gewicht.
+W	question-devil-advocate	Spielen Sie nur den Advocatus Diaboli?
+W	positive-devil-advocate	Ja, ich prüfe das Argument, ich unterschreibe es nicht.
+W	negative-devil-advocate	Nein, das ist tatsächlich meine Haltung.
+W	question-pulling-leg	Nehmen Sie mich auf den Arm?

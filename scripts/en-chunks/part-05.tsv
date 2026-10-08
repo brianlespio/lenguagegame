@@ -1,0 +1,800 @@
+W	pronoun-the-presiding-officer	pronouns	the presiding officer	el presidente de mesa
+W	pronoun-he-or-she	pronouns	he or she	él o ella
+W	pronoun-him-or-her	pronouns	him or her	a él o a ella
+W	pronoun-his-or-her	pronouns	his or her	su
+W	pronoun-his-or-hers	pronouns	his or hers	suyo
+W	pronoun-either-of-the-parties	pronouns	either of the parties	cualquiera de las partes
+W	pronoun-neither-of-the-parties	pronouns	neither of the parties	ninguna de las partes
+W	pronoun-both-of-the-parties	pronouns	both of the parties	ambas partes
+W	pronoun-each-of-the-parties	pronouns	each of the parties	cada una de las partes
+W	pronoun-any-of-the-parties	pronouns	any of the parties	cualquiera de las partes
+W	pronoun-none-of-the-parties	pronouns	none of the parties	ninguna de las partes
+W	pronoun-the-bulk-of-them	pronouns	the bulk of them	el grueso de ellos
+W	pronoun-the-greater-part-of-them	pronouns	the greater part of them	la mayor parte de ellos
+W	pronoun-a-good-many-of-them	pronouns	a good many of them	no pocos de ellos
+W	pronoun-precious-few-of-them	pronouns	precious few of them	muy pocos de ellos
+W	pronoun-virtually-none-of-them	pronouns	virtually none of them	casi ninguno de ellos
+W	pronoun-virtually-all-of-them	pronouns	virtually all of them	casi todos ellos
+W	pronoun-virtually-everyone	pronouns	virtually everyone	casi todo el mundo
+W	pronoun-scarcely-anyone	pronouns	scarcely anyone	casi nadie
+W	pronoun-hardly-anyone	pronouns	hardly anyone	casi nadie
+W	pronoun-barely-anyone	pronouns	barely anyone	apenas nadie
+W	pronoun-next-to-no-one	pronouns	next to no one	casi nadie
+W	pronoun-next-to-nobody	pronouns	next to nobody	casi nadie
+W	pronoun-all-but-a-few	pronouns	all but a few	todos menos unos pocos
+W	pronoun-all-but-one	pronouns	all but one	todos menos uno
+W	pronoun-those-present-and-voting	pronouns	those present and voting	los presentes y votantes
+W	pronoun-those-entitled-to-vote	pronouns	those entitled to vote	los con derecho a voto
+W	pronoun-each-as-he-or-she-sees-fit	pronouns	each as he or she sees fit	cada cual como estime
+W	pronoun-to-each-his-or-her-own	pronouns	to each his or her own	a cada cual lo suyo
+W	pronoun-not-a-single-person-present	pronouns	not a single person present	ni un presente
+W	pronoun-none-of-those-present	pronouns	none of those present	ninguno de los presentes
+W	pronoun-all-of-those-present	pronouns	all of those present	todos los presentes
+W	pronoun-most-of-those-present	pronouns	most of those present	la mayoría de los presentes
+W	pronoun-a-handful-of-those-present	pronouns	a handful of those present	un puñado de los presentes
+W	pronoun-the-silent-majority	pronouns	the silent majority	la mayoría callada
+W	pronoun-the-vocal-minority	pronouns	the vocal minority	la minoría ruidosa
+W	pronoun-a-minority-of-one	pronouns	a minority of one	una minoría de uno
+W	pronoun-one-s-counterpart	pronouns	one's counterpart	el homólogo
+W	pronoun-one-s-predecessor	pronouns	one's predecessor	el antecesor
+W	pronoun-one-s-successor	pronouns	one's successor	el sucesor
+W	pronoun-one-s-peer	pronouns	one's peer	el par
+W	pronoun-one-s-junior	pronouns	one's junior	el subalterno
+W	pronoun-one-s-senior	pronouns	one's senior	el superior
+W	pronoun-one-s-equal	pronouns	one's equal	el igual
+W	pronoun-the-other-side	pronouns	the other side	la otra parte
+W	pronoun-the-opposing-camp	pronouns	the opposing camp	el bando contrario
+W	pronoun-one-s-own-camp	pronouns	one's own camp	el propio bando
+W	pronoun-neither-side	pronouns	neither side	ningún bando
+W	pronoun-either-side	pronouns	either side	cualquiera de los bandos
+W	pronoun-both-sides	pronouns	both sides	ambos bandos
+W	pronoun-all-sides	pronouns	all sides	todos los bandos
+W	pronoun-the-winning-side	pronouns	the winning side	el bando vencedor
+W	pronoun-the-losing-side	pronouns	the losing side	el bando vencido
+W	pronoun-the-dissenting-side	pronouns	the dissenting side	el bando discrepante
+W	pronoun-the-majority	pronouns	the majority	la mayoría
+W	pronoun-the-minority	pronouns	the minority	la minoría
+W	pronoun-the-board-as-a-whole	pronouns	the board as a whole	el consejo en pleno
+W	pronoun-those-on-the-panel	pronouns	those on the panel	los del tribunal
+W	pronoun-those-on-the-bench	pronouns	those on the bench	los de la toga
+W	pronoun-those-on-the-floor	pronouns	those on the floor	los del hemiciclo
+W	pronoun-those-in-the-chamber	pronouns	those in the chamber	los de la cámara
+W	pronoun-whoever-holds-the-post	pronouns	whoever holds the post	quien ocupe el cargo
+W	pronoun-whoever-occupies-the-chair	pronouns	whoever occupies the chair	quien ocupe la presidencia
+W	pronoun-the-outgoing-chair	pronouns	the outgoing chair	el presidente saliente
+W	pronoun-the-incoming-chair	pronouns	the incoming chair	el presidente entrante
+W	pronoun-the-sitting-judge	pronouns	the sitting judge	el juez titular
+W	pronoun-the-unnamed-official	pronouns	the unnamed official	el cargo innominado
+W	pronoun-a-senior-official	pronouns	a senior official	un alto cargo
+W	pronoun-a-junior-official	pronouns	a junior official	un cargo menor
+W	pronoun-a-former-official	pronouns	a former official	un ex cargo
+W	pronoun-a-former-member	pronouns	a former member	un ex miembro
+W	pronoun-the-remainder-of-the-board	pronouns	the remainder of the board	el resto del consejo
+W	pronoun-the-full-board	pronouns	the full board	el consejo en pleno
+W	pronoun-those-in-office	pronouns	those in office	los que mandan
+W	pronoun-those-in-power	pronouns	those in power	los que detentan el poder
+W	pronoun-those-at-the-helm	pronouns	those at the helm	los que llevan el timón
+W	pronoun-those-on-the-ground	pronouns	those on the ground	los que están sobre el terreno
+W	pronoun-the-moneyed	pronouns	the moneyed	los de caudal
+W	pronoun-the-landed	pronouns	the landed	los de solar
+W	pronoun-the-hard-up	pronouns	the hard-up	los apurados
+W	pronoun-the-well-off	pronouns	the well-off	los holgados
+W	pronoun-the-least-well-off	pronouns	the least well-off	los menos holgados
+W	pronoun-the-worst-off	pronouns	the worst-off	los peor parados
+W	pronoun-the-better-informed	pronouns	the better-informed	los mejor enterados
+W	pronoun-the-less-well-informed	pronouns	the less well-informed	los peor enterados
+W	pronoun-one-s-own-kind	pronouns	one's own kind	los de su jaez
+W	pronoun-one-s-own-people	pronouns	one's own people	los suyos
+W	pronoun-one-s-own-side	pronouns	one's own side	el propio bando
+W	pronoun-the-opposing-side	pronouns	the opposing side	el bando contrario
+W	pronoun-every-last-person-present	pronouns	every last person present	hasta el último presente
+W	pronoun-not-a-person-present	pronouns	not a person present	ni un presente
+W	pronoun-not-one-of-those-present	pronouns	not one of those present	ni uno de los presentes
+W	pronoun-few-of-those-present	pronouns	few of those present	pocos de los presentes
+W	pronoun-several-of-those-present	pronouns	several of those present	varios de los presentes
+W	pronoun-some-of-those-present	pronouns	some of those present	algunos de los presentes
+W	pronoun-a-sprinkling-of-those-present	pronouns	a sprinkling of those present	un puñado de los presentes
+W	pronoun-practically-everyone	pronouns	practically everyone	prácticamente todos
+W	pronoun-practically-no-one	pronouns	practically no one	prácticamente nadie
+W	pronoun-almost-no-one	pronouns	almost no one	casi nadie
+W	pronoun-next-to-nothing	pronouns	next to nothing	casi nada
+W	pronoun-precious-little	pronouns	precious little	bien poco
+W	pronoun-anyone-so-entitled	pronouns	anyone so entitled	quien así esté legitimado
+W	pronoun-those-unqualified	pronouns	those unqualified	los no habilitados
+W	pronoun-those-qualified	pronouns	those qualified	los habilitados
+W	pronoun-those-ineligible	pronouns	those ineligible	los inelegibles
+W	pronoun-those-so-named	pronouns	those so named	los así nombrados
+W	pronoun-the-party-aggrieved	pronouns	the party aggrieved	la parte agraviada
+W	pronoun-the-party-at-fault	pronouns	the party at fault	la parte culpable
+W	pronoun-the-party-in-default	pronouns	the party in default	la parte morosa
+W	pronoun-the-defaulting-party	pronouns	the defaulting party	la parte incumplidora
+W	pronoun-the-moving-party	pronouns	the moving party	la parte actora
+W	pronoun-the-opposing-party	pronouns	the opposing party	la parte contraria
+W	pronoun-the-prevailing-party	pronouns	the prevailing party	la parte vencedora
+W	pronoun-the-unsuccessful-party	pronouns	the unsuccessful party	la parte vencida
+W	pronoun-the-successful-party	pronouns	the successful party	la parte ganadora
+W	pronoun-the-losing-party	pronouns	the losing party	la parte perdedora
+W	pronoun-the-winning-party	pronouns	the winning party	la parte ganadora
+W	pronoun-the-like-minded	pronouns	the like-minded	los de igual parecer
+W	pronoun-the-right-minded	pronouns	the right-minded	los de sano criterio
+W	pronoun-the-high-minded	pronouns	the high-minded	los de altos vuelos morales
+W	pronoun-the-faint-hearted	pronouns	the faint-hearted	los pusilánimes
+W	pronoun-the-hard-hearted	pronouns	the hard-hearted	los de entraña dura
+W	pronoun-the-open-minded	pronouns	the open-minded	los de mente abierta
+W	pronoun-the-closed-minded	pronouns	the closed-minded	los de mente cerrada
+W	pronoun-the-single-minded	pronouns	the single-minded	los de una pieza
+W	pronoun-whoever-it-concerns	pronouns	whoever it concerns	a quien ataña
+W	pronoun-those-it-concerns	pronouns	those it concerns	a quienes ataña
+W	pronoun-those-to-whom-it-falls	pronouns	those to whom it falls	a quienes corresponda
+W	pronoun-whoever-is-tasked	pronouns	whoever is tasked	quien tenga el encargo
+W	pronoun-those-tasked	pronouns	those tasked	los encargados
+W	pronoun-those-charged	pronouns	those charged	los comisionados
+W	pronoun-those-briefed	pronouns	those briefed	los instruidos
+W	pronoun-those-instructed	pronouns	those instructed	los apoderados
+W	pronoun-those-commissioned	pronouns	those commissioned	los comisionados
+W	pronoun-those-appointed	pronouns	those appointed	los nombrados
+W	pronoun-those-elected	pronouns	those elected	los electos
+W	pronoun-those-returned	pronouns	those returned	los proclamados
+W	pronoun-those-unseated	pronouns	those unseated	los desposeídos del escaño
+W	pronoun-those-ousted	pronouns	those ousted	los desalojados
+W	pronoun-those-voted-out	pronouns	those voted out	los votados fuera
+W	pronoun-those-voted-in	pronouns	those voted in	los votados dentro
+W	pronoun-the-newly-elected	pronouns	the newly elected	los recién electos
+W	pronoun-the-newly-appointed	pronouns	the newly appointed	los recién nombrados
+W	pronoun-the-newly-installed	pronouns	the newly installed	los recién instalados
+W	pronoun-the-outgoing-holder	pronouns	the outgoing holder	el titular saliente
+W	pronoun-the-incoming-holder	pronouns	the incoming holder	el titular entrante
+W	pronoun-the-sitting-holder	pronouns	the sitting holder	el titular en el cargo
+W	pronoun-the-current-holder	pronouns	the current holder	el titular actual
+W	pronoun-the-former-holder	pronouns	the former holder	el titular anterior
+W	pronoun-the-late-holder	pronouns	the late holder	el titular fallecido
+W	pronoun-the-beneficial-owner	pronouns	the beneficial owner	el titular real
+W	pronoun-the-legal-owner	pronouns	the legal owner	el titular formal
+W	pronoun-the-registered-holder	pronouns	the registered holder	el titular registral
+W	pronoun-the-nominee-holder	pronouns	the nominee holder	el titular fiduciario
+W	pronoun-the-account-holder	pronouns	the account holder	el titular de la cuenta
+W	pronoun-the-policyholder	pronouns	the policyholder	el tomador
+W	pronoun-the-insured	pronouns	the insured	el asegurado
+W	pronoun-the-insurer	pronouns	the insurer	el asegurador
+W	pronoun-the-underwriter	pronouns	the underwriter	el suscriptor
+W	pronoun-the-reinsurer	pronouns	the reinsurer	el reasegurador
+W	pronoun-the-cedant	pronouns	the cedant	el cedente
+W	pronoun-the-cessionary	pronouns	the cessionary	el cesionario
+W	pronoun-the-obligor	pronouns	the obligor	el obligado
+W	pronoun-the-obligee	pronouns	the obligee	el acreedor de la obligación
+W	pronoun-the-debtor	pronouns	the debtor	el deudor
+W	pronoun-the-creditor	pronouns	the creditor	el acreedor
+W	pronoun-the-mortgagor	pronouns	the mortgagor	el hipotecante
+W	pronoun-the-mortgagee	pronouns	the mortgagee	el acreedor hipotecario
+W	pronoun-the-pledgor	pronouns	the pledgor	el pignorante
+W	pronoun-the-pledgee	pronouns	the pledgee	el acreedor pignoraticio
+W	pronoun-the-lessor	pronouns	the lessor	el arrendador
+W	pronoun-the-lessee	pronouns	the lessee	el arrendatario
+W	pronoun-the-licensor	pronouns	the licensor	el licenciante
+W	pronoun-the-licensee	pronouns	the licensee	el licenciatario
+W	pronoun-the-franchisor	pronouns	the franchisor	el franquiciador
+W	pronoun-the-franchisee	pronouns	the franchisee	el franquiciado
+W	pronoun-the-consignor	pronouns	the consignor	el consignador
+W	pronoun-the-consignee	pronouns	the consignee	el consignatario
+W	pronoun-the-bailor	pronouns	the bailor	el depositante
+W	pronoun-the-bailee	pronouns	the bailee	el depositario
+W	pronoun-the-vendor	pronouns	the vendor	el vendedor
+W	pronoun-the-purchaser	pronouns	the purchaser	el comprador
+W	pronoun-the-transferor	pronouns	the transferor	el transmitente
+W	pronoun-the-transferee	pronouns	the transferee	el adquirente
+W	pronoun-the-chargor	pronouns	the chargor	el constituyente de la carga
+W	pronoun-the-chargee	pronouns	the chargee	el titular de la carga
+W	preposition-in-the-light-of	prepositions	in the light of	a la luz de
+W	preposition-in-light-of	prepositions	in light of	a la luz de
+W	preposition-against-the-backdrop-of	prepositions	against the backdrop of	contra el telón de
+W	preposition-against-a-backdrop-of	prepositions	against a backdrop of	contra un telón de
+W	preposition-in-the-context-of	prepositions	in the context of	en el marco de
+W	preposition-within-the-framework-of	prepositions	within the framework of	dentro del marco de
+W	preposition-within-the-ambit-of	prepositions	within the ambit of	dentro del ámbito de
+W	preposition-within-the-scope-of	prepositions	within the scope of	dentro del alcance de
+W	preposition-within-the-remit-of	prepositions	within the remit of	dentro de la competencia de
+W	preposition-outside-the-remit-of	prepositions	outside the remit of	fuera de la competencia de
+W	preposition-beyond-the-remit-of	prepositions	beyond the remit of	más allá de la competencia de
+W	preposition-beyond-the-scope-of	prepositions	beyond the scope of	más allá del alcance de
+W	preposition-beyond-the-ambit-of	prepositions	beyond the ambit of	más allá del ámbito de
+W	preposition-within-the-meaning-of	prepositions	within the meaning of	en el sentido de
+W	preposition-for-the-purposes-of	prepositions	for the purposes of	a los efectos de
+W	preposition-for-purposes-of	prepositions	for purposes of	a efectos de
+W	preposition-in-the-interests-of	prepositions	in the interests of	en interés de
+W	preposition-against-the-interests-of	prepositions	against the interests of	contra el interés de
+W	preposition-to-the-advantage-of	prepositions	to the advantage of	en provecho de
+W	preposition-to-the-disadvantage-of	prepositions	to the disadvantage of	en perjuicio de
+W	preposition-to-the-credit-of	prepositions	to the credit of	en abono de
+W	preposition-to-the-debit-of	prepositions	to the debit of	en cargo de
+W	preposition-at-the-instigation-of	prepositions	at the instigation of	a instigación de
+W	preposition-at-the-prompting-of	prepositions	at the prompting of	a instigación de
+W	preposition-at-the-invitation-of	prepositions	at the invitation of	a invitación de
+W	preposition-at-the-request-of	prepositions	at the request of	a petición de
+W	preposition-at-the-suggestion-of	prepositions	at the suggestion of	a sugerencia de
+W	preposition-under-the-direction-of	prepositions	under the direction of	bajo la dirección de
+W	preposition-under-the-supervision-of	prepositions	under the supervision of	bajo la supervisión de
+W	preposition-under-the-stewardship-of	prepositions	under the stewardship of	bajo la tutela de
+W	preposition-under-the-chairmanship-of	prepositions	under the chairmanship of	bajo la presidencia de
+W	preposition-under-the-auspices-of	prepositions	under the auspices of	bajo los auspicios de
+W	preposition-under-the-patronage-of	prepositions	under the patronage of	bajo el patrocinio de
+W	preposition-under-the-aegis-of	prepositions	under the aegis of	bajo la égida de
+W	preposition-under-the-umbrella-of	prepositions	under the umbrella of	bajo el paraguas de
+W	preposition-under-the-banner-of	prepositions	under the banner of	bajo la enseña de
+W	preposition-under-the-heading-of	prepositions	under the heading of	bajo el epígrafe de
+W	preposition-under-the-rubric-of	prepositions	under the rubric of	bajo la rúbrica de
+W	preposition-in-the-orbit-of	prepositions	in the orbit of	en la órbita de
+W	preposition-in-the-sphere-of	prepositions	in the sphere of	en la esfera de
+W	preposition-in-the-realm-of	prepositions	in the realm of	en el terreno de
+W	preposition-in-the-domain-of	prepositions	in the domain of	en el dominio de
+W	preposition-in-the-field-of	prepositions	in the field of	en el campo de
+W	preposition-in-the-province-of	prepositions	in the province of	en el solar de
+W	preposition-on-the-soil-of	prepositions	on the soil of	en el suelo de
+W	preposition-on-the-premises-of	prepositions	on the premises of	en el recinto de
+W	preposition-off-the-premises-of	prepositions	off the premises of	fuera del recinto de
+W	preposition-on-the-books-of	prepositions	on the books of	en los libros de
+W	preposition-off-the-books-of	prepositions	off the books of	fuera de los libros de
+W	preposition-on-the-payroll-of	prepositions	on the payroll of	en la nómina de
+W	preposition-off-the-payroll-of	prepositions	off the payroll of	fuera de la nómina de
+W	preposition-on-the-staff-of	prepositions	on the staff of	en la plantilla de
+W	preposition-on-the-board-of	prepositions	on the board of	en el consejo de
+W	preposition-off-the-board-of	prepositions	off the board of	fuera del consejo de
+W	preposition-on-the-panel-of	prepositions	on the panel of	en el tribunal de
+W	preposition-on-the-roster-of	prepositions	on the roster of	en la plantilla de
+W	preposition-on-the-slate-of	prepositions	on the slate of	en la candidatura de
+W	preposition-on-the-ticket-of	prepositions	on the ticket of	en la papeleta de
+W	preposition-in-the-pay-of	prepositions	in the pay of	a sueldo de
+W	preposition-in-the-employ-of	prepositions	in the employ of	al servicio de
+W	preposition-in-the-service-of	prepositions	in the service of	al servicio de
+W	preposition-in-the-gift-of	prepositions	in the gift of	en merced de
+W	preposition-at-the-disposal-of	prepositions	at the disposal of	a disposición de
+W	preposition-at-the-service-of	prepositions	at the service of	al servicio de
+W	preposition-at-the-command-of	prepositions	at the command of	al mando de
+W	preposition-in-the-pocket-of	prepositions	in the pocket of	en el bolsillo de
+W	preposition-at-the-pleasure-of	prepositions	at the pleasure of	al albedrío de
+W	preposition-during-the-tenure-of	prepositions	during the tenure of	durante el mandato de
+W	preposition-throughout-the-tenure-of	prepositions	throughout the tenure of	a lo largo del mandato de
+W	preposition-for-the-duration-of	prepositions	for the duration of	durante la vigencia de
+W	preposition-for-the-term-of	prepositions	for the term of	por el plazo de
+W	preposition-over-the-course-of	prepositions	over the course of	a lo largo de
+W	preposition-over-the-span-of	prepositions	over the span of	a lo largo del arco de
+W	preposition-over-the-lifetime-of	prepositions	over the lifetime of	a lo largo de la vida de
+W	preposition-over-the-life-of	prepositions	over the life of	a lo largo de la vida de
+W	preposition-across-the-span-of	prepositions	across the span of	a lo ancho del arco de
+W	preposition-throughout-the-life-of	prepositions	throughout the life of	a lo largo de la vida de
+W	preposition-throughout-the-course-of	prepositions	throughout the course of	a lo largo del curso de
+W	preposition-in-the-run-up-to	prepositions	in the run-up to	en la antesala de
+W	preposition-in-the-lead-up-to	prepositions	in the lead-up to	en el preámbulo de
+W	preposition-in-the-aftermath-of	prepositions	in the aftermath of	en las secuelas de
+W	preposition-on-the-back-of	prepositions	on the back of	a lomos de
+W	preposition-off-the-back-of	prepositions	off the back of	a rebufo de
+W	preposition-in-the-slipstream-of	prepositions	in the slipstream of	en la estela de
+W	preposition-in-the-shadow-of	prepositions	in the shadow of	a la sombra de
+W	preposition-on-the-coat-tails-of	prepositions	on the coat-tails of	a rebufo de
+W	preposition-on-the-shoulders-of	prepositions	on the shoulders of	a hombros de
+W	preposition-at-the-shoulder-of	prepositions	at the shoulder of	al hombro de
+W	preposition-at-the-elbow-of	prepositions	at the elbow of	al codo de
+W	preposition-in-the-ear-of	prepositions	in the ear of	al oído de
+W	preposition-within-earshot-of	prepositions	within earshot of	a oídas de
+W	preposition-within-reach-of	prepositions	within reach of	al alcance de
+W	preposition-within-sight-of	prepositions	within sight of	a la vista de
+W	preposition-within-striking-distance-of	prepositions	within striking distance of	a tiro de
+W	preposition-within-walking-distance-of	prepositions	within walking distance of	a pie de
+W	preposition-within-commuting-distance-of	prepositions	within commuting distance of	a distancia de diario de
+W	preposition-out-of-earshot-of	prepositions	out of earshot of	fuera de oídas de
+W	preposition-out-of-reach-of	prepositions	out of reach of	fuera del alcance de
+W	preposition-out-of-sight-of	prepositions	out of sight of	fuera de la vista de
+W	preposition-out-of-range-of	prepositions	out of range of	fuera de alcance de
+W	preposition-out-of-bounds-of	prepositions	out of bounds of	fuera de los linderos de
+W	preposition-beyond-the-reach-of	prepositions	beyond the reach of	más allá del alcance de
+W	preposition-beyond-the-grasp-of	prepositions	beyond the grasp of	más allá de la presa de
+W	preposition-beyond-the-pale-of	prepositions	beyond the pale of	más allá de lo admisible de
+W	preposition-within-the-pale-of	prepositions	within the pale of	dentro de lo admisible de
+W	preposition-on-either-side-of	prepositions	on either side of	a uno y otro lado de
+W	preposition-on-both-sides-of	prepositions	on both sides of	a ambos lados de
+W	preposition-on-neither-side-of	prepositions	on neither side of	a ningún lado de
+W	preposition-on-all-sides-of	prepositions	on all sides of	a todos los lados de
+W	preposition-to-either-side-of	prepositions	to either side of	hacia uno u otro lado de
+W	preposition-to-both-sides-of	prepositions	to both sides of	hacia ambos lados de
+W	preposition-either-side-of	prepositions	either side of	a uno y otro lado de
+W	preposition-either-end-of	prepositions	either end of	a uno y otro cabo de
+W	preposition-at-either-end-of	prepositions	at either end of	en uno u otro cabo de
+W	preposition-at-both-ends-of	prepositions	at both ends of	en ambos cabos de
+W	preposition-from-either-end-of	prepositions	from either end of	desde uno u otro cabo de
+W	preposition-from-both-ends-of	prepositions	from both ends of	desde ambos cabos de
+W	preposition-down-the-length-of	prepositions	down the length of	a lo largo de
+W	preposition-up-the-length-of	prepositions	up the length of	aguas arriba de
+W	preposition-along-the-length-of	prepositions	along the length of	a lo largo de
+W	preposition-the-length-of	prepositions	the length of	a lo largo de
+W	preposition-the-breadth-of	prepositions	the breadth of	a lo ancho de
+W	preposition-the-width-of	prepositions	the width of	a lo ancho de
+W	preposition-the-depth-of	prepositions	the depth of	a lo hondo de
+W	preposition-the-height-of	prepositions	the height of	a lo alto de
+W	preposition-to-the-height-of	prepositions	to the height of	hasta la altura de
+W	preposition-to-the-depth-of	prepositions	to the depth of	hasta el fondo de
+W	preposition-to-the-width-of	prepositions	to the width of	hasta el ancho de
+W	preposition-to-the-breadth-of	prepositions	to the breadth of	hasta la anchura de
+W	preposition-the-length-and-breadth-of	prepositions	the length and breadth of	a lo largo y ancho de
+W	preposition-in-the-orbit-around	prepositions	in the orbit around	en la órbita de
+W	preposition-in-the-slipstream-behind	prepositions	in the slipstream behind	en la estela de
+W	preposition-for-the-account-of	prepositions	for the account of	por cuenta de
+W	preposition-for-the-benefit-of	prepositions	for the benefit of	en beneficio de
+W	preposition-for-the-credit-of	prepositions	for the credit of	en abono de
+W	preposition-for-the-debit-of	prepositions	for the debit of	en cargo de
+W	preposition-for-the-honour-of	prepositions	for the honour of	en honor de
+W	preposition-for-the-credit-standing-of	prepositions	for the credit standing of	en abono de la firma de
+W	preposition-to-the-order-of	prepositions	to the order of	a la orden de
+W	preposition-to-the-bearer-of	prepositions	to the bearer of	al portador de
+W	preposition-to-the-order-and-for-the-account-of	prepositions	to the order and for the account of	a la orden y por cuenta de
+W	preposition-by-and-on-behalf-of	prepositions	by and on behalf of	por y en nombre de
+W	preposition-in-and-on-behalf-of	prepositions	in and on behalf of	en y por nombre de
+W	preposition-for-the-account-and-risk-of	prepositions	for the account and risk of	por cuenta y riesgo de
+W	preposition-at-the-risk-and-expense-of	prepositions	at the risk and expense of	a riesgo y costa de
+W	preposition-at-the-cost-and-expense-of	prepositions	at the cost and expense of	a costa y cargo de
+W	preposition-for-the-sole-account-of	prepositions	for the sole account of	por cuenta exclusiva de
+W	preposition-for-the-joint-account-of	prepositions	for the joint account of	por cuenta conjunta de
+W	preposition-for-the-several-account-of	prepositions	for the several account of	por cuenta mancomunada de
+W	preposition-for-the-joint-and-several-account-of	prepositions	for the joint and several account of	por cuenta solidaria de
+W	preposition-without-the-leave-of	prepositions	without the leave of	sin licencia de
+W	preposition-without-the-consent-of	prepositions	without the consent of	sin consentimiento de
+W	preposition-without-the-authority-of	prepositions	without the authority of	sin autoridad de
+W	preposition-without-the-knowledge-of	prepositions	without the knowledge of	sin conocimiento de
+W	preposition-without-the-privity-of	prepositions	without the privity of	sin noticia de
+W	preposition-with-the-privity-of	prepositions	with the privity of	con noticia de
+W	preposition-with-the-knowledge-of	prepositions	with the knowledge of	con conocimiento de
+W	preposition-with-the-leave-of	prepositions	with the leave of	con licencia de
+W	preposition-with-the-consent-of	prepositions	with the consent of	con consentimiento de
+W	preposition-with-the-authority-of	prepositions	with the authority of	con autoridad de
+W	preposition-under-colour-of-office-of	prepositions	under colour of office of	con capa de oficio de
+W	preposition-under-colour-of-right-of	prepositions	under colour of right of	con capa de derecho de
+W	preposition-under-colour-of-title-of	prepositions	under colour of title of	con capa de título de
+W	preposition-in-right-of	prepositions	in right of	en derecho de
+W	preposition-in-right-and-title-of	prepositions	in right and title of	en derecho y título de
+W	preposition-in-the-right-of	prepositions	in the right of	en el derecho de
+W	preposition-to-the-use-of	prepositions	to the use of	al uso de
+W	preposition-to-the-use-and-behoof-of	prepositions	to the use and behoof of	al uso y provecho de
+W	preposition-to-the-behoof-of	prepositions	to the behoof of	al provecho de
+W	preposition-for-the-use-of	prepositions	for the use of	para uso de
+W	preposition-for-the-use-and-benefit-of	prepositions	for the use and benefit of	para uso y provecho de
+W	preposition-upon-the-faith-of	prepositions	upon the faith of	sobre la fe de
+W	preposition-upon-the-credit-of	prepositions	upon the credit of	sobre el crédito de
+W	preposition-upon-the-security-of	prepositions	upon the security of	sobre la garantía de
+W	preposition-upon-the-footing-of	prepositions	upon the footing of	sobre el pie de
+W	preposition-upon-the-terms-of	prepositions	upon the terms of	sobre los términos de
+W	preposition-upon-the-conditions-of	prepositions	upon the conditions of	sobre las condiciones de
+W	preposition-upon-the-happening-of	prepositions	upon the happening of	al acaecer de
+W	preposition-upon-the-occurrence-of	prepositions	upon the occurrence of	al sobrevenir de
+W	preposition-upon-the-expiry-of	prepositions	upon the expiry of	al vencimiento de
+W	preposition-upon-the-termination-of	prepositions	upon the termination of	al término de
+W	preposition-upon-the-completion-of	prepositions	upon the completion of	al cierre de
+W	preposition-upon-the-closing-of	prepositions	upon the closing of	al cierre de
+W	preposition-upon-the-signing-of	prepositions	upon the signing of	al firmar de
+W	preposition-upon-the-delivery-of	prepositions	upon the delivery of	al entregar de
+W	preposition-upon-the-receipt-of	prepositions	upon the receipt of	al recibo de
+W	preposition-upon-the-giving-of	prepositions	upon the giving of	al dar de
+W	preposition-pending-receipt-of	prepositions	pending receipt of	en tanto se reciba
+W	preposition-pending-delivery-of	prepositions	pending delivery of	en tanto se entregue
+W	preposition-pending-completion-of	prepositions	pending completion of	en tanto se cierre
+W	preposition-pending-determination-of	prepositions	pending determination of	en tanto se resuelva
+W	preposition-pending-the-outcome-of	prepositions	pending the outcome of	en tanto se conozca el resultado de
+W	preposition-pending-the-result-of	prepositions	pending the result of	en tanto se conozca el resultado de
+W	preposition-subject-to-the-outcome-of	prepositions	subject to the outcome of	sujeto al resultado de
+W	preposition-subject-to-the-result-of	prepositions	subject to the result of	sujeto al resultado de
+W	preposition-subject-to-the-determination-of	prepositions	subject to the determination of	sujeto a la resolución de
+W	preposition-subject-to-the-approval-of	prepositions	subject to the approval of	sujeto a la aprobación de
+W	preposition-subject-to-the-consent-of	prepositions	subject to the consent of	sujeto al consentimiento de
+W	preposition-subject-to-the-leave-of	prepositions	subject to the leave of	sujeto a la licencia de
+W	preposition-subject-to-the-sanction-of	prepositions	subject to the sanction of	sujeto a la sanción de
+W	preposition-subject-to-the-ratification-of	prepositions	subject to the ratification of	sujeto a la ratificación de
+W	preposition-conditional-upon-the-approval-of	prepositions	conditional upon the approval of	condicionado a la aprobación de
+W	preposition-conditional-upon-the-consent-of	prepositions	conditional upon the consent of	condicionado al consentimiento de
+W	preposition-conditional-upon-receipt-of	prepositions	conditional upon receipt of	condicionado al recibo de
+W	preposition-conditional-upon-delivery-of	prepositions	conditional upon delivery of	condicionado a la entrega de
+W	preposition-conditional-upon-completion-of	prepositions	conditional upon completion of	condicionado al cierre de
+W	preposition-in-anticipation-of-receipt-of	prepositions	in anticipation of receipt of	en previsión del recibo de
+W	preposition-in-anticipation-of-delivery-of	prepositions	in anticipation of delivery of	en previsión de la entrega de
+W	preposition-in-anticipation-of-completion-of	prepositions	in anticipation of completion of	en previsión del cierre de
+W	preposition-in-expectation-of-receipt-of	prepositions	in expectation of receipt of	a la espera del recibo de
+W	preposition-in-expectation-of-delivery-of	prepositions	in expectation of delivery of	a la espera de la entrega de
+W	preposition-in-the-event-of-default-of	prepositions	in the event of default of	en caso de incumplimiento de
+W	preposition-in-the-event-of-breach-of	prepositions	in the event of breach of	en caso de quebranto de
+W	preposition-in-the-event-of-failure-of	prepositions	in the event of failure of	en caso de fallo de
+W	preposition-in-the-event-of-insolvency-of	prepositions	in the event of insolvency of	en caso de insolvencia de
+W	preposition-in-the-event-of-winding-up-of	prepositions	in the event of winding-up of	en caso de liquidación de
+W	preposition-in-the-event-of-receivership-of	prepositions	in the event of receivership of	en caso de administración de
+W	preposition-on-the-occurrence-of-default-of	prepositions	on the occurrence of default of	al acaecer el incumplimiento de
+W	preposition-on-the-occurrence-of-breach-of	prepositions	on the occurrence of breach of	al acaecer el quebranto de
+W	preposition-by-reason-of-default-of	prepositions	by reason of default of	por razón del incumplimiento de
+W	preposition-by-reason-of-breach-of	prepositions	by reason of breach of	por razón del quebranto de
+W	preposition-by-reason-of-failure-of	prepositions	by reason of failure of	por razón del fallo de
+W	preposition-for-want-of-payment-of	prepositions	for want of payment of	a falta de pago de
+W	preposition-for-want-of-delivery-of	prepositions	for want of delivery of	a falta de entrega de
+W	preposition-for-want-of-performance-of	prepositions	for want of performance of	a falta de cumplimiento de
+W	preposition-for-want-of-notice-of	prepositions	for want of notice of	a falta de aviso de
+W	preposition-for-lack-of-notice-of	prepositions	for lack of notice of	por falta de aviso de
+W	preposition-for-lack-of-payment-of	prepositions	for lack of payment of	por falta de pago de
+W	preposition-for-lack-of-delivery-of	prepositions	for lack of delivery of	por falta de entrega de
+W	preposition-in-default-of-payment-of	prepositions	in default of payment of	a falta de pago de
+W	preposition-in-default-of-delivery-of	prepositions	in default of delivery of	a falta de entrega de
+W	preposition-in-default-of-notice-of	prepositions	in default of notice of	a falta de aviso de
+W	preposition-in-default-of-appearance-of	prepositions	in default of appearance of	a falta de comparecencia de
+W	preposition-in-default-of-answer-of	prepositions	in default of answer of	a falta de contestación de
+W	preposition-save-in-the-case-of	prepositions	save in the case of	salvo en el caso de
+W	preposition-except-in-the-case-of	prepositions	except in the case of	excepto en el caso de
+W	preposition-other-than-in-the-case-of	prepositions	other than in the case of	salvo en el caso de
+W	preposition-but-for-the-case-of	prepositions	but for the case of	de no ser por el caso de
+W	preposition-but-in-the-case-of	prepositions	but in the case of	pero en el caso de
+W	preposition-as-in-the-case-of	prepositions	as in the case of	como en el caso de
+W	preposition-unlike-the-case-of	prepositions	unlike the case of	a diferencia del caso de
+W	preposition-unlike-that-of	prepositions	unlike that of	a diferencia de
+W	preposition-unlike-those-of	prepositions	unlike those of	a diferencia de los de
+W	preposition-as-distinct-from	prepositions	as distinct from	a diferencia de
+W	preposition-as-opposed-to	prepositions	as opposed to	frente a
+W	preposition-as-against-that-of	prepositions	as against that of	frente al de
+W	preposition-as-compared-with-that-of	prepositions	as compared with that of	frente al de
+W	preposition-as-compared-to-that-of	prepositions	as compared to that of	frente al de
+W	preposition-relative-to-that-of	prepositions	relative to that of	respecto del de
+W	preposition-relative-to-those-of	prepositions	relative to those of	respecto de los de
+W	preposition-in-comparison-to-that-of	prepositions	in comparison to that of	en comparación con el de
+W	preposition-in-comparison-with-that-of	prepositions	in comparison with that of	en comparación con el de
+W	preposition-by-comparison-with-that-of	prepositions	by comparison with that of	por comparación con el de
+W	preposition-by-comparison-to-that-of	prepositions	by comparison to that of	por comparación con el de
+W	preposition-measured-against-that-of	prepositions	measured against that of	medido frente al de
+W	preposition-set-against-that-of	prepositions	set against that of	puesto frente al de
+W	preposition-weighed-against-that-of	prepositions	weighed against that of	pesado frente al de
+W	preposition-benchmarked-against-that-of	prepositions	benchmarked against that of	cotejado frente al de
+W	preposition-indexed-to-that-of	prepositions	indexed to that of	indexado al de
+W	preposition-pegged-to-that-of	prepositions	pegged to that of	atado al de
+W	preposition-tied-to-that-of	prepositions	tied to that of	ligado al de
+W	preposition-geared-to-that-of	prepositions	geared to that of	engranado al de
+W	preposition-keyed-to-that-of	prepositions	keyed to that of	ajustado al de
+W	preposition-calibrated-to-that-of	prepositions	calibrated to that of	calibrado al de
+W	preposition-scaled-to-that-of	prepositions	scaled to that of	escalado al de
+W	preposition-proportioned-to-that-of	prepositions	proportioned to that of	proporcionado al de
+W	preposition-referable-to	prepositions	referable to	imputable a
+W	preposition-attributable-to	prepositions	attributable to	atribuible a
+W	preposition-ascribable-to	prepositions	ascribable to	achacable a
+W	preposition-traceable-to	prepositions	traceable to	rastreable a
+W	preposition-referable-to-that-of	prepositions	referable to that of	imputable al de
+W	preposition-incident-to	prepositions	incident to	anejo a
+W	preposition-appurtenant-to	prepositions	appurtenant to	anejo a
+W	preposition-accessory-to	prepositions	accessory to	accesorio a
+W	preposition-ancillary-to	prepositions	ancillary to	accesorio a
+W	preposition-incidental-to	prepositions	incidental to	accesorio a
+W	preposition-collateral-to	prepositions	collateral to	colateral a
+W	preposition-subsidiary-to	prepositions	subsidiary to	subsidiario de
+W	preposition-subordinate-to	prepositions	subordinate to	subordinado a
+W	preposition-subject-always-to	prepositions	subject always to	siempre sujeto a
+W	preposition-without-prejudice-always-to	prepositions	without prejudice always to	siempre sin perjuicio de
+W	preposition-save-always	prepositions	save always	salvo siempre
+W	preposition-except-always	prepositions	except always	excepto siempre
+W	preposition-other-than-always	prepositions	other than always	salvo siempre
+W	noun-stakeholder	nouns	stakeholder	parte interesada
+W	noun-fallback	nouns	fallback	plan de reserva
+W	noun-handover	nouns	handover	traspaso
+W	noun-buyout	nouns	buyout	compra total
+W	noun-cutback	nouns	cutback	recorte
+W	noun-clampdown	nouns	clampdown	mano dura
+W	noun-crackdown	nouns	crackdown	ofensiva represiva
+W	noun-standoff	nouns	standoff	pulso
+W	noun-showdown	nouns	showdown	cara a cara
+W	noun-climb-down	nouns	climb-down	marcha atrás
+W	noun-ruling	nouns	ruling	fallo
+W	noun-testimony	nouns	testimony	declaración testifical
+W	noun-whistle-blower	nouns	whistle-blower	denunciante interno
+W	noun-embargo	nouns	embargo	embargo comercial
+W	noun-sanction	nouns	sanction	sanción
+W	noun-boycott	nouns	boycott	boicot
+W	noun-constituency	nouns	constituency	circunscripción
+W	noun-electorate	nouns	electorate	electorado
+W	noun-ballot	nouns	ballot	papeleta
+W	noun-framework	nouns	framework	marco
+W	noun-red-tape	nouns	red tape	burocracia
+W	noun-outlook	nouns	outlook	perspectivas
+W	noun-debrief	nouns	debrief	informe posterior
+W	noun-u-turn	nouns	U-turn	giro de 180 grados
+W	noun-payroll	nouns	payroll	nómina
+W	noun-overtime	nouns	overtime	horas extra
+W	noun-kick-off	nouns	kick-off	arranque
+W	noun-follow-up	nouns	follow-up	seguimiento
+W	noun-run-up	nouns	run-up	prolegómenos
+W	noun-mark-up	nouns	mark-up	recargo
+W	noun-fallout	nouns	fallout	secuelas políticas
+W	noun-scoop	nouns	scoop	exclusiva
+W	noun-headline	nouns	headline	titular
+W	noun-coverage	nouns	coverage	cobertura
+W	noun-editorial	nouns	editorial	artículo de fondo
+W	noun-op-ed	nouns	op-ed	tribuna de opinión
+W	noun-poll	nouns	poll	sondeo
+W	noun-pollster	nouns	pollster	encuestador
+W	noun-swing-voter	nouns	swing voter	votante indeciso
+W	noun-caucus	nouns	caucus	asamblea de grupo
+W	noun-whip	nouns	whip	disciplinante parlamentario
+W	noun-motion	nouns	motion	moción
+W	noun-amendment	nouns	amendment	enmienda
+W	noun-clause	nouns	clause	cláusula
+W	noun-draft	nouns	draft	borrador
+W	noun-minutes	nouns	minutes	acta
+W	noun-tender	nouns	tender	licitación
+W	noun-bid	nouns	bid	oferta
+W	noun-quota	nouns	quota	cupo
+W	noun-tariff	nouns	tariff	arancel
+W	noun-subsidy	nouns	subsidy	subvención
+W	noun-slump	nouns	slump	hundimiento
+W	noun-rally	nouns	rally	rebote
+W	noun-yield	nouns	yield	rentabilidad
+W	noun-spread	nouns	spread	diferencial
+W	noun-stake	nouns	stake	participación
+W	noun-shareholding	nouns	shareholding	paquete accionarial
+W	noun-equity	nouns	equity	patrimonio
+W	noun-liability	nouns	liability	pasivo
+W	noun-arrears	nouns	arrears	atrasos
+W	noun-default	nouns	default	impago
+W	noun-merger	nouns	merger	fusión
+W	noun-due-diligence	nouns	due diligence	diligencia debida
+W	noun-cronyism	nouns	cronyism	amiguismo
+W	noun-graft	nouns	graft	prevaricación
+W	noun-kickback	nouns	kickback	comisión ilegal
+W	noun-spin	nouns	spin	sesgo propagandístico
+W	noun-presser	nouns	presser	rueda de prensa
+W	noun-source	nouns	source	fuente
+W	noun-exclusive	nouns	exclusive	exclusiva periodística
+W	noun-rebuttal	nouns	rebuttal	réplica
+W	noun-workstream	nouns	workstream	línea de trabajo
+W	noun-deliverable	nouns	deliverable	entregable
+W	noun-milestone	nouns	milestone	hito
+W	noun-roadmap	nouns	roadmap	hoja de ruta
+W	noun-timeline	nouns	timeline	calendario
+W	noun-deadline	nouns	deadline	plazo
+W	noun-timeframe	nouns	timeframe	marco temporal
+W	noun-scope	nouns	scope	alcance
+W	noun-scrutiny	nouns	scrutiny	escrutinio
+W	noun-probe	nouns	probe	indagación
+W	noun-audit	nouns	audit	auditoría
+W	noun-appraisal	nouns	appraisal	evaluación
+W	noun-assessment	nouns	assessment	valoración
+W	noun-benchmark	nouns	benchmark	referencia
+W	noun-baseline	nouns	baseline	línea de base
+W	noun-threshold	nouns	threshold	umbral
+W	noun-wiggle-room	nouns	wiggle room	margen de maniobra
+W	noun-breathing-space	nouns	breathing space	tregua
+W	noun-hotspot	nouns	hotspot	foco de tensión
+W	noun-splinter-group	nouns	splinter group	grupo disidente
+W	noun-hardliner	nouns	hardliner	intransigente
+W	noun-hawk	nouns	hawk	halcón
+W	noun-dove	nouns	dove	partidario del diálogo
+W	noun-swing-seat	nouns	swing seat	escaño clave
+W	noun-lame-duck	nouns	lame duck	mandato residual
+W	noun-tenure	nouns	tenure	titularidad
+W	noun-incumbent	nouns	incumbent	titular
+W	noun-challenger	nouns	challenger	aspirante
+W	noun-front-runner	nouns	front-runner	favorito
+W	noun-dark-horse	nouns	dark horse	caballo negro
+W	noun-also-ran	nouns	also-ran	descartado
+W	noun-spoiler	nouns	spoiler	candidato estropeador
+W	noun-kingmaker	nouns	kingmaker	hacedor de reyes
+W	noun-newsroom	nouns	newsroom	redacción
+W	noun-byline	nouns	byline	firma del texto
+W	noun-masthead	nouns	masthead	cabecera
+W	noun-paywall	nouns	paywall	muro de pago
+W	noun-long-read	nouns	long read	reportaje largo
+W	noun-dateline	nouns	dateline	lugar y fecha
+W	noun-photo-call	nouns	photo call	sesión de fotos
+W	noun-spin-room	nouns	spin room	sala de relato
+W	noun-press-gaggle	nouns	press gaggle	rueda improvisada
+W	noun-town-hall	nouns	town hall	asamblea abierta
+W	noun-all-hands	nouns	all-hands	reunión general
+W	noun-skip-level	nouns	skip-level	reunión saltando mando
+W	noun-awayday	nouns	awayday	jornada fuera
+W	noun-brown-bag	nouns	brown-bag	sesión informal
+W	noun-timesheet	nouns	timesheet	hoja de horas
+W	noun-job-share	nouns	job share	puesto compartido
+W	noun-hot-desk	nouns	hot desk	puesto no fijo
+W	noun-open-plan	nouns	open plan	planta abierta
+W	noun-maternity-cover	nouns	maternity cover	cobertura de baja
+W	noun-offsite	nouns	offsite	jornada externa
+W	noun-one-to-one	nouns	one-to-one	entrevista individual
+W	noun-probation-review	nouns	probation review	revisión de prueba
+W	noun-exit-interview	nouns	exit interview	entrevista de salida
+W	noun-sick-note	nouns	sick note	baja médica
+W	noun-overtime-ban	nouns	overtime ban	veda de extras
+W	noun-shift-pattern	nouns	shift pattern	turno rotatorio
+W	noun-pay-slip	nouns	pay slip	nómina
+W	noun-redundancy-pot	nouns	redundancy pot	fondo de despidos
+W	adjective-last-ditch	adjectives	last-ditch	de último recurso
+W	adjective-knee-jerk	adjectives	knee-jerk	automático
+W	adjective-high-profile	adjectives	high-profile	de gran visibilidad
+W	adjective-low-key	adjectives	low-key	discreto
+W	adjective-hard-pressed	adjectives	hard-pressed	acuciado
+W	adjective-time-consuming	adjectives	time-consuming	engorroso
+W	adjective-labour-intensive	adjectives	labour-intensive	de mucha mano de obra
+W	adjective-debt-ridden	adjectives	debt-ridden	ahogado en deudas
+W	adjective-underfunded	adjectives	underfunded	infradotado
+W	adjective-understaffed	adjectives	understaffed	falto de personal
+W	adjective-overworked	adjectives	overworked	agobiado de trabajo
+W	adjective-overqualified	adjectives	overqualified	sobrecualificado
+W	adjective-underqualified	adjectives	underqualified	infracualificado
+W	adjective-long-overdue	adjectives	long-overdue	más que tardío
+W	adjective-much-needed	adjectives	much-needed	muy necesario
+W	adjective-well-meaning	adjectives	well-meaning	bienintencionado
+W	adjective-well-placed	adjectives	well-placed	bien situado
+W	adjective-poorly-paid	adjectives	poorly-paid	mal pagado
+W	adjective-poorly-run	adjectives	poorly-run	mal gestionado
+W	adjective-tightly-knit	adjectives	tightly-knit	muy unido
+W	adjective-thinly-veiled	adjectives	thinly-veiled	apenas disimulado
+W	adjective-thinly-stretched	adjectives	thinly-stretched	al límite
+W	adjective-deeply-held	adjectives	deeply-held	muy arraigado
+W	adjective-widely-held	adjectives	widely-held	muy extendido
+W	adjective-widely-shared	adjectives	widely-shared	muy compartido
+W	adjective-fiercely-contested	adjectives	fiercely-contested	reñido
+W	adjective-hotly-debated	adjectives	hotly-debated	muy debatido
+W	adjective-bitterly-fought	adjectives	bitterly-fought	encarnizado
+W	adjective-closely-fought	adjectives	closely-fought	muy reñido
+W	adjective-closely-watched	adjectives	closely-watched	muy vigilado
+W	adjective-closely-guarded	adjectives	closely-guarded	celosamente guardado
+W	adjective-damning	adjectives	damning	demoledor
+W	adjective-scathing	adjectives	scathing	lacerante
+W	adjective-blistering	adjectives	blistering	abrasador
+W	adjective-withering	adjectives	withering	fulminante
+W	adjective-unfounded	adjectives	unfounded	infundado
+W	adjective-unwarranted	adjectives	unwarranted	injustificado
+W	adjective-unjustified	adjectives	unjustified	sin justificación
+W	adjective-unsubstantiated	adjectives	unsubstantiated	sin respaldo
+W	adjective-uncorroborated	adjectives	uncorroborated	sin corroborar
+W	adjective-unverified	adjectives	unverified	sin verificar
+W	adjective-unconfirmed	adjectives	unconfirmed	sin confirmar
+W	adjective-unaccountable	adjectives	unaccountable	sin rendición de cuentas
+W	adjective-unchecked	adjectives	unchecked	sin contrapeso
+W	adjective-unchallenged	adjectives	unchallenged	sin contestación
+W	adjective-unquestioned	adjectives	unquestioned	sin cuestionar
+W	adjective-unforeseeable	adjectives	unforeseeable	imprevisible
+W	adjective-unworkable	adjectives	unworkable	inviable
+W	adjective-unviable	adjectives	unviable	sin viabilidad
+W	adjective-unsustainable	adjectives	unsustainable	insostenible
+W	adjective-untenable	adjectives	untenable	indefendible
+W	adjective-unenforceable	adjectives	unenforceable	inejecutable
+W	adjective-ungovernable	adjectives	ungovernable	ingobernable
+W	adjective-unmanageable	adjectives	unmanageable	inmanejable
+W	adjective-unprofitable	adjectives	unprofitable	no rentable
+W	adjective-uneconomic	adjectives	uneconomic	antieconómico
+W	adjective-uncompetitive	adjectives	uncompetitive	poco competitivo
+W	adjective-unrepresentative	adjectives	unrepresentative	poco representativo
+W	adjective-unelected	adjectives	unelected	no electo
+W	adjective-unmandated	adjectives	unmandated	sin mandato
+W	adjective-off-the-record	adjectives	off-the-record	extraoficial
+W	adjective-on-the-record	adjectives	on-the-record	para constancia
+W	adjective-off-balance	adjectives	off-balance	desestabilizado
+W	adjective-off-guard	adjectives	off-guard	desprevenido
+W	adjective-off-putting	adjectives	off-putting	desalentador
+W	adjective-groundbreaking	adjectives	groundbreaking	pionero
+W	adjective-large-scale	adjectives	large-scale	de gran escala
+W	adjective-small-scale	adjectives	small-scale	de pequeña escala
+W	adjective-wide-open	adjectives	wide-open	en el aire
+W	adjective-open-ended	adjectives	open-ended	abierto
+W	adjective-close-run	adjectives	close-run	muy ajustado
+W	adjective-close-knit	adjectives	close-knit	muy unido
+W	adjective-single-handed	adjectives	single-handed	en solitario
+W	adjective-slow-moving	adjectives	slow-moving	lento de avance
+W	adjective-fast-growing	adjectives	fast-growing	de rápido crecimiento
+W	adjective-fast-paced	adjectives	fast-paced	de ritmo alto
+W	adjective-slow-burn	adjectives	slow-burn	de efecto tardío
+W	adjective-high-stakes	adjectives	high-stakes	de alto riesgo
+W	adjective-low-stakes	adjectives	low-stakes	de bajo riesgo
+W	adjective-high-risk	adjectives	high-risk	de alto riesgo
+W	adjective-low-risk	adjectives	low-risk	de bajo riesgo
+W	adjective-high-yield	adjectives	high-yield	de alta rentabilidad
+W	adjective-low-yield	adjectives	low-yield	de baja rentabilidad
+W	adjective-high-cost	adjectives	high-cost	de alto coste
+W	adjective-low-cost	adjectives	low-cost	de bajo coste
+W	adjective-high-level	adjectives	high-level	de alto nivel
+W	adjective-low-level	adjectives	low-level	de bajo nivel
+W	adjective-mid-level	adjectives	mid-level	de nivel medio
+W	adjective-top-level	adjectives	top-level	de máxima instancia
+W	adjective-entry-level	adjectives	entry-level	de acceso
+W	adjective-cabinet-level	adjectives	cabinet-level	de gabinete
+W	adjective-cross-border	adjectives	cross-border	transfronterizo
+W	adjective-cross-cutting	adjectives	cross-cutting	transversal
+W	adjective-joined-up	adjectives	joined-up	coordinado
+W	adjective-evidence-based	adjectives	evidence-based	basado en pruebas
+W	adjective-data-driven	adjectives	data-driven	guiado por datos
+W	adjective-market-led	adjectives	market-led	guiado por el mercado
+W	adjective-state-led	adjectives	state-led	dirigido por el Estado
+W	adjective-state-backed	adjectives	state-backed	avalado por el Estado
+W	adjective-state-owned	adjectives	state-owned	de titularidad pública
+W	adjective-privately-owned	adjectives	privately-owned	de titularidad privada
+W	adjective-publicly-owned	adjectives	publicly-owned	de titularidad pública
+W	adjective-foreign-owned	adjectives	foreign-owned	de capital extranjero
+W	adjective-foreign-backed	adjectives	foreign-backed	respaldado desde fuera
+W	adjective-home-grown	adjectives	home-grown	de cosecha propia
+W	adjective-purpose-built	adjectives	purpose-built	hecho a propósito
+W	adjective-custom-built	adjectives	custom-built	hecho a medida
+W	adjective-off-the-shelf	adjectives	off-the-shelf	estándar
+W	adjective-last-minute	adjectives	last-minute	de última hora
+W	adjective-eleventh-hour	adjectives	eleventh-hour	in extremis
+W	adjective-all-out	adjectives	all-out	a ultranza
+W	adjective-all-time	adjectives	all-time	histórico
+W	adjective-record-breaking	adjectives	record-breaking	de récord
+W	adjective-record-high	adjectives	record-high	máximo histórico
+W	adjective-record-low	adjectives	record-low	mínimo histórico
+W	adjective-near-record	adjectives	near-record	casi récord
+W	adjective-above-average	adjectives	above-average	por encima de la media
+W	adjective-below-average	adjectives	below-average	por debajo de la media
+W	adjective-better-than-expected	adjectives	better-than-expected	mejor de lo previsto
+W	adjective-worse-than-expected	adjectives	worse-than-expected	peor de lo previsto
+W	adjective-much-vaunted	adjectives	much-vaunted	muy pregonado
+W	adjective-little-known	adjectives	little-known	poco conocido
+W	adjective-lesser-known	adjectives	lesser-known	menos conocido
+W	adjective-best-known	adjectives	best-known	más conocido
+W	adjective-best-placed	adjectives	best-placed	mejor situado
+W	adjective-worst-hit	adjectives	worst-hit	más afectado
+W	adjective-hardest-hit	adjectives	hardest-hit	más golpeado
+W	adjective-worst-affected	adjectives	worst-affected	más perjudicado
+W	adjective-least-affected	adjectives	least-affected	menos afectado
+W	adjective-most-affected	adjectives	most-affected	más afectado
+W	adverb-increasingly	adverbs	increasingly	cada vez más
+W	adverb-steadily	adverbs	steadily	de forma sostenida
+W	adverb-modestly	adverbs	modestly	con modestia
+W	adverb-marginally	adverbs	marginally	por un margen estrecho
+W	adverb-fractionally	adverbs	fractionally	por una fracción
+W	adverb-firmly	adverbs	firmly	con firmeza
+W	adverb-robustly	adverbs	robustly	con solidez
+W	adverb-weakly	adverbs	weakly	con flojedad
+W	adverb-poorly	adverbs	poorly	de forma deficiente
+W	adverb-strongly	adverbs	strongly	con fuerza
+W	adverb-fiercely	adverbs	fiercely	con encarnizamiento
+W	adverb-bitterly	adverbs	bitterly	con amargura
+W	adverb-hotly	adverbs	hotly	con ardor
+W	adverb-closely	adverbs	closely	de cerca
+W	adverb-tightly	adverbs	tightly	con aprieto
+W	adverb-loosely	adverbs	loosely	con holgura
+W	adverb-openly	adverbs	openly	abiertamente
+W	adverb-privately	adverbs	privately	en privado
+W	adverb-publicly	adverbs	publicly	en público
+W	adverb-unofficially	adverbs	unofficially	extraoficialmente
+W	adverb-informally	adverbs	informally	de manera informal
+W	adverb-provisionally	adverbs	provisionally	con carácter provisional
+W	adverb-temporarily	adverbs	temporarily	con carácter temporal
+W	adverb-permanently	adverbs	permanently	con carácter permanente
+W	adverb-indefinitely	adverbs	indefinitely	por tiempo indefinido
+W	adverb-retrospectively	adverbs	retrospectively	con efecto retroactivo
+W	adverb-concurrently	adverbs	concurrently	de forma concurrente
+W	adverb-sequentially	adverbs	sequentially	en sucesión
+W	adverb-incrementally	adverbs	incrementally	por incrementos
+W	adverb-exponentially	adverbs	exponentially	de forma exponencial
+W	adverb-overwhelmingly	adverbs	overwhelmingly	de forma aplastante
+W	adverb-decreasingly	adverbs	decreasingly	cada vez menos
+W	adverb-correspondingly	adverbs	correspondingly	en correspondencia
+W	adverb-controversially	adverbs	controversially	de forma polémica
+W	adverb-predictably	adverbs	predictably	como era de esperar
+W	adverb-unexpectedly	adverbs	unexpectedly	de forma inesperada
+W	adverb-inevitably	adverbs	inevitably	de forma inevitable
+W	adverb-understandably	adverbs	understandably	como es comprensible
+W	adverb-regrettably	adverbs	regrettably	de forma lamentable
+W	adverb-rightly	adverbs	rightly	con razón
+W	adverb-wrongly	adverbs	wrongly	sin razón
+W	adverb-justifiably	adverbs	justifiably	con justificación
+W	adverb-unjustifiably	adverbs	unjustifiably	sin justificación
+W	adverb-arguably	adverbs	arguably	cabe argumentar que
+W	adverb-conceivably	adverbs	conceivably	es concebible que
+W	adverb-plausibly	adverbs	plausibly	de forma plausible
+W	adverb-credibly	adverbs	credibly	con credibilidad
+W	adverb-implausibly	adverbs	implausibly	de forma inverosímil
+W	adverb-improbably	adverbs	improbably	de forma improbable
+W	adverb-end-to-end	adverbs	end to end	de cabo a cabo
+W	adverb-day-by-day	adverbs	day by day	día a día
+W	adverb-step-by-step	adverbs	step by step	paso a paso
+W	adverb-bit-by-bit	adverbs	bit by bit	poco a poco
+W	adverb-one-by-one	adverbs	one by one	uno a uno
+W	adverb-case-by-case	adverbs	case by case	caso por caso
+W	adverb-point-by-point	adverbs	point by point	punto por punto
+W	adverb-line-by-line	adverbs	line by line	línea a línea
+W	adverb-in-hindsight	adverbs	in hindsight	a toro pasado
+W	adverb-in-retrospect	adverbs	in retrospect	en retrospectiva
+W	adverb-in-prospect	adverbs	in prospect	en perspectiva
+W	adverb-in-practice	adverbs	in practice	en la práctica
+W	adverb-in-theory	adverbs	in theory	en teoría
+W	adverb-in-principle	adverbs	in principle	en principio
+W	adverb-in-effect	adverbs	in effect	en la práctica
+W	adverb-in-force	adverbs	in force	en vigor
+W	adverb-in-place	adverbs	in place	en vigor
+W	adverb-in-play	adverbs	in play	en liza
+W	adverb-in-limbo	adverbs	in limbo	en el limbo

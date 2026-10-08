@@ -3,6 +3,7 @@ import { buildFrenchB2Verbs } from "./b2/frenchBanks";
 import { buildFrenchC1Verbs } from "./c1/frenchBanks";
 import { buildFrenchC2Verbs } from "./c2/frenchBanks";
 import { extraFrenchVerbs } from "./frenchVerbsMore";
+import { extraFrenchVerbsParity } from "./frenchVerbsParity";
 import { slugify } from "./slug";
 
 function verb(
@@ -124,7 +125,7 @@ const coreFrenchVerbs: VerbItem[] = [
   verb("revenir", "est revenu", "revenu", "regresar", "regresó", "regresado", "etre"),
 ];
 
-const baseFrenchVerbs: VerbItem[] = [...coreFrenchVerbs, ...extraFrenchVerbs];
+const baseFrenchVerbs: VerbItem[] = [...coreFrenchVerbs, ...extraFrenchVerbs, ...extraFrenchVerbsParity];
 
 const frenchC2Verbs = buildFrenchC2Verbs(new Set(baseFrenchVerbs.map((verb) => verb.id)));
 const frenchVerbTakenAfterC2 = new Set([...baseFrenchVerbs, ...frenchC2Verbs].map((verb) => verb.id));

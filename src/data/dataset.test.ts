@@ -4,6 +4,7 @@ import { vocabulary } from "./vocabulary";
 import { frenchVerbs } from "./frenchVerbs";
 import { frenchVocabulary } from "./frenchVocabulary";
 import { allEntries, basqueEntries, catalanEntries, frenchEntries, germanEntries, getCatalog } from "./index";
+import { measureParity } from "./parity";
 import { phraseSets, PHRASE_SET_COUNT, techPhraseSets, TECH_PHRASE_SET_COUNT, openPhraseSets, OPEN_PHRASE_SET_COUNT, schoolNoticeSets, SCHOOL_NOTICE_COUNT } from "./phraseSets";
 import { STUDY_CEFR_LEVELS } from "../constants";
 import { filterEntries, isVerbItem, isVocabularyItem } from "../utils/vocabulary";
@@ -179,18 +180,19 @@ describe("Basque dataset", () => {
 });
 
 describe("German dataset", () => {
-  it("publishes German only as a full match of the English catalog", () => {
+  it("publishes German when the 89% parity contract is met", () => {
     if (germanEntries.length === 0) {
       expect(getCatalog("de-es")).toEqual([]);
       return;
     }
-    expect(germanEntries.length).toBe(allEntries.length);
+    const report = measureParity(germanEntries);
+    expect(report.meetsParity).toBe(true);
+    expect(germanEntries.length).toBeGreaterThanOrEqual(report.needTotal);
     const ids = germanEntries.map((entry) => entry.id);
     expect(new Set(ids).size).toBe(ids.length);
     expect(ids.every((id) => id.startsWith("de-"))).toBe(true);
-    const categories = new Set(allEntries.map((entry) => entry.category));
-    for (const category of categories) {
-      expect(countByCategory(germanEntries, category), category).toBe(countByCategory(allEntries, category));
+    for (const gap of report.categoryGaps) {
+      expect(gap.gap, gap.category).toBe(0);
     }
   });
 
