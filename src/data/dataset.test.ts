@@ -188,11 +188,12 @@ describe("German dataset", () => {
     expect(ids.every((id) => id.startsWith("de-"))).toBe(true);
   });
 
-  it("tracks 89% parity separately from publication", () => {
+  it("meets the 89% parity contract with a full mapped bank", () => {
     const report = measureParity(germanEntries);
-    // Phase 34 closes when this is true; publication no longer waits on it.
-    expect(report.haveTotal).toBe(germanEntries.length);
+    expect(germanEntries.length).toBe(11_618);
+    expect(report.haveTotal).toBe(11_618);
     expect(report.needTotal).toBe(10_340);
+    expect(report.meetsParity).toBe(true);
   });
 
   it("keeps German verbs in the spoken perfect", () => {

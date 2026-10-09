@@ -1,0 +1,800 @@
+W	open-answer-c1o-rebut-tone-police	Weil ein ungeschickter Ton auf einem stimmigen Punkt sitzen kann. Ich übernehme den Ton und gebe den Punkt nicht mit ihm preis.
+W	open-question-c1o-rebut-both-true	Warum können beide Dinge wahr sein?
+W	open-answer-c1o-rebut-both-true	Weil sie auf verschiedenen Ebenen sitzen und sich nicht aufheben. Ich würde aufhören, einen einzigen Sieger zu erzwingen.
+W	open-question-c1o-rebut-false-choice	Warum ist das eine falsche Wahl?
+W	open-answer-c1o-rebut-false-choice	Weil ein dritter Weg noch offen ist und nicht kalkuliert wurde. Ich würde den dritten Weg aufs Papier setzen.
+W	open-question-c1o-rebut-authority	Warum klärt dieser Titel die Sache nicht?
+W	open-answer-c1o-rebut-authority	Weil ein Titel keine Beweisführung ist. Ich würde die Seite verlangen, nicht den Briefkopf.
+W	open-question-c1o-rebut-new-fact	Welche neue Tatsache würde Sie wirklich bewegen?
+W	open-answer-c1o-rebut-new-fact	Eine Zählung aus dem fehlenden Zeitfenster. Eine weitere Rede aus derselben Akte nicht.
+W	open-question-c1o-rebut-burden	Wer trägt hier wirklich die Beweislast?
+W	open-answer-c1o-rebut-burden	Die Seite, die einen funktionierenden Standard ändern will. Ich würde den Standard nicht jede Woche sich selbst beweisen lassen.
+W	open-question-c1o-rebut-slippery	Wo hört diese schiefe Bahn wirklich auf?
+W	open-answer-c1o-rebut-slippery	Sie hört beim Kriterium auf, das wir schon aufgeschrieben haben. Ich würde dieses Kriterium nutzen statt einer Parade von Schreckensbildern.
+W	open-question-c1o-rebut-whatabout	Warum ist das keine Antwort auf diese Akte?
+W	open-answer-c1o-rebut-whatabout	Weil eine andere Akte schlecht sein kann, ohne dass diese gut ist. Ich würde die beiden Akten auf zwei Seiten halten.
+W	open-question-c1o-rebut-definition	Welche Definition verwenden Sie, die ich nicht verwende?
+W	open-answer-c1o-rebut-definition	Sie verwenden eine Erfolgsdefinition, auf die wir uns nie geeinigt haben. Ich würde zu der in den vereinbarten Bedingungen zurückkehren.
+W	open-question-c1o-rebut-time-window	Warum scheitert dieser Vergleich am Zeitfenster?
+W	open-answer-c1o-rebut-time-window	Weil die eine Reihe ein Jahr ist und die andere ein Quartal, das als Jahr verkleidet ist. Ich würde annualisieren oder das Diagramm ablehnen.
+W	open-question-c1o-rebut-n	Warum ist dieses n für das Verb zu klein?
+W	open-answer-c1o-rebut-n	Weil das Verb eine Population behauptet und das n eine Handvoll ist. Ich würde das Verb ändern oder das n vergrößern.
+W	open-question-c1o-rebut-confound	Welcher Störfaktor sitzt noch im Raum?
+W	open-answer-c1o-rebut-confound	Der Einstellungsstopp, der den einen Arm getroffen hat und den anderen nicht. Ich würde die Lücke erst Behandlung nennen, wenn das eingegrenzt ist.
+W	open-question-c1o-rebut-missing-arm	Wo ist der Vergleichsarm?
+W	open-answer-c1o-rebut-missing-arm	Er fehlt, und ein Vorher-Nachher wird als Versuch verkauft. Ich würde das in der ersten Zeile sagen.
+W	open-question-c1o-rebut-proxy	Warum ist das ein schlechter Proxy?
+W	open-answer-c1o-rebut-proxy	Weil er sich bewegt, wenn das, was uns wichtig ist, sich nicht bewegt. Ich würde einen Proxy wählen, der dieselben Ausfälle teilt, oder keinen.
+W	open-question-c1o-rebut-average	Was verbirgt der Durchschnitt hier?
+W	open-answer-c1o-rebut-average	Eine Spaltung, die den Durchschnitt zu einem Ort macht, an dem niemand lebt. Ich würde zuerst die Spaltung zeigen.
+W	open-question-c1o-rebut-last-year	Warum ist das letzte Jahr die falsche Basis?
+W	open-answer-c1o-rebut-last-year	Weil das letzte Jahr das Schockjahr war. Ich würde den Median über drei Jahre nehmen oder sagen, warum ich das nicht kann.
+W	open-question-c1o-rebut-legal-tone	Warum ist das eine juristische Antwort auf eine Gestaltungsfrage?
+W	open-answer-c1o-rebut-legal-tone	Weil sie sagt, was wir dürfen, nicht was wir sollten. Ich würde die Rechtsnotiz behalten und trotzdem eine Gestaltung verlangen.
+W	open-question-c1o-rebut-process	Warum ist ein sauberer Prozess nicht dasselbe wie ein gutes Ergebnis?
+W	open-answer-c1o-rebut-process	Weil man einem Prozess folgen und trotzdem auf das falsche Ziel zeigen kann. Ich würde das Ziel bewerten, nicht nur die Vermerke.
+W	open-question-c1o-rebut-survey	Warum schließt diese Zufriedenheitsnote den Fall nicht?
+W	open-answer-c1o-rebut-survey	Weil die, die gegangen sind, nicht in der Note sind. Ich würde die Abwanderung neben das Lächeln setzen.
+W	open-question-c1o-rebut-pilot	Warum ist ein guter Versuch kein Freifahrtschein, ihn überall zu kopieren?
+W	open-answer-c1o-rebut-pilot	Weil der Versuch Personal hatte, das die Einführung nicht haben wird. Ich würde das echte Personal kalkulieren, bevor wir kopieren.
+W	open-question-c1o-rebut-benchmark	Warum ist dieser Benchmark der falsche Vergleichskreis?
+W	open-answer-c1o-rebut-benchmark	Weil er Standorte mischt, die eine andere Aufgabe erfüllen. Ich würde einen Kreis wählen, der die Aufgabe teilt, auch wenn die Zahlen weniger freundlich aussehen.
+W	open-question-c1o-rebut-qual-quote	Warum spricht dieses Zitat nicht für die Akte?
+W	open-answer-c1o-rebut-qual-quote	Weil es der Farbe wegen gewählt wurde und wir kein Gefühl dafür haben, wie häufig es ist. Ich würde eine Zählung daneben setzen oder es streichen.
+W	open-question-c1o-rebut-model-fit	Warum ist eine hohe Passung kein gutes Modell?
+W	open-answer-c1o-rebut-model-fit	Weil es Rauschen auswendig gelernt haben kann. Ich würde fragen, wie es bei einem Jahr abschneidet, das es nicht gesehen hat.
+W	open-question-c1o-rebut-risk-register	Warum ist ein volles Risikoregister nicht dasselbe wie Kontrolle?
+W	open-answer-c1o-rebut-risk-register	Weil eine Liste von Sorgen kein Eigentümer und kein Datum ist. Ich würde fragen, wer bis wann was tut.
+W	open-question-c1o-rebut-lessons	Warum ist ein Vermerk zu Lessons Learned kein Beleg, dass wir gelernt haben?
+W	open-answer-c1o-rebut-lessons	Weil er abgeheftet werden und das nächste Design nie ändern kann. Ich würde fragen, was im nächsten Design anders ist.
+W	open-question-c1o-rebut-consensus	Warum ist Konsens hier der falsche Test?
+W	open-answer-c1o-rebut-consensus	Weil der Raum einig sein und trotzdem zu früh sein kann. Ich wäre lieber präzise als einstimmig.
+W	open-question-c1o-rebut-urgency	Warum ist Dringlichkeit kein Argument?
+W	open-answer-c1o-rebut-urgency	Weil eine kurze Lunte eine dünne Akte nicht dick macht. Ich würde den Termin behalten und trotzdem die fehlende Seite verlangen.
+W	open-question-c1o-rebut-optics	Warum ist Optik der falsche Einstieg?
+W	open-answer-c1o-rebut-optics	Weil sie fragt, wie es aussieht, bevor sie fragt, ob es wahr ist. Ich würde diese Fragen umkehren.
+W	open-question-c1o-rebut-precedent	Warum bindet uns dieser Präzedenzfall nicht?
+W	open-answer-c1o-rebut-precedent	Weil die Tatsachen, die dort die Arbeit getan haben, hier nicht vorliegen. Ich würde die fehlende Tatsache benennen statt mit dem Fall zu winken.
+W	open-question-c1o-rebut-compromise	Warum ist das Teilen der Differenz keine Entscheidung?
+W	open-answer-c1o-rebut-compromise	Weil beide Seiten mit einem Plan zurückbleiben können, der nicht laufen kann. Ich würde einen lauffähigen Plan wählen, auch wenn er weniger ausgeglichen wirkt.
+W	open-question-c1o-rebut-more-data	Warum sind mehr Daten diese Woche nicht die Antwort?
+W	open-answer-c1o-rebut-more-data	Weil wir die entscheidende Angabe schon haben und sie nicht nutzen. Ich würde sie nutzen, bevor wir einen weiteren Abruf beauftragen.
+W	open-question-c1o-rebut-pilot-fail	Warum tötet ein gescheiterter Pilot die Idee nicht?
+W	open-answer-c1o-rebut-pilot-fail	Weil das Scheitern am Personal lag, nicht am Mechanismus. Ich würde mit dem Personal wiederholen, das das Design angenommen hat.
+W	open-question-c1o-rebut-complexity	Warum ist Komplexität hier keine Tugend?
+W	open-answer-c1o-rebut-complexity	Weil sie eine Wahl verbirgt, die wir nicht übernommen haben. Ich würde die Wahl sichtbar machen und dann vereinfachen.
+W	open-question-c1o-rebut-metric	Warum lehrt diese Kennzahl das falsche Verhalten?
+W	open-answer-c1o-rebut-metric	Weil man sie treffen kann, indem man das ausdünnt, was wir eigentlich wollen. Ich würde die Kennzahl ändern oder die fehlende ergänzen.
+W	open-question-c1o-rebut-anonymity	Warum macht Anonymität diesen Kommentar nicht gewichtslos?
+W	open-answer-c1o-rebut-anonymity	Weil er sich noch an der Akte prüfen lässt. Ich würde ihn prüfen statt ihn mangels Namens zu verwerfen.
+W	open-question-c1o-rebut-late	Warum ist spät nicht dasselbe wie falsch?
+W	open-answer-c1o-rebut-late	Weil ein spätes Papier immer noch das Papier sein kann, das wir brauchen. Ich würde die Substanz bewerten und getrennt die Verspätung.
+W	open-question-c1o-rebut-popular	Warum ist Beliebtheit diesmal ein schlechter Ratgeber?
+W	open-answer-c1o-rebut-popular	Weil die beliebte Option die ist, die die Kosten aufschiebt. Ich würde die Kosten auf dieselbe Folie setzen wie den Applaus.
+W	open-question-c1o-rebut-history	Warum schließt „das haben wir immer so gemacht“ die Sache nicht?
+W	open-answer-c1o-rebut-history	Weil eine Gewohnheit kein Test ist. Ich würde fragen, wozu die Gewohnheit diente und ob diese Aufgabe noch besteht.
+W	open-question-c1o-rebut-innovation	Warum ist Neuheit kein Grund, es zu übernehmen?
+W	open-answer-c1o-rebut-innovation	Weil Neu leiser schlechter sein kann. Ich würde eine Aufgabe verlangen, die es tut und das alte Werkzeug nicht.
+W	open-question-c1o-rebut-cost-cut	Warum ist die günstigere Option nicht automatisch besser?
+W	open-answer-c1o-rebut-cost-cut	Weil sie die Kosten aus diesem Budget in den nächsten Zwischenfall verschieben kann. Ich würde die Zwischenfallkosten auf derselben Seite zeigen.
+W	open-question-c1o-rebut-pilot-success	Warum sollten wir nicht auf ein einziges gutes Jahr skalieren?
+W	open-answer-c1o-rebut-pilot-success	Weil ein Jahr Wetter sein kann. Ich würde ein zweites Jahr abwarten oder sagen, dass wir wetten.
+W	open-question-c1o-rebut-equity-slide	Warum leistet diese Fairness-Folie die Arbeit nicht?
+W	open-answer-c1o-rebut-equity-slide	Weil sie eine Absicht meldet und keine Verteilung. Ich würde zeigen, wer die Stunden tatsächlich erhalten hat.
+W	open-question-c1o-rebut-consultation	Warum ist eine Konsultation kein Einverständnis?
+W	open-answer-c1o-rebut-consultation	Weil gefragt zu werden nicht dasselbe ist wie ablehnen zu können. Ich würde sagen, wer wirklich Nein sagen konnte.
+W	open-question-c1o-rebut-transparency	Warum ist das Veröffentlichen des Pakets nicht dasselbe wie verstanden zu werden?
+W	open-answer-c1o-rebut-transparency	Weil ein Dump keine Erklärung ist. Ich würde die zweiseitige Fassung für die schreiben, die damit leben müssen.
+W	open-question-c1o-rebut-apology	Warum ist eine Entschuldigung kein Heilmittel?
+W	open-answer-c1o-rebut-apology	Weil sie die verlorene Stunde oder den verlorenen Platz nicht zurückgibt. Ich würde die Entschuldigung mit der Wiedergutmachung koppeln.
+W	open-question-c1o-rebut-listening	Warum ist „wir hören Sie“ keine Antwort?
+W	open-answer-c1o-rebut-listening	Weil es den Zug beenden kann, ohne eine Tatsache zu bewegen. Ich würde sagen, was sich gegebenenfalls ändert.
+W	open-question-c1o-rebut-balance	Warum ist „ausgewogen“ das falsche Lob?
+W	open-answer-c1o-rebut-balance	Weil es bedeuten kann, dass wir die Differenz zwischen einer Tatsache und einem Wunsch teilen. Ich wäre lieber treffend als symmetrisch.
+W	open-question-c1o-rebut-future-proof	Warum ist Zukunftssicherheit hier ein Slogan?
+W	open-answer-c1o-rebut-future-proof	Weil damit Kosten ohne anhängendes Szenario gerechtfertigt werden. Ich würde zwei Szenarien anhängen oder den Slogan fallen lassen.
+W	open-question-c1o-rebut-one-number	Warum sollten wir uns weigern, eine einzelne Zahl zu briefen?
+W	open-answer-c1o-rebut-one-number	Weil die einzelne Zahl ein Durchschnitt ungleichartiger Dinge ist. Ich würde die Spaltung briefen oder den Slot ablehnen.
+W	open-question-c1o-rebut-workshopped	Warum ist ein workshopter Satz nicht sicherer?
+W	open-answer-c1o-rebut-workshopped	Weil ein Raum die einzige wahre Klausel abschleifen kann. Ich würde die wahre Klausel zurücksetzen, auch wenn sie hässlicher ist.
+W	open-question-c1o-rebut-chatham	Warum erlaubt „das bleibt im Raum“ Ihnen nicht, das durchsickern zu lassen?
+W	open-answer-c1o-rebut-chatham	Weil die Regel die Person schützt, die gesprochen hat, nicht eine spätere Paraphrase in einer Zeitung. Ich würde die Quelle weiterhin als vertraulich behandeln.
+W	open-question-c1o-rebut-minutes-lean	Warum sollten die Notizen eine Tendenz nicht als Abstimmung festhalten?
+W	open-answer-c1o-rebut-minutes-lean	Weil eine Tendenz nach einer Nacht Schlaf zurückgenommen werden kann. Ich würde eine Tendenz als Tendenz festhalten.
+W	open-question-c1o-rebut-parking-lot	Warum wird der Parkplatz als Grab benutzt?
+W	open-answer-c1o-rebut-parking-lot	Weil Punkte dort landen und nie mit einem Eigentümer zurückkommen. Ich würde jedem geparkten Punkt einen Namen und ein Datum geben.
+W	open-question-c1o-rebut-offline	Warum ist „nehmen wir das offline“ der falsche Zug?
+W	open-answer-c1o-rebut-offline	Weil die Uneinigkeit die Sache dieses Raums ist. Ich würde sie hier zu Ende bringen oder laut sagen, warum wir aufhören müssen.
+W	open-question-c1o-rebut-action-owner	Warum ist eine Maßnahme ohne Eigentümer keine Maßnahme?
+W	open-answer-c1o-rebut-action-owner	Weil niemand für eine Aufgabe zu spät kommt, die dem Raum gehört. Ich würde eine Person nennen oder die Zeile streichen.
+W	open-question-c1o-rebut-smile	Warum ist ein Lächeln im Raum keine Entscheidung?
+W	open-answer-c1o-rebut-smile	Weil Leute lächeln, um eine Stille zu beenden. Ich würde ein ausgesprochenes Ja oder ein ausgesprochenes Halten verlangen.
+W	open-question-c1o-rebut-nod	Warum reicht ein Nicken um den Tisch nicht?
+W	open-answer-c1o-rebut-nod	Weil ein Nicken Müdigkeit sein kann. Ich würde jede Person bitten, Halten oder Weiter zu sagen.
+W	open-question-b2o-hybrid-days	Was halten Sie davon, dass drei Bürotage Pflicht sind?
+W	open-answer-b2o-hybrid-days	Ich verstehe, warum Führungskräfte Gesichter im Raum wollen, aber ich würde zwei Tage für konzentrierte Arbeit zu Hause behalten. Die informellen Gespräche zählen; sie müssen nicht die ganze Woche füllen.
+W	open-question-b2o-fewer-meetings	Wie würden Sie jemandem antworten, der sagt, die meisten Meetings seien Zeitverschwendung?
+W	open-answer-b2o-fewer-meetings	Da ist etwas dran, aber ich würde das wöchentliche nicht streichen. Dort fangen wir immer noch die Dinge auf, die nie in einem Ticket landen.
+W	open-question-b2o-late-sprint	Wie stehen Sie dazu, spät dranzubleiben, um einen Sprint fertigzubekommen?
+W	open-answer-b2o-late-sprint	Ich würde es einmal tun, wenn Nutzer warten, nicht aus Gewohnheit. Ein Team, das jeden Sprint nach dem Abendessen beendet, hat den falschen Plan, nicht die falsche Einstellung.
+W	open-question-b2o-open-plan	Glauben Sie, dass Großraumbüros den Leuten wirklich helfen, zusammenzuarbeiten?
+W	open-answer-b2o-open-plan	Sie helfen, wenn man eine kurze Frage hat; sie schaden, wenn man eine ruhige Stunde braucht. Ich hätte lieber kleine Räume in der Nähe als die Regel, dass niemand einen buchen darf.
+W	open-question-b2o-camera-on	Wie stehen Sie dazu, dass die Kamera in jedem Gespräch an sein muss?
+W	open-answer-b2o-camera-on	Ich schalte sie ein, wenn ich spreche oder die Gruppe klein ist. Eine Regel für zwanzig Leute, die auf die eigenen Kacheln starren, macht das Meeting nicht besser.
+W	open-question-b2o-chat-decisions	Was halten Sie davon, dass Entscheidungen nur im Gruppenchat getroffen werden?
+W	open-answer-b2o-chat-decisions	Ich nutze den Chat, um eine Idee anzudeuten, nicht um sie zu schließen. Wenn sie nächsten Monat zählt, will ich sie in einem Vermerk mit Namen und Datum.
+W	open-question-b2o-always-available	Sollte man erwarten, dass Leute abends auf Nachrichten antworten?
+W	open-answer-b2o-always-available	Ich würde auf einen echten Notfall antworten; ich würde nicht jeden Ping als einen behandeln. Wenn die Arbeit nicht warten kann, hätte es ein Anruf sein sollen, kein später Text.
+W	open-question-b2o-hot-desking	Was halten Sie von Hot-Desking an jedem Wochentag?
+W	open-answer-b2o-hot-desking	Ein paar Tage sind in Ordnung; fünf Tage Bildschirmsuche zermürben. Ich würde einen kleinen Satz benannter Plätze für Leute behalten, die die meiste Woche kommen.
+W	open-question-b2o-presenteeism	Wie würden Sie der Idee widersprechen, dass die längsten Stunden gewinnen?
+W	open-answer-b2o-presenteeism	Ich würde sagen: Die Person, die pünktlich geht und die Arbeit erledigt hat, will ich beim nächsten Auftrag. Am dunklen Bildschirm nach acht zu sitzen ist nicht dasselbe wie fertig zu werden.
+W	open-question-b2o-feedback-public	Sollte kritische Rückmeldung vor dem ganzen Team gegeben werden?
+W	open-answer-b2o-feedback-public	Lob kann öffentlich sein; eine Korrektur ist unter vier Augen freundlicher und klarer. Die Leute hören das Publikum, nicht den Punkt, wenn es im Raum passiert.
+W	open-question-b2o-promotion-years	Glauben Sie, dass die Jahre in der Stelle entscheiden sollten, wer befördert wird?
+W	open-answer-b2o-promotion-years	Jahre zeigen, dass man geblieben ist; sie zeigen nicht, dass man das nächste Stück Arbeit führen kann. Ich würde schauen, was jemand schon verantwortet hat, nicht auf den Kalender.
+W	open-question-b2o-city-cars	Was halten Sie davon, Autos in der Innenstadt zu reduzieren?
+W	open-answer-b2o-city-cars	Unterm Strich bin ich dafür, sofern die Busse nach acht wirklich fahren. Eine schöne Straße ohne Heimweg verschiebt den Stau nur auf den Ring.
+W	open-question-b2o-cycle-lanes	Wie stehen Sie dazu, eine Spur von Autos für Fahrräder wegzunehmen?
+W	open-answer-b2o-cycle-lanes	Ich würde lieber eine Spur verlieren, als so tun, als könnten Radfahrer eine schnelle Straße teilen. Fahrer beschweren sich einen Monat; dann wird die Spur normal.
+W	open-question-b2o-tourist-fees	Sollten Städte Tagesbesucher eine kleine Touristengebühr zahlen lassen?
+W	open-answer-b2o-tourist-fees	Eine kleine Gebühr ist fair, wenn sie tatsächlich die Straßen zahlt, die sie abnutzen. Ich wäre dagegen, wenn es nur eine weitere Steuer ist, die im allgemeinen Topf verschwindet.
+W	open-question-b2o-late-trains	Was würden Sie jemandem sagen, der behauptet, verspätete Züge gehörten einfach zum Stadtleben?
+W	open-answer-b2o-late-trains	Ich würde widersprechen. Ein verspäteter Zug ab und zu ist Leben; ein Fahrplan, dem niemand trauen kann, ist ein Planungsversagen, und das sollten wir sagen.
+W	open-question-b2o-street-cafes	Stört es Sie, wenn Terrassen den Bürgersteig übernehmen?
+W	open-answer-b2o-street-cafes	Mir gefällt eine Terrasse, wenn ein Kinderwagen noch vorbeikommt. Wenn die Tische Leute auf die Fahrbahn zwingen, hat das Café mehr als seinen Anteil genommen.
+W	open-question-b2o-night-stop	Sollten Bars an Wochentagen in Wohnstraßen früher schließen?
+W	open-answer-b2o-night-stop	Ich würde die lauteste Stunde schließen, nicht den ganzen Abend. Wer über einer Bar wohnt, hat sich nicht für zwei Uhr nachts an einem Dienstag angemeldet.
+W	open-question-b2o-green-space	Wie wichtig ist Ihrer Ansicht nach ein Park in Gehweite?
+W	open-answer-b2o-green-space	Für mich ist das kein Luxus; so bleibt ein dichtes Viertel lebenswert. Ich würde einen zweiten Supermarkt gegen ein anständiges Stück Gras tauschen.
+W	open-question-b2o-air-quality	Was sagen Sie, wenn jemand behauptet, Luftqualität sei nur eine Sommergeschichte?
+W	open-answer-b2o-air-quality	Ich würde sagen, dass Winterverkehr und Heizung genauso schmutzig sind, nur weniger sichtbar. Wenn wir nur an heißen Tagen darüber reden, verpassen wir den Rest des Jahres.
+W	open-question-b2o-meat-less	Wie stehen Sie dazu, dass Arbeitsplätze standardmäßig ein vegetarisches Mittagessen anbieten?
+W	open-answer-b2o-meat-less	Ich würde Fleisch als Option behalten, nicht als täglichen Standard. Ein pflanzlicher Standard lässt eine Wahl und senkt die Verschwendung unberührten Fleischs.
+W	open-question-b2o-fast-fashion	Was ist Ihre ehrliche Meinung zu billiger Kleidung, die eine Saison hält?
+W	open-answer-b2o-fast-fashion	Ich kaufe sie noch, wenn das Geld knapp ist, aber ich würde das Modell nicht verteidigen. Ein bisschen mehr für weniger Stücke zu zahlen ist die einzige Gewohnheit, die bei mir gehalten hat.
+W	open-question-b2o-school-start	Sollte die Sekundarschule morgens später beginnen?
+W	open-answer-b2o-school-start	Ich würde die erste Stunde um neun beginnen und die leere Formzeit streichen. Jugendliche sind nicht faul; die Uhr, die wir ihnen geben, ist die, die wir für ein anderes Jahrhundert entworfen haben.
+W	open-question-b2o-homework-load	Was halten Sie von einer Stunde Hausaufgaben jede Nacht mit vierzehn?
+W	open-answer-b2o-homework-load	Eine Stunde sinnvoller Arbeit ist in Ordnung; zwei Stunden Abschreiben nicht. Ich hätte lieber, sie lesen ein Kapitel gut, als drei Arbeitsblätter schlecht zu füllen.
+W	open-question-b2o-phones-class	Sollten Handys im Klassenzimmer ganz verboten sein?
+W	open-answer-b2o-phones-class	Ich würde sie für die Stunde einsammeln und in der Pause zurückgeben. Ein Totalverbot am Tor behandelt Fünfzehnjährige wie Gepäck, und sie finden einen Weg darum herum.
+W	open-question-b2o-university-or-not	Wie würden Sie jemanden beraten, der sich zur Universität gedrängt fühlt?
+W	open-answer-b2o-university-or-not	Ich würde fragen, was sie in fünf Jahren tun wollen, nicht was ihre Klasse im September macht. Die Universität ist ein gutes Werkzeug; sie ist ein schlechter Standard.
+W	open-question-b2o-grades-only	Glauben Sie, dass Prüfungsnoten genug über eine Schülerin oder einen Schüler sagen?
+W	open-answer-b2o-grades-only	Sie sagen, wie jemand auf diesen Arbeiten abgeschnitten hat, nicht wie er mit anderen arbeitet. Ich würde die Noten behalten und einen kurzen Kommentar ergänzen, den eine Zahl nicht tragen kann.
+W	open-question-b2o-group-work	Was ist Ihre ehrliche Meinung zu Gruppenprojekten in Schule oder Beruf?
+W	open-answer-b2o-group-work	Sie lehren die Arbeit des Einigens; sie verbergen auch die Person, die nichts getan hat. Ich würde das Produkt bewerten und jede Person bitten aufzuschreiben, was sie verantwortet hat.
+W	open-question-b2o-language-early	Sollten Kinder viel früher eine zweite Sprache beginnen?
+W	open-answer-b2o-language-early	Ich würde den Klang in der Grundschule beginnen, nicht ein Grammatikbuch. Zu warten, bis sie selbstbewusste Teenager sind, produziert Leute, die nie sprechen.
+W	open-question-b2o-streaming-classes	Wie stehen Sie dazu, Schülerinnen und Schüler nach Leistung in Kurse zu setzen?
+W	open-answer-b2o-streaming-classes	Kurse können helfen, wenn sie jedes Halbjahr geprüft werden und Leute wechseln können. Ein Kurs, der vier Jahre zum Etikett wird, schadet mehr als eine gemischte Klasse mit Extra-Hilfe.
+W	open-question-b2o-screens-kids	Was würden Sie einem Elternteil sagen, das einem Kind mit zehn ein Handy gibt?
+W	open-answer-b2o-screens-kids	Ich würde warten, wenn ich könnte, und nicht so tun, als wäre ich besser als Familien, die das nicht können. Das eigentliche Argument ist, wen sie nachts erreichen können, nicht das Jahr auf der Verpackung.
+W	open-question-b2o-social-media	Glauben Sie, wir sollten alle einen Monat die sozialen Medien verlassen?
+W	open-answer-b2o-social-media	Ein Monat Pause ist nützlich, wenn man merkt, was fehlt; Theater, wenn man zur gleichen Stunde am Tag zurückkehrt. Ich würde zuerst die Stunde kürzen und die Werkzeuge behalten, die ich wirklich nutze.
+W	open-question-b2o-news-diet	Wie bleiben Sie bei den Nachrichten, ohne darin zu ertrinken?
+W	open-answer-b2o-news-diet	Ich lese morgens einen längeren Text und lehne die Benachrichtigungen ab. Einen Feed stündlich zu aktualisieren heißt nicht informiert sein; es heißt unterbrochen werden.
+W	open-question-b2o-work-from-cafe	Was halten Sie davon, dass Leute den ganzen Morgen aus Cafés telefonieren?
+W	open-answer-b2o-work-from-cafe	Ein ruhiger Laptop ist in Ordnung; ein lautes Gespräch nutzt den Raum als Büro, das sie nicht bezahlt haben. Ich würde nach draußen gehen oder einen Platz buchen.
+W	open-question-b2o-cheap-flights	Sollten billige Kurzstreckenflüge schwerer zu buchen sein?
+W	open-answer-b2o-cheap-flights	Ich würde zuerst den Zug zur leichten Option machen, nicht Leute bestrafen, die keinen Nachtzug haben. Eine Steuer, die nur die ärmsten Reisenden trifft, ist ein Slogan, kein Plan.
+W	open-question-b2o-staycations	Was halten Sie davon, den Urlaub im eigenen Land zu verbringen?
+W	open-answer-b2o-staycations	Mir gefällt es, wenn ich wirklich ausruhe, nicht wenn ich so tue, als wäre der Urlaub zu Hause billiger und dann dasselbe in Restaurants ausgebe. Entfernung macht keine freie Woche.
+W	open-question-b2o-all-inclusive	Würden Sie wieder ein All-inclusive-Hotel wählen?
+W	open-answer-b2o-all-inclusive	Mit Kindern für eine Woche ja, weil die Abende einfach bleiben. Zu zweit als Erwachsene würde ich lieber laufend zahlen und zum Mittag das Hotel verlassen.
+W	open-question-b2o-tipping	Wie stehen Sie dazu, dass Service auf Trinkgeld angewiesen ist?
+W	open-answer-b2o-tipping	Ich hätte lieber den Lohn auf der Rechnung und das Trinkgeld extra für etwas Gutes. Ein System, in dem die Bedienung von meiner Laune abhängt, ist keine Gastfreundschaft; es ist ein Glücksspiel.
+W	open-question-b2o-cashless	Sollten kleine Läden Bargeld ablehnen?
+W	open-answer-b2o-cashless	Ich würde Bargeld für Leute behalten, die keine Karte nutzen können oder wollen. Ein Laden nur mit Karte ist für mich bequem und für jemand anderen eine geschlossene Tür.
+W	open-question-b2o-buy-now-pay	Was halten Sie von „jetzt kaufen, später zahlen“ an der Kasse?
+W	open-answer-b2o-buy-now-pay	Nützlich für einen geplanten Kauf mit sichtbarem Datum; eine Falle neben Süßigkeiten. Ich würde es hinter einem zweiten Klick verstecken, nicht als Standardknopf setzen.
+W	open-question-b2o-rent-or-buy	Wenn Sie wählen könnten: lieber mieten oder in einer Großstadt kaufen?
+W	open-answer-b2o-rent-or-buy	Ich würde kaufen, wenn die Zahlen mir Raum zum Leben lassen; ich würde mieten, statt den Rest meines Lebens für einen Flur zu hungern. Eigentum ist kein moralischer Sieg, wenn die Wohnung Sie besitzt.
+W	open-question-b2o-flatmates	Was ist Ihrer Ansicht nach der schwerste Teil am Teilen einer Wohnung?
+W	open-answer-b2o-flatmates	Der schwerste Teil sind die unausgesprochenen Aufgaben, nicht die Miete. Ich würde am ersten Tag eine kurze Liste schreiben, statt die Spüle in Woche drei zu entdecken.
+W	open-question-b2o-neighbours-noise	Wie würden Sie Lärm bei einem Nachbarn ansprechen, ohne einen Krieg zu beginnen?
+W	open-answer-b2o-neighbours-noise	Ich würde einmal klopfen, die Stunde nennen, die nicht geht, und eine nennen, die geht. Ein Zettel unter der Tür nach Wochen Schweigen landet meist als Angriff.
+W	open-question-b2o-airbnb-block	Sollten Kurzzeitvermietungen in Wohngebäuden begrenzt werden?
+W	open-answer-b2o-airbnb-block	Ich würde sie dort begrenzen, wo Leute wirklich wohnen, nicht in einer Straße, die schon Hotels ist. Ein Haus voller Koffer ist kein Viertel, und die, die bleiben, zahlen dafür.
+W	open-question-b2o-public-speaking	Wie stehen Sie dazu, mit wenig Vorlauf präsentieren zu müssen?
+W	open-answer-b2o-public-speaking	Ich kann ein fünfminütiges Update machen; ich tue nicht so, als wäre eine Stunde kurzfristig ein ordentlicher Vortrag. Wenn sie die längere Fassung wollen, können sie mir einen Tag geben.
+W	open-question-b2o-disagree-boss	Wie widersprechen Sie Ihrer Führungskraft im Raum, ohne schwierig zu wirken?
+W	open-answer-b2o-disagree-boss	Ich würde ihr Ziel wiederholen, dann sagen, wo mein Weg abweicht und warum. Ein bloßes „ich bin anderer Meinung“ lehrt sie nichts und macht das nächste Nein schwerer.
+W	open-question-b2o-credit-taken	Was würden Sie tun, wenn jemand Ihre Idee als die eigene vorstellt?
+W	open-answer-b2o-credit-taken	Ich würde im Raum erwähnen, dass ich sie letzte Woche angedeutet hatte, und schriftlich nachfassen. Eine Szene auf dem Flur liefert ihnen nur die Geschichte.
+W	open-question-b2o-small-talk	Ist Smalltalk vor einem Meeting Ihrer Ansicht nach Zeitverschwendung?
+W	open-answer-b2o-small-talk	Zwei Minuten ölen den Raum; zehn Minuten stehlen die Entscheidung. Ich würde pünktlich beginnen und das Wetter für den Weg hinaus lassen.
+W	open-question-b2o-email-evenings	Sollten Leute nach zehn Uhr abends Arbeitsmails schicken?
+W	open-answer-b2o-email-evenings	Ich würde sie schreiben, wenn ich muss, und den Versand auf den Morgen legen. Eine späte Mail trainiert die andere Person, nach Ihrer Uhr zu leben.
+W	open-question-b2o-lunch-desk	Was halten Sie davon, jeden Tag am Schreibtisch zu essen?
+W	open-answer-b2o-lunch-desk	Ab und zu ist Überleben; jeden Tag merkt man nicht mehr, dass man müde ist. Ich würde zwanzig Minuten weggehen, auch wenn ich zum selben Bildschirm zurückkomme.
+W	open-question-b2o-team-drinks	Wie stehen Sie dazu, dass Teamtrinken als Teil der Arbeit gilt?
+W	open-answer-b2o-team-drinks	Ich komme manchmal; ich behandle die, die nach Hause gehen, nicht als weniger engagiert. Wenn das eigentliche Gespräch nur in der Bar stattfindet, ist das Meeting kaputt.
+W	open-question-b2o-dress-code	Sollten Büros noch einen schriftlichen Dresscode haben?
+W	open-answer-b2o-dress-code	Eine kurze Notiz zu Kundentagen reicht; eine Seite über Socken ist Theater. Ich hätte lieber, Leute kleiden sich für das Meeting vor ihnen als für eine Regel von 1998.
+W	open-question-b2o-return-office	Was würden Sie einem Unternehmen sagen, das alle fünf Tage die Woche zurückwill?
+W	open-answer-b2o-return-office	Ich würde fragen, welches Problem fünf Tage lösen, das drei nicht gelöst haben. Wenn die Antwort Kultur ist, möchte ich hören, was sie im Raum tatsächlich ändern.
+W	open-question-b2o-side-projects	Ist es fair, wenn ein Arbeitgeber Nebenprojekte einschränkt?
+W	open-answer-b2o-side-projects	Es ist fair, wenn die Nebenarbeit ihre Kunden oder ihre Stunden nutzt; es ist nicht fair, wenn sie Ihre Abende besitzen wollen. Ich würde die Linie schriftlich setzen, bevor jemand überrascht ist.
+W	open-question-b2o-job-hop	Was halten Sie davon, alle zwei Jahre den Job zu wechseln?
+W	open-answer-b2o-job-hop	Zwei Jahre können ein Kapitel sein; zehn Monate sind oft eine Suche, die nie endete. Ich würde lange genug bleiben, um ein Ergebnis zu verantworten, und dann gehen, wenn das nächste Ergebnis woanders liegt.
+W	open-question-b2o-salary-talk	Sollten Kolleginnen und Kollegen offen über ihr Gehalt sprechen?
+W	open-answer-b2o-salary-talk	Ich würde einer Person, der ich vertraue, eine Spanne nennen; ich würde meinen Zettel nicht an die Wand heften. Schweigen hilft denen, die schon gut verhandeln, und das ist der Teil, der mir missfällt.
+W	open-question-b2o-four-day	Was halten Sie von einer Vier-Tage-Woche bei gleichem Gehalt?
+W	open-answer-b2o-four-day	Ich bin für den Versuch, wenn die Arbeit gekürzt und nicht nur in vier längere Tage gequetscht wird. Eine Vier-Tage-Woche von sieben bis sieben ist ein Trick.
+W	open-question-b2o-ai-writing	Wie stehen Sie dazu, dass Leute KI für ihre E-Mails nutzen?
+W	open-answer-b2o-ai-writing	Ich würde sie nutzen, um einen Entwurf zu säubern, den ich schon gedacht habe; ich würde keinen Brief schicken, den ich nicht gelesen habe. Wenn die Stimme nicht Ihre ist, merkt es die Leserin auf der zweiten Seite.
+W	open-question-b2o-ai-classroom	Sollten Schulen KI-Werkzeuge für Hausaufgaben erlauben?
+W	open-answer-b2o-ai-classroom	Ich würde sie für Recherche erlauben und für den Text verbieten, der die eigenen Worte der Schülerin zeigen soll. So zu tun, als gäbe es die Werkzeuge nicht, lehrt nichts außer Verstecken.
+W	open-question-b2o-privacy-apps	Wie viel Privatsphäre geben Sie einer App für Bequemlichkeit?
+W	open-answer-b2o-privacy-apps	Ich gebe einen Standort für eine Karte; ich gebe nicht meine Kontakte für eine Taschenlampe. Bequemlichkeit, die mein ganzes Adressbuch braucht, ist keine Bequemlichkeit; es ist eine Ernte.
+W	open-question-b2o-cookies	Was machen Sie tatsächlich mit Cookie-Bannern?
+W	open-answer-b2o-cookies	Ich lehne das Extra ab, wenn der Knopf ehrlich ist; ich verlasse die Seite, wenn sie mich ermüden soll. Das ist ein schwacher Protest, aber der, den ich noch mache.
+W	open-question-b2o-streaming-pile	Wie wählen Sie, was Sie schauen, wenn die Liste nie endet?
+W	open-answer-b2o-streaming-pile	Ich wähle eine Sache und beende sie, oder ich gehe nach zwanzig Minuten. Ein Stapel halb gesehener Serien ist kein Geschmack; es ist eine To-do-Liste, die ich nie verlangt habe.
+W	open-question-b2o-live-sport	Schauen Sie ein Spiel lieber im Stadion oder zu Hause?
+W	open-answer-b2o-live-sport	Das Stadion für ein Finale und das Sofa für einen Dienstag. Der Lärm ist der Sinn des einen; die Pause-Taste der Sinn des anderen.
+W	open-question-b2o-books-or-audio	Zählen Sie Hörbücher als Lesen?
+W	open-answer-b2o-books-or-audio	Ich zähle sie als das Buch zu kennen, nicht als denselben Muskel wie eine Seite. Wenn es um Stunden Geschichte geht, zählen sie; wenn es darum geht, bei einem Satz zu sitzen, nicht.
+W	open-question-b2o-museums-free	Sollten die großen Museen das ganze Jahr frei sein?
+W	open-answer-b2o-museums-free	Ich würde einen freien Tag behalten und den Rest berechnen, damit die Räume kein Schlechtwetter-Einkaufszentrum werden. Jeden Tag frei ohne mehr Personal nutzt den Ort ab.
+W	open-question-b2o-street-art	Wie stehen Sie dazu, dass Graffiti über Nacht entfernt wird?
+W	open-answer-b2o-street-art	Ich würde Tags an Wohnungen entfernen und eine legale Wand in Ruhe lassen. Jede Spur als dasselbe Verbrechen zu behandeln, bringt mehr von der hässlichen Art.
+W	open-question-b2o-festivals	Sind große Musikfestivals den Preis noch wert?
+W	open-answer-b2o-festivals	Ja, wenn man drei Tage geht und den Matsch hinnimmt. Ein Tagesticket zu dem Preis für zwei Bands, die ich schon kenne, ist ein schlechtes Geschäft.
+W	open-question-b2o-celebrity-news	Warum geben wir Promi-Geschichten noch so viel Zeit?
+W	open-answer-b2o-celebrity-news	Ich denke, wir nutzen sie als Pause von härteren Nachrichten, und das ist in kleinen Dosen in Ordnung. Wenn sie einen Krieg oder ein Krankenhaus von der Titelseite verdrängen, würde ich die Seite wechseln.
+W	open-question-b2o-cancel-culture	Was halten Sie davon, Leute öffentlich für eine alte Bemerkung anzugreifen?
+W	open-answer-b2o-cancel-culture	Ich würde die Bemerkung, das Datum und wissen wollen, ob sie sie seither übernommen haben. Ein Auflauf ohne diese drei ist Hitze, keine Abrechnung.
+W	open-question-b2o-protest	Wann lohnt sich Ihrer Ansicht nach ein Straßenprotest?
+W	open-answer-b2o-protest	Er lohnt sich, wenn das Ziel klar ist und die, die es ändern können, es hören. Ein Marsch, der nur sich selbst fotografiert, ist ein Samstag, kein Hebel.
+W	open-question-b2o-vote-local	Zählen Kommunalwahlen so viel wie nationale?
+W	open-answer-b2o-vote-local	Sie zählen mehr für Bus, Schule und Mülltag, und das ist der Großteil der Woche. Ich streite lieber mit einem Rat, den ich treffen kann, als mit einem Plakat.
+W	open-question-b2o-jury-duty	Wie würden Sie sich fühlen, wenn Sie zum Schöffendienst gerufen würden?
+W	open-answer-b2o-jury-duty	Ich würde gehen und nervös sein, weil es eine der wenigen Bürgeraufgaben ist, die kein Slogan sind. Ich würde mich nicht herausreden, es sei denn, ich könnte wirklich nicht sitzen.
+W	open-question-b2o-charity-ads	Wie reagieren Sie auf Spendenwerbung mit Schock?
+W	open-answer-b2o-charity-ads	Schock wirkt einmal; danach wechsle ich den Kanal und gebe nichts. Ich hätte lieber, sie zeigen die Arbeit und bitten um einen Betrag, den ich mir leisten kann.
+W	open-question-b2o-volunteering	Ist unbezahltes Ehrenamt in einem engen Monat eine faire Bitte?
+W	open-answer-b2o-volunteering	Es ist fair, wenn die Stunden ehrlich sind und niemand eine bezahlte Stelle umsonst macht. Ich würde einen Samstag geben; ich würde keine Werktagsschicht abdecken, die mal ein Gehalt war.
+W	open-question-b2o-second-hand	Was denken Sie wirklich davon, die meisten Kleider gebraucht zu kaufen?
+W	open-answer-b2o-second-hand	Bei Mänteln mache ich das; Schuhe kaufe ich noch neu, weil gebrauchte Schuhe den Gang von jemand anderem haben. Die Tugend liegt im Nutzen der Sache, nicht in der Geschichte, woher sie kommt.
+W	open-question-b2o-repair-cafe	Würden Sie ein kaputtes Gerät in ein Repair-Café bringen?
+W	open-answer-b2o-repair-cafe	Ja, wenn die Warteschlange kürzer ist als ein Neukauf und mir jemand den Schritt zeigt. Einen Samstag zuzuschauen, wie ein Fremder es für mich repariert, ist keine Fähigkeit, die ich behalte.
+W	open-question-b2o-food-waste	Wie reduzieren Sie Lebensmittelverschwendung zu Hause, ohne grimmig zu werden?
+W	open-answer-b2o-food-waste	Ich koche zuerst die müden Gemüse und friere Reste noch in derselben Nacht ein. Eine Tabelle am Kühlschrank hat mich nur beobachtet fühlen lassen.
+W	open-question-b2o-gym-or-walk	Lohnt sich eine Fitnessstudio-Mitgliedschaft, wenn Sie schon viel gehen?
+W	open-answer-b2o-gym-or-walk	Das Studio lohnt sich, wenn Sie die bezahlten Stunden nutzen; Gehen lohnt mehr, wenn Sie das nicht tun. Ich würde eine Mitgliedschaft kündigen, die ich zweimal besuche, und die Schuhe behalten.
+W	open-question-b2o-sleep-late	Was sagen Sie Leuten, die sechs Stunden Schlaf für genug halten?
+W	open-answer-b2o-sleep-late	Ich würde sagen, sie leihen sich von morgen und nennen es Disziplin. Ich schütze sieben, wenn ich kann, weil der clevere Abend selten den dumpfen Morgen wert ist.
+W	open-question-b2o-no-alcohol	Wie gehen Sie mit einem Abendessen um, bei dem nur Sie nicht trinken?
+W	open-answer-b2o-no-alcohol	Ich bestelle etwas, das wie ein Getränk aussieht, und halte keine Rede. Der Abend gehört auch ihnen; ich bin nicht da, um den Tisch zu bekehren.
+W	open-question-b2o-diet-talk	Sollten Leute kommentieren, was jemand anderes isst?
+W	open-answer-b2o-diet-talk	Ich würde meine Kommentare bei meinem eigenen Teller lassen. Rat über den Tisch, auch freundlich, landet meist als Urteil.
+W	open-question-b2o-pets-city	Ist es fair, einen großen Hund in einer kleinen Stadtwohnung zu halten?
+W	open-answer-b2o-pets-city	Es ist fair, wenn die Spaziergänge echt sind und der Hund nicht neun Stunden allein bleibt. Ein großer Hund als Möbel für ein hübsches Foto ist kein Leben, das ich verteidigen würde.
+W	open-question-b2o-children-later	Was halten Sie davon, wenn Leute bis Ende dreißig mit Kindern warten?
+W	open-answer-b2o-children-later	Ich denke, der Zeitpunkt gehört ihnen, wenn sie damit leben können; ich würde es weder egoistisch noch mutig nennen. Die schwerere Frage ist, wer hilft, nicht das Jahr auf dem Formular.
+W	open-question-b2o-grandparents	Sollte man von Großeltern regelmäßig Kinderbetreuung erwarten?
+W	open-answer-b2o-grandparents	Ich würde fragen, nicht annehmen, und sie in Zeit bezahlen, wenn ich es nicht in Geld kann. Regelmäßige Betreuung ist ein Job; ein Besuch ist eine Beziehung.
+W	open-question-b2o-long-distance	Kann eine Fernbeziehung funktionieren, Ihrer Erfahrung nach?
+W	open-answer-b2o-long-distance	Für eine Saison ja, wenn beide das Enddatum kennen. Eine offenen Ende Distanz macht aus euch Mitbewohner eines Kalenders.
+W	open-question-b2o-wedding-cost	Sind teure Hochzeiten Verschwendung, oder zählen sie?
+W	open-answer-b2o-wedding-cost	Sie zählen, wenn der Tag für euch beide und die Leute ist, die ihr wirklich da haben wollt. Verschwendung ist er, wenn der Tag eine Aufführung für Leute ist, mit denen ihr in einem Jahr nicht sprecht.
+W	open-question-b2o-apology-late	Wann ist eine Entschuldigung Ihrer Ansicht nach zu spät?
+W	open-answer-b2o-apology-late	Zu spät ist sie, wenn sie nur kommt, weil man erwischt wurde. Eine späte Entschuldigung, die den Schaden benennt und keinen Preis verlangt, kann noch Arbeit leisten.
+W	open-question-b2o-forgive-work	Sollten Sie einer Kollegin oder einem Kollegen verzeihen, die oder der Sie einmal im Stich gelassen hat?
+W	open-answer-b2o-forgive-work	Ich würde das Eine verzeihen, wenn sie es benennen und die nächste Lieferung ändern. Das Muster würde ich nicht vergessen, wenn es ein drittes Mal mit einer neuen Geschichte kommt.
+W	open-question-b2o-white-lie	Wann ist eine Notlüge freundlicher als die harte Wahrheit?
+W	open-answer-b2o-white-lie	Sie ist freundlicher, wenn die harte Wahrheit nur verletzt und nichts ändert, etwa bei einem schon getragenen Kleid. Sie ist nicht freundlicher, wenn die Person noch Zeit zum Handeln hat.
+W	open-question-b2o-advice-unasked	Wie fühlen Sie sich, wenn Leute Ihnen ungebetenen Rat geben?
+W	open-answer-b2o-advice-unasked	Ich höre auf die eine nützliche Zeile und lasse den Rest. Dasselbe tue ich zurück, und das ist schwerer, als es klingt.
+W	open-question-b2o-cancel-plans	Ist es in Ordnung, soziale Pläne am selben Tag abzusagen?
+W	open-answer-b2o-cancel-plans	Einmal aus echtem Grund, und ich würde im selben Schreiben ein neues Datum anbieten. Die Gewohnheit, am selben Tag abzusagen, trainiert Leute, nicht auf Sie zu zählen.
+W	open-question-b2o-group-chat	Wie verlässt man höflich einen Gruppenchat, der nie aufhört?
+W	open-answer-b2o-group-chat	Ich würde sagen, dass ich ihn stummschalte und trotzdem gerne treffe, und dann gehen. Ein stilles Verschwinden startet nur einen zweiten Chat über Sie.
+W	open-question-b2o-read-receipts	Sollten Messenger zeigen, wann Sie eine Nachricht gelesen haben?
+W	open-answer-b2o-read-receipts	Ich würde sie ausschalten. Ein Häkchen, das heißt, ich habe es gesehen und ignoriere Sie, ist ein schlechtes Werkzeug für Freundschaft.
+W	open-question-b2o-voice-notes	Wie stehen Sie zu langen Sprachnachrichten statt eines Texts?
+W	open-answer-b2o-voice-notes	Eine Minute ist in Ordnung, wenn die Hände voll sind; fünf Minuten sind ein Podcast, den ich nicht abonniert habe. Ich hätte lieber, sie schreiben die Bitte und sparen die Geschichte für einen Anruf.
+W	open-question-b2o-being-late	Ab wann ist man zu spät zum Abendessen mit Freunden?
+W	open-answer-b2o-being-late	Zehn Minuten sind Leben; eine halbe Stunde ohne Nachricht ist das Essen. Ich würde ohne sie beginnen und einen Teller warmhalten, nicht den Abend auf Pause.
+W	open-question-b2o-splitting-bill	Wie sollte eine Gruppe die Rechnung teilen, wenn sehr unterschiedlich bestellt wurde?
+W	open-answer-b2o-splitting-bill	Ich würde nach Bestellung teilen, wenn der Unterschied groß ist, und gleichmäßig, wenn er nah ist. Ein Streit um vier Euro verdirbt ein Essen für achtzig.
+W	open-question-b2o-host-cooking	Ist es unhöflich zu fragen, was in einem Essen steckt, das die Gastgeberin gekocht hat?
+W	open-answer-b2o-host-cooking	Nicht unhöflich bei einer Allergie; unhöflich, wenn man einen Ablehnungsgrund sucht. Ich würde vor dem Servieren fragen, nicht nach dem ersten Bissen mit einem Gesicht.
+W	open-question-b2o-phones-table	Sollten Handys beim Essen vom Tisch bleiben?
+W	open-answer-b2o-phones-table	Ich würde meines wegtun, es sei denn, wir erwarten einen echten Anruf. Ein Handy mit Display nach oben sagt, die Leute hier sind die Unterstudie.
+W	open-question-b2o-gift-money	Ist Geld ein faules Geschenk oder ein freundliches?
+W	open-answer-b2o-gift-money	Freundlich, wenn die Person Raum braucht statt eines weiteren Objekts; faul, wenn man gar nicht an sie gedacht hat. Ich würde einen Satz dazuschreiben, damit es nicht nur eine Überweisung ist.
+W	open-question-b2o-thank-you-notes	Sind schriftliche Dankesnoten die Mühe noch wert?
+W	open-answer-b2o-thank-you-notes	Eine kurze Nachricht in derselben Woche lohnt sich; eine perfekte Karte einen Monat später ist Theater. Ich hätte lieber, sie hören, dass ich das Geschenk genutzt habe, als dass ich die richtige Briefmarke gefunden habe.
+W	open-question-b2o-old-friends	Wie halten Sie alte Freundschaften, wenn sich die Leben geteilt haben?
+W	open-answer-b2o-old-friends	Ich wähle ein Datum pro Saison und halte es, auch wenn das Gespräch dünner ist als früher. Auf Zeit zu warten macht aus der Freundschaft eine Erinnerung.
+W	open-question-b2o-moving-away	Was würden Sie zuerst vermissen, wenn Sie diese Stadt verließen?
+W	open-answer-b2o-moving-away	Den Weg, den ich ohne Nachdenken gehe, nicht die Wahrzeichen auf den Postkarten. Eine neue Stadt kann die Cafés kopieren; die Abkürzungen nicht.
+W	open-question-b2o-hometown	Fühlen Sie sich noch zu Hause an dem Ort, an dem Sie aufgewachsen sind?
+W	open-answer-b2o-hometown	Zu Hause fühle ich mich in zwei oder drei Straßen, nicht in der ganzen Stadt. Der Rest hat sich weiterbewegt, und ich auch, und so soll es sein.
+W	open-question-b2o-accent	Wie fühlen Sie sich, wenn Leute Ihren Akzent kommentieren?
+W	open-answer-b2o-accent	Als Neugier, wenn sie nach einer Bemerkung aufhören; als Witz auf meine Kosten, wenn sie ihn nachmachen. Ich hätte lieber, sie fragen, wo ich die Sprache gelernt habe.
+W	open-question-b2o-learning-plateau	Was tun Sie, wenn eine Sprache monatelang nicht besser wird?
+W	open-answer-b2o-learning-plateau	Ich ändere den Input: mehr Sprechen, weniger Listen und ein Thema, das mich wirklich interessiert. Ein Plateau ist oft dieselbe Übung wiederholt, keine Wand in der Sprache.
+W	open-question-b2o-perfect-before-speak	Sollten Sie warten, bis die Grammatik sitzt, bevor Sie sprechen?
+W	open-answer-b2o-perfect-before-speak	Ich würde früher schlecht sprechen und unterwegs aufräumen. Auf feste Grammatik zu warten macht aus einem einen stillen Experten in einer Sprache, die niemand von ihm gehört hat.
+W	open-question-b2o-subtitles	Schauen Sie Filme in der Originalsprache mit Untertiteln?
+W	open-answer-b2o-subtitles	Ja, wenn ich die Geschichte schon etwas kenne; nein, wenn ich müde bin und nur den Abend will. Untertitel sind ein Werkzeug, kein Test, den ich jeden Freitag bestehen muss.
+W	open-question-b2o-travel-alone	Reisen Sie lieber allein oder mit einer Freundin oder einem Freund, die oder der alles plant?
+W	open-answer-b2o-travel-alone	Lieber allein als einem Plan zu folgen, dem ich nie zugestimmt habe. Eine Freundin, die dem Tag etwas Luft lässt, ist die, mit der ich wieder buchen würde.
+W	open-question-b2o-tour-guide	Sind organisierte Touren Verschwendung, wenn man gerne umherstreift?
+W	open-answer-b2o-tour-guide	Verschwendung in einer Stadt, die ich schon kenne; ein Geschenk am ersten Morgen an einem Ort, dessen Straßen ich nicht lesen kann. Ich würde die Morgentour nehmen und die Gruppe nach dem Mittag verlieren.
+W	open-question-b2o-souvenirs	Welche Art Souvenir lohnt sich wirklich mitzunehmen?
+W	open-answer-b2o-souvenirs	Etwas, das ich in der Küche oder am Schreibtisch nutze, nicht ein weiteres Objekt, das ein Regal braucht. Das Foto, das ich selbst gemacht habe, hat länger gehalten als jeder Schlüsselanhänger.
+W	open-question-b2o-queue-jump	Was würden Sie jemandem sagen, der sich vordrängt?
+W	open-answer-b2o-queue-jump	Einmal, ohne Rede: Die Schlange beginnt hinter mir. Wenn sie so tun, als hörten sie nicht, hätte ich lieber, die Person am Schalter schickt sie zurück, als eine Szene zu machen.
+W	open-question-b2o-complain-restaurant	Wann lohnt es sich, in einem Restaurant zu beanstanden?
+W	open-answer-b2o-complain-restaurant	Wenn der Teller falsch oder kalt ist, und ich würde es tun, solange noch Zeit zur Korrektur ist. Eine lange Rede am Ende über die Musik hilft niemandem und verdirbt das Trinkgeldgespräch.
+W	open-question-b2o-loyalty-cards	Lohnen sich Kundenkarten dafür, Ihre Daten herzugeben?
+W	open-answer-b2o-loyalty-cards	Ja, wenn ich dort jede Woche einkaufe; nein, wenn ich einmal ein Sandwich hole. Ich zahle lieber den Extra-Euro, als ein weiteres Postfach hinzuzufügen, das ich nie öffne.
+W	open-question-b2o-reviews-online	Wie sehr vertrauen Sie Online-Bewertungen vor einer Buchung?
+W	open-answer-b2o-reviews-online	Den nüchternen, die eine Uhrzeit und einen Fehler nennen; nicht einer Seite voller Fünf Sterne mit denselben drei Worten. Ich würde zehn lesen und das Muster suchen, nicht die lauteste Stimme.
+W	open-question-b2o-rating-drivers	Sollten Fahrgäste jede Fahrerin oder jeden Fahrer bewerten müssen?
+W	open-answer-b2o-rating-drivers	Ich würde bewerten, wenn etwas klar gut oder schlecht war; den Rest überspringen. Eine erzwungene Fünf-Sterne-Kultur macht die Zahl bis Donnerstag bedeutungslos.
+W	open-question-b2o-working-holiday	Was halten Sie davon, Arbeitsmails mit dem Urlaub zu mischen?
+W	open-answer-b2o-working-holiday	Ich würde an zwei Vormittagen eine Stunde setzen und den Leuten dieses Fenster nennen. Jeden Ping am Strand zu prüfen heißt nicht in Kontakt bleiben; es heißt nicht weggegangen zu sein.
+W	open-question-b2o-polite-no	Wie sagen Sie Nein zu einer Einladung, die Sie nicht wollen?
+W	open-answer-b2o-polite-no	Ich würde danken, sagen, dass ich nicht komme, und keine tote Tante erfinden. Ein klares Nein lässt die Freundschaft intakt; ein falscher Kalender startet in einem Monat die zweite Lüge.
+W	open-question-b2o-change-subject	Wann ist es fair, in einem angespannten Gespräch das Thema zu wechseln?
+W	open-answer-b2o-change-subject	Wenn derselbe Kreis zweimal gegangen wurde und niemand neue Fakten hat. Ich würde die Pause benennen, nicht so tun, als hätte ich gerade an das Wetter gedacht.
+W	open-question-b2o-last-word	Warum brauchen manche Leute Ihrer Meinung nach das letzte Wort?
+W	open-answer-b2o-last-word	Ich denke, sie fürchten, Schweigen werde als Zustimmung gelesen. Ich würde lieber die letzte Zeile verlieren und den Punkt behalten, der mir wirklich wichtig ist.
+W	open-question-b2o-agree-to-differ	Wann würden Sie sich einig sein, uneinig zu bleiben, und es dabei belassen?
+W	open-answer-b2o-agree-to-differ	Wenn wir beide gehört wurden und die Entscheidung nicht geteilt werden muss. Darüber hinaus zu drängen macht aus einer Uneinigkeit eine Punktzahl.
+W	open-question-b2o-listen-first	Wie widersprechen Sie höflich, wenn Sie die andere Person noch nicht ganz gehört haben?
+W	open-answer-b2o-listen-first	Ich würde sie aussprechen lassen, den Teil wiederholen, den ich annehmen kann, und erst dann den nennen, den ich nicht kann. Mit meinem Fall zuerst hineinzuspringen macht aus dem Gespräch zwei Reden.
+W	school-parent-meeting-tuesday	Das Elternsprechtagsgespräch findet am Dienstag statt.
+W	school-be-punctual	Bitte seien Sie pünktlich.
+W	school-no-class-tomorrow	Bitte denken Sie daran: Morgen ist kein Unterricht.
+W	school-holidays-fifteen-days	Die Schulferien beginnen in fünfzehn Tagen.
+W	school-trip-next-week	Bitte denken Sie daran: Die Klassenfahrt ist nächste Woche.
+W	school-dont-forget-homework	Vergessen Sie die Hausaufgaben für morgen nicht.
+W	school-closed-friday	Die Schule bleibt am Freitag geschlossen.
+W	school-starts-eight-thirty	Der Unterricht beginnt um halb neun.
+W	school-sign-the-note	Bitte unterschreiben Sie den Vermerk im Hausaufgabenheft.
+W	school-bring-snack	Bitte denken Sie daran, einen Pausensnack mitzugeben.
+W	school-pe-kit-tomorrow	Morgen bitte die Sportkleidung nicht vergessen.
+W	school-week-recap	Hier eine kurze Zusammenfassung der Woche.
+W	school-check-homework	Bitte prüfen Sie, ob die Hausaufgaben erledigt sind.
+W	school-help-at-home	Es ist wichtig, dass Ihr Kind zu Hause Unterstützung erhält.
+W	school-justify-absence	Jede Abwesenheit ist schriftlich zu begründen.
+W	school-please-avoid-lateness	Bitte sorgen Sie dafür, dass Ihr Kind morgens pünktlich eintrifft.
+W	school-canteen-tomorrow	Ihr Kind nimmt morgen am Schulessen teil.
+W	school-bring-supplies	Bitte prüfen Sie, ob das Schulmaterial vollständig ist.
+W	school-timetable-changed	Der Stundenplan ist diese Woche anders.
+W	school-return-permission	Bitte geben Sie die unterschriebene Einverständniserklärung zurück.
+W	school-class-photo-friday	Das Klassenfoto wird am Freitag aufgenommen.
+W	school-after-school	Die Nachmittagsbetreuung ist bis 18:00 Uhr geöffnet.
+W	school-wednesday-early	Am Mittwoch endet der Unterricht um halb zwölf.
+W	school-home-reading	Bitte lassen Sie Ihr Kind jeden Abend ein wenig lesen.
+W	school-no-phones	Mobiltelefone sind im Unterricht nicht erlaubt.
+W	school-name-on-things	Bitte beschriften Sie die Sachen Ihres Kindes mit dem Namen.
+W	school-report-next-week	Die Zeugnisse werden nächste Woche ausgegeben.
+W	school-remind-water	Bitte geben Sie eine Trinkflasche mit, besonders bei Hitze.
+W	school-appointments-parents	Elterngespräche finden nur nach Anmeldung statt.
+W	school-class-council	Die Klassenbesprechung ist am Donnerstagnachmittag.
+W	school-medical-certificate	Nach drei Fehltagen ist ein ärztliches Attest erforderlich.
+W	school-bus-change	Der Schulbus fährt ausnahmsweise um 16:15 Uhr ab.
+W	school-strike-day	Wegen eines Arbeitskampfs ist die Betreuung morgen eingeschränkt.
+W	school-heat-protocol	Bei extremer Hitze finden die Pausen im Schatten statt.
+W	school-head-lice	In der Klasse wurden Kopfläuse gemeldet. Bitte kontrollieren Sie die Haare Ihres Kindes.
+W	school-missing-materials	Ihr Kind hatte heute nicht das richtige Material dabei.
+W	school-work-not-done	Die aufgegebene Arbeit wurde nicht abgegeben.
+W	school-holiday-work	Es gibt Ferienaufgaben. Bitte achten Sie darauf, dass sie erledigt werden.
+W	school-open-house	Am Samstag findet ein Tag der offenen Tür am Vormittag statt.
+W	school-sign-liaison	Bitte prüfen und unterschreiben Sie das Hausaufgabenheft jeden Abend.
+W	school-insurance-certificate	Ein Nachweis der Unfallversicherung ist vorzulegen, bevor die Fahrt bestätigt werden kann.
+W	school-progress-review	Wir möchten Sie sehen, um den Lernfortschritt Ihres Kindes zu besprechen und die nächsten Schritte zu vereinbaren.
+W	school-polite-messages	Bitte schreiben Sie der Schule höflich und außerhalb der Unterrichtszeiten.
+W	school-collect-report	Zeugnisse sind bei der Klassenleitung abzuholen, nicht mit den Schülerinnen und Schülern nach Hause zu schicken.
+W	school-written-consent	Keine Klassenfahrt darf stattfinden, solange nicht die schriftliche elterliche Einwilligung eingegangen und zur Akte genommen ist.
+W	school-extra-support	Zusätzliche Lernförderung wird angeboten; ein Gespräch kann vereinbart werden, um die Maßnahmen mit Ihnen festzulegen.
+W	school-individualized-plan	Ein persönlicher Förderplan kann erstellt und mit Ihnen überprüft werden, wenn die Schwierigkeiten anhalten.
+W	school-unsupervised-exit	Schülerinnen und Schüler, für die eine schriftliche Erlaubnis zur Akte liegt, dürfen das Gelände am Tagesende unbegleitet verlassen.
+W	school-discipline-board	Ihr Kind ist vor den Disziplinarrat geladen; es ergeht eine begründete Entscheidung, gegen die innerhalb der gesetzlichen Frist Widerspruch eingelegt werden kann.
+W	school-gdpr-photos	Bilder von Schülerinnen und Schülern werden nur auf der Rechtsgrundlage Ihrer ausdrücklichen, widerrufbaren Einwilligung verarbeitet; ohne diese Grundlage werden sie nicht veröffentlicht.
+W	school-exam-accommodations	Prüfungsnachteilsausgleiche (Zusatzzeit, gesonderter Raum oder Assistenz) können für Ihr Kind auf dokumentierter medizinischer oder pädagogischer Grundlage beantragt werden.
+W	school-compulsory-schooling	Die Schulpflicht bleibt bis zum vollendeten sechzehnten Lebensjahr eine elterliche Rechtspflicht; ungerechtfertigte Abwesenheit kann der Schulaufsicht gemeldet werden.
+W	school-governing-board-decision	Der Schulträger hat diese Entscheidung in einer protokollierten Beratung gefasst; sie bindet die Schule, sofern sie nicht im Überprüfungsverfahren aufgehoben wird.
+W	school-school-medical-exam	Eine schulärztliche Untersuchung ist Pflicht; die Befunde bleiben vertraulich und werden der Familie nur mitgeteilt, soweit das Gesetz es verlangt.
+W	school-strike-minimum-service	Üben Beschäftigte das Streikrecht aus, wird weiterhin ein gesetzlicher Mindestaufnahme-Dienst für die Schülerinnen und Schüler bereitgestellt, die nicht zu Hause betreut werden können.
+W	school-academic-inspection	Die Schulinspektion führt nächste Woche eine Evaluation der Schule durch; Personal und Familien können aufgefordert werden, die verlangten Unterlagen vorzulegen.
+W	school-c2s-written-representations-deadline	Schriftliche Stellungnahmen gegen die Feststellung der Schulleitung müssen die Geschäftsstelle innerhalb von fünf Schultagen erreichen; verspätete Schreiben gelten als verfristet, sofern kein zwingender Grund dargetan wird.
+W	school-c2s-right-to-advocacy	Die Schülerin oder der Schüler darf von einer selbst gewählten Person begleitet werden und eine schriftliche Verteidigung einreichen; der Verhaltensausschuss hört diese Person auf Wunsch.
+W	school-c2s-witness-statements-disclosure	Aussagen, auf denen der Fall beruht, können vor der Anhörung im Sekretariat eingesehen werden; Identitäten Dritter werden geschwärzt, wenn die Offenlegung Schaden verursachen würde.
+W	school-c2s-adjournment-request	Eine Vertagung wird nur gewährt, wenn eine wesentliche Zeugin oder ein wesentlicher Zeuge nicht verfügbar ist oder neue Unterlagen vernünftigerweise nicht rechtzeitig beschafft werden konnten.
+W	school-c2s-reasoned-ruling-issued	Eine begründete Entscheidung wird der Familie innerhalb von drei Werktagen zugestellt; der Tenor wirkt mit der Zustellung, sofern kein Aufschub gewährt wird.
+W	school-c2s-internal-review-window	Eine interne Überprüfung kann innerhalb von zehn Schultagen nach Zustellung beantragt werden; die prüfende Person hat nicht im ursprünglichen Ausschuss gesessen.
+W	school-c2s-permanent-record-entry	Die Feststellung wird in der Schülerakte vermerkt und für die gesetzliche Aufbewahrungsfrist aufbewahrt; sie wird nur an Personen mit Kenntnisbedarf weitergegeben.
+W	school-c2s-behaviour-contract-binding	Die mit der Familie unterzeichnete Verhaltensvereinbarung gilt bindend für den Rest des Schuljahres; ein Verstoß kann den ursprünglichen Vorwurf wiedereröffnen, ohne die bereits festgestellten Tatsachen neu zu ermitteln.
+W	school-c2s-search-and-confiscation	Eine Durchsuchung von Taschen oder Schließfächern darf erfolgen, wenn vernünftige Gründe den Verdacht auf einen verbotenen Gegenstand tragen; beschlagnahmte Gegenstände werden erfasst und, soweit erforderlich, der Polizei übergeben.
+W	school-c2s-prohibited-items-seizure	Messer, Rauschmittel und gestohlenes Eigentum, die auf dem Gelände beschlagnahmt wurden, werden der Schülerin oder dem Schüler nicht zurückgegeben; auf Wunsch erhält die Familie eine Quittung.
+W	school-c2s-restraint-incident-log	Jede Anwendung angemessener Gewalt wird noch am selben Tag dokumentiert und der Familie mitgeteilt; das Protokoll können Personen mit elterlicher Verantwortung einsehen.
+W	school-c2s-staff-allegation-procedure	Ein Vorwurf gegen eine Beschäftigte oder einen Beschäftigten wird der designierten Ansprechperson gemeldet, bevor ein internes Gespräch mit der betroffenen Schülerin oder dem betroffenen Schüler stattfindet.
+W	school-c2s-malicious-complaint-warning	Eine Beschwerde, die sich als böswillig erweist, kann selbst als Verhaltensangelegenheit behandelt werden; die Familie erhält diese Feststellung schriftlich.
+W	school-c2s-natural-justice-reminder	Keine Sanktion wird verhängt, bevor die Schülerin oder der Schüler eine faire Chance hatte, den Vorwurf zu beantworten und die herangezogenen Unterlagen einzusehen.
+W	school-c2s-head-may-not-sit	Die Schulleitung, die den Vorwurf erhoben hat, sitzt nicht als stimmberechtigtes Mitglied im Verhaltensausschuss; sie darf den Fall vortragen und sich danach zurückziehen.
+W	school-c2s-minutes-redacted-to-family	Ein geschwärzter Auszug des Protokolls geht an die Familie; Namen anderer Schülerinnen und Schüler entfallen, sofern die Offenlegung nicht zwingend erforderlich ist.
+W	school-c2s-sanction-must-be-proportionate	Jede Maßnahme muss der Schwere der Tat sowie dem Alter und der bisherigen Akte der Schülerin oder des Schülers angemessen sein; eine schwerere Maßnahme bedarf eigener Gründe.
+W	school-c2s-collective-punishment-forbidden	Kollektivstrafen für eine ganze Klasse sind verboten; sanktioniert werden dürfen nur, gegen die ein Vorwurf konkretisiert wurde.
+W	school-c2s-off-site-direction-notice	Die Schülerin oder der Schüler wird zur Verhaltensverbesserung für einen befristeten Zeitraum außer Haus angewiesen; der Familie werden die Gastschule und das Überprüfungsdatum mitgeteilt.
+W	school-c2s-managed-move-proposal	Ein vereinbarter Wechsel an eine andere Schule wird vorgeschlagen; er erfolgt nur, wenn alle drei Parteien unterschreiben und ein Startdatum feststeht.
+W	school-c2s-isolation-room-protocol	Die Verbringung in einen betreuten Raum ist eine kurzfristige Maßnahme, keine inoffizielle Suspendierung; Arbeit wird aufgegeben, und die Familie wird noch am selben Tag informiert, wenn es eine Unterrichtsstunde überschreitet.
+W	school-c2s-unofficial-exclusion-void	Ein Kind ohne förmliche Mitteilung nach Hause zu schicken, damit es sich abkühlt, ist rechtswidrig; jede solche Entfernung wird nachgeholt oder die Schülerin bzw. der Schüler am nächsten Schultag wieder aufgenommen.
+W	school-c2s-fixed-term-suspension	Die Schülerin oder der Schüler wird für drei Schultage aus den überblatt genannten Gründen suspendiert; Arbeit wird ab dem ersten Tag aufgegeben und ab dem sechsten eine anderweitige Versorgung, falls der Zeitraum verlängert wird.
+W	school-c2s-permanent-removal-notice	Die Schulleitung hat verfügt, dass die Schülerin oder der Schüler dauerhaft von der Liste gestrichen wird; der Schulträger muss diese Verfügung innerhalb von fünfzehn Schultagen überprüfen.
+W	school-c2s-reinstatement-panel-date	Der Schulträger tagt am unten genannten Datum, um über die Wiedereinsetzung zu entscheiden; die Familie darf teilnehmen, sich auf eigene Kosten vertreten lassen oder eine Begleitperson mitbringen.
+W	school-c2s-irp-fifteen-days	Bestätigt der Träger die dauerhafte Entfernung, kann innerhalb von fünfzehn Schultagen nach schriftlicher Mitteilung dieser Entscheidung eine unabhängige Überprüfung beantragt werden.
+W	school-c2s-irp-sen-expert	Hat die Schülerin oder der Schüler festgestellte besondere Bedarfe, muss der unabhängige Ausschuss eine Fachkraft umfassen; die Familie kann verlangen, dass deren Empfehlung schriftlich ergeht.
+W	school-c2s-alternative-provision-sixth-day	Ab dem sechsten Schultag einer Suspendierung muss die Kommune (oder die Schule, wenn es eine Akademie ist) eine geeignete Vollzeitbeschulung andernorts organisieren.
+W	school-c2s-looked-after-notify-virtual	Steht die Schülerin oder der Schüler unter öffentlicher Obhut, werden die Leitung der virtuellen Schule und die Sozialarbeit noch am selben Tag informiert; sie dürfen an der Überprüfung teilnehmen und Stellung nehmen.
+W	school-c2s-exclusion-lunchtime-counts	Eine Entfernung nur zur Mittagszeit zählt als halbtägige Suspendierung und ist so zu vermerken; wiederholte Anwendung löst dieselben Überprüfungsschwellen aus.
+W	school-c2s-cannot-extend-informally	Eine bereits verbüßte Suspendierung darf nicht informell verlängert werden; jeder weitere Zeitraum erfordert eine neue Mitteilung mit eigenen Gründen.
+W	school-c2s-cancelled-exclusion-still-logged	Eine aufgehobene Entfernung bleibt im Schulprotokoll zur Beobachtung; die Familie erhält dennoch eine schriftliche Bestätigung, dass sie zurückgenommen wurde.
+W	school-c2s-governor-duty-to-consider	Der Träger muss elterliche Stellungnahmen zu jeder Suspendierung prüfen, auch wenn die Dauer keine Sitzung verlangt.
+W	school-c2s-clerk-papers-three-days	Die Geschäftsstelle stellt den Parteien die Unterlagen mindestens drei Schultage vor der Überprüfung zu; verspätete Bündel können abgelehnt werden, wenn sie die andere Seite überrumpeln würden.
+W	school-c2s-statutory-appeal-time-limit	Jeder Angriff auf diese Entscheidung muss innerhalb der gesetzlichen Frist ab Zustellung erhoben werden; ein verspäteter Angriff wird als verfristet zurückgewiesen.
+W	school-c2s-independent-appeal-panel	Der unabhängige Ausschuss verhandelt die Sache anhand der Unterlagen und auf Wunsch mündlich; er kann bestätigen, aufheben oder mit Weisungen zurückverweisen.
+W	school-c2s-grounds-of-challenge	Die Anfechtungsgründe müssen konkretisiert werden; die bloße Behauptung, die Entscheidung sei unfair, wird nicht zugelassen.
+W	school-c2s-late-challenge-time-barred	Eine nach dem letzten Tag eingehende Anfechtung wird nicht registriert, es sei denn, die Geschäftsstelle ist überzeugt, dass sie rechtzeitig abgesandt wurde oder außergewöhnliche Umstände vorliegen.
+W	school-c2s-fresh-evidence-on-review	Neues Beweismaterial wird in der Überprüfung nur zugelassen, wenn es vernünftigerweise vorher nicht beschafft werden konnte und das Ergebnis hätte ändern können.
+W	school-c2s-oral-hearing-right	Die Familie hat Anspruch auf eine mündliche Anhörung, sofern sie nicht schriftlich eine reine Aktenprüfung wählt; die Schülerin oder der Schüler wird gehört, wenn sie sprechen möchten.
+W	school-c2s-written-only-review	Einigen sich beide Seiten, wird die Überprüfung allein anhand der Unterlagen entschieden; nach Schließen des Bündels werden keine weiteren mündlichen Ausführungen entgegengenommen.
+W	school-c2s-ombudsman-after-exhaustion	Eine Beschwerde beim kommunalen Ombud oder beim Bildungsombud ist erst zulässig, nachdem die internen Rechtsbehelfe erschöpft sind.
+W	school-c2s-preaction-letter-required	Bevor eine Klage auf gerichtliche Überprüfung erhoben wird, muss ein Vorabschreiben die behauptete Rechtswidrigkeit darlegen und eine angemessene Antwortfrist einräumen.
+W	school-c2s-stay-of-ruling-refused	Ein Aufschub dieser Entscheidung wurde abgelehnt; die Maßnahme bleibt vollziehbar, bis eine weitere Anfechtung anders entscheidet, sofern kein Gericht etwas anderes anordnet.
+W	school-c2s-no-costs-against-family	Beim unabhängigen Überprüfungsverfahren werden gegen die Familie keine Kosten beantragt; jede Seite trägt ihre eigenen Auslagen, es sei denn, der Ausschuss stellt fest, dass die Anfechtung missbräuchlich war.
+W	school-c2s-service-deemed-second-day	Mit der ersten Briefklasse versandte Mitteilungen gelten am zweiten Werktag nach Absendung als zugestellt; elektronische Zustellung ist nur gültig, wenn die Familie schriftlich zugestimmt hat.
+W	school-c2s-oversubscription-criteria	Plätze wurden streng nach der veröffentlichten Prioritätenreihenfolge vergeben; Entfernung diente nur als letzter Stichentscheid nach den Kategorien Pflege und Geschwister.
+W	school-c2s-catchment-redrawn	Das Einzugsgebiet wurde für den nächsten Jahrgang neu gezogen; Wohnen in der früheren Zone begründet keinen Restanspruch, sobald die neue Karte gilt.
+W	school-c2s-sibling-priority-withdrawn	Geschwistervorrang gilt nicht, wenn das ältere Kind vor dem Start des jüngeren die Schule verlassen hat; ein bereits auf dieser Grundlage angebotener Platz wird zurückgenommen.
+W	school-c2s-faith-criterion-evidence	Wird ein Glaubensmerkmal herangezogen, muss die Bescheinigung der Geistlichen auf dem vorgeschriebenen Formular vorliegen; ein Schreiben in freier Form wird nicht angenommen.
+W	school-c2s-looked-after-first-priority	Kinder in Obhut und ehemals in Obhut haben ersten Vorrang, einschließlich aus dem Ausland adoptierter Pflegekinder; das geht vor Entfernung und Einzugsgebiet.
+W	school-c2s-distance-tie-break-method	Die Entfernung wird über den kürzesten sicheren Fußweg vom Haupttor zum gewöhnlichen Aufenthalt des Kindes gemessen; eine Geschäftsadresse bleibt unberücksichtigt.
+W	school-c2s-admission-challenge-lodged	Ihre Anfechtung der Platzablehnung ist registriert; die Geschäftsstelle teilt das Anhörungsdatum und die Frist für die Begründung mit.
+W	school-c2s-infant-class-size-limit	In den ersten Jahrgängen beträgt die gesetzliche Klassengröße dreißig; ein Ausschuss darf eine Anfechtung nur stattgeben, wenn die Aufnahme rechtswidrig war oder das Kind einen Platz erhalten hätte, wäre das Verfahren ordnungsgemäß angewandt worden.
+W	school-c2s-in-year-place-refused	Der unterjährige Antrag wird abgelehnt, weil der Jahrgang voll ist; der Name des Kindes kommt auf die Warteliste, geordnet nach den veröffentlichten Kriterien.
+W	school-c2s-waiting-list-re-ranked	Die Warteliste wird neu geordnet, sobald ein Name hinzukommt; ein höherer Platz heute garantiert nicht denselben Rang nächste Woche.
+W	school-c2s-false-address-withdrawal	Ein auf falscher Adresse erlangter Platz wird zurückgenommen; die Familie kann innerhalb von zehn Schultagen eine Überprüfung dieser Rücknahme beantragen.
+W	school-c2s-deferred-entry-refused	Der Antrag, den Einschulungstermin um ein volles Jahr zu verschieben, wird abgelehnt; das Kind behält den Anspruch, im September nach dem vierten Geburtstag zu beginnen.
+W	school-c2s-summer-born-request	Der Antrag, ein Sommerkind ein Jahr später in die Eingangsklasse aufzunehmen, wird im Kindeswohl entschieden, nachdem die Stellungnahme der Schulleitung und etwaige klinische Empfehlungen eingeholt wurden.
+W	school-c2s-multiple-birth-split	Zwillinge werden nicht auf zwei Schulen aufgeteilt, solange für beide ein rechtmäßiger Platz bleibt; bleibt nur ein Platz, werden beide Namen dem Vergabeausschuss vorgelegt.
+W	school-c2s-lawful-basis-changed	Die Schule stützt die an Familien umlaufende Klassenliste künftig nicht mehr auf Einwilligung; Rechtsgrundlage ist nun die Wahrnehmung einer öffentlichen Aufgabe, und Sie können aus Gründen Ihrer besonderen Situation Widerspruch einlegen.
+W	school-c2s-data-subject-access	Ein Antrag auf Auskunft über die bei uns gespeicherten personenbezogenen Daten wird innerhalb eines Monats erfüllt; bei komplexen Anträgen können wir um zwei weitere Monate verlängern und teilen Ihnen den Grund mit.
+W	school-c2s-rectification-request	Unrichtige Angaben werden ohne unangemessene Verzögerung berichtigt, sobald der Fehler feststeht; bleibt die Korrektur nicht verifizierbar, wird ein Vermerk zum Streit aufbewahrt.
+W	school-c2s-erasure-refused-statutory	Die Löschung wird abgelehnt, weil der Eintrag zur Erfüllung einer gesetzlichen Pflicht (Anwesenheit, Kindeswohl oder Prüfung) aufbewahrt werden muss; Sie können sich bei der Aufsichtsbehörde beschweren.
+W	school-c2s-portability-pack	Beruht die Rechtsgrundlage auf Einwilligung oder Vertrag, können Sie eine portable Kopie der von Ihnen gelieferten Daten erhalten; von der Schule in Ausübung öffentlicher Gewalt erzeugte Daten fallen nicht unter dieses Recht.
+W	school-c2s-processor-agreement	Ein Auftragnehmer, der Schülerdaten in unserem Auftrag verarbeitet, tut dies unter einer schriftlichen Vereinbarung, die die Nutzung zu eigenen Zwecken verbietet und die Löschung am Ende der Aufgabe verlangt.
+W	school-c2s-data-breach-notify	Es ist eine Verletzung des Schutzes personenbezogener Daten eingetreten, die voraussichtlich ein hohes Risiko für Rechte birgt; die Aufsichtsbehörde wurde unterrichtet, und diese Mitteilung legt Art der Verletzung und die von Ihnen zu ergreifenden Schritte dar.
+W	school-c2s-retention-schedule	Unterlagen werden nur so lange aufbewahrt, wie der veröffentlichte Aufbewahrungsplan es verlangt; danach werden sie sicher vernichtet oder so anonymisiert, dass keine Schülerin und kein Schüler identifizierbar ist.
+W	school-c2s-biometric-opt-out	Die Nutzung eines Fingerabdrucks oder Gesichtstemplates für die Mensa ist freiwillig; eine Ablehnung entzieht der Schülerin oder dem Schüler kein Essen, und es wird ein alternatives Token ausgegeben.
+W	school-c2s-cctv-purpose-limitation	Kameras dienen ausschließlich dem Schutz von Personen und Eigentum; Aufnahmen werden nicht zur gewöhnlichen Verhaltensführung genutzt und innerhalb der veröffentlichten Frist überschrieben.
+W	school-c2s-third-country-transfer	Keine Schülerdaten werden in ein Land außerhalb des europäischen Raums übermittelt, sofern kein Angemessenheitsbeschluss vorliegt oder geeignete Garantien bestehen und Sie unterrichtet wurden.
+W	school-c2s-profiling-prohibition	Automatisierte Profilerstellung wird nicht genutzt, um über einen Platz, eine Sanktion oder eine Prüfungsnote zu entscheiden; jede wesentliche Entscheidung trifft eine namentlich genannte Beschäftigte oder ein Beschäftigter, die oder der angefochten werden kann.
+W	school-c2s-parental-access-vs-child	Ist ein Kind alt genug zu verstehen, geht sein eigener Antrag auf Akteneinsicht dem der Eltern vor; wir geben gegen den klar geäußerten Willen des Kindes ohne Gerichtsbeschluss nichts heraus.
+W	school-c2s-mailing-list-withdraw	Sie können sich jederzeit von nicht wesentlichen Rundschreiben abmelden; betriebliche Mitteilungen (Schließung, Kindeswohl, Anwesenheit) werden weiterhin versandt, weil sie für die öffentliche Aufgabe nötig sind.
+W	school-c2s-cookie-wall-forbidden	Der Zugang zum Elternportal wird nicht davon abhängig gemacht, Analyse-Cookies zu akzeptieren; nur die für den Dienst streng notwendigen werden ohne Wahl gesetzt.
+W	school-c2s-attendance-order-warning	Wird keine geeignete Bildung organisiert, kann die Kommune eine Schulbesuchsordnung zustellen; Nichtbefolgung ist eine Straftat.
+W	school-c2s-education-supervision-order	Die Behörde beabsichtigt, eine Bildungsaufsichtsordnung zu beantragen; eine Sozialarbeiterin oder ein Sozialarbeiter hätte dann die Pflicht, die Familie zu beraten, zu unterstützen und zu begleiten.
+W	school-c2s-penalty-notice-absence	Für ungenehmigte Abwesenheit kann ein Bußgeldbescheid ergehen; bei Nichtzahlung kann eine Strafverfolgung vor dem Amtsgericht folgen.
+W	school-c2s-prosecution-threshold	Strafverfolgung wird erwogen, wenn die Abwesenheit hartnäckig ist und Unterstützungsangebote abgelehnt wurden oder gescheitert sind; die Höchststrafe bei Verurteilung ist eine Geldstrafe.
+W	school-c2s-home-education-enquiry	Die Behörde ist nicht überzeugt, dass die außerhalb der Schule bereitgestellte Bildung geeignet ist; Sie werden gebeten, innerhalb von fünfzehn Werktagen einen Bericht über die Arbeit und die Ergebnisse vorzulegen.
+W	school-c2s-suitable-education-doubt	Bleibt nach diesem Bericht Zweifel, kann die Behörde eine Anordnung zustellen, dass das Kind eine benannte Schule besucht; Sie können eine Überprüfung dieser Anordnung beantragen.
+W	school-c2s-school-attendance-meeting	Am unten genannten Datum findet ein förmliches Anwesenheitsgespräch statt; unentschuldigtes Fernbleiben kann als Ablehnung von Unterstützung gelten und in späteren Verfahren angeführt werden.
+W	school-c2s-persistent-absence-referral	Hartnäckige Abwesenheit wurde dem schulischen Sozialdienst gemeldet; ein Plan wird erstellt und überprüft, und rechtliche Schritte bleiben möglich, wenn er nicht eingehalten wird.
+W	school-c2s-holiday-in-term-refused	Urlaub in der Unterrichtszeit wird abgelehnt; die Reise ist kein außergewöhnlicher Umstand im Sinne der Vorschriften, und jede Abwesenheit wird als ungenehmigt vermerkt.
+W	school-c2s-part-time-timetable-time-limited	Ein Teilzeitstundenplan darf nur als kurzfristige Maßnahme mit veröffentlichtem Enddatum und einem Plan zur Rückkehr in Vollzeit genutzt werden; er ist keine langfristige Lösung für unerfüllten Bedarf.
+W	school-c2s-sixteen-duty-ends	Die elterliche Pflicht, Vollzeitbildung sicherzustellen, endet mit sechzehn; die Teilnahme an Bildung oder Ausbildung bis achtzehn ist eine gesonderte Pflicht der jungen Person, nicht der Schulrolle.
+W	school-c2s-dual-registration-duties	Solange die Schülerin oder der Schüler doppelt gemeldet ist, teilen beide Einrichtungen die Pflicht, Anwesenheit zu erfassen und ungeklärte Abwesenheit noch am selben Tag nachzugehen.
+W	school-c2s-traveller-absence-limits	Abwesenheit wegen des reisenden Gewerbes der Familie darf nur genehmigt werden, wenn das Kind bereits die Mindestzahl an Sitzungen besucht hat und die Rückkehr erwartet wird.
+W	school-c2s-access-arrangements-deadline	Anträge auf Nachteilsausgleiche müssen die Prüfungsleitung bis zur veröffentlichten Frist erreichen, mit Nachweis, dass der Bedarf die normale Arbeitsweise der Schülerin oder des Schülers ist.
+W	school-c2s-extra-time-evidence	Zusatzzeit wird nur empfohlen, wenn eine Fachbegutachtung eine wesentliche und langfristige Beeinträchtigung der Geschwindigkeit zeigt; der Eindruck einer Lehrkraft allein reicht nicht.
+W	school-c2s-scribe-or-reader	Eine Schreib- oder Vorlesekraft kann gestellt werden, wenn die Beeinträchtigung selbstständiges Schreiben oder Lesen verhindert; die Hilfsperson darf die Frage weder erklären noch umformulieren.
+W	school-c2s-separate-invigilation	Eine gesonderte Aufsicht wird eingerichtet, wenn das Mitprüfen mit anderen die Beeinträchtigung wesentlich verschlechtern würde; allein wegen Prüfungsangst wird sie nicht gewährt.
+W	school-c2s-modified-papers	Vergrößerte oder geänderte Prüfungsbögen müssen bis zur Frist der Prüfungsstelle bestellt werden; eine verspätete Bestellung kann abgelehnt werden, auch wenn der Bedarf unstreitig ist.
+W	school-c2s-rest-breaks-not-extra-time	Beaufsichtigte Ruhepausen halten die Uhr an und sind nicht dasselbe wie Zusatzzeit; sie werden angeboten, wenn Ermüdung oder ein medizinischer Bedarf ununterbrochenes Arbeiten unzumutbar macht.
+W	school-c2s-bilingual-dictionary-ban	Ein zweisprachiges Wörterbuch ist in Sprachprüfungen oder dort verboten, wo die Prüfungsstelle es untersagt; unzulässige Nutzung gilt als Unregelmäßigkeit.
+W	school-c2s-word-processor-conditions	Ein Textverarbeitungssystem darf nur genutzt werden, wenn es die normale Arbeitsweise der Schülerin oder des Schülers ist und Rechtschreib-, Grammatik- und Vorhersagefunktionen deaktiviert sind, sofern eine Begutachtung nichts anderes verlangt.
+W	school-c2s-special-consideration-window	Ein Antrag auf besondere Berücksichtigung nach Krankheit oder Trauerfall muss innerhalb von sieben Tagen nach der letzten Prüfung eingereicht werden; spätere Anträge werden abgelehnt, sofern die Prüfungsstelle nicht zustimmt.
+W	school-c2s-malpractice-allegation	Ein Vorwurf der Unregelmäßigkeit wurde an die Prüfungsstelle verwiesen; die Schülerin oder der Schüler kann innerhalb von zehn Werktagen eine schriftliche Darstellung einreichen und erhält das Ergebnis mitgeteilt.
+W	school-c2s-results-enquiry-deadline	Eine formale Prüfung oder eine Neubewertung muss bis zur von der Schule veröffentlichten Frist beantragt werden, die vor der der Prüfungsstelle liegt; ein verspäteter Antrag kann nicht bearbeitet werden.
+W	school-c2s-award-body-challenge	Unterstützt die Schule eine Nachfrage nicht, darf die Familie in den begrenzten von den Vorschriften erlaubten Fällen die Prüfungsstelle direkt anrufen; die Gebühr ist im Voraus zahlbar und wird erstattet, wenn sich die Note ändert.
+W	school-c2s-budget-virement-adopted	Der Schulträger hat eine Mittelumschichtung zwischen Haushaltsstellen gemäß der vertraulichen Anlage genehmigt; die veröffentlichten Jahressummen bleiben unverändert.
+W	school-c2s-charging-and-remissions	Die Gebühren- und Erlassordnung für das nächste Jahr ist festgestellt; keine Schülerin und kein Schüler wird von einer Pflichtaktivität ausgeschlossen, weil ein freiwilliger Beitrag unbezahlt ist.
+W	school-c2s-uniform-policy-amended	Die Schulkleidungsordnung wurde geändert, um Markenartikel zu streichen, die nicht bei mehr als einem Anbieter erhältlich sind; vorhandener Bestand darf bis Jahresende getragen werden.
+W	school-c2s-admissions-policy-determined	Die Aufnahmeordnung für das übernächste Jahr ist festgestellt und an die Kommune gesandt; Einwände können bis zum veröffentlichten Datum beim Schiedsrichter erhoben werden.
+W	school-c2s-headteacher-appointment	Der Träger hat eine Schulleitung mit Wirkung ab dem unten genannten Datum berufen; bis dahin handelt die Stellvertretung mit der vollen Amtsbefugnis.
+W	school-c2s-inspectorate-action-plan	Der Träger hat den nach dem Inspektionsbesuch verlangten Maßnahmenplan angenommen; der Fortschritt wird jedes Halbjahr geprüft und der Plan auf der Schulwebsite veröffentlicht.
+W	school-c2s-premises-let-refused	Ein Antrag, die Aula an eine externe Stelle zu vermieten, wurde abgelehnt, weil die vorgesehene Nutzung den gemeinnützigen Zwecken der Schule oder den Kindeswohlpflichten widerspräche.
+W	school-c2s-surplus-places-reduction	Der Träger schlägt vor, die veröffentlichte Aufnahmezahl zu senken, weil Überkapazitäten die Organisation der Schule belasten; eine gesetzliche Anhörung läuft vier Wochen.
+W	school-c2s-federation-proposal	Ein Vorschlag zur Föderation mit der Nachbarschule wird geprüft; Personal und Familien werden gehört, bevor eine Satzung besiegelt wird.
+W	school-c2s-academy-conversion-ballot	Der Träger beabsichtigt, eine Akademie-Verfügung zu beantragen; eine Abstimmung des Personals und eine Anhörung der Familien finden statt, doch die rechtliche Antragsbefugnis liegt allein beim Träger.
+W	school-c2s-instrument-of-government	Die Regierungssatzung wurde von der Kommune geändert; die neue Zusammensetzung des Trägers gilt ab dem in der Satzung genannten Datum.
+W	school-c2s-governor-disqualification	Ein Mitglied des Trägers wurde wegen Fernbleibens ausgeschlossen; es besteht eine freie Stelle, und Nominierungen aus dem betreffenden Wahlkreis werden erbeten.
+W	school-c2s-public-minutes-redacted	Öffentliche Protokolle werden nach der nächsten Sitzung veröffentlicht, mit geschwärzten vertraulichen Punkten; den öffentlichen Teil kann jede Person im Sekretariat einsehen.
+W	school-c2s-reserved-business-closed	Punkte zu einer namentlich genannten Schülerin oder einem Schüler, zu Beschäftigten oder zu einer kommerziellen Ausschreibung werden in geschlossener Sitzung behandelt; wer befangen ist, zieht sich zurück.
+W	school-c2s-occupiers-liability-notice	Wer das Gelände betritt, tut dies als Besucherin oder Besucher, denen eine Sorgfaltspflicht geschuldet wird; offensichtliche Risiken, die eine Besucherin oder ein Besucher vernünftigerweise bemerken müsste, sind ausgenommen.
+W	school-c2s-trip-disclaimer-void	Ein Haftungsausschluss, der die Haftung für Tod oder Körperverletzung durch Fahrlässigkeit ausschließen soll, ist nichtig; die Familien werden dennoch gebeten, medizinische Bedarfe anzugeben, damit angemessene Schritte möglich sind.
+W	school-c2s-personal-injury-claim-route	Ein Anspruch wegen Körperverletzung aus behaupteter Pflichtverletzung ist an die Versicherung der Schule unter der unten genannten Adresse zu richten, nicht an die Klassenleitung.
+W	school-c2s-lost-property-no-liability	Die Schule übernimmt keine Haftung für den Verlust von Geld oder Wertgegenständen, die entgegen der veröffentlichten Regel mitgebracht wurden; benannte Gegenstände in der Fundsache bleiben ein Halbjahr.
+W	school-c2s-parent-volunteer-insured	Elternhelferinnen und -helfer, die unter Anweisung der Schule handeln, sind über die Haftpflicht der Schule versichert; sie dürfen Schülerinnen und Schüler nicht ohne eine namentlich genannte Lehrkraft vom Gelände nehmen.
+W	school-c2s-work-experience-indemnity	Der Gastbetrieb bleibt primär haftbar für eine Schülerin oder einen Schüler im Praktikum; die Schule platziert niemanden, wo die Versicherung des Betriebs nicht schriftlich nachgewiesen ist.
+W	school-c2s-third-party-contractor	Bauunternehmen auf dem Gelände sind keine Bediensteten der Schule; Ansprüche aus ihren Arbeiten sind an den auf der Absperrung genannten Auftragnehmer zu richten.
+W	school-c2s-contributory-negligence	Ignoriert eine Schülerin oder ein Schüler eine klare Warnung und erleidet Schaden, kann ein etwaiger Schadensersatz wegen Mitverschuldens gemindert werden; das erlischt die eigene Pflicht der Schule nicht.
+W	school-c2s-limitation-period-injury	Ein Anspruch wegen Körperverletzung verjährt in der Regel drei Jahre nach dem Kenntnisdatum; Ansprüche für ein Kind können bis drei Jahre nach dem achtzehnten Geburtstag erhoben werden.
+W	school-c2s-public-liability-certificate	Eine Kopie der Haftpflichtversicherung liegt im Sekretariat aus; die Vorlage der Bescheinigung ist kein Schuldgeständnis.
+W	school-c2s-damage-to-school-property	Die Familie wird gebeten, die angemessenen Kosten eines vorsätzlich verursachten Schadens zu tragen; Zahlungsunfähigkeit wird geprüft, bevor eine zivilrechtliche Klage erhoben wird.
+W	school-c2s-unsupervised-playground-risk	Der Schulhof wird vor der veröffentlichten Öffnungszeit nicht beaufsichtigt; wer vorher auf dem Gelände ist, tut dies auf eigene Gefahr, ausgenommen versteckte Gefahren, die die Schule hätte kennen müssen.
+W	school-c2s-section-47-enquiry	Die Kommune hat eine Kindeswohluntersuchung eröffnet; die Schule gibt Informationen auch ohne Einverständnis der Familie weiter, soweit das zum Schutz des Kindes nötig ist.
+W	school-c2s-designated-safeguarding-lead	Alle Bedenken sind noch am selben Tag der unten genannten Kindeswohlbeauftragten oder ihrem Stellvertreter bei Abwesenheit zu melden; Beschäftigte dürfen nicht selbst ermitteln.
+W	school-c2s-disclosure-without-consent	Informationen dürfen ohne Einwilligung weitergegeben werden, wenn deren Einholung das Schadensrisiko erhöhen oder einen Schutzschritt unangemessen verzögern würde; der Grund wird dokumentiert.
+W	school-c2s-ladd-referral	Ein Vorwurf, eine Beschäftigte oder ein Beschäftigter habe einem Kind geschadet, wird noch am selben Werktag an die von der Kommune benannte Beauftragte verwiesen, bevor über eine Freistellung entschieden wird.
+W	school-c2s-prevent-duty-concern	Ein Bedenken, eine Schülerin oder ein Schüler könne in Terrorismus hineingezogen werden, wird unter der Präventionspflicht weitergeleitet; die Familie wird unterrichtet, sofern das das Risiko nicht erhöht.
+W	school-c2s-child-missing-education	Eine Schülerin oder ein Schüler, die oder der zehn Schultage ohne Erklärung fehlt, wird als Kind ohne Bildungsmeldung gemeldet; die Rolle wird erst geschlossen, wenn die Behörde zustimmt.
+W	school-c2s-private-fostering-notify	Soll ein Kind unter sechzehn achtundzwanzig Tage oder länger bei jemandem leben, der kein enger Verwandter ist, muss die Kommune unterrichtet werden; unterlassene Meldung ist eine Straftat.
+W	school-c2s-fgm-mandatory-report	Eine Lehrkraft, der eine unter achtzehnjährige Mädchen mitteilt, dass eine Genitalverstümmelung vorgenommen wurde, muss dies noch am selben Werktag der Polizei melden; diese Pflicht ist persönlich und nicht übertragbar.
+W	school-c2s-peer-on-peer-abuse	Schaden durch eine andere Schülerin oder einen anderen Schüler wird als Kindeswohlangelegenheit behandelt, nicht bloß als schlechtes Verhalten; beide Familien erfahren, was rechtmäßig geteilt werden darf.
+W	school-c2s-online-harm-filter	Filterung und Überwachung von Schulgeräten ist eine Kindeswohlpflicht, keine optionale Überwachung; Protokolle werden geprüft, und ein Bedenken wird noch am selben Tag eskaliert, wenn Schaden angezeigt ist.
+W	school-c2s-visitor-dbs-requirement	Regelmäßige unbeaufsichtigte Besuchende, die mit Kindern arbeiten, brauchen eine erweiterte Führungszeugnisprüfung; einmalige Besuchende werden begleitet und nicht allein mit Schülerinnen und Schülern gelassen.
+W	school-c2s-whistleblowing-channel	Beschäftigte, die vernünftigerweise glauben, dass ein Kindeswohlversagen vertuscht wird, dürfen dies außerhalb der Dienstwegkette melden, auch an die Kommune oder die Inspektion.
+W	school-c2s-locked-door-protocol	Außentüren bleiben während des Schultags verschlossen; wer ohne Termin kommt, wartet in der Eingangshalle, bis die Identität geprüft und ein Ausweis ausgegeben ist.
+W	school-c2s-collection-by-unauthorised	Ein Kind wird nicht an eine Person übergeben, die nicht auf der Abholliste steht, auch wenn das Kind sie erkennt; eine mündliche Nachricht durch das Kind reicht nicht.
+W	school-c2s-court-order-collection	Schränkt ein Gerichtsbeschluss ein, wer das Kind abholen darf, muss eine ausgefertigte Ausfertigung zur Akte liegen; das Personal folgt dem Beschluss, auch wenn beide Elternteile am Tor erscheinen und uneinig sind.
+W	school-c2s-closure-sounding-opens	Eine gesetzliche Anhörung zur vorgeschlagenen Schließung der Schule beginnt heute und läuft sechs Wochen; Stellungnahmen werden mit den Gründen der entscheidenden Stelle veröffentlicht.
+W	school-c2s-age-range-change	Eine Änderung der Altersstufe der Schule wird vorgeschlagen; bis zum unten genannten Datum können Stellungnahmen eingereicht werden, und am angegebenen Datum findet eine öffentliche Versammlung statt.
+W	school-c2s-published-admission-number	Die veröffentlichte Aufnahmezahl soll von sechzig auf dreißig sinken; die Anhörung prüft, ob die verringerte Zahl den örtlichen Bedarf noch deckt.
+W	school-c2s-sen-unit-redesignation	Eine Umwidmung der Fördereinheit wird vorgeschlagen; Familien bereits dort platzierter Schülerinnen und Schüler werden einzeln angeschrieben und erhalten eine längere Antwortfrist.
+W	school-c2s-religious-character-change	Eine Änderung des religiösen Charakters (oder dessen Aufhebung) bedarf der Zustimmung der Treuhänder und einer gesetzlichen Anhörung; ein bereits angebotener Platz wird allein wegen dieser Änderung nicht zurückgenommen.
+W	school-c2s-site-relocation	Ein Umzug auf ein Interimsstandort wird vorgeschlagen, während das Hauptgebäude neu gebaut wird; Transportregelungen und Auswirkungen auf den Schultag stehen im Anhörungspaket.
+W	school-c2s-representation-period	Nach Ablauf der Frist eingehende Stellungnahmen werden nicht berücksichtigt, es sei denn, die entscheidende Stelle ist überzeugt, dass sie rechtzeitig abgesandt wurden oder außergewöhnliche Umstände vorliegen.
+W	school-c2s-outcome-statement	Die Begründung der entscheidenden Stelle wird innerhalb einer Woche nach der Entscheidung veröffentlicht; wer Stellung genommen hat, wird noch am selben Tag angeschrieben.
+W	school-c2s-predetermination-allegation	Ein Vorwurf, das Ergebnis sei vorherbestimmt gewesen, wird geprüft, wenn er konkretisiert ist; bloße Uneinigkeit mit dem Vorschlag ist kein Beleg für eine geschlossene Haltung.
+W	school-c2s-equality-impact-assessment	Dem Vorschlag liegt eine Gleichstellungsfolgenabschätzung bei; wer meint, eine geschützte Gruppe werde unverhältnismäßig benachteiligt, kann das in der Stellungnahme sagen.
+W	school-c2s-unannounced-visit	Die Inspektion kann ohne Vorankündigung erscheinen; Personal und Familien sollten bereit sein, die genannten Unterlagen vorzulegen und den Inspektorinnen und Inspektoren Gespräche mit Schülerinnen und Schülern zu gestatten.
+W	school-c2s-section-eight-monitoring	Dieser Besuch ist eine Monitoring-Inspektion, keine voll bewertete Inspektion; das folgende Schreiben sagt, ob die Schule auf Kurs bleibt oder ein umfassenderer Besuch nötig ist.
+W	school-c2s-deep-dive-subjects	Die Inspektion führt Tiefenprüfungen in den umseitig genannten Fächern durch; sie kann den Unterricht besuchen, Hefte einsehen und mit Schülerinnen und Schülern über das sprechen, was sie behalten haben.
+W	school-c2s-parent-view-questionnaire	Familien werden gebeten, den Fragebogen der Inspektion vor dem Besuch auszufüllen; Freitextkommentare werden gelesen, beleidigende Sprache bleibt unberücksichtigt.
+W	school-c2s-inadequate-judgement	Eine Bewertung als unzureichend löst eine Akademie-Verfügung oder besondere Maßnahmen aus; der Träger schreibt den Familien noch am Tag der Berichtveröffentlichung.
+W	school-c2s-requires-improvement-plan	Eine Bewertung „verbesserungsbedürftig“ bedeutet, dass der Träger einen befristeten Plan annehmen und bis zum nächsten vollständigen Besuch jedes Halbjahr den Fortschritt melden muss.
+W	school-c2s-outstanding-removed	Die frühere Bewertung als hervorragend gilt nicht mehr; die Schule wird nach dem geltenden Rahmen inspiziert, und keine historische Note wird fortgeschrieben.
+W	school-c2s-safeguarding-ineffective	Wird der Kinderschutz als unwirksam bewertet, kann die Gesamtwirksamkeit nicht gut sein; der Träger tritt innerhalb von fünf Werktagen zusammen, um Sofortmaßnahmen zu prüfen.
+W	school-c2s-staff-survey-confidential	Die Personalbefragung ist vertraulich gegenüber der Inspektion; der Schule wird nicht mitgeteilt, wer was gesagt hat, und in dem veröffentlichten Schreiben wird niemand namentlich genannt.
+W	school-c2s-inspector-access-right	Inspektorinnen und Inspektoren haben ein gesetzliches Zugangsrecht zu Gelände, Akten und Schülerinnen und Schülern; die Behinderung dieses Zugangs ist Grund für eine nachteilige Feststellung.
+W	school-c2s-complaint-about-inspection	Eine Beschwerde über die Durchführung einer Inspektion muss zuerst beim eigenen Beschwerdeverfahren der Inspektion erhoben werden; die Schule äußert sich nicht, solange dieses Verfahren läuft.
+W	school-c2s-publication-of-report	Der Bericht wird auf der Website der Inspektion veröffentlicht und den Familien ein Link zugesandt; die Schule darf vor dem offiziellen Veröffentlichungsdatum keinen selektiven Auszug veröffentlichen.
+W	school-c2s-ehcp-annual-review	Die jährliche Überprüfung des Bildungs-, Gesundheits- und Betreuungsplans findet am unten genannten Datum statt; Unterlagen müssen die Familie mindestens zwei Wochen vorher erreichen, und die Behörde muss ihre Entscheidung innerhalb der gesetzlichen Frist erlassen.
+W	school-c2s-needs-assessment-refused	Ein Antrag auf eine gesetzliche Bedarfsfeststellung wird abgelehnt; die Gründe stehen umseitig, und innerhalb von zwei Monaten nach dieser Mitteilung kann beim Tribunal Anfechtung erhoben werden.
+W	school-c2s-tribunal-appeal-sen	Eine Anfechtung des Planinhalts oder der benannten Schule kann beim erstinstanzlichen Tribunal erhoben werden; die Entscheidung der Behörde bleibt in Kraft, sofern das Tribunal nichts anderes anordnet.
+W	school-c2s-reasonable-adjustments	Angemessene Anpassungen werden vorgenommen, damit eine behinderte Schülerin oder ein behinderter Schüler nicht wesentlich benachteiligt wird; die Ablehnung einer bestimmten Anpassung wird schriftlich begründet.
+W	school-c2s-accessible-toilets-works	Arbeiten für eine barrierefreie Toilette beginnen in den Ferien; bis dahin stellt ein Organisationsplan sicher, dass die Schülerin oder der Schüler eine geeignete Einrichtung ohne Unterrichtsverlust nutzen kann.
+W	school-c2s-transport-to-special-school	Kostenloser Transport zur benannten Förderschule obliegt der Kommune, nicht der Schule; eine Ablehnung kann im eigenen Überprüfungsverfahren der Behörde angefochten werden.
+W	school-c2s-named-school-dispute	Die Familie ist mit der im Plan benannten Schule nicht einverstanden; die Behörde hält diesen Namen aufrecht, bis das Tribunal einen anderen setzt.
+W	school-c2s-early-years-funding-cut	Die Frühjahresförderung mit erhöhtem Bedarf für dieses Kind wird ab dem unten genannten Datum gekürzt; vor diesem Datum wird ein Überprüfungsgespräch angeboten, und eine Anfechtung kann folgen.
+W	school-c2s-emergency-inhaler-protocol	Ein Notfall-Inhalator wird für Schülerinnen und Schüler vorgehalten, deren schriftlicher Plan die Nutzung erlaubt; ohne diesen Plan zur Akte wird er keinem Kind gegeben.
+W	school-c2s-controlled-drug-storage	Ein Betäubungsmittel wird in einem verschlossenen Schrank gelagert, bei jeder Gabe protokolliert und von einer zweiten erwachsenen Person bezeugt; ungenutzter Bestand geht an die Familie zurück, wird nicht vor Ort entsorgt.
+W	school-c2s-refusing-treatment-at-school	Beschäftigte zwingen eine urteilsfähige ältere Schülerin oder einen Schüler nicht, gegen den Willen Medikamente zu nehmen; die Familie wird noch am selben Tag unterrichtet und bei Risiko eine klinische Einschätzung eingeholt.
+W	school-c2s-contagious-stay-home	Eine Schülerin oder ein Schüler mit meldepflichtiger ansteckender Krankheit muss für den von der Gesundheitsbehörde genannten Zeitraum zu Hause bleiben; eine vorzeitige Rückkehr wird am Tor abgelehnt.
+W	school-c2s-anaphylaxis-care-plan	Ein Adrenalin-Autoinjektor wird gemäß dem schriftlichen Versorgungsplan verabreicht; ein Krankenwagen wird auch gerufen, wenn die Schülerin oder der Schüler sich zu erholen scheint.
+W	school-c2s-mental-health-referral	Eine Weiterleitung an die schulische mentale Gesundheitsleitung verlangt kein Eingeständnis einer Diagnose durch die Schülerin oder den Schüler; die Familie wird unterrichtet, sofern das das Schadensrisiko nicht erhöht.
+W	school-c2s-free-travel-withdrawn	Kostenloser Schulweg wird entzogen, weil eine nähere geeignete Schule jetzt einen Platz hat; innerhalb von zwanzig Werktagen kann bei der Behörde Anfechtung erhoben werden.
+W	school-c2s-unsafe-walking-route	Die Behörde hat den Fußweg für ein unbegleitetes Kind dieses Alters als unsicher bewertet; der kostenlose Transport bleibt daher bestehen, bis ein sicherer Weg besteht oder das Kind älter ist.
+W	school-c2s-bus-pass-misuse	Ein Ausweis, den ein anderes Kind nutzt oder der für eine andere als die genehmigte Strecke verwendet wird, wird eingezogen; ein Ersatz wird zum veröffentlichten Satz berechnet.
+W	school-c2s-nearest-suitable-school	Der Anspruch bemisst sich zur nächsten geeigneten Schule mit Platz, nicht zur von der Familie bevorzugten; eine Glaubens- oder Sprachpräferenz begründet für sich keinen neuen Anspruch.
+W	school-c2s-withdraw-from-worship	Eine erziehungsberechtigte Person kann ein Kind durch schriftliche Mitteilung vom gemeinsamen Gottesdienst zurückziehen; das Kind erhält eine sinnvolle Alternativbeschäftigung und wird nicht hervorgehoben.
+W	school-c2s-sex-education-right-to-withdraw	Eine erziehungsberechtigte Person kann ein Kind vom Sexualkundeunterricht (nicht vom Beziehungsunterricht oder von der Fortpflanzungsbiologie) bis drei Halbjahre vor dem sechzehnten Geburtstag zurückziehen.
+W	school-c2s-relationships-education-compulsory	Beziehungsbildung ist in der Grundschule Pflicht; ein Rücktrittsrecht besteht nicht, doch die Schule bespricht die Inhalte mit jeder Familie, die danach fragt.
+W	school-c2s-political-impartiality	Beschäftigte dürfen im Unterricht keine parteiische politische Haltung fördern; wird ein kontroverses Thema angesprochen, werden Gegenpositionen altersgerecht und ausgewogen dargestellt.
+W	school-c2s-banned-texts-challenge	Ein Antrag, einen Text aus dem Lehrplan zu streichen, wird vom Träger anhand der veröffentlichten Anfechtungspolitik geprüft; empfundene Beleidigung allein ist kein Streichungsgrund.
+W	school-c2s-home-language-assessment	Eine Einschätzung der Familiensprache darf der Planung von Unterstützung dienen, nicht der Verzögerung der Aufnahme; ein Platz wird nicht bis zum Ergebnis zurückgehalten.
+W	school-c2s-stage-one-complaint	Eine Beschwerde der Stufe eins ist innerhalb von drei Monaten nach dem beanstandeten Vorgang an die Klassen- oder Schulleitung zu richten; ältere Beschwerden können als verjährt abgelehnt werden.
+W	school-c2s-stage-two-governor-panel	Bleibt die beschwerdeführende Person unzufrieden, hört ein Ausschuss von Trägernmitgliedern, die zuvor nicht befasst waren, die Sache in Stufe zwei; ihre Feststellung beendet das schulische Verfahren.
+W	school-c2s-vexatious-correspondence	Wiederholte, beleidigende oder eine bereits entschiedene Sache wiedereröffnende Schreiben können als querulatorisch behandelt werden; dann wird eine einzige Ansprechperson benannt, und weitere Briefe können unbeantwortet bleiben.
+W	school-c2s-subject-access-vs-complaint	Ein Auskunftsantrag ersetzt nicht das Beschwerdeverfahren; allein für eine laufende Beschwerde erzeugte Unterlagen werden bis zum Ende dieses Verfahrens zurückgehalten, soweit das Recht es erlaubt.
+W	school-c2s-staff-not-named-in-reply	Die Antwort der Schule nennt keine andere Schülerin oder keinen anderen Schüler und kein nachgeordnetes Personalmitglied, sofern das nicht nötig ist, um das Ergebnis zu verstehen; ein Antrag auf diese Namen wird abgelehnt.
+W	school-c2s-voluntary-contribution-not-condition	Für eine Fahrt im Rahmen des Lehrplans darf ein freiwilliger Beitrag erbeten werden, doch ein Platz wird nicht zurückgehalten, wenn er unbezahlt bleibt; die Fahrt kann für alle ausfallen, wenn zu wenige Beiträge eingehen.
+W	school-c2s-dinner-debt-escalation	Essensschulden werden in einem gestuften Verfahren verfolgt; einem Kind wird keine Mahlzeit verweigert und es wird nicht hervorgehoben, und eine Meldung an die Behörde wird erst erwogen, nachdem Unterstützung angeboten wurde.
+W	school-c2s-music-tuition-charge	Für Einzel- oder Kleingruppen-Instrumentalunterricht, der weder vom Lehrplan noch von einem Plan verlangt wird, darf eine Gebühr erhoben werden; Erlass steht Familien mit den veröffentlichten Leistungsbezügen offen.
+W	school-c2s-residential-visit-remission	Der Träger erlässt den Unterkunftsanteil einer Übernachtungsfahrt für Familien mit den veröffentlichten Leistungsbezügen, wenn die Fahrt in der Schulzeit stattfindet oder vom Lehrplan verlangt wird.
+W	school-c2s-exam-remark-fee	Die Gebühr für eine Neubewertung ist von der Familie im Voraus zu zahlen, wenn die Schule den Antrag nicht unterstützt; sie wird vollständig erstattet, wenn sich die Note ändert.
+W	school-c2s-lost-textbook-invoice	Eine Rechnung für ein verlorenes oder vorsätzlich beschädigtes Lehrbuch geht an die Familie zum Wiederbeschaffungswert, nicht als Strafe; Zahlungsunfähigkeit wird geprüft, bevor weitere Schritte folgen.
+W	school-c2s-head-suspension-interim	Die Schulleitung ist bis zur Klärung freigestellt; eine Interimsleitung ist berufen, und die Tagesabläufe bleiben unverändert. Weitere Stellungnahmen erfolgen nicht.
+W	school-c2s-supply-cover-prolonged	Längere Abwesenheit einer Klassenleitung wird ab dem unten genannten Datum durch eine namentlich genannte Vertretung abgedeckt; Familien mit Bedenken zur Kontinuität schreiben der Stellvertretung, nicht der abwesenden Kollegin oder dem Kollegen.
+W	school-c2s-capability-no-comment	Die Schule äußert sich nicht zu einer Eignungs- oder Disziplinarangelegenheit einer Beschäftigten oder eines Beschäftigten; ein Antrag auf Einzelheiten wird als Vertrauensbruch abgelehnt.
+W	school-c2s-safer-recruitment-gap	Eine Lücke im Beschäftigungsverlauf einer Bewerberin oder eines Bewerbers muss schriftlich erklärt werden, bevor ein Angebot bestätigt wird; eine ungeklärte Lücke sperrt unbeaufsichtigte Arbeit mit Kindern.
+W	school-c2s-asbestos-management-survey	Eine Asbest-Management-Untersuchung hat Materialien festgestellt, die in den Ferien versiegelt, nicht entfernt werden; die betroffenen Räume bleiben außer Betrieb, bis die Arbeit abgenommen ist.
+W	school-c2s-lockdown-drill-unannounced	In diesem Halbjahr findet eine unangekündigte Lockdown-Übung statt; Familien sollen nicht zum Tor kommen, wenn sie davon hören, und Schülerinnen und Schüler werden nicht vorzeitig entlassen.
+W	school-c2s-fire-risk-deficiency	Ein im Brandschutzgutachten festgestellter Mangel wird bis zum unten genannten Datum behoben; bis dahin steht an diesem Treppenhaus bei jedem Stundenwechsel eine zusätzliche erwachsene Person.
+W	school-c2s-radon-or-mould-works	Sanierungsarbeiten wegen Feuchtigkeit und Schimmel im Nordflügel schließen diese Räume für zwei Wochen; ausgelagerte Klassen folgen dem heute ausgehängten Interimsstundenplan.
+W	school-c2s-playground-closure-defect	Das Klettergerüst ist außer Betrieb, bis ein struktureller Mangel behoben ist; ein abgesperrter Bereich ist keine Empfehlung, und wer ihn betritt, verstößt gegen die Sicherheitsregel.
+W	school-c2s-pupil-premium-statement	Die Erklärung zur Schülerprämie für das laufende Jahr steht auf der Website; sie legt dar, wie die Zuwendung ausgegeben wurde und welche Wirkung sie auf die Leistungen berechtigter Schülerinnen und Schüler hatte.
+W	school-c2s-freedom-of-information	Ein Antrag auf bei der Schule vorliegende dokumentierte Informationen wird innerhalb von zwanzig Werktagen beantwortet; ein Antrag, der die angemessene Grenze überschreitet, kann abgelehnt oder berechnet werden.
+W	school-c2s-publication-scheme-update	Das Veröffentlichungskonzept wurde aktualisiert; die Klassen von Informationen, die wir routinemäßig freigeben, und jene, die wir zurückhalten, sind unter der unten genannten Adresse aufgeführt.
+W	school-c2s-register-of-interests	Das Interessenregister der Träger- und Führungskräfte liegt zur Einsicht aus; wer an einem Punkt ein vermögenswertes Interesse hat, zieht sich von diesem Punkt zurück.
+W	school-c2s-looked-after-pep	Ein persönlicher Bildungsplan für ein Kind in Obhut wird jedes Halbjahr mit der virtuellen Schule und der Sozialarbeit überprüft; die Betreuungsperson erhält eine Ausfertigung, sofern die Behörde nichts anderes anordnet.
+W	school-c2s-young-carer-identification	Einer als junge Pflegeperson identifizierten Schülerin oder einem Schüler wird ein Gespräch zu Anpassungen angeboten; die Identifizierung wird ohne Zustimmung der Schülerin oder des Schülers nicht über den Kenntnisbedarf hinaus geteilt, sofern nicht der Kinderschutz es verlangt.
+W	school-c2s-armed-forces-covenant	Kinder von aktiven Soldatinnen und Soldaten werden nach dem veröffentlichten Dienstkind-Kriterium aufgenommen und durch eine Versetzung unter dem Jahr nicht benachteiligt; der Nachweis der Versetzung muss auf dem vorgeschriebenen Formular vorliegen.
+W	school-c2s-residency-dispute-admissions	Werden zwei Adressen geltend gemacht, gilt als gewöhnlicher Aufenthalt die Adresse, an der das Kind den größeren Teil der Schulwoche schläft; eine werktägliche Geschäftsadresse bleibt unberücksichtigt.
+W	school-c2s-parental-responsibility-proof	Wer ein Recht auf Zeugnisse oder auf Einwilligung zu einer Fahrt geltend macht, muss den Nachweis der elterlichen Verantwortung vorlegen, wenn er nicht schon zur Akte liegt; eine Stiefelternperson ohne Gerichtsbeschluss hat dieses Recht nicht automatisch.
+W	school-c2s-name-change-on-roll	Eine Namensänderung auf der Rolle erfolgt nur gegen Vorlage einer Urkunde, eines Gerichtsbeschlusses oder einer aktualisierten Geburtsurkunde; eine mündliche Bitte reicht nicht.
+W	school-c2s-gender-recognition-records	Ein Antrag, in internen Akten ein anderes Geschlecht zu vermerken, wird anhand der Kindeswohl- und Datenschutzpflichten geprüft; Prüfungszeugnisse werden in dem Namen ausgestellt, den die Prüfungsstelle führt.
+W	school-c2s-digital-device-search	Ein schulisches Gerät darf durchsucht und seine Protokolle eingesehen werden, wenn vernünftige Gründe einen Kindeswohl- oder Verhaltensverstoß nahelegen; ein privates Gerät wird ohne Zustimmung der Eigentümerin oder des Eigentümers oder ohne gesetzliche Befugnis nicht durchsucht.
+W	school-c2s-whistleblowing-outcome-sealed	Das Ergebnis einer Hinweisgebermeldung wird der meldenden Person mitgeteilt, soweit die Vertraulichkeit es erlaubt; sie darf wegen einer gutgläubigen Meldung keinen Nachteil erleiden.
+W	school-c2s-home-to-school-travel-appeal	Eine Anfechtung der Ablehnung kostenlosen Transports ist innerhalb von zwanzig Werktagen beim unabhängigen Ausschuss der Behörde zu erheben; die Schule hat keine Befugnis, die Feststellung der Behörde aufzuheben.
+W	school-c2s-elective-home-education-off-roll	Eine Schülerin oder ein Schüler wird nur bei schriftlicher Mitteilung einer personensorgeberechtigten Person wegen freiwilliger häuslicher Bildung von der Rolle genommen; eine mündliche Nachricht oder eine Nachricht des Kindes reicht nicht.
+W	school-c2s-child-employment-permit	Ein Kind im schulpflichtigen Alter darf in der Unterrichtszeit keine bezahlte Arbeit ohne Genehmigung der Kommune aufnehmen; die Schule meldet ungenehmigte Beschäftigung, die ihr bekannt wird.
+W	school-c2s-year-seven-catch-up	Ein Aufholprogramm für Schülerinnen und Schüler unter dem erwarteten Standard beim Eintritt in Jahrgang sieben wird eingerichtet; die Teilnahme ist nicht freiwillig, wenn der Träger eine wesentliche Lücke festgestellt hat.
+W	school-c2s-off-rolling-prohibition	Eine Schülerin oder einen Schüler zur Verbesserung veröffentlichter Ergebnisse oder zur Vermeidung einer Inspektionsbewertung von der Rolle zu nehmen ist rechtswidrig; jede solche Entfernung wird rückgängig gemacht und der Behörde gemeldet.
+W	school-c2s-managed-move-breakdown	Scheitert der vereinbarte Wechsel innerhalb der Probezeit, bleibt die Schülerin oder der Schüler auf der ursprünglichen Rolle und muss ohne neues Aufnahmeverfahren wieder aufgenommen werden.
+W	school-c2s-direction-to-admit	Die Kommune (oder der Schiedsrichter) hat die Schule angewiesen, die benannte Schülerin oder den benannten Schüler aufzunehmen; der Platz muss ab dem genannten Datum bereitstehen und darf nicht bis zu einer Anfechtung aufgeschoben werden.
+W	school-c1s-residential-consent	Einverständniserklärungen für die Übernachtungsfahrt einschließlich der medizinischen Anlage müssen das Sekretariat bis zum umseitig genannten Datum erreichen; ohne ausgefülltes Formular reist niemand.
+W	school-c1s-medical-annex-trip	Die medizinische Anlage muss aktuelle Medikamente, Allergien und eine Notfallkontaktperson nennen, die während der gesamten Fahrt erreichbar ist.
+W	school-c1s-swimming-consent	Vor dem Betreten des Wassers ist eine schriftliche Einwilligung erforderlich; bitte geben Sie den Schwimmstand an, den Sie für zutreffend halten.
+W	school-c1s-packed-lunch-trip	Am Tag der Fahrt ist ein Pausenbrot ohne Nüsse mitzubringen; die Küche gibt reisenden Schülerinnen und Schülern kein Schulessen aus.
+W	school-c1s-pocket-money-cap	Das Taschengeld auf der Übernachtungsfahrt ist auf den umseitig genannten Betrag begrenzt; das Personal verwahrt keine größeren Beträge und gibt keine Vorschüsse.
+W	school-c1s-mobile-on-trip	Private Handys dürfen auf die Übernachtungsfahrt mitgenommen werden, werden aber über Nacht eingesammelt; die Schule haftet nicht für Verlust oder Beschädigung.
+W	school-c1s-emergency-contact-trip	Vor Abfahrt des Reisebusses muss eine zweite Notfallkontaktperson genannt sein, die in der Schulzeit und am Abend erreichbar ist.
+W	school-c1s-early-return-trip	Muss eine Schülerin oder ein Schüler aus Verhaltens- oder medizinischen Gründen vorzeitig zurückkehren, holt eine personensorgeberechtigte Person ab; die Reisekosten trägt die Familie.
+W	school-c1s-hostel-sharing	Die Zimmerlisten werden in der Woche vor der Abfahrt ausgegeben; Wünsche, mit einer namentlich genannten Freundin oder einem Freund zu teilen, werden geprüft, können aber nicht zugesichert werden.
+W	school-c1s-outdoor-kit	Für die Außentage sind Regenkleidung, festes Schuhwerk und eine Flasche mit Namen erforderlich; Jeans und Modeturnschuhe sind ungeeignet.
+W	school-c1s-trip-deposit	Die nicht erstattungsfähige Anzahlung muss bis zum umseitig genannten Datum gezahlt sein, um den Platz zu halten; der Restbetrag kann in den genannten Raten gezahlt werden.
+W	school-c1s-trip-instalments	Raten, die mehr als vierzehn Tage überfällig sind, können dazu führen, dass der Platz der Warteliste angeboten wird; bitte kontaktieren Sie das Sekretariat, bevor eine Zahlung ausfällt.
+W	school-c1s-trip-withdrawal	Ein Rücktritt nach dem endgültigen Buchungsdatum löst keine Erstattung aus, es sei denn, der Platz wird von der Warteliste nachbesetzt; Versicherungsansprüche bleiben Sache der Familie.
+W	school-c1s-day-visit-consent	Die Einwilligung zur Tagesfahrt ist auch zurückzugeben, wenn Sie zu Jahresbeginn eine Pauschalerlaubnis unterschrieben haben; dieser Ausflug hat eine eigene Gefährdungsbeurteilung.
+W	school-c1s-museum-visit	Der Museumsbesuch umfasst nach dem Mittag einen Workshop; wer früher geht, verpasst die bewertete Aufgabe und sollte an diesem Nachmittag keine anderen Termine buchen.
+W	school-c1s-theatre-visit	Theaterkarten werden reserviert, sobald Einwilligung und Zahlung vorliegen; verspätete Rückgaben werden nur angeboten, wenn ein Platz freigegeben wird.
+W	school-c1s-worship-optout	Der Besuch einer Kultstätte gehört zum vereinbarten Lehrplan; ein schriftlicher Opt-out kann eingereicht werden, und vor Ort wird eine Alternativaufgabe gestellt.
+W	school-c1s-farm-clothing	Auf dem Bauernhof sind geschlossene Schuhe und lange Ärmel erforderlich; Sandalen und Shorts führen dazu, dass die Schülerin oder der Schüler im Reisebus bleibt.
+W	school-c1s-forest-school	Waldschul-Einheiten finden bei leichtem Regen statt; nur eine Wetterwarnung oder Personalmangel führt zur Absage, und an diesem Morgen geht eine Nachricht hinaus.
+W	school-c1s-exchange-host	Familien, die für den Austausch einen Gastplatz anbieten, müssen den Haushaltsfragebogen ausfüllen und die Vorbesprechung besuchen, bevor eine Zuordnung bestätigt wird.
+W	school-c1s-language-assistant	Kleingruppensitzungen mit der Sprachassistenz gehören zum normalen Unterricht; ein Rückzug erfordert einen schriftlichen Antrag mit dem pädagogischen Grund.
+W	school-c1s-work-experience	Praktikumsplätze beginnen erst, wenn die Versicherungsdaten des Betriebs und Ihre unterschriebene Einwilligung zur Akte liegen.
+W	school-c1s-work-shadowing	Ein eintägiges Job-Shadowing kann in Jahrgang zehn genehmigt werden; ein Antrag mit Gastbetrieb und Lernziel muss zwei Wochen im Voraus vorliegen.
+W	school-c1s-careers-interview	Für Ihr Kind ist ein Berufsberatungsgespräch gebucht; kann der Termin nicht gehalten werden, bitte über das Berufsberatungsbüro umbuchen und keine Nachricht mit der Schülerin oder dem Schüler schicken.
+W	school-c1s-sixth-taster	Schnuppertage der Oberstufe sind für Schülerinnen und Schüler mit bereits vorliegendem bedingtem Angebot; Gelegenheitsbesuche können an diesen Tagen nicht aufgenommen werden.
+W	school-c1s-uni-open-day	Abwesenheit für einen Universitätstag der offenen Tür kann in Jahrgang zwölf einmal genehmigt werden, wenn die Einladung beigelegt und Arbeit im Voraus aufgegeben ist.
+W	school-c1s-dofe-enrol	Die Einschreibung in das Duke-of-Edinburgh-Programm erfordert eine gesonderte Einwilligung, eine medizinische Aktualisierung und die Zahlung der Auszeichnungsgebühr vor Beginn der Ausbildung.
+W	school-c1s-fixture-away	Auswärtige Spiele starten zur genannten Zeit am Sportzugang; wer innerhalb von zwanzig Minuten nach der Rückkehr nicht abgeholt wird, wartet im Empfang.
+W	school-c1s-saturday-fixture	Samstagsspiele sind freiwillig; die Einwilligung auf dem umseitigen Zettel ist dennoch erforderlich, damit Personal und Transport bestätigt werden können.
+W	school-c1s-tournament-consent	Die Turniereinwilligung gilt für den ganzen Tag einschließlich Pausenbrot und der Möglichkeit einer späteren Rückkehr, wenn ein Spiel überzieht.
+W	school-c1s-mixed-ability-team	Die Mannschaftsaufstellung für dieses Spiel ist leistungsübergreifend; ein Platz im Kader ist keine Zusage derselben Minuten wie in einem Wettbewerbsligaspiel.
+W	school-c1s-shin-pads	Schienbeinschoner sind bei Fußballspielen Pflicht; wer ohne erscheint, schaut von der Bank zu und bekommt keines geliehen.
+W	school-c1s-mouthguard	Für Rugby-Kontakteinheiten ist ein angepasster Zahnschutz erforderlich; am Spieltag im Clubshop gekaufte Zahnschoner sind kein Ersatz.
+W	school-c1s-concussion-return	Eine Schülerin oder ein Schüler mit diagnostizierter Gehirnerschütterung folgt der Rückkehr-zum-Spiel-Leiter; Kontakt darf erst nach schriftlicher Freigabe einer Klinik an die Schule wieder aufgenommen werden.
+W	school-c1s-water-bottle-pe	Bei warmem Wetter ist für jede Sportstunde eine Flasche mit Namen erforderlich; das Teilen von Flaschen ist nicht gestattet.
+W	school-c1s-swim-programme	Das Schwimmprogramm läuft sechs Wochen; eine Notiz ist nur nötig, wenn Ihr Kind in dieser Woche aus medizinischen Gründen nicht ins Wasser darf.
+W	school-c1s-cycle-training	Plätze im Radfahrtraining werden zuerst Schülerinnen und Schülern angeboten, die mit dem Rad zur Schule kommen; an den Kurstagen sind ein verkehrssicheres Fahrrad und ein Helm erforderlich.
+W	school-c1s-walking-bus	Der Laufbus startet um 8:20 Uhr an den Bibliotheksstufen; wer später dazukommt, muss allein gehen und wird bei Ankunft nach der Liste als verspätet vermerkt.
+W	school-c1s-sen-annual-review	Die jährliche Überprüfung des Förderplans Ihres Kindes findet am unten genannten Datum statt; schriftliche Anmerkungen, die drei Schultage vorher eingehen, werden an die Teilnehmenden verteilt.
+W	school-c1s-iep-review	Eine kurze Überprüfung des individuellen Förderplans wird vorgeschlagen; bitte teilen Sie mit, ob Sie persönlich, online oder telefonisch teilnehmen möchten.
+W	school-c1s-ehcp-meeting	Die Koordination der Kommune nimmt an der Bildungs-Gesundheits-Betreuungs-Überprüfung teil; bitte senden Sie neue Berichte, die Sie vorlegen möchten, mindestens fünf Schultage vorher.
+W	school-c1s-tac-meeting	Ein Team-um-das-Kind-Gespräch wurde mit Ihrem Einverständnis einberufen; das Protokoll hält Maßnahmen, Verantwortliche und ein Überprüfungsdatum fest, und Sie erhalten eine Ausfertigung.
+W	school-c1s-pastoral-plan	Nach einer schwierigen Phase wird ein pastoraler Förderplan erstellt; wir bitten Sie um ein Gespräch, damit Ziele und Überprüfungszyklus mit Ihnen vereinbart werden können.
+W	school-c1s-sen-forum	Das nächste Elternforum zu besonderen Bedarfen behandelt Hausaufgabenanpassungen; die Plätze sind begrenzt und über das Sekretariat zu buchen, nicht an der Klassenzimmertür.
+W	school-c1s-edpsych-visit	Eine Schulpsychologin oder ein Schulpsychologe beobachtet mit Ihrer vorherigen schriftlichen Zustimmung im Unterricht und bietet danach ein Rückmeldegespräch an; ohne dieses Angebot ergeht kein Bericht.
+W	school-c1s-speech-meeting	Die Sprachtherapie hat um ein gemeinsames Gespräch gebeten; bitte bringen Sie, wenn möglich, Beispiele mit, wie Ihr Kind zu Hause kommuniziert.
+W	school-c1s-ot-visit	Eine Ergotherapeutin oder ein Ergotherapeut kommt, um Sitzhaltung und Handschrift zu prüfen; der Besuch ist beratend und begründet für sich keinen neuen gesetzlichen Plan.
+W	school-c1s-hearing-support	Die Hörförderung prüft nächste Woche die Geräte in der Schule; bitte senden Sie Ersatzbatterien und teilen Sie mit, ob sich die Heimsituation geändert hat.
+W	school-c1s-visual-support	Großdruck- und hochkontrastreiche Ausfertigungen der Texte des nächsten Abschnitts können erstellt werden, wenn der Antrag die Inklusionsteam zehn Schultage vor Beginn der Einheit erreicht.
+W	school-c1s-access-meet	Ein Gespräch zu Prüfungsnachteilsausgleichen wird angeboten; private Gutachten, die Sie berücksichtigen lassen möchten, sollten vorher eintreffen, damit sie gegen die schulischen Belege gelesen werden können.
+W	school-c1s-quiet-room	Ein Pass für den Ruheraum kann als kurzfristige Maßnahme vereinbart werden; er ersetzt nicht die Teilnahme am Unterricht und wird nach vier Wochen überprüft.
+W	school-c1s-sensory-break	Vereinbarte sensorische Pausen werden zeitlich erfasst und dokumentiert; sie sollen der Rückkehr in den Unterricht dienen, ihn nicht ersetzen.
+W	school-c1s-phased-return	Eine gestufte Rückkehr nach längerer Abwesenheit ist grundsätzlich vereinbart; der umseitige Stundenplan ist ein Ausgangspunkt und wird mit Ihnen nach zehn Schultagen überprüft.
+W	school-c1s-medical-needs-meet	Ein Gespräch zur Vereinbarung eines individuellen Gesundheitsplans wird angeboten; bitte bringen Sie, wenn vorhanden, den neuesten Klinikbrief mit.
+W	school-c1s-intimate-care	Ein Plan zur Intimpflege wird mit Ihnen geschrieben, bevor regelmäßig solche Hilfe geleistet wird; im Plan werden zwei Beschäftigte namentlich genannt.
+W	school-c1s-toilet-plan	Ein Toilettenzugangsplan kann vereinbart werden, wenn ein medizinischer Bedarf dokumentiert ist; uneingeschränkter Ausgang aus jeder Stunde ohne Plan ist nicht verfügbar.
+W	school-c1s-pe-changing	Das Umziehen für den Sportunterricht wird vom Flur aus beaufsichtigt; wer eine privatere Regelung braucht, sollte das im Förderplan vermerken lassen.
+W	school-c1s-sun-cream	An heißen Fahrtagen sollten Schülerinnen und Schüler bereits mit Sonnencreme kommen; das Personal darf an das erneute Auftragen der eigenen Flasche mit Namen erinnern, trägt bei älteren Schülerinnen und Schülern aber keine Creme auf.
+W	school-c1s-insect-sting	Hat Ihr Kind eine dokumentierte Stichallergie, müssen Versorgungsplan und gültiger Autoinjektor an jedem Tag einer Fahrt vom Gelände in der Schule sein.
+W	school-c1s-asthma-inhaler	Ein Ersatz-Notfallinhalator mit Namen und Haltbarkeitsdatum sollte im Sekretariat hinterlegt werden; die Schülerin oder der Schüler sollte den eigenen Inhalator trotzdem zu Unterricht und Spielen mitführen.
+W	school-c1s-adrenaline-auto	Zwei gültige Adrenalin-Autoinjektoren müssen vor Ort sein, wenn die Klinik das verordnet hat; für diese Schülerin oder diesen Schüler findet keine Fahrt statt, wenn keines der Geräte vorhanden ist.
+W	school-c1s-diabetes-plan	Der Diabetes-Versorgungsplan wird mit Ihnen vor der Übernachtungsfahrt überprüft; bitte bestätigen Sie, wer nächtliche Blutzuckerkontrollen unterstützen darf.
+W	school-c1s-epilepsy-protocol	Das Epilepsie-Protokoll nennt die Notfallmedikation, den Zeitpunkt des Notrufs und wer verabreichen darf; eine Ausfertigung wird auf jede außerschulische Fahrt mitgenommen.
+W	school-c1s-medication-consent	Verschreibungspflichtige Medikamente werden in der Schule nur gegen ausgefüllte Einwilligung und Original-Apothekenetikett verabreicht; lose Tabletten in einem Umschlag werden abgelehnt.
+W	school-c1s-unused-medicine	Ungenutzte oder abgelaufene Medikamente muss eine erwachsene Person innerhalb von fünf Schultagen nach unserer schriftlichen Erinnerung abholen; sie werden nicht im Schulranzen nach Hause geschickt.
+W	school-c1s-head-lice	Werden lebende Läuse gesehen, bitten wir, die Behandlung noch am selben Abend zu beginnen; die Schülerin oder der Schüler darf am nächsten Tag zurückkehren, sobald die Behandlung begonnen hat.
+W	school-c1s-vaccination-session	Das Impfteam kommt am unten genannten Datum; eine gesonderte Einwilligung des Gesundheitsdienstes, nicht der Schule, ist an dieses Team zurückzugeben.
+W	school-c1s-height-weight	Die Größen- und Gewichtskontrolle wird vom schulischen Pflegedienst angeboten; Sie können Ihr Kind zurückziehen, indem Sie diesem Dienst schreiben, nicht indem Sie allein der Klassenleitung Bescheid geben.
+W	school-c1s-dental-screen	Eine zahnärztliche Reihenuntersuchung wird in der Schule angeboten; die Ergebnisse schickt das Zahnteam nach Hause, und die Schule behält keine klinische Ausfertigung.
+W	school-c1s-hearing-test	In der Eingangsklasse wird ein Hörscreening angeboten; bitte sagen Sie vorher Bescheid, wenn Ihr Kind bereits einen Termin in der kommunalen Audiologie hat, damit wir ihn nicht doppelt ansetzen.
+W	school-c1s-vision-test	In Jahrgang eins wird ein Sehscreening angeboten; ein Schreiben des Screeningdienstes, nicht der Schule, teilt mit, ob ein weiterer Sehtest empfohlen wird.
+W	school-c1s-counselling-referral	Eine Weiterleitung an die schulische Beratung erfolgt nur mit Ihrer schriftlichen Zustimmung, es sei denn, eine Kindeswohlpflicht erfordert ein früheres Gespräch.
+W	school-c1s-mentoring-optin	Peer-Mentoring wird als Opt-in angeboten; Ihr Kind wird erst gepaart, wenn Sie den Zettel zurückgegeben haben und eine Lehrkraft beide Schülerinnen und Schüler eingewiesen hat.
+W	school-c1s-eal-meeting	Ein Gespräch zur Vereinbarung von Unterstützung in Deutsch als Zweitsprache wird angeboten; eine Dolmetschung kann gebucht werden, wenn Sie das Sekretariat fünf Schultage vorher bitten.
+W	school-c1s-more-able-workshop	Ein Workshop für leistungsstarke Schülerinnen und Schüler in Mathematik wird nach dem Unterricht angeboten; die Plätze sind begrenzt und die Teilnahme erfolgt auf Einladung, nicht durch Selbstmeldung an der Tür.
+W	school-c1s-pupil-premium-meet	Ein kurzes Gespräch wird angeboten, um festzulegen, wie die Schülerprämie für Ihr Kind in diesem Abschnitt genutzt wird; Sie können das Gespräch ablehnen und erhalten dennoch eine schriftliche Zusammenfassung.
+W	school-c1s-fsm-application	Familien, die Anspruch auf kostenloses Schulessen haben könnten, werden gebeten, das Formular der Kommune auszufüllen; die Schule kann beim Formular helfen, aber nicht über die Bewilligung entscheiden.
+W	school-c1s-uniform-grant	Ein Zuschuss zur Schulkleidung kann über das Sekretariat beantragt werden; Quittungen mit Datum nach dem Antrag werden nicht erstattet.
+W	school-c1s-sixth-bursary	Anträge auf Oberstufenstipendien schließen am umseitig genannten Datum; verspätete Formulare werden für den nächsten Ausschuss gehalten und können für das laufende Halbjahr nicht rückwirkend ausgezahlt werden.
+W	school-c1s-breakfast-place	Plätze im Frühstücksclub werden jeweils für ein Halbjahr vergeben; ein Platz wird nicht gehalten, wenn Gebühren mehr als zwei Wochen im Rückstand sind.
+W	school-c1s-after-school-wait	Die Warteliste des Nachmittagsclubs richtet sich nach dem Datum des schriftlichen Antrags, nicht nach einem Gespräch am Tor; Geschwister werden nicht automatisch aufgenommen.
+W	school-c1s-homework-club	Der Hausaufgabenclub ist ein ruhiger, betreuter Raum, kein Nachhilfeangebot; wer andere stört, wird für diesen Abend gebeten zu gehen, und der Platz kann überprüft werden.
+W	school-c1s-late-collection	Nach dem angegebenen Ende eines Clubs gilt eine Gebühr für verspätetes Abholen; wiederholtes Zu-spät-Abholen kann dazu führen, dass der Platz für das nächste Halbjahr entzogen wird.
+W	school-c1s-collection-password	Wer eine Schülerin oder einen Schüler abholt und nicht schon auf dem Formular steht, muss das beim Sekretariat hinterlegte Passwort nennen; ein Telefonanruf des Kindes ist keine ausreichende Ermächtigung.
+W	school-c1s-second-contact	Bis zum unten genannten Datum muss eine zweite Notfallkontaktperson, die nicht unter derselben Adresse wohnt, zur Akte liegen; ohne sie kann die Liste für außerschulischen Sport nicht abgeschlossen werden.
+W	school-c1s-inset-early	Am Fortbildungsnachmittag schließt die Schule für Schülerinnen und Schüler mittags; Nachmittagsclubs fallen aus, und die Küche bedient nur, wer bereits fürs Mittagessen gebucht ist.
+W	school-c1s-twilight-close	Eine späte Personalsitzung führt am umseitig genannten Datum zu einem früheren Unterrichtsende; bitte passen Sie die Abholung an und schicken Sie Schülerinnen und Schüler nicht zurück für vergessene Gegenstände, wenn das Tor geschlossen ist.
+W	school-c1s-snow-channel	Wird eine wetterbedingte Schließung erwogen, steht die Entscheidung bis 7:00 Uhr in der Schul-App und auf der Liste der Kommune; bitte rufen Sie nicht den Empfang zur Bestätigung an.
+W	school-c1s-hot-weather	An Tagen extremer Hitze wird anstrengender Außensport verlegt oder verkürzt und Trinkpausen vermehrt; eine vollständige Schließung erfolgt nur, wenn das Gelände selbst unsicher wird.
+W	school-c1s-lockdown-drill	In diesem Halbjahr findet eine Lockdown-Übung statt; den Schülerinnen und Schülern wird gesagt, dass es eine Probe ist, und Familien sollen nicht zum Tor kommen, sofern die Schule sie nicht später zum Abholen bittet.
+W	school-c1s-fire-drill	Eine Feuerwehrübung findet ohne vorherige Ankündigung an die Schülerinnen und Schüler statt; sind Sie als Besucherin oder Besucher auf dem Gelände, folgen Sie den Anweisungen des Personals und betreten Sie das Gebäude nicht erneut wegen Habseligkeiten.
+W	school-c1s-site-works	Der Haupteingang bleibt geschlossen, während das Vordach ersetzt wird; bitte nutzen Sie das Seitentor und planen Sie zu Beginn und Ende des Tages mehr Zeit ein.
+W	school-c1s-one-way-yard	Im Unterstufenhof gilt bei der Abholung ein Einbahnweg; Erwachsene sollen nicht auf dem markierten Weg warten, den Klassen beim Verlassen des Gebäudes nutzen.
+W	school-c1s-parking-idling	Motoren dürfen auf dem Vorplatz nicht im Leerlauf laufen; wiederholte Missachtung kann zum Entzug einer vom Personal ausgegebenen Parkberechtigung führen.
+W	school-c1s-dogs-site	Hunde außer ausgebildeten Assistenzhunden sind bei der Abholung innerhalb der Tore nicht gestattet; bitte warten Sie hinter der auf dem Bürgersteig gemalten Linie.
+W	school-c1s-smoking-vaping	Rauchen und Dampfen sind an der Schulgrenze einschließlich am Tor bei der Abholung nicht gestattet; das Personal bittet, von dem Eingang wegzutreten.
+W	school-c1s-lost-property	Benannte Fundsachen werden über die Klassenleitung zurückgegeben; unbenannte Gegenstände werden am Ende jedes Halbjahres ausgelegt und danach entsorgt.
+W	school-c1s-valuables	Persönliche Wertgegenstände werden auf Risiko der Familie mitgebracht; die Schule ermittelt nicht den Verlust eines unbenannten Geräts, das in einem Umkleideraum liegen blieb.
+W	school-c1s-bicycle-store	Fahrräder müssen im Schuppen abgeschlossen und am Tagesende abgeholt werden; ein über die Ferien zurückgelassenes Fahrrad kann zusätzlich angekettet und für die Freigabe eine Gebühr erhoben werden.
+W	school-c1s-bus-pass	Abgelaufene Busausweise werden am Tor nicht als Nachweis der Fahrtberechtigung angenommen; ein Ersatz ist beim Betreiber zu regeln, nicht im Schulsekretariat.
+W	school-c1s-crossing-patrol	Der Schülerlotsendienst besteht nur zu den veröffentlichten Zeiten; Familien außerhalb dieser Zeiten nutzen die Fußgängerampel weiter die Straße entlang.
+W	school-c1s-home-school-agree	Die Haus-Schule-Vereinbarung legt Erwartungen zu Hausaufgaben, Anwesenheit und Verhalten fest; sie ist kein Aufnahmevertrag, und eine Verweigerung der Unterschrift hebt diese Erwartungen nicht auf.
+W	school-c1s-homework-expect	Hausaufgaben werden nach dem veröffentlichten Plan aufgegeben; ein Muster von Nichtabgabe wird mit Ihnen besprochen, bevor eine Nachsitzung genutzt wird.
+W	school-c1s-reading-record	Das Lesetagebuch sollte zu Hause mindestens viermal pro Woche unterschrieben werden; das Personal erfindet keine Unterschriften, und eine leere Woche wird als ungelesen vermerkt.
+W	school-c1s-library-overdue	Überfällige Bibliotheksbücher sperren weitere Ausleihen; eine Rechnung ergeht erst nach einer zweiten Erinnerung und einer Suche im Klassenzimmer.
+W	school-c1s-chromebook-loan	Ein ausgeliehenes Chromebook bleibt Eigentum der Schule; Schäden über normale Abnutzung oder ein fehlendes Ladegerät werden der auf dem Ausleihzettel genannten Familie in Rechnung gestellt.
+W	school-c1s-device-charge	Für das Lernen zu Hause ausgegebene Geräte sollten geladen zurückkommen; eine Steckdose im Klassenzimmer wird nicht für eine Schülerin oder einen Schüler freigehalten, die oder der wiederholt mit leerem Akku kommt.
+W	school-c1s-acceptable-use	Die Nutzungsvereinbarung muss unterschrieben sein, bevor ein Schulkonto eingerichtet wird; wer nicht unterschrieben hat, erledigt Papieraufgaben, bis der Zettel zurück ist.
+W	school-c1s-official-channel	Das Personal bespricht Schülerinnen und Schüler nicht in inoffiziellen Nachrichtengruppen; bitte nutzen Sie die Schul-App oder die Sekretariats-E-Mail, damit ein Vermerk möglich ist.
+W	school-c1s-newsletter-app	Der Wochenrundbrief erscheint jeden Freitag in der App; Papierausfertigungen gibt es nur, wenn ein Haushalt schriftlich dieses Format erbeten hat.
+W	school-c1s-email-bounce	Ist unsere Post an Sie zweimal zurückgekommen, rufen wir an und bitten um Aktualisierung der Adresse; Mitteilungen gelten weiterhin als zugestellt, sobald sie in der App stehen.
+W	school-c1s-contact-update	Eine Änderung von Telefonnummer oder E-Mail ist dem Sekretariat noch am selben Tag mitzuteilen; Klassenleitungen können die zentrale Akte nicht aus einem Vermerk im Lesetagebuch ändern.
+W	school-c1s-two-home-reports	Lebt eine Schülerin oder ein Schüler in zwei Haushalten, kann eine zweite Ausfertigung der Berichte versandt werden, wenn beide Adressen zur Akte liegen; eine mündliche Bitte am Elternabend reicht nicht.
+W	school-c1s-interpreter	Eine Dolmetschung für ein geplantes Gespräch kann gebucht werden, wenn Sie fünf Schultage vorher bitten; ein Familienmitglied sollte nicht gebeten werden, eine Förderüberprüfung zu dolmetschen.
+W	school-c1s-large-print	Großdruckausfertigungen von Schreiben können geliefert werden, wenn Sie das Sekretariat bitten; bitte sagen Sie, ob Sie auch eine Papierausfertigung brauchen, wenn der Standard elektronisch ist.
+W	school-c1s-meeting-notes	Notizen eines Fördergesprächs gehen innerhalb von fünf Schultagen zu; meinen Sie, eine Maßnahme sei falsch erfasst, antworten Sie bitte schriftlich, damit der Vermerk korrigiert oder ein Widerspruch festgehalten wird.
+W	school-c1s-rearrange-sen	Können Sie einen Fördertermin nicht halten, bitte über das Inklusionsbüro umbuchen; ein versäumter Slot ohne Nachricht wird im selben Halbjahr möglicherweise nicht erneut angeboten.
+W	school-c1s-virtual-sen	Für das kommende Fördergespräch steht eine virtuelle Option zur Verfügung; der Link geht am Vortag zu und sollte nicht an nicht Eingeladene weitergeleitet werden.
+W	school-c1s-reception-signin	Alle Besuchenden, auch Eltern bei einem geplanten Gespräch, müssen sich am Empfang anmelden und einen Ausweis tragen; unangekündigte Besuche in Klassenzimmern sind während des Unterrichts nicht gestattet.
+W	school-c1s-no-drop-in	Lehrkräfte können um 8:50 Uhr an der Klassenzimmertür keine ungeplanten Gespräche führen; bitte buchen Sie über das Sekretariat, damit ein ordentlicher Slot und bei Bedarf eine Kollegin oder ein Kollege organisiert werden können.
+W	school-c1s-parent-evening-book	Slots am Elternabend werden über die App gebucht; ein weniger als vierundzwanzig Stunden vor dem Abend freigegebener Slot wird möglicherweise nicht erneut vergeben.
+W	school-c1s-report-collect	Vollständige Berichte werden elektronisch am unten genannten Datum ausgegeben; eine Papierausfertigung kann in der folgenden Woche im Sekretariat abgeholt werden, wenn Sie schriftlich darum gebeten haben.
+W	school-c1s-term-absence	Ein Antrag auf Abwesenheit in der Unterrichtszeit muss auf dem umseitigen Formular gestellt werden, bevor Tickets gekauft werden; die Schulleitung entscheidet nach den veröffentlichten Kriterien, und ein mündliches Ja einer Klassenleitung ist keine Genehmigung.
+W	school-c1s-catch-up-absence	Während einer genehmigten Abwesenheit versäumte Arbeit wird bei der Rückkehr aufgegeben, nicht im Voraus, ausgenommen geplante Prüfungen; bitte bitten Sie das Personal nicht um ein volles Paket, bevor über die Abwesenheit entschieden ist.
+W	school-c1s-exam-entry	Prüfungsanmeldungen erfolgen nach der veröffentlichten Liste; eine späte Stufenänderung nach der Frist der Prüfungsstelle wird der Familie berechnet, wenn die Stelle eine Gebühr erhebt.
+W	school-c1s-revision-session	Nachschulische Wiederholungssitzungen sind freiwillig, doch ein einmal gebuchter Platz sollte gehalten oder am Vortag abgesagt werden, damit das Personal angepasst werden kann.
+W	school-c1s-mock-exam	Probeprüfungen finden unter Prüfungsstellenbedingungen statt; wer ohne Attest eine Arbeit versäumt, schreibt sie im nächsten Nachholfenster, nicht in einer Unterrichtsstunde.
+W	school-c1s-coursework-deadline	Die interne Frist für Kursarbeiten liegt vor dem Datum der Prüfungsstelle, damit Bewertung und Prüfung abgeschlossen werden können; nach der internen Frist Abgegebenes wird vor der Einreichung möglicherweise nicht mehr geprüft.
+W	school-c1s-option-choices	Wahlpflichtformulare müssen bis zum umseitig genannten Datum zurück; ein verspätetes Formular wird nach den pünktlichen Wahlen bearbeitet, und manche Fächer können bereits voll sein.
+W	school-c1s-results-collect	Ergebnisse dürfen persönlich von der Kandidatin oder dem Kandidaten oder von einer schriftlich benannten erwachsenen Person abgeholt werden; sie werden nicht telefonisch und nicht an eine Freundin oder einen Freund ohne diese Ermächtigung ausgegeben.
+W	school-c1s-certificate-collect	Zeugnisse liegen ab dem unten genannten Datum bereit; sie werden nur versandt, wenn ein frankierter Rückumschlag hinterlegt wurde, und nicht an ein jüngeres Geschwisterkind übergeben.
+W	school-c1s-leavers-assembly	Die Abschiedsfeier gilt für aktuelle Schülerinnen und Schüler und zwei namentlich genannte Erwachsene je Familie; zusätzliche Gäste können nicht sitzen und sollten nicht in der Hoffnung auf einen freien Stuhl kommen.
+W	school-c1s-prom-consent	Abschlussballtickets werden nur gegen zurückgegebene Einwilligung und Verhaltenskodex ausgegeben; wer den Ort verlässt, wird nicht wieder eingelassen, und die Familien werden angerufen.
+W	school-c1s-yearbook-photo	Das Jahrbuchporträt ist freiwillig; möchten Sie, dass Ihr Kind im gedruckten Buch nicht erscheint, teilen Sie das bitte schriftlich vor der Frist der Fotografin oder des Fotografen mit.
+W	school-c1s-production-costume	Kostümteile, die die Schule nicht stellen kann, sollten am Probentag in einer Tasche mit Namen mitgebracht werden; wertvollen Schmuck bitte zu Hause lassen.
+W	school-c1s-rehearsal-late	Proben in der Aufführungswoche enden später als die übliche Clubzeit; bitte am Bühneneingang abholen und nicht auf dem Hauptschulhof.
+W	school-c1s-sports-day	Der Sporttag findet statt, wenn das Feld geeignet ist; ein Schlechtwetterprogramm in der Halle wird nur genutzt, wenn das Feld unsicher ist, und an diesem Morgen geht eine Nachricht hinaus.
+W	school-c1s-cross-country	Das Querfeldein-Spiel ist außer Haus; wer zuschauen möchte, bleibt hinter der markierten Linie und darf einzelne Schülerinnen und Schüler nicht entlang der Strecke begleiten.
+W	school-c1s-food-tech	Zutaten für den Kochunterricht sind am Unterrichtstag in einem Behälter mit Namen mitzubringen; unbenutzte Lebensmittel werden nicht über Nacht gelagert und entsorgt.
+W	school-c1s-design-materials	Spezialmaterial für ein Designprojekt, falls die Familie es stellen soll, muss mit Namen und nach der ausgegebenen Spezifikation sein; Ersatz, der die Sicherheitsprüfung nicht besteht, wird nicht verwendet.
+W	school-c1s-art-smock	In Malstunden sollte ein altes Hemd oder ein Schulkittel getragen werden; die Schule erstattet keine Kleidung, die ohne Schutz befleckt wurde.
+W	school-c1s-calculator-exam	Ein zugelassener Taschenrechner darf in der Probeprüfung genutzt werden; ein Telefon darf nicht als Rechner dienen und gilt als unzulässiges Material, wenn es im Raum sichtbar ist.
+W	school-c1s-parent-governor	Eine Stelle als Elternvertretung im Träger ist offen; Nominierungsformulare müssen die Geschäftsstelle bis zum umseitig genannten Datum erreichen, und Kampagnenmaterial darf nicht über Klassengruppen versandt werden.
+W	school-c1s-pta-event	Das Fest des Elternvereins ist kein Schultag; teilnehmende Schülerinnen und Schüler müssen von der erwachsenen Person beaufsichtigt werden, die sie mitbringt, und dürfen das Gelände nicht allein durchstreifen.
+W	school-c1s-book-fair	Käufe auf der Buchmesse sind freiwillig; kein Kind wird hervorgehoben, weil es nicht kauft, und eine Wunschliste kann am Stand hinterlassen werden, wenn Sie später zahlen möchten.
+W	school-c1s-curriculum-workshop	Am unten genannten Datum wird ein Lehrplan-Workshop für Familien angeboten; es ist kein Gespräch zum Fortschritt Ihres eigenen Kindes, und solche Einzelfragen sollten gesondert gebucht werden.
+W	school-c1s-phonics-meeting	Die Informationsveranstaltung zur Lautmethode erklärt das in der Schule genutzte Verfahren; es ist keine Privatstunde, und jüngere Geschwister können in der Halle nicht aufgenommen werden.
+W	school-c1s-sats-information	Der Informationsabend zu den Prüfungen in Jahrgang sechs legt dar, was gesetzlich und was schulische Praxis ist; an dem Abend ausgegebene Probeaufgaben sollten bis zum veröffentlichten Fenster zu Hause bleiben.
+W	school-c1s-gcse-options	Der Abend zu den Abschlussprüfungs-Wahlfächern gilt für Familien von Jahrgang neun; ältere Schülerinnen und Schüler mit spätem Fachwechsel sollten einen Berufsberatungstermin buchen statt an dieser Hallensitzung teilzunehmen.
+W	school-c1s-alevel-options	Vorläufige Oberstufenblöcke werden nach dem Wahlabend veröffentlicht; eine Kombination, die nicht in die Blöcke passt, kann auch bei starker Begründung nicht zugesichert werden.
+W	school-c1s-settling-in	In der dritten Woche wird für Neuankömmlinge ein Eingewöhnungsgespräch angeboten; es ist ein kurzes Gespräch darüber, wie die Schülerin oder der Schüler die Abläufe findet, keine vollständige Leistungsübersicht.
+W	school-c1s-transition-y6	Der Übergangstag von Jahrgang sechs umfasst eine Führung und eine Probestunde; Eltern bleiben für die Einweisung in der Halle und begleiten die Gruppe nicht über das Gelände.
+W	school-c1s-music-consent	Instrumentalunterricht, den der Musikdienst berechnet, erfordert eine gesonderte Einwilligung; zur Beendigung ist eine Frist von einem Halbjahr nötig, und eine mündliche Nachricht mit der Schülerin oder dem Schüler ist keine Kündigung.
+W	school-c1s-instrument-hire	Geliehene Instrumente bleiben Eigentum des Musikdienstes; Schäden über normale Abnutzung werden berechnet, und das Instrument sollte im mitgelieferten Koffer reisen.
+W	school-c1s-choir-tour	Die Einwilligung zur Chorreise deckt Reise, Unterkunft und die veröffentlichten Probenzeiten ab; zusätzliche Ausflüge, die am Tag vorgeschlagen werden, werden nur angeboten, wenn ein weiteres schriftliches Ja vorliegt.
+W	school-c1s-photo-newsletter	Fotos für den Rundbrief werden nur verwendet, soweit die aktuelle Fotoeinstellung zur Akte es erlaubt; eine Änderung der Einstellung geht an das Sekretariat, nicht auf einem Zettel mit dem Kind.
+W	school-c1s-filming-lesson	Eine Unterrichtsstunde kann für die Personalfortbildung gefilmt werden; Schülerinnen und Schüler, deren Familien die Bildfreigabe verweigert haben, sitzen außerhalb des Bildes, oder die Kamera wird gestoppt, wenn das nicht möglich ist.
+W	school-c1s-visitor-badge	Ein Besucherausweis muss während des gesamten Besuchs sichtbar bleiben; wer ohne Ausweis auf dem Gelände angetroffen wird, wird zum Empfang zurückbegleitet.
+W	school-c1s-change-address	Eine Adressänderung ist schriftlich mit dem Wirksamkeitsdatum mitzuteilen; bis dahin gehen amtliche Schreiben weiter an die bereits zur Akte liegende Adresse.
+W	school-c1s-packed-allergy	Wird an einem Fahrtag ein Pausenbrot mitgegeben, muss es der mit dem Einwilligungspaket ausgegebenen Allergieliste folgen; Reste werden im Reisebus für die Rückfahrt nicht aufbewahrt.
+W	school-b2s-trip-consent-thursday	Einverständniserklärungen müssen das Sekretariat bis Donnerstag mittags erreichen; danach ist die Ticketvergabe geschlossen und verspätete Namen können nicht nachgetragen werden. Schülerinnen und Schüler ohne unterschriebenes Formular folgen vor Ort dem normalen Stundenplan.
+W	school-b2s-trip-optional-fee	Der Museumsbesuch ist freiwillig und daher kostenpflichtig; ein Platz wird erst reserviert, wenn der Beitrag eingegangen ist. Wer nicht teilnimmt, bleibt in der Schule und folgt einem betreuten Programm.
+W	school-b2s-trip-instalments	Die Übernachtungsfahrt kann in drei Raten gezahlt werden, sofern die erste bis zum Datum auf dem Schreiben eingeht. Ein Platz kann nicht allein auf ein Zahlungsversprechen gehalten werden.
+W	school-b2s-trip-packed-lunch	Schülerinnen und Schüler sollen ein Pausenbrot mit Namen ohne Nüsse mitbringen, weil mehrere Kinder des Jahrgangs eine schwere Allergie haben. Die Mensa stellt an diesem Tag keine Mahlzeit bereit.

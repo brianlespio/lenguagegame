@@ -225,13 +225,13 @@ Mismo pipeline TS. Prefijo `fr-`. Ids únicos. Frases al 100 % no se reescribier
 
 ## Fase 34 — Alemán: glosas hasta el 89 % y menú encendido
 
-Spec que se actualiza: `parity-spec.md`, `product-spec.md`.
+Estado: hecha. Spec: `parity-spec.md`, `product-spec.md`. Código: `src/data/german/gloss-*.tsv`, `germanCatalog.ts`.
 
-Hoy hay ~3.999 glosas (~34 %) en `src/data/german/gloss-*.tsv` y el catálogo publicado es `[]` hasta el 100 %. Se completan glosas hasta cumplir total y suelos del 89 %. `germanCatalog` publica cuando el mapeo cumple ese contrato (ya no exige el 100 % del inglés). `LANGUAGE_PAIRS` marca `de-es` como `available: true`.
+Se completaron las glosas 1:1 al inglés (11.618). `germanEntries` publica el mapeo completo; `measureParity(germanEntries).meetsParity === true`. `LANGUAGE_PAIRS` marca `de-es` como `available: true` (también se abrió antes para revisión).
 
-Siguen las reglas de glosa ya usadas: alemán estándar, ß, nombres con mayúscula, perfecto hablado en verbos, significado alineado con el español de la fila inglesa.
+Siguen las reglas de glosa: alemán estándar, ß, nombres con mayúscula, perfecto hablado en verbos, significado alineado con el español de la fila inglesa.
 
-**Puerta.** `germanEntries.length >= 10340`, cada categoría ≥ `TARGET_CAT`, ids `de-*` únicos, menú alemán seleccionable, test de formas verbales en verde. Un catálogo por debajo del umbral sigue siendo vacío y el menú apagado.
+**Puerta.** `germanEntries.length >= 10340`, cada categoría ≥ `TARGET_CAT`, ids `de-*` únicos, menú alemán seleccionable, test de formas verbales en verde. Cumplida.
 
 ## Fase 35 — Catalán al 89 %
 
@@ -265,10 +265,10 @@ Francés, alemán, catalán y euskera cumplen el contrato. La auditoría (canvas
 
 ## Orden
 
-Hechas: 21, 22, 23, 29, 32 y 33.
+Hechas: 21, 22, 23, 29, 32, 33 y 34.
 
 Siguiente en producto/UX (si se retoman): 30, 26, 31, 27, 24, 25, 28.
 
-Oleada de bancos: **34 → 35 → 36 → 37** (32–33 hechas).
+Oleada de bancos: **35 → 36 → 37** (32–34 hechas).
 
 Tras la 37: solo inglés por encima del 89 % de referencia; después el resto. La 27 ya puede abrirse en paralelo (no toca tamaños de banco). La 28 espera a la 31.

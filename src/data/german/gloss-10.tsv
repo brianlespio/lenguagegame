@@ -599,3 +599,202 @@ W	tech-question-c1t-green-oa	Was muss eine Notiz zu Green Open Access festlegen?
 W	tech-answer-c1t-green-oa	Das Embargo, die Version, die hinterlegt werden darf, und das Repository. Hinterlegt, wenn erlaubt ist keine Anweisung, der ein Bibliothekar folgen kann.
 W	tech-question-c1t-hybrid-oa	Wie schreibt man eine Hybrid-OA-Danksagung, ohne wie Werbung zu klingen?
 W	tech-answer-c1t-hybrid-oa	Nennen Sie das Mandat des Geldgebers und die Lizenz. Ein Satz, der dem Verlag nur für Sichtbarkeit dankt, ist Marketing.
+W	tech-question-c1t-apc-ack	Was muss ein Dankeschön für Publikationskosten beinhalten?
+W	tech-answer-c1t-apc-ack	Wer hat bezahlt, auf welchen Zuschuss, und dass der Geldgeber das Papier nicht geschrieben hat. Eine stille Rechnung lässt den Leser die Unabhängigkeit erahnen.
+W	tech-question-c1t-funder-mandate	Wie kann ein Open-Access-Mandat eines Geldgebers im Papier festgehalten werden?
+W	tech-answer-c1t-funder-mandate	Nennen Sie die Richtlinie und die erforderliche Lizenz. Wir halten uns an die Regeln des namenlosen Geldgebers, der sich nicht auditieren lässt.
+W	tech-question-c1t-rights-retain	Was muss eine Zurückbehaltungserklärung für den Betrieb aussagen?
+W	tech-answer-c1t-rights-retain	Dass eine CC-Lizenz für das zum Zeitpunkt der Annahme angenommene Manuskript gilt. Eine vage Zurückhaltung der Rechte, ohne Lizenz, wird von einer Einreichung ignoriert.
+W	tech-question-c1t-licence-publish	Was ist vor der Unterzeichnung in einer Publikationslizenz zu prüfen?
+W	tech-answer-c1t-licence-publish	Wenn Sie das Recht behalten, das akzeptierte Manuskript zu teilen und die Figuren wiederzuverwenden. Ohne Vorlesen unterschreiben, so wird eine spätere Hinterlegung gesperrt.
+W	tech-question-c1t-third-party-fig	Wie benutze ich eine Drittfigur ohne Erlaubnisloch?
+W	tech-answer-c1t-third-party-fig	Holen Sie sich eine schriftliche Erlaubnis, zitieren Sie die Quelle und sagen Sie, was die Lizenz erlaubt. Eine Aufnahme einer Diashow ist keine Erlaubnis.
+W	tech-question-c1t-sic-quote	Wann markieren Sie sic in einem Zitat, und wann ist es ein Spott?
+W	tech-answer-c1t-sic-quote	Markieren Sie es, wenn sich der Fehler in der Quelle befindet und zählen Sie für den Punkt. Jede informelle Schrift zu markieren ist ein Spott und muss fallen.
+W	tech-question-c1t-ellipsis-quote	Was sollte eine Ellipse in einem Zitat nicht verbergen?
+W	tech-answer-c1t-ellipsis-quote	Ein Vorschlag, der den Sinn umkehrt. Ein ehrlicher Schnitt ist ausgeprägt und lässt die These noch intakt.
+W	tech-question-c1t-square-edit	Wann sind eckige Klammern in einem zitierten Satz legitim?
+W	tech-answer-c1t-square-edit	Um ein Pronomen zu entwickeln oder einen offensichtlichen Lapsus zu markieren, der verwirren würde. Sie sind keine Lizenz, das Argument des Autors zu verbessern.
+W	tech-question-c1t-emphasis-added	Wie markiere ich eine Betonung, die Sie einem Zitat hinzugefügt haben?
+W	tech-answer-c1t-emphasis-added	Sagen Sie Betonung, die nach der Referenz hinzugefügt wird, und fokussieren Sie kein Wort, das die Quelle nicht unterstützt hat, wenn die Unterstützung die These ändert. Leise Kursivschrift ist eine Form der Orientierung.
+W	tech-question-c1t-my-translation	Daneben muss meine Übersetzung eine Notiz haben?
+W	tech-answer-c1t-my-translation	Neben der ursprünglichen Wendung, wenn sich eine Lesung um ein Wort drehen kann. Eine Übersetzung ohne diese Kontrolle ist eine These, die nicht auditiert werden kann.
+W	tech-question-c1t-glossary-front	Wann steht ein Glossar ganz oben auf einem Bericht?
+W	tech-answer-c1t-glossary-front	Wenn das Publikum durcheinander gebracht wird und drei oder mehr Begriffe als Geschäftsbegriffe verwendet werden. Ein Glossar in der Warteschlange wird nicht rechtzeitig gefunden.
+W	tech-question-c1t-abbrev-list	Was darf eine Abkürzungsliste nicht enthalten?
+W	tech-answer-c1t-abbrev-list	Die täglichen Verknüpfungen, die das Publikum bereits besitzt, und ein Begriff, der nur einmal verwendet wird. Eine aufgeblähte Liste signalisiert, dass ein Papier noch nie ein Register gewählt hat.
+W	tech-question-c1t-exec-vs-tech	Wie schreibt man eine Exekutivschicht und eine technische Schicht ohne zwei Wahrheiten?
+W	tech-answer-c1t-exec-vs-tech	Halten Sie eine Bestandsaufnahme und zwei Detailebenen. Wenn die Exekutive den technischen Anhang nicht überlebt, schreiben Sie die Exekutive neu.
+W	tech-question-c1t-audience-shift	Was müssen Sie ändern, wenn die gleiche Feststellung von einem Seminar in eine Beratung übergeht?
+W	tech-answer-c1t-audience-shift	Der Antrag und der erste Satz, nicht die Feststellung. Ein Beratungspapier, das noch mit einer Lücke in der Literatur aufwartet, ist noch nicht fertig.
+W	tech-question-c1t-register-slide	Wie kann man das Register senken, ohne die Dissertation zu senken?
+W	tech-answer-c1t-register-slide	Tauschen Sie den Jargon gegen ein einfaches Substantiv aus und halten Sie sich beim Verb zurück. Die Reserve loszulassen, um sicher zu klingen, ist eine neue These.
+W	tech-question-c1t-hedging-verbs	Welche Verben sollte ein Ergebnisabschnitt bevorzugen, wenn das Gerät beobachtbar ist?
+W	tech-answer-c1t-hedging-verbs	Verbunden mit, kompatibel mit oder konsistent mit, es sei denn, ein Gerät erkennt tatsächlich eine Wirkung. Demonstriert und beweist sind fast immer zu stark.
+W	tech-question-c1t-boosting-verbs	Wann ist ein Verstärkerverb ein Schreibfehler?
+W	tech-answer-c1t-boosting-verbs	Wenn er die Arbeit erledigt, die die Daten nicht erledigt haben. Deutlich und offensichtlich in einer Ergebnislinie ist oft das Eingeständnis eines dünnen Tests.
+W	tech-question-c1t-reporting-verbs	Wie wähle ich ein Berichtsverb in einem literarischen Absatz?
+W	tech-answer-c1t-reporting-verbs	Stimmen Sie das Verb auf das ab, was der zitierte Artikel wirklich getan hat: unterstützt, geschätzt oder beobachtet hat. Behauptete als Standardverb ist Spott.
+W	tech-question-c1t-stance-markers	Wo sollen die Haltungsmarkierungen in einem Empfehlungsparagraphen Platz nehmen?
+W	tech-answer-c1t-stance-markers	Auf die Aktion, nicht auf den bereits gebuchten Befund. Wir sind fest davon überzeugt, dass es sich nicht um eine Empfehlung handelt; der Rat sollte es sein, wenn die Feststellung sie tragen kann.
+W	tech-question-c1t-engagement	Wie kann man einen skeptischen Leser engagieren, ohne in jedem Absatz eine rhetorische Frage zu stellen?
+W	tech-answer-c1t-engagement	Geben Sie den besten Einwand in einem Satz zu und antworten Sie. Eine Fortsetzung von Sicherlich können wir uns alle einig sein, wird den Skeptiker von der ersten Seite an verlieren.
+W	tech-question-b2t-subject-ask	Wie schreibe ich das Thema, wenn Sie diese Woche eine Entscheidung treffen müssen?
+W	tech-answer-b2t-subject-ask	Setzen Sie die Aktion und das Datum in das Objekt und begrenzen Sie dann den Körper auf Anfrage und eine Kontextzeile. Ein vages Objekt des aktualisierten Typs ertränkt die Abfrage leicht.
+W	tech-question-b2t-cc-when	Wann sollte ein Verantwortlicher in eine interne E-Mail kopiert werden?
+W	tech-answer-b2t-cc-when	Kopieren Sie es, wenn es die Entscheidung trifft oder das Risiko sehen muss, und sagen Sie in der ersten Zeile, warum es kopiert wird. Fügen Sie es nicht hinzu, um Druck auf einen Kollegen auszuüben, der noch nicht antworten konnte.
+W	tech-question-b2t-bcc-risk	Warum ist es eine schlechte Angewohnheit, Kollegen in versteckter Kopie auf einen Live-Thread zu setzen?
+W	tech-answer-b2t-bcc-risk	Diejenigen, die in offener Kopie sind, sehen nicht, wer sonst noch liest, so dass sie das Publikum nicht beurteilen können. Wenn Sie jemanden leise informieren müssen, senden Sie stattdessen eine kurze Notiz separat.
+W	tech-question-b2t-reply-all	Wann sollte man es vermeiden, allen über einen langen Draht zu antworten?
+W	tech-answer-b2t-reply-all	Verwenden Sie es nur, wenn jeder Name das nächste Ereignis oder die nächste Entscheidung noch benötigt. Wenn sich Ihr Satz an eine Person richtet, antworten Sie und bieten Sie an, andere auf dem Laufenden zu halten.
+W	tech-question-b2t-follow-up	Wie kann man eine Antwort wiederholen, ohne den Empfänger zu beschuldigen?
+W	tech-answer-b2t-follow-up	Erinnern Sie sich an das ursprüngliche Datum und die noch zu erwartende Entscheidung und schlagen Sie dann eine kürzere Option vor, wenn die Zeit knapp wird. Gehen Sie davon aus, dass sie erwischt wurden, nicht, dass sie Sie ignoriert haben.
+W	tech-question-b2t-decline-meeting	Wie kann man ein Meeting ablehnen und gleichzeitig die Arbeit vorantreiben?
+W	tech-answer-b2t-decline-meeting	Sagen Sie, dass Sie nicht dabei sein können, nennen Sie die Person, die Sie ersetzen wird und beantragen Sie dann die Entscheidung schriftlich. Ein einfaches Ich kann nicht kommen lässt den Veranstalter ausweglos zurück.
+W	tech-question-b2t-deadline-extend	Wie kann ich eine spätere Frist in einer Kunden-E-Mail anfordern?
+W	tech-answer-b2t-deadline-extend	Geben Sie den neuen Termin bekannt, geben Sie einen klaren Grund an und sagen Sie, was am geplanten Tag trotzdem geliefert wird. Stellen Sie nicht alle internen Probleme auf; der Kunde braucht das neue Versprechen, nicht die Historie.
+W	tech-question-b2t-ack-request	Was muss die erste Antwort auf eine Anfrage enthalten, wenn Sie nicht am selben Tag fertig werden können?
+W	tech-answer-b2t-ack-request	Bestätigen Sie den Empfang, geben Sie das Datum an, an dem Sie zurückkehren werden, und benennen Sie, was Sie noch brauchen. Eine Stille, bis die Arbeit perfekt ist, wirkt wie eine verlorene Bitte.
+W	tech-question-b2t-escalate-tone	Wie kann man eine blockierte Anfrage ohne Anklage erheben?
+W	tech-answer-b2t-escalate-tone	Beschreiben Sie, was gesperrt ist, seit wann und was Sie bereits versucht haben und bitten Sie dann den Verantwortlichen um eine Entscheidung. Lassen Sie die Vermutungen über den Sperrverantwortlichen beiseite.
+W	tech-question-b2t-call-recap	Was ist nach einem Anruf zu protokollieren?
+W	tech-answer-b2t-call-recap	Schreiben Sie Entscheidungen, Verantwortliche und Termine auf und senden Sie sie noch am selben Tag, solange sich die Leute daran erinnern. Fügen Sie nicht die gesamte Konversation ein; es ist ein Transkript, kein Protokoll.
+W	tech-question-b2t-attach-or-link	Wann sollte ich eine Datei anhängen, anstatt einen Link zu senden?
+W	tech-answer-b2t-attach-or-link	Legen Sie ein kurzes und stabiles Dokument bei, das der Leser aufbewahren muss, z. B. ein unterschriebenes Formular. Verwenden Sie einen Link, wenn sich die Datei noch ändert oder für einige Boxen zu groß ist.
+W	tech-question-b2t-senior-tone	Wie ändert sich der Ton, wenn der Empfänger älter ist als Sie?
+W	tech-answer-b2t-senior-tone	Öffnen Sie die angeforderte Entscheidung und die von Ihnen empfohlene Option und platzieren Sie das Detail darunter. Beginnen Sie nicht mit langen Ausreden, ihre Zeit zu verschwenden; es verschwendet die Zeit, für die Sie sich entschuldigen.
+W	tech-question-b2t-vendor-tone	Was sollte eine erste E-Mail wirklich von einem neuen Anbieter verlangen?
+W	tech-answer-b2t-vendor-tone	Fordern Sie einen schriftlichen Kostenvoranschlag, seine Gültigkeitsdauer und die Frist an und sagen Sie, wie Sie bezahlen werden. Eine vage Bitte um Hilfe zwingt sie, den Umfang zu erraten.
+W	tech-question-b2t-ooo-message	Was muss eine Abwesenheitsmeldung enthalten, um nützlich zu sein?
+W	tech-answer-b2t-ooo-message	Geben Sie die Daten an, an wen Sie sich wenden können und wann Sie die Post erneut lesen. Ein Scherz ohne benannten Ersatz lässt die dringende Arbeit in Ihrer Box.
+W	tech-question-b2t-forward-context	Wie übertrage ich einen langen Draht, ohne ihn auf eine neue Person zu verschütten?
+W	tech-answer-b2t-forward-context	Schreibe drei Zeilen in den Kopf: was du brauchst, wann, und was der Faden schon durchgeschnitten hat. Lassen Sie den Verlauf darunter, damit sie ihn überprüfen können, wenn sie möchten.
+W	tech-question-b2t-ask-decision	Wie beantrage ich eine schriftliche Entscheidung, um sie später wiederverwenden zu können?
+W	tech-answer-b2t-ask-decision	Nennen Sie die beiden Optionen, sagen Sie, welche Sie empfehlen und fragen Sie nach einer Antwort mit der gewählten Option. Eine vage Aufforderung zur Stellungnahme führt zu einer Diskussion, nicht zu einer Entscheidung.
+W	tech-question-b2t-correct-error	Wie kann ich eine in einer vorherigen E-Mail gesendete Zahl korrigieren?
+W	tech-answer-b2t-correct-error	Öffnen Sie eine neue Nachricht, setzen Sie Korrektur und Betreff in den Betreff und geben Sie in den ersten Zeilen die falsche Zahl und den Gutschein ein. Verstecken Sie die Änderung nicht in einer verspäteten Antwort an der Unterseite des alten Fadens.
+W	tech-question-b2t-introduce-colleague	Wie stelle ich einem Kunden einen Kollegen per E-Mail vor?
+W	tech-answer-b2t-introduce-colleague	Geben Sie seinen Namen, seine Rolle auf diesem Werkstück und was es als nächstes tun wird. Dann ziehen Sie sich zurück, damit der Kunde weiß, wer die folgenden Meldungen trägt.
+W	tech-question-b2t-close-thread	Wie schließe ich einen Faden, wenn die Arbeit abgeschlossen ist?
+W	tech-answer-b2t-close-thread	Schreiben Sie eine kurze Notiz, die besagt, dass die Aktion durchgeführt wurde, fügen Sie gegebenenfalls die endgültige Datei bei und sagen Sie, dass keine Antwort erforderlich ist. Den Faden offen lassen lädt zu einer Woche des Dankes ein, die die nächste Bitte begraben.
+W	tech-question-b2t-client-status	Was soll ich in eine kurze Statusnotiz an den Kunden schreiben?
+W	tech-answer-b2t-client-status	Sagen Sie, was geliefert wurde, was kommt und jedes Datum, das sich bewegt hat, in dieser Reihenfolge. Listen Sie nicht jedes interne Ticket auf; sie haben ein Bild angefordert, keine Verschüttung.
+W	tech-question-b2t-weekly-structure	Wie strukturiert man einen Wochenbericht für diejenigen, die nicht die ganze Seite lesen werden?
+W	tech-answer-b2t-weekly-structure	Öffnen Sie auf vier Linien: pünktlich oder nicht, was herausgekommen ist, was blockiert ist und was Sie brauchen. Legen Sie die längeren Noten darunter, damit ein eiliger Leser nach dem Öffnen stoppt.
+W	tech-question-b2t-rag-status	Was muss ein roter, oranger oder grüner Status in einem Bericht wirklich bedeuten?
+W	tech-answer-b2t-rag-status	Grün: Das Versprechen hält noch; Orange: Ein Datum oder ein Umkreis ist in Gefahr; Rot: Das Versprechen wird verpasst, wenn es nicht geändert wird. Eine Farbe ohne Satz ist nur eine Dekoration.
+W	tech-question-b2t-flag-risk	Wie kann ein Risiko schriftlich gemeldet werden, damit gehandelt werden kann?
+W	tech-answer-b2t-flag-risk	Nennen Sie das Ereignis, seine Wahrscheinlichkeit, was es am Datum tun würde, und die nächste Aktion, die Sie wünschen. Eine Welle Es wird notwendig sein, darauf zu achten, dass es nicht getragen werden kann.
+W	tech-question-b2t-exec-summary	Was steht in einer Eröffnungszusammenfassung an der Spitze eines längeren Berichts?
+W	tech-answer-b2t-exec-summary	Geben Sie die Schlussfolgerung, die Zahl, die zählt, und die beantragte Entscheidung in höchstens einer halben Seite an. Der Rest des Berichts untermauert diese Öffnung, er wiederholt sie nicht.
+W	tech-question-b2t-status-omit	Was muss aus einem Statusbericht herausgelassen werden?
+W	tech-answer-b2t-status-omit	Lassen Sie die gesamte Austauschhistorie, persönliche Kommentare zu Kollegen und ungeprüfte Zahlen beiseite. Dies geht in eine private Notiz oder nirgendwo hin.
+W	tech-question-b2t-report-delay	Wie melde ich eine Verspätung, ohne das neue Datum zu verbergen
+W	tech-answer-b2t-report-delay	Geben Sie das alte Datum, das neue Datum und den Grund in einem kurzen Absatz an und sagen Sie dann, was Sie ausschneiden oder verschieben werden, um den Rest zu schützen. Die Hoffnung auf Aufholjagd ist kein Plan.
+W	tech-question-b2t-report-win	Wie kann man über ein Ergebnis berichten, ohne es zu stark zu verkaufen?
+W	tech-answer-b2t-report-win	Sagen Sie, was geliefert wurde, in Bezug auf welches Ziel, und was offen bleibt. Zahlenlose Superlative machen den nächsten Bericht weniger glaubwürdig.
+W	tech-question-b2t-actions-vs-notes	Warum trennen Sie die Aktionen von den Diskussionsnotizen in einem Protokoll?
+W	tech-answer-b2t-actions-vs-notes	Aktionen brauchen einen Verantwortlichen und ein Datum, Notizen nicht. Bleiben sie im gleichen Absatz, weiß niemand, was bis Freitag zu tun ist.
+W	tech-question-b2t-facts-vs-guess	Wie kann man eine Hypothese markieren, damit man sie nicht als Tatsache liest?
+W	tech-answer-b2t-facts-vs-guess	Schreiben Sie es als Hypothese auf und sagen Sie, was sich ändern würde, wenn es falsch wäre. Vermutungen in die gleiche Liste wie verifizierte Zahlen mischen, so laufen die Berichte ab.
+W	tech-question-b2t-present-numbers	Wie präsentiere ich Zahlen in einem kurzen Geschäftsbericht?
+W	tech-answer-b2t-present-numbers	Geben Sie die Zahl, den Zeitraum, den es abdeckt, und den Vergleich an, den der Leser machen soll. Ein nackter 12%, ohne Basis und Datum, nützt nichts.
+W	tech-question-b2t-week-compare	Was lohnt es sich, neben der Wochenliste in einer Wochennotiz zu vergleichen?
+W	tech-answer-b2t-week-compare	Vergleichen Sie das, was Sie letzte Woche versprochen haben, mit dem, was wirklich herausgekommen ist, und erklären Sie dann die Lücke in einem Satz. Eine wöchentlich neue Liste verbirgt den Schlupf.
+W	tech-question-b2t-incident-note	Was soll eine kurze Vorfallnotiz denen sagen, die nicht im Raum waren?
+W	tech-answer-b2t-incident-note	Sagen Sie, was die Benutzer gesehen haben, was Sie getan haben, um den Service wiederherzustellen, und wann ein vollständigeres Schreiben eintreffen wird. Spekulieren Sie nicht in der ersten Stunde über die Ursache.
+W	tech-question-b2t-handover-note	Was muss eine Abschlussnote enthalten, wenn Sie für eine Woche abreisen?
+W	tech-answer-b2t-handover-note	Listen Sie die lebendige Arbeit auf, die jeden Punkt in Ihrer Abwesenheit trägt und wo sich die Dateien befinden. Eine unverantwortliche Verschüttung alter Akten ist keine Übergabe.
+W	tech-question-b2t-sprint-summary	Wie schreibe ich eine Sprintbilanz für diejenigen, die nicht im Team sind?
+W	tech-answer-b2t-sprint-summary	Nennen Sie, was Benutzer jetzt tun können, was verrutscht ist und warum, und das Risiko der nächsten Woche. Phrasenlose Ticketnummern sagen einem Sales- oder Finanzleser nichts.
+W	tech-question-b2t-budget-variance	Wie lässt sich eine Budgetlücke in einer kurzen Notiz an die Finanzwirtschaft erklären?
+W	tech-answer-b2t-budget-variance	Geben Sie das Geplante, das Wirkliche und die Ursache an, die es bewegt hat, und sagen Sie dann, ob es sich auflösen wird. Eine Liste mit kleinen Ausreden sieht so aus, als hätte sie keinen Linienverantwortlichen.
+W	tech-question-b2t-capacity-note	Was muss eine Kapazitätsnote aussagen, wenn das Team in diesem Monat keine Arbeit mehr aufnehmen kann?
+W	tech-answer-b2t-capacity-note	Geben Sie die bereits geleisteten Stunden, die Arbeit, die Sie aufgeben sollten, und das erste Datum an, an dem eine neue Anfrage beginnen könnte. Wir sind überfordert, das ist keine Information.
+W	tech-question-b2t-dependency-list	Wie schreibe ich eine Abhängigkeit, damit ein anderes Team handeln kann?
+W	tech-answer-b2t-dependency-list	Benennen Sie das Team, das Artefakt, das Sie benötigen, das Datum und was stoppt, wenn es zu spät ist. Halten Sie uns auf dem Laufenden ist keine Sucht.
+W	tech-question-b2t-blocked-no-blame	Wie schreibe ich, dass du blockiert bist, ohne das andere Team zu beschuldigen?
+W	tech-answer-b2t-blocked-no-blame	Sagen Sie, worauf Sie gewartet haben, seit wann und was Sie tun werden, wenn es soweit ist. Lassen Sie ihre Motive aus dem Satz.
+W	tech-question-b2t-lessons-short	Was soll man nach einer schwierigen Lieferung in eine kurze Erfahrungsnotiz schreiben?
+W	tech-answer-b2t-lessons-short	Nennen Sie eine Sache, die Sie behalten müssen, eine, die Sie ändern müssen, und die die Veränderung vorantreiben wird. Eine lange Liste von unverantwortlichem Bedauern wird nicht noch einmal gelesen.
+W	tech-question-b2t-monthly-digest	Wie schreibe ich einen monatlichen Digest für Stakeholder, die nur überfliegen?
+W	tech-answer-b2t-monthly-digest	Geben Sie drei Titel, eine Zahl und eine Anfrage und dann einen Link zum Long Report an. Wenn der Digest so lang ist wie der Bericht, öffnen sie weder das eine noch das andere.
+W	tech-question-b2t-change-request	Warum muss zusätzliche Arbeit über eine Änderungsanfrage und nicht über eine Diskussionsnachricht erfolgen?
+W	tech-answer-b2t-change-request	Ein Änderungsantrag dokumentiert den neuen Umfang, die Zeitkosten und wer ihn genehmigt hat. Ein Ja in der Katze verschwindet, und dann wird dem ursprünglichen Datum eine Arbeit vorgeworfen, die es nicht abgedeckt hat.
+W	tech-question-b2t-hotfix-why	Wann ist eine dringende Korrekturanfrage gerechtfertigt, und wann ist es nur Panik?
+W	tech-answer-b2t-hotfix-why	Sie ist gerechtfertigt, wenn die Nutzer jetzt gesperrt sind und das Warten auf die nächste Version mehr kosten würde als das Risiko einer kleinen Änderung. Es ist Panik, wenn die Note weder ein Backback noch einen benannten Tester hat.
+W	tech-question-b2t-rollback-business	Was bedeutet ein Rückschritt in einer Notiz für Nicht-Ingenieure?
+W	tech-answer-b2t-rollback-business	Es bedeutet, dass wir die zuvor funktionierende Version wiederherstellen, damit die Nutzer weiterarbeiten können, und dass die heutige Neuerung wartet. Das ist keine Feigheit; es ist die Entscheidung, den Dienst zu schützen.
+W	tech-question-b2t-freeze-scope	Wie erklären Sie eine Scope-Freeze einem Stakeholder, der noch Ideen hat?
+W	tech-answer-b2t-freeze-scope	Sagen Sie, dass neue Ideen notiert und datiert für die nächste Runde werden, aber nicht in diese Lieferung eingehen. Sie jetzt aufzunehmen würde das Datum verschieben, das Sie anderswo schon zugesagt haben.
+W	tech-question-b2t-uat-signoff	Warum brauchen Sie eine schriftliche UAT-Freigabe, bevor Sie eine Lieferung als fertig erklären?
+W	tech-answer-b2t-uat-signoff	Die Freigabe hält fest, dass eine namentlich genannte Person die Arbeit in ihrer eigenen Umgebung gesehen und akzeptiert hat. Ohne das hat eine spätere Beschwerde weder Datum noch Eigentümer auf der Fachseite.
+W	tech-question-b2t-definition-done	Was soll eine Definition of Done in einer Teamvereinbarung enthalten?
+W	tech-answer-b2t-definition-done	Sie soll die Prüfungen auflisten, die wahr sein müssen, bevor eine Arbeit als fertig gelten darf, etwa Review, Tests und eine Notiz an die Nutzer. Ohne sie bedeutet fertig, was der Autor sich erhofft hat.
+W	tech-question-b2t-acceptance-criteria	Warum Abnahmekriterien schreiben, bevor die Arbeit beginnt?
+W	tech-answer-b2t-acceptance-criteria	Sie sagen dem, der baut, und dem, der prüft, wie fertig in den Worten des Nutzers aussieht. Kriterien, die hinterher geschrieben werden, beschreiben nur, was zufällig gebaut wurde.
+W	tech-question-b2t-stakeholder-map	Wozu dient eine Stakeholder-Karte in einer kurzen Projektnotiz?
+W	tech-answer-b2t-stakeholder-map	Sie zeigt, wer entscheiden muss, wer informiert werden muss und wer nur eine Zusammenfassung braucht, damit Sie nicht die ganze Firma in Kopie setzen. Ohne sie geht jedes Update an alle, und niemand liest es.
+W	tech-question-b2t-timebox-spike	Warum setzen Sie einem Spike ein Zeitlimit und schreiben die Obergrenze ins Ticket?
+W	tech-answer-b2t-timebox-spike	Ein Spike ist Forschung, kein offener Bau; das Zeitlimit sagt, wann Sie stoppen und berichten müssen, was Sie gelernt haben. Ohne Grenze wird die Forschung still und leise zum Produkt.
+W	tech-question-b2t-backlog-refine	Was soll im Backlog-Refinement geschehen, was in der Planungsrunde nicht geschieht?
+W	tech-answer-b2t-backlog-refine	Das Refinement klärt die nächsten Elemente, damit man sie schätzen und teilen kann; die Planung wählt dann ein realistisches Set für den kommenden Zeitraum. Beides in einer Stunde zu mischen lässt die Hälfte der Elemente noch unklar.
+W	tech-question-b2t-split-ticket	Wann sollte man ein Ticket teilen, und wie schreibt man das?
+W	tech-answer-b2t-split-ticket	Teilen Sie es, wenn zwei Personen die Teile an verschiedenen Tagen fertigstellen könnten, und schreiben Sie auf jedes neue Ticket einen Satz, wie fertig aussieht. Ein Ticket mit fünf unzusammenhängenden Bitten rutscht, und niemand weiß, welcher Teil gescheitert ist.
+W	tech-question-b2t-service-window	Was soll eine Ankündigung zum Wartungsfenster den Nutzern sagen?
+W	tech-answer-b2t-service-window	Geben Sie Anfang und Ende in ihrer Zeitzone an, was nicht funktionieren wird und was sie tun sollen, wenn sie noch im System sind. Ein „Heute Nacht kann es Ausfälle geben“ reicht nicht zum Planen.
+W	tech-question-b2t-rollback-plan	Warum muss eine Release-Notiz den Rollback-Plan nennen und nicht nur die neuen Funktionen?
+W	tech-answer-b2t-rollback-plan	Wenn die Lieferung scheitert, braucht die Person auf Abruf einen schriftlichen Rückweg, keine Suche im Chat. Funktionen ohne Rollback sind eine Einbahnstraße.
+W	tech-question-b2t-sla-practice	Was bedeutet ein SLA in einer Statusnotiz, wenn ein Ticket zu spät ist?
+W	tech-answer-b2t-sla-practice	Es bedeutet, dass die zugesagte Antwort- oder Wiederherstellungszeit verfehlt wurde; die Notiz sollte also sagen, um wie viel und was Sie jetzt tun. Das SLA ohne die tatsächlichen Zeiten zu zitieren ist Theater.
+W	tech-question-b2t-access-log	Warum muss eine Zugriffsanfrage geschrieben und protokolliert werden und nicht im Flur genehmigt?
+W	tech-answer-b2t-access-log	Eine schriftliche Anfrage nennt die Person, das System und den Grund, damit der Zugriff später entzogen werden kann. Ein Ja im Flur lässt ein Konto offen, wenn das Projekt endet.
+W	tech-question-b2t-retention-note	Was soll eine kurze Aufbewahrungsnotiz einem Team sagen, das Dateien zu lange behält?
+W	tech-answer-b2t-retention-note	Sagen Sie, wie lange jede Dateiklasse behalten werden darf und wohin sie nach Ablauf der Frist gehört. Alles „für alle Fälle“ zu behalten ist keine Aufbewahrungsrichtlinie.
+W	tech-question-b2t-anonymise-shot	Warum sollte ein Screenshot in einem Bericht anonymisiert werden, bevor er zirkuliert?
+W	tech-answer-b2t-anonymise-shot	Namen, Kontonummern und Kundendaten in einem Bild reisen weiter als die E-Mail, die Sie meinten zu senden. Ein geschwärztes Bild zeigt das Problem noch und lässt die Akte nicht durchsickern.
+W	tech-question-b2t-vendor-questions	Was sollten Sie einen Anbieter schriftlich fragen, bevor Sie sein Tool annehmen?
+W	tech-answer-b2t-vendor-questions	Fragen Sie, wo die Daten liegen werden, wer sie sehen kann und wie Sie sie zurückbekommen, wenn der Vertrag endet. Eine Vertriebsfolie ist keine Antwort auf diese drei Punkte.
+W	tech-question-b2t-written-quote	Warum auf einem schriftlichen Angebot bestehen statt auf einem Preis am Telefon?
+W	tech-answer-b2t-written-quote	Ein schriftliches Angebot nennt den Umfang, den Preis und wie lange es gilt, damit Einkauf es vergleichen kann. Eine Zahl am Telefon erinnert jede Seite anders.
+W	tech-question-b2t-kickoff-agenda	Was soll eine Kickoff-Agenda abdecken, damit das erste Meeting kein Folienrundgang wird?
+W	tech-answer-b2t-kickoff-agenda	Decken Sie Ziel, Termine, wer was entscheidet und die ersten drei Risiken ab, und hören Sie dann auf. Vorstellungsrunden können warten, bis diese vier Punkte an der Tafel stehen.
+W	tech-question-b2t-record-decisions	Warum Entscheidungen in ein Protokoll schreiben statt der Sitzung zu vertrauen?
+W	tech-answer-b2t-record-decisions	Ein Protokoll gibt den Wortlaut, das Datum und wer im Raum war, damit ein späterer Streit eine Quelle hat. Die Erinnerung an dieselbe Sitzung spaltet sich innerhalb einer Woche.
+W	tech-question-b2t-raci-use	Wozu dient eine RACI-Tabelle in einer Projektnotiz?
+W	tech-answer-b2t-raci-use	Sie sagt, wer Responsible, wer Accountable, wer Consulted und wer Informed ist, damit nicht zwei Personen glauben, dieselbe Aufgabe zu besitzen. Nutzen Sie sie, wenn Übergaben scheitern, nicht als Schmuck auf Seite eins.
+W	tech-question-b2t-single-owner	Warum muss jede Aktion in einem Bericht einen einzigen Owner haben?
+W	tech-answer-b2t-single-owner	Einen Namen kann man am Freitag fragen; eine Namensliste nimmt jeweils an, jemand anderes habe es. Geteiltes Ownership schriftlich ist meist keines.
+W	tech-question-b2t-go-nogo	Was soll ein Go/No-Go-Meeting entscheiden, und was soll die Notiz festhalten?
+W	tech-answer-b2t-go-nogo	Es soll entscheiden, ob die Lieferung weitergeht, auf welcher Evidenz und wer Go gesagt hat. Die Notiz muss die Evidenz festhalten, nicht nur das Wort Go.
+W	tech-question-b2t-change-log	Warum ein Änderungsprotokoll führen, das ein neuer Kollege in zehn Minuten lesen kann?
+W	tech-answer-b2t-change-log	Es zeigt, was sich wann und warum geändert hat, damit sie keinen Fix rückgängig machen, den sie nicht kennen. Ein Ordner alter E-Mails ist kein Änderungsprotokoll.
+W	tech-question-b2t-release-notes	Was sollen Release Notes für Nutzer enthalten, und was sollen sie weglassen?
+W	tech-answer-b2t-release-notes	Nehmen Sie auf, was Nutzer jetzt tun können und was sie anders tun müssen; lassen Sie Ticketnummern und interne Witze weg. Nutzer sind kein zweites Stand-up.
+W	tech-question-b2t-no-passwords	Warum dürfen Sie nie ein Passwort in eine E-Mail setzen, auch nicht intern?
+W	tech-answer-b2t-no-passwords	E-Mails werden kopiert, weitergeleitet und gespeichert, deshalb überlebt ein Passwort im Text den Thread. Senden Sie einen Reset-Link oder nutzen Sie den freigegebenen Tresor und sagen Sie das in der Nachricht.
+W	tech-question-b2t-shared-inbox	Wozu dient ein gemeinsames Postfach, und wie sollten Sie schreiben, wenn Sie eines nutzen?
+W	tech-answer-b2t-shared-inbox	Es dient einer Rolle, nicht einer Person; der Betreff sollte also das Ticket oder den Kunden nennen. Ein „Hallo, ich bin's wieder“ setzt voraus, dass der nächste Leser die letzte Nachricht kannte.
+W	tech-question-b2t-ticket-in-subject	Warum die Ticketnummer in den Betreff jeder zugehörigen E-Mail setzen?
+W	tech-answer-b2t-ticket-in-subject	So können Leute den Thread suchen und demselben Vorgang zuordnen. Ein neuer Betreff bei jeder Antwort zerreißt die Historie.
+W	tech-question-b2t-briefing-pack	Was soll ein Briefing-Dossier für ein Senior-Meeting enthalten?
+W	tech-answer-b2t-briefing-pack	Ein zweiseitiges Dossier mit der Bitte, den Optionen, den Zahlen und dem Risiko reicht. Ein Vierzig-Folien-Deck, das am Vorabend kommt, wird nicht gelesen.
+W	tech-question-b2t-preread	Warum eine Vorablektüre senden, und wie kurz soll sie sein?
+W	tech-answer-b2t-preread	Senden Sie sie, damit das Meeting bei der Entscheidung beginnen kann, nicht bei der Erzählung; zwei Seiten am Vortag reichen. Eine Vorablektüre, die zum Meetingbeginn eintrifft, ist nur ein Anhang.
+W	tech-question-b2t-minutes-capture	Was müssen formale Protokolle festhalten, was informelle Notizen weglassen dürfen?
+W	tech-answer-b2t-minutes-capture	Sie müssen Anwesenheit, Entscheidungen, Maßnahmen und jeden Widerspruch festhalten, dessen Aufnahme verlangt wurde. Farbige Zitate aus der Debatte können in persönlichen Notizen bleiben.
+W	tech-question-b2t-minutes-same-day	Warum das Protokoll noch am selben Tag zirkulieren statt in der folgenden Woche?
+W	tech-answer-b2t-minutes-same-day	Die Leute erinnern sich noch an das Vereinbarte, deshalb kommen Korrekturen schnell. Eine Woche später wird das Protokoll zu einer neuen Verhandlung.
+W	tech-question-b2t-parking-lot	Was ist ein Parkplatz-Punkt im Protokoll, und wie schreibt man ihn?
+W	tech-answer-b2t-parking-lot	Es ist ein Punkt, der für eine andere Sitzung geparkt wurde, mit Owner und Datum zum Wiederaufnehmen. Als „später“ ohne Namen zu schreiben heißt, ihn in der Akte sterben zu lassen.
+W	tech-question-b2t-close-old-tickets	Warum alte Tickets schriftlich schließen statt sie „für alle Fälle“ offen zu lassen?
+W	tech-answer-b2t-close-old-tickets	Ein offenes Ticket ohne nächste Aktion bläht die Zählung auf und verdeckt die lebendige Arbeit. Schließen Sie es mit einem Satz zum Warum und öffnen Sie ein neues, wenn der Bedarf zurückkehrt.
+W	tech-question-b2t-workaround-note	Was soll eine Workaround-Notiz der nächsten Person sagen, die auf dasselbe Problem stößt?
+W	tech-answer-b2t-workaround-note	Sagen Sie, was fehlschlägt, was stattdessen zu tun ist und wann der richtige Fix fällig ist. Ein Screenshot ohne Schritte verschwendet den Morgen der nächsten Person.
+W	tech-question-b2t-ask-screenshot	Wie bitten Sie einen Nutzer um einen Screenshot, ohne dass er sich beschuldigt fühlt?
+W	tech-answer-b2t-ask-screenshot	Bitten Sie um den Bildschirm, den sie sehen, und die Uhrzeit, und sagen Sie, dass Sie ihn brauchen, um den Fehler nachzustellen. Danken Sie für den Extra-Schritt; sie haben das Ticket nicht dadurch verursacht, dass sie geschrieben haben.
+W	tech-question-b2t-repro-steps	Was macht einen Reproduktionsschritt in einem schriftlichen Bericht nützlich?
+W	tech-answer-b2t-repro-steps	Jeder Schritt sollte eine Handlung sein, der ein Unbekannter folgen kann, und damit enden, was er sehen soll. „Fang hier an und klick ein bisschen“ ist kein Schritt.
+W	tech-question-b2t-severity-priority	Wie erklären Sie in einer Ticketnotiz den Unterschied zwischen Schweregrad und Priorität?
+W	tech-answer-b2t-severity-priority	Der Schweregrad ist, wie schlimm die Wirkung ist; die Priorität ist, wie bald Sie daran arbeiten. Ein schwerer, aber seltener Fehler kann hinter einem milderen warten, der heute viele Nutzer blockiert.
+W	tech-question-b2t-known-issues	Was soll ein Known-Issue-Register enthalten, damit Support den Nutzern antworten kann?

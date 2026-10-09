@@ -58,9 +58,9 @@ Cumplir solo el total rellenando frases y dejando clases de palabra cortas **no*
 | Francés | 10.911 | cumple contrato 89 % | Fase 33 hecha |
 | Euskera | 1.105 | 9,5 % | Casi todo el banco |
 | Catalán | 1.067 | 9,2 % | Casi todo el banco |
-| Alemán | 0 | 0 % | Glosas incompletas; menú en «Próximamente» |
+| Alemán | 11.618 | cumple contrato 89 % | Fase 34 hecha (glosas 1:1) |
 
-El francés cumple total y cada `TARGET_CAT` tras la fase 33.
+El francés cumple total y cada `TARGET_CAT` tras la fase 33. El alemán tras la fase 34.
 
 ## Cómo se amplía cada idioma
 
@@ -82,9 +82,7 @@ Calidad de contenido (sin relajar):
 
 ## Publicación del alemán
 
-Hoy `germanEntries` solo se publica si el mapeo es completo al 100 % del inglés. En esta oleada el umbral de publicación baja al contrato de paridad 89 % (total + suelos). Un catálogo parcial por debajo de ese umbral sigue siendo `[]` y el menú permanece apagado.
-
-Alcanzar el 100 % del inglés en alemán también cumple este contrato; no está prohibido, solo no es obligatorio para cerrar la oleada.
+`germanEntries` publica el mapeo completo de glosas (11.618). El menú `de-es` está disponible. El contrato de paridad 89 % queda cumplido; el 100 % del inglés también.
 
 ## Fuera de esta oleada
 
@@ -105,4 +103,4 @@ Fase 32 hecha. Helper: `src/data/parity.ts`. Tests: `src/data/parity.test.ts`.
 - `measureParity(catalog)` mide un idioma contra esos suelos.
 - `assertEnglishFreeze(allEntries)` falla si el inglés se mueve durante la oleada.
 
-El test del alemán vacío (`length === 0`) en `dataset.test.ts` se mantiene hasta que el idioma entre en paridad; entonces exige el contrato completo y el menú disponible. Fase 33: francés con `meetsParity === true`. Siguen 34–36 para alemán, catalán y euskera.
+Fase 33: francés con `meetsParity === true`. Fase 34: alemán con `meetsParity === true` y menú disponible. Siguen 35–36 para catalán y euskera.

@@ -199,3 +199,602 @@ W	open-question-c2o-hedge-name-on-it	Würden Sie Ihren Namen unter diese Formuli
 W	open-answer-c2o-hedge-name-on-it	Unter diese Formulierung nicht. Ich würde die Beobachtung behalten und den Schmuck streichen.
 W	open-question-c2o-hedge-for-now	Was können wir vorerst als geklärt behandeln?
 W	open-answer-c2o-hedge-for-now	Vorerst nur die engere Lesart. Die weitere würde ich auf Bewährung lassen.
+W	open-question-c2o-hedge-working-guess	Ist das ein Befund oder eine Arbeitshypothese?
+W	open-answer-c2o-hedge-working-guess	Eine Arbeitshypothese, die ich in diesem Raum verteidigen würde. Als Befund würde ich sie nicht in den Druck geben.
+W	open-question-c2o-hedge-read-into	Wie viel lesen wir in ein dünnes Signal hinein?
+W	open-answer-c2o-hedge-read-into	Mehr, als es trägt, wenn wir die Erzählung den Zahlen vorauslaufen lassen.
+W	open-question-c2o-hedge-if-pressed	Wenn man Sie drängt: Wofür würden Sie wirklich einstehen?
+W	open-answer-c2o-hedge-if-pressed	Wenn man mich drängt, die vorsichtige Fassung. Die mutigere war ein Überziehen, und die würde ich zurücknehmen.
+W	open-question-c2o-hedge-wont-swear	Wie sicher sind Sie, wenn Sie sich weigern, darauf zu schwören?
+W	open-answer-c2o-hedge-wont-swear	Sicher genug, um es auf den Tisch zu legen. Nicht sicher genug, um darauf zu schwören, wenn man mir widerspricht.
+W	open-question-c2o-hedge-one-reading	Ist das die einzige Lesart, die das Material trägt?
+W	open-answer-c2o-hedge-one-reading	Eine Lesart unter anderen. Die übrigen würde ich ohne besseren Grund nicht schließen.
+W	open-question-c2o-hedge-hold-lightly	Wie fest sollen wir diese Behauptung über Nacht halten?
+W	open-answer-c2o-hedge-hold-lightly	Leicht. Ich würde lieber darüber schlafen, als sie heute Abend festzunageln.
+W	open-question-c2o-hedge-thin-ice	Wo beginnt das, wie dünnes Eis auszusehen?
+W	open-answer-c2o-hedge-thin-ice	Dort, wo wir das Gemessene verlassen und sprechen, als wäre der Rest schon gezeigt.
+W	open-question-c2o-hedge-say-rather	Wenn Sie den Satz umformulieren müssten: Wie liefe er?
+W	open-answer-c2o-hedge-say-rather	Ich würde eher sagen, dass es in diesem Fenster zu halten pflegt. Den Ton einer Gesetzmäßigkeit würde ich streichen.
+W	open-question-c2o-hedge-pending-more	Was hängt in der Luft, bis mehr kommt?
+W	open-answer-c2o-hedge-pending-more	Der Sprung zur allgemeinen Regel. Die lokale Beobachtung darf bleiben; der Sprung nicht.
+W	open-question-c2o-hedge-not-gospel	Sollen wir das in diesem Gespräch als Evangelium behandeln?
+W	open-answer-c2o-hedge-not-gospel	Behandeln Sie es als gut gestützte Vermutung. Evangelium ist der falsche Ton für etwas, das noch lebt.
+W	open-question-c2o-hedge-modest-claim	Was ist die bescheidenste These, die Sie noch verteidigen können?
+W	open-answer-c2o-hedge-modest-claim	Dass der Effekt unter diesen Kontrollen auftaucht. Alles Lautere ist Schmuck.
+W	open-question-c2o-hedge-not-settled	Wie unentschieden ist das, wenn wir ehrlich sind?
+W	open-answer-c2o-hedge-not-settled	Unentschieden genug, dass ich es in der Notiz als vorläufig kennzeichnen würde.
+W	open-question-c2o-hedge-subject-to	Was müsste noch halten, damit Sie diesen Satz so stehen lassen?
+W	open-answer-c2o-hedge-subject-to	Die Hauptannahme muss weiter halten. Rutscht sie, geht der Satz mit.
+W	open-question-c2o-hedge-wary-wide	Warum sind Sie bei der weiten Fassung misstrauisch?
+W	open-answer-c2o-hedge-wary-wide	Weil die weite Fassung sich eine Sicherheit leiht, die wir nicht verdient haben. Die enge haben wir.
+W	open-question-c2o-hedge-under-erasure	Können wir das an der Tafel lassen, aber durchgestrichen?
+W	open-answer-c2o-hedge-under-erasure	Lassen Sie es stehen, aber durchgestrichen. Ich will es als Versuchung sichtbar, nicht als Schluss.
+W	open-question-c2o-hedge-best-we-have	Ist das der beste Bericht, den wir haben, oder der beste, den man haben kann?
+W	open-answer-c2o-hedge-best-we-have	Der beste, den wir heute Abend haben. Das würde ich nicht mit dem besten verwechseln, den irgendjemand haben könnte.
+W	open-question-c2o-hedge-open-rewrite	Wie offen sind Sie dafür, den Einstieg umzuschreiben?
+W	open-answer-c2o-hedge-open-rewrite	Weit offen. Der Einstieg läuft dem Rest voraus, und ich würde eher den Einstieg kürzen als den Rest aufblasen.
+W	open-question-c2o-hedge-half-step	Machen Sie hier einen ganzen Schritt oder einen halben?
+W	open-answer-c2o-hedge-half-step	Einen halben. Ich deute, ich pflanze keine Fahne.
+W	open-question-c2o-hedge-until-rebutted	Lassen wir es stehen, bis jemand es umwirft?
+W	open-answer-c2o-hedge-until-rebutted	Lassen Sie es als Arbeitstandard stehen, nicht als Trophäe. Ein Standard darf ohne Theater fallen.
+W	open-question-c2o-hedge-in-this-room	Was sind Sie bereit, in diesem Raum zu sagen, was Sie nicht schreiben würden?
+W	open-answer-c2o-hedge-in-this-room	In diesem Raum lasse ich die stärkere Lesart schweben. Schreiben würde ich sie nicht ohne einen zweiten Blick.
+W	open-question-c2o-hedge-without-trumpets	Können wir es ohne Fanfaren sagen?
+W	open-answer-c2o-hedge-without-trumpets	Wir können, und wir sollten. Die Fanfaren leisten Arbeit, die die Zahlen nicht geleistet haben.
+W	open-question-c2o-concede-timing	Was räumen Sie beim Zeitpunkt ein?
+W	open-answer-c2o-concede-timing	Der Zeitpunkt war ungeschickt. Den Kern würde ich deshalb nicht aufgeben.
+W	open-question-c2o-concede-tone	Wo geben Sie beim Ton nach?
+W	open-answer-c2o-concede-tone	Der Ton war schlecht gewählt. Der Punkt selbst fällt nicht mit dem Ton.
+W	open-question-c2o-concede-wording	Was an der Formulierung würden Sie jetzt zurücknehmen?
+W	open-answer-c2o-concede-wording	Das Absolute. Den milderen Vergleich würde ich behalten und den Superlativ streichen.
+W	open-question-c2o-concede-narrow-hit	Hat diese Einwand getroffen, und sei es knapp?
+W	open-answer-c2o-concede-narrow-hit	Er traf das Beispiel, nicht das Gerüst. Das Beispiel ziehe ich zurück.
+W	open-question-c2o-concede-first-pass	Was stimmte am ersten Anlauf nicht?
+W	open-answer-c2o-concede-first-pass	Er wollte zu viel in einem Atemzug. Ich würde die These teilen und die erste Hälfte behalten.
+W	open-question-c2o-concede-left-out	Was haben Sie ausgelassen, das Sie hätten kennzeichnen müssen?
+W	open-answer-c2o-concede-left-out	Eine rivalisierende Darstellung, die ich weggewinkt habe. Ich hätte sagen sollen, warum sie scheitert, nicht nur, dass sie scheitert.
+W	open-question-c2o-concede-emphasis	War die Betonung fair?
+W	open-answer-c2o-concede-emphasis	Sie war schief. Ich denke weiter, dass das Gewicht hierher gehört, aber ich habe übertrieben.
+W	open-question-c2o-concede-weak-example	Was kostet Sie das schwache Beispiel?
+W	open-answer-c2o-concede-weak-example	Eine Illustration, nicht den Fall. Ich hätte ein saubereres wählen sollen.
+W	open-question-c2o-concede-haste	Was hat die Eile dem Argument angetan?
+W	open-answer-c2o-concede-haste	Sie hat eine Unterscheidung plattgedrückt, die ich noch brauche. Ich kann sie wiederherstellen, ohne die Linie aufzugeben.
+W	open-question-c2o-concede-scope-creep	Wo ist der Umfang ausufernd geworden?
+W	open-answer-c2o-concede-scope-creep	Er ist von diesem Gegenstand zum Nachbarn gerutscht. Ich hole ihn hierher zurück.
+W	open-question-c2o-concede-you-landed	Wo haben sie einen fairen Treffer gelandet?
+W	open-answer-c2o-concede-you-landed	Am fehlenden Schritt zwischen den Zahlen und dem Urteil. Ich halte das Urteil weiter für richtig; der Schritt wurde übersprungen.
+W	open-question-c2o-concede-badly-put	War es schlecht gesagt oder schlecht gedacht?
+W	open-answer-c2o-concede-badly-put	Schlecht gesagt. Der Gedanke hält, wenn ich ihn enger formuliere.
+W	open-question-c2o-concede-overreach	Was genau war die Überziehung?
+W	open-answer-c2o-concede-overreach	Ich habe eine Tendenz als Regel behandelt. Die Regel ziehe ich auf eine Tendenz zurück.
+W	open-question-c2o-concede-missed-counter	Welchen Gegenzug haben Sie verfehlt?
+W	open-answer-c2o-concede-missed-counter	Den, der die Brücke angreift, nicht die Ufer. Ich hatte nur die Ufer beantwortet.
+W	open-question-c2o-concede-style	Wie viel davon ist Stil statt Substanz?
+W	open-answer-c2o-concede-style	Die Hitze ist Stil. Die Unterscheidung, die ich ziehe, ist Substanz, und die würde ich mit kälterer Stimme behalten.
+W	open-question-c2o-concede-force-of-that	Spüren Sie die Kraft dieses Punkts?
+W	open-answer-c2o-concede-force-of-that	Bei der Formulierung spüre ich sie. Beim wirklichen Teilen der Beweislast spüre ich sie nicht.
+W	open-question-c2o-concede-that-bit	Welches Stück können Sie ihnen ohne Verlust geben?
+W	open-answer-c2o-concede-that-bit	Den historischen Exkurs. Das war Farbe, und die Farbe kann ich verlieren.
+W	open-question-c2o-concede-audience-miss	Wo haben Sie den Raum verfehlt?
+W	open-answer-c2o-concede-audience-miss	Ich habe gesprochen, als hätten alle schon den Hintergrund. Hatten sie nicht, und das geht auf meine Kappe.
+W	open-question-c2o-concede-citation-thin	Wie dünn war die Belegstelle?
+W	open-answer-c2o-concede-citation-thin	Dünn genug, dass ich sie als Hinweis hätte kennzeichnen sollen, nicht als das, worauf das Argument steht.
+W	open-question-c2o-concede-rhetoric	Was fügt die Rhetorik hinzu, was der Fall nicht braucht?
+W	open-answer-c2o-concede-rhetoric	Hitze. Denselben Fall kann ich mit flacherer Stimme führen und nichts verlieren, was zählt.
+W	open-question-c2o-concede-unused-slice	Welches ungenutzte Stück hätte auf dem Tisch liegen sollen?
+W	open-answer-c2o-concede-unused-slice	Die abweichende Notiz hinten. Ich wusste, dass sie da war, und bin drumherum geglitten.
+W	open-question-c2o-concede-fair-warning	Haben sie Sie fair gewarnt?
+W	open-answer-c2o-concede-fair-warning	Haben sie. Ich habe mir ein saubereres Ziel gewählt als das, auf das sie zielten.
+W	open-question-c2o-concede-i-was-loose	Wo waren Sie locker?
+W	open-answer-c2o-concede-i-was-loose	Bei den Verben. Ich habe „beweist“ gesagt, wo ich nur „legt nahe“ verdient hatte.
+W	open-question-c2o-concede-you-tighten	Wenn man es Ihnen enger macht: Was überlebt?
+W	open-answer-c2o-concede-you-tighten	Die vergleichende These überlebt. Die absolute nicht, und das hätte ich zuerst sagen sollen.
+W	open-question-c2o-concede-without-core	Was können Sie zugestehen, ohne den Kern zu berühren?
+W	open-answer-c2o-concede-without-core	Die Verpackung und das Tempo. Ich werde nicht zugestehen, dass das Herz der Schlussfolgerung scheitert.
+W	open-question-c2o-rebut-doesnt-follow	Folgt das wirklich aus dem, was wir haben?
+W	open-answer-c2o-rebut-doesnt-follow	Es folgt nicht. Sie haben etwas neben der Schlussfolgerung gezeigt, nicht die Schlussfolgerung selbst.
+W	open-question-c2o-rebut-wrong-level	Argumentieren wir auf derselben Ebene?
+W	open-answer-c2o-rebut-wrong-level	Tun wir nicht. Sie beantworten eine Politikfrage mit einem Laborergebnis, und die Ebenen treffen sich nicht.
+W	open-question-c2o-rebut-moved-posts	Haben sich die Torpfosten bewegt?
+W	open-answer-c2o-rebut-moved-posts	Haben sie. Zuerst ging es darum, ob es geschehen ist; jetzt, ob es klug war. Das sind zwei Spiele.
+W	open-question-c2o-rebut-straw-man	Beantworten Sie die These, die ich aufgestellt habe?
+W	open-answer-c2o-rebut-straw-man	Sie beantworten eine schwächere Zwillingsthese. Ich habe nicht „immer“ gesagt; ich habe „in dieser Art von Fall“ gesagt.
+W	open-question-c2o-rebut-not-my-claim	Was genau habe ich nicht behauptet?
+W	open-answer-c2o-rebut-not-my-claim	Ich habe nicht behauptet, es sei der einzige Weg. Ich habe behauptet, es reiche bei diesen Fakten — das ist kleiner.
+W	open-question-c2o-rebut-kind-mistake	Was für ein Fehler ist das, wenn es einer ist?
+W	open-answer-c2o-rebut-kind-mistake	Ein Fehler der Art. Sie behandeln eine Frage der Passung, als wäre sie eine Frage der Wahrheit.
+W	open-question-c2o-rebut-word-shift	Wo ist das Schlüsselwort mitten im Fluss gerutscht?
+W	open-answer-c2o-rebut-word-shift	„Fair“ ist von „unparteiisch“ zu „großzügig“ gerutscht. Danach sind wir nicht mehr auf derselben Schiene.
+W	open-question-c2o-rebut-burden-dump	Wer trägt die Last nach diesem Zug?
+W	open-answer-c2o-rebut-burden-dump	Sie haben sie gerade abgelegt. Wer den Extra-Sprung behauptet, muss den Extra-Sprung noch machen.
+W	open-question-c2o-rebut-one-story	Was kauft Ihnen eine sehr lebendige Geschichte wirklich?
+W	open-answer-c2o-rebut-one-story	Farbe, keine Abdeckung. Eine lebendige Geschichte kann eine Regel illustrieren; sie kann sie nicht begründen.
+W	open-question-c2o-rebut-picked-cases	Wie wurden diese Fälle ausgewählt?
+W	open-answer-c2o-rebut-picked-cases	Sie wurden ausgewählt, damit sie passen. Ziehen Sie nur die sauberen, stimmen die unsauberen nicht mit.
+W	open-question-c2o-rebut-afterward	Ist das eine Erklärung oder eine Geschichte hinterher?
+W	open-answer-c2o-rebut-afterward	Eine Geschichte hinterher. Sie passt zu dem, was geschah; sie zeigt nicht, dass es so geschehen musste.
+W	open-question-c2o-rebut-goes-in-circle	Wo dreht sich das im Kreis?
+W	open-answer-c2o-rebut-goes-in-circle	Sie definieren das gute Ergebnis als das, was Ihr Test schon bewertet. Das ist eine geschlossene Schleife.
+W	open-question-c2o-rebut-missing-step	Welcher Schritt fehlt?
+W	open-answer-c2o-rebut-missing-step	Der Schritt von der Assoziation zum Hebel. Sie haben das Miteinander; Sie haben den Stoß nicht gezeigt.
+W	open-question-c2o-rebut-past-each	Reden wir aneinander vorbei?
+W	open-answer-c2o-rebut-past-each	Tun wir. Sie beantworten das Wie-oft; ich habe nach dem Wie gefragt. Beides kann wahr sein und sich trotzdem verfehlen.
+W	open-question-c2o-rebut-misses-objection	Trifft das den Einwand, den ich wirklich erhoben habe?
+W	open-answer-c2o-rebut-misses-objection	Es streift ihn. Ich habe um einen Grund gebeten, der hält; Sie haben mir ein Motiv gegeben. Das ist nicht dasselbe.
+W	open-question-c2o-rebut-changes-topic	Hat das das Thema gewechselt?
+W	open-answer-c2o-rebut-changes-topic	Hat es, höflich. Das Thema war, ob die Schlussfolgerung durchgeht, nicht ob die sprechende Person anständig ist.
+W	open-question-c2o-rebut-false-likeness	Wie weit trägt diese Ähnlichkeit wirklich?
+W	open-answer-c2o-rebut-false-likeness	Bis zur Oberfläche. Die inneren Gelenke sind anders, und die Ähnlichkeit bricht, wenn man sich darauf stützt.
+W	open-question-c2o-rebut-fits-too-well	Warum passt das ein wenig zu gut?
+W	open-answer-c2o-rebut-fits-too-well	Weil nichts übrig bleibt. Eine echte Darstellung lässt meist einen Rest; diese verschluckt den Teller.
+W	open-question-c2o-rebut-cant-fail	Was würde für diese Geschichte als Scheitern zählen?
+W	open-answer-c2o-rebut-cant-fail	Nichts, was Sie genannt haben. Wenn nichts sie scheitern lassen kann, leistet sie keine empirische Arbeit.
+W	open-question-c2o-rebut-at-the-speaker	Urteilen wir über die sprechende Person oder über die Schlussfolgerung?
+W	open-answer-c2o-rebut-at-the-speaker	Über die Schlussfolgerung. Die Manieren der sprechenden Person sind Nebensache, und ich werde den Fall dort nicht verhandeln.
+W	open-question-c2o-rebut-name-alone	Was kauft ein bekannter Name in diesem Austausch?
+W	open-answer-c2o-rebut-name-alone	Gehör, keinen Freibrief. Der Name öffnet die Tür; er trägt die Schlussfolgerung nicht.
+W	open-question-c2o-rebut-crowd-isnt-proof	Zieht weite Übereinstimmung den Schluss?
+W	open-answer-c2o-rebut-crowd-isnt-proof	Sie zieht, dass die Ansicht verbreitet ist. Sie zieht nicht, dass die Ansicht stichhaltig ist.
+W	open-question-c2o-rebut-slid-meaning	Wann ist die Bedeutung gerutscht?
+W	open-answer-c2o-rebut-slid-meaning	Als „effizient“ aufhörte, „sparsam“ zu heißen, und anfing, „freundlich zu unserer Seite“ zu heißen. Das ist ein Rutschen, keine Klärung.
+W	open-question-c2o-rebut-hidden-ought	Wo steckt das versteckte Sollen in diesem Satz?
+W	open-answer-c2o-rebut-hidden-ought	Im Schritt von dem, was Leute tun, zu dem, was sie müssen. Sie haben eine Pflicht in eine Beschreibung geschmuggelt.
+W	open-question-c2o-rebut-wrong-window	Ist das das richtige Zeitfenster?
+W	open-answer-c2o-rebut-wrong-window	Es ist ein bequemes Fenster. Es beginnt nach dem Schock und endet vor dem Kater, was der Geschichte eher hilft.
+W	open-question-c2o-rebut-wrong-unit	Zählen wir die richtige Einheit?
+W	open-answer-c2o-rebut-wrong-unit	Wir zählen Haushalte, als wären sie Personen. Die Geschichte ändert sich, wenn Sie die Einheit wechseln.
+W	open-question-c2o-rebut-no-how	Wo ist das Wie in dieser Darstellung?
+W	open-answer-c2o-rebut-no-how	Fehlt. Sie haben ein Vorher und ein Nachher und ein Achselzucken, wo das Wie stehen sollte.
+W	open-question-c2o-rebut-other-cause	Welche andere Ursache haben wir noch nicht ausgeschaltet?
+W	open-answer-c2o-rebut-other-cause	Die saisonale. Solange die nicht tot ist, lasse ich die modische nicht den Preis einstreichen.
+W	open-question-c2o-rebut-wont-travel	Reist das aus diesem Gegenstand hinaus?
+W	open-answer-c2o-rebut-wont-travel	Es reist nicht. Die Gelenke sind örtlich, und sie lockern sich, wenn man umzieht.
+W	open-question-c2o-rebut-not-enough	Reicht das, um zu entscheiden?
+W	open-answer-c2o-rebut-not-enough	Reicht zum Beunruhigen. Reicht nicht zum Entscheiden, es sei denn, wir haben vereinbart, auf Beunruhigung hin zu entscheiden.
+W	open-question-c2o-recast-as-guess	Wie würden Sie das umformulieren, damit es falsch sein kann?
+W	open-answer-c2o-recast-as-guess	Formulieren Sie es als Vermutung mit einem Vernichtungstest um. So wie es steht, lässt es sich nur wiederholen, nicht scheitern.
+W	open-question-c2o-recast-as-query	Was, wenn wir die These in eine Frage verwandeln?
+W	open-answer-c2o-recast-as-query	Dann hören wir auf so zu tun, als wären wir angekommen. Die Frage ist schärfer als die These, die wir mitgeschleppt haben.
+W	open-question-c2o-recast-tighter	Wie viel enger können Sie es ziehen?
+W	open-answer-c2o-recast-tighter	Eng genug, um die Population und das Fenster zu nennen. Darüber hinaus würde ich Präzision erfinden.
+W	open-question-c2o-recast-how-it-works	Können wir das als ein Wie statt als ein Dass umformulieren?
+W	open-answer-c2o-recast-how-it-works	Wir können, und wir sollten. Ein Dass ohne Wie ist eine Überschrift auf der Suche nach einem Körper.
+W	open-question-c2o-recast-tradeoff	Ist das ein Sieg oder ein Tausch?
+W	open-answer-c2o-recast-tradeoff	Ein Tausch. Es einen Sieg zu nennen, versteckt die Rechnung, die auf der anderen Seite fällig wird.
+W	open-question-c2o-recast-not-two-boxes	Müssen wir eines dieser beiden Kästchen wählen?
+W	open-answer-c2o-recast-not-two-boxes	Müssen wir nicht. Diese Kästchen wurden für die Debatte gebaut, nicht für die Welt.
+W	open-question-c2o-recast-describe-first	Sollen wir beschreiben, bevor wir verschreiben?
+W	open-answer-c2o-recast-describe-first	Sollen wir. Wir streiten über die Medizin, während der Bogen noch verschmiert ist.
+W	open-question-c2o-recast-is-vs-ought	Vermischen wir Sein und Sollen?
+W	open-answer-c2o-recast-is-vs-ought	Tun wir. Ich kann das Sein zugestehen und das Sollen weiter bekämpfen; sie wurden der Bequemlichkeit wegen zusammengeklebt.
+W	open-question-c2o-recast-local	Ist das ein lokaler Befund im Gesetzeskleid?
+W	open-answer-c2o-recast-local	Ist es. Ausgezogen bleibt er nützlich; als Gesetz gekleidet fängt er an zu prahlen.
+W	open-question-c2o-recast-leaning	Nennen wir es eine Neigung statt einer Gesetzmäßigkeit?
+W	open-answer-c2o-recast-leaning	Nennen Sie es eine Neigung. Eine Neigung lässt sich abwägen; eine Gesetzmäßigkeit fordert zum Widerspruch heraus.
+W	open-question-c2o-recast-bound	Ist der eigentliche Punkt eine Grenze statt eines Treibers?
+W	open-answer-c2o-recast-bound	Der eigentliche Punkt ist eine Grenze. Sie sagt, was nicht geschehen kann, nicht was geschehen muss.
+W	open-question-c2o-recast-diagnosis	Behandeln wir eine Diagnose als Plan?
+W	open-answer-c2o-recast-diagnosis	Tun wir. Eine Diagnose benennt den Fehler; ein Plan muss noch Werkzeug und Kosten wählen.
+W	open-question-c2o-recast-what-first	Was sollte zuerst kommen, wenn wir die Reihenfolge umstellen?
+W	open-answer-c2o-recast-what-first	Die Zwangslage, dann der Wunsch. Wir sind vom Wunsch ausgegangen und haben die Mauer später entdeckt.
+W	open-question-c2o-recast-risk	Ist das Schicksal, oder ein Risiko, das wir bepreisen können?
+W	open-answer-c2o-recast-risk	Ein Risiko, das wir bepreisen können. Schicksal ist eine Art, das Gespräch zu beenden, bevor der Preis genannt wird.
+W	open-question-c2o-recast-payoffs	Können wir den Streit als Aufeinanderprallen von Auszahlungen umformulieren?
+W	open-answer-c2o-recast-payoffs	Können wir. Sobald die Auszahlungen auf dem Tisch liegen, sinkt die moralische Hitze und der Tausch wird sichtbar.
+W	open-question-c2o-recast-can-do	Ist der Engpass Wille oder Kapazität?
+W	open-answer-c2o-recast-can-do	Kapazität. Wir haben einen Willen gescholten, der nicht die bindende Zwangslage ist.
+W	open-question-c2o-recast-when	Ist das eine Was-Frage oder eine Wann-Frage?
+W	open-answer-c2o-recast-when	Eine Wann-Frage im Was-Gewand. Die Sache kann richtig und dennoch zu früh sein.
+W	open-question-c2o-recast-frame	Was geschieht, wenn wir den Rahmen wechseln?
+W	open-answer-c2o-recast-frame	Helden und Bösewichter tauschen die Stühle. Das ist ein Grund, dem Rahmen zu misstrauen, nicht ein neues Team zu wählen.
+W	open-question-c2o-recast-who-pays	Wer zahlt, wenn wir das Lob als Rechnung umformulieren?
+W	open-answer-c2o-recast-who-pays	Die Leute hinter der Bühne. Das Lob nennt die Gewinner; die Rechnung schweigt, und das ist das Zeichen.
+W	open-question-c2o-recast-cutoff	Wo würden Sie den Schnitt setzen, wenn Sie einen nennen müssten?
+W	open-answer-c2o-recast-cutoff	Höher als den im Schreiben. Ihr Schnitt leistet zu viel Arbeit für die Belege dahinter.
+W	open-question-c2o-recast-rule-of-thumb	Können wir das von einer Regel zu einer Faustregel herabstufen?
+W	open-answer-c2o-recast-rule-of-thumb	Können wir, und dann wird es brauchbar. Als Regel ist es spröde; als Faustregel kann es sich biegen.
+W	open-question-c2o-recast-against-what	Womit wird das verglichen?
+W	open-answer-c2o-recast-against-what	Mit einer stillen Alternative, die nie Gehör fand. Wechseln Sie die Folie, ändert sich der Glanz.
+W	open-question-c2o-recast-hidden-cost	Welche versteckten Kosten sollten in die Umformulierung?
+W	open-answer-c2o-recast-hidden-cost	Die Zeit der Leute, die es laufen lassen müssen. Wir haben das Werkzeug bepreist und die Hände vergessen.
+W	open-question-c2o-recast-who-acts	Wer ist der Handelnde in diesem Satz, sobald wir ihn umformulieren?
+W	open-answer-c2o-recast-who-acts	Eine Institution, keine Stimmung. Stimmungen unterschreiben nicht; Schreibtische schon.
+W	open-question-c2o-recast-at-what-scale	Auf welcher Skala hört das auf, wahr zu sein?
+W	open-answer-c2o-recast-at-what-scale	Auf der Skala eines Landes. Es hält für einen Laden; es sackt, wenn wir es aufblasen.
+W	open-question-c2o-false-either-or	Warum ist das kein echtes Entweder-Oder?
+W	open-answer-c2o-false-either-or	Weil zwischen den beiden Hockern ein dritter Weg sitzt, und Sie haben ihn durch die Art der Frage ausgeschlossen.
+W	open-question-c2o-false-loyal-mute	Muss man sich entweder einreihen oder schweigen?
+W	open-answer-c2o-false-loyal-mute	Das ist ein falsches Paar. Man kann im Haus widersprechen und dem Werk trotzdem treu bleiben.
+W	open-question-c2o-false-facts-or-worth	Müssen wir zwischen den Fakten und dem Wert der Sache wählen?
+W	open-answer-c2o-false-facts-or-worth	Müssen wir nicht. Die Zählung kann stimmen und der Wert noch offen sein. Sie haben sie zusammengeklebt, um eine Seite zu erzwingen.
+W	open-question-c2o-false-grow-or-care	Ist die Wahl wirklich Wachsen oder Sorgen?
+W	open-answer-c2o-false-grow-or-care	Das ist ein Slogan, keine Gabelung. Viele Wege lassen das eine wachsen und sorgen für das andere.
+W	open-question-c2o-false-loose-or-just	Muss es locker sein, um frei zu sein, oder eng, um gerecht zu sein?
+W	open-answer-c2o-false-loose-or-just	Kein Horn ist Pflicht. Eine Regel kann sparsam sein und dort zubeißen, wo sie soll.
+W	open-question-c2o-false-careful-or-fast	Sind Sorgfalt und Tempo die einzigen Gänge?
+W	open-answer-c2o-false-careful-or-fast	Sind sie nicht. Man kann am Scharnier, das zählt, langsam sein und beim Rest schnell.
+W	open-question-c2o-false-few-or-many	Ist das ein Kampf zwischen wenigen und vielen?
+W	open-answer-c2o-false-few-or-many	Das ist ein Kostüm. Der Schnitt, der zählt, liegt zwischen denen, die zahlen, und denen, die sprechen.
+W	open-question-c2o-false-old-or-new	Müssen wir den alten Weg oder den neuen wählen?
+W	open-answer-c2o-false-old-or-new	Wir müssen wählen, was an diesem Gelenk hält. Alter ist ein schlechter Ersatz für Passung.
+W	open-question-c2o-false-desk-or-field	Ist es Schreibtischwissen oder Feldwissen, als wären die Feinde?
+W	open-answer-c2o-false-desk-or-field	Sie sind keine Feinde. Der Schreibtisch ohne Feld ist Luft; das Feld ohne Schreibtisch ist ein Haufen.
+W	open-question-c2o-false-shut-or-open	Schließen wir die Tür oder reißen wir sie weit auf?
+W	open-answer-c2o-false-shut-or-open	Ein Riegel ist keine Mauer. Man kann einen Filter behalten, ohne den Raum zum Tresor oder zur Straße zu machen.
+W	open-question-c2o-false-home-or-state	Ist jede Lösung entweder privat oder öffentlich?
+W	open-answer-c2o-false-home-or-state	Viele Lösungen sitzen in der unordentlichen Mitte: Zünfte, Häuser, Gremien, die weder Herd noch Krone sind.
+W	open-question-c2o-false-win-lose	Wer hat entschieden, dass das Gewinnen oder Verlieren ist?
+W	open-answer-c2o-false-win-lose	Der Moderator einer Talkshow. Eine anständige Einigung lässt beide Seiten kürzer dastehen als ihr erstes Gebot.
+W	open-question-c2o-false-head-or-gut	Müssen wir dem Kopf oder dem Bauch trauen?
+W	open-answer-c2o-false-head-or-gut	Dieses Paar ist eine Karikatur. Urteil nutzt beides, und die Arbeit ist zu sagen, welches hier am Steuer sitzt.
+W	open-question-c2o-false-code-or-pity	Ist es der Buchstabe des Kodex oder Mitleid, als erschöpften die den Fall?
+W	open-answer-c2o-false-code-or-pity	Tun sie nicht. Billigkeit sitzt dazwischen, und Sie haben sie aus dem Menü gestrichen.
+W	open-question-c2o-false-one-voice	Verlangt Loyalität eine Stimme?
+W	open-answer-c2o-false-one-voice	Loyalität kann eine zweite Stimme tragen. Ein Chor, der nie reißt, ist meist geprobt, nicht gedacht.
+W	open-question-c2o-false-numbers-or-tale	Müssen wir die Zahlen oder die Erzählung wählen?
+W	open-answer-c2o-false-numbers-or-tale	Die Erzählung ohne Zahlen ist Nebel. Die Zahlen ohne Erzählung sind ein Haufen. Wir brauchen beides, in dieser Reihenfolge.
+W	open-question-c2o-false-here-or-abroad	Ist der einzige Schnitt hier oder woanders?
+W	open-answer-c2o-false-here-or-abroad	Das ist ein fauler Schnitt. Dasselbe Gelenk kann zu Hause versagen und eine Straße weiter halten.
+W	open-question-c2o-false-now-or-later	Ist es jetzt oder später, ohne etwas dazwischen?
+W	open-answer-c2o-false-now-or-later	Es gibt ein gestuftes Jetzt. Man kann das erste Gelenk heute bewegen und den Rest datieren.
+W	open-question-c2o-false-blame-or-pardon	Müssen wir entweder tadeln oder freisprechen?
+W	open-answer-c2o-false-blame-or-pardon	Wir können ohne Theater zuteilen. Tadeln und Freisprechen sind zwei heiße Wörter für eine kältere Aufgabe.
+W	open-question-c2o-false-keep-or-bin	Ist der einzige Zug, das Ganze zu behalten oder das Ganze wegzuwerfen?
+W	open-answer-c2o-false-keep-or-bin	Man kann das Gelenk behalten und den Schmuck wegwerfen. Alles-oder-nichts ist Plakatsprache.
+W	open-question-c2o-scope-this-case	Wie weit führt uns dieser Fall wirklich?
+W	open-answer-c2o-scope-this-case	Dieser Fall, bei diesen Fakten. Für sich allein gibt er uns nicht den nächsten, den sie hineinfalten wollen.
+W	open-question-c2o-scope-this-stretch	Für welchen Zeitabschnitt gilt das?
+W	open-answer-c2o-scope-this-stretch	Für diesen Abschnitt und den, der dasselbe Wetter teilt. Ich würde ihn nicht für eine andere Jahreszeit sprechen lassen.
+W	open-question-c2o-scope-this-slice	Welchen Ausschnitt des Materials deckt das ab?
+W	open-answer-c2o-scope-this-slice	Den gemessenen Ausschnitt. Der Rest ist noch Weißraum, und den male ich von hier aus nicht aus.
+W	open-question-c2o-scope-this-bench	Bindet das über diesen Tisch hinaus?
+W	open-answer-c2o-scope-this-bench	Es bindet hier. Andere Tische haben andere Akten, und ich würde unsere Minute nicht als ihre Gesetzmäßigkeit exportieren.
+W	open-question-c2o-scope-this-cohort	Wie weit kann diese Kohorte für die nächste sprechen?
+W	open-answer-c2o-scope-this-cohort	Soweit der Zugang übereinstimmt. Eine spätere Kohorte mit anderer Tür ist eine andere Stimme.
+W	open-question-c2o-scope-if-we-grant	Wenn wir Ihre Annahme zugestehen: Wie weit geht der Rest?
+W	open-answer-c2o-scope-if-we-grant	Soweit die Annahme die Arbeit leistet. Nehmen Sie sie weg, setzt sich der größte Teil des Rests.
+W	open-question-c2o-scope-not-next-door	Warum deckt das den Fall nebenan nicht ab?
+W	open-answer-c2o-scope-not-next-door	Weil nebenan eine Bedingung scheitert, die wir hier genutzt haben. Von der Straße sieht es ähnlich aus, von den Gelenken nicht.
+W	open-question-c2o-scope-not-blank-cheque	Schreiben Sie mit diesem Satz einen Blankoscheck?
+W	open-answer-c2o-scope-not-blank-cheque	Nicht, wenn wir die Vorbehalte behalten. Ohne die Vorbehalte fängt er an auszugeben wie ein Blankoscheck.
+W	open-question-c2o-scope-not-a-rule	Wann fängt ein Befund an, sich als Regel aufzuspielen?
+W	open-answer-c2o-scope-not-a-rule	Wenn wir die Vorbehalte streichen und ihn namenlos reisen lassen. Ich würde den Namen dieses Gegenstands darauf lassen.
+W	open-question-c2o-scope-not-a-sermon	Machen wir Beschreibung oder eine Predigt?
+W	open-answer-c2o-scope-not-a-sermon	Beschreibung, wenn es nach mir geht. Die Predigt ist mit den Adjektiven eingeschlichen, und die würde ich hinausschicken.
+W	open-question-c2o-scope-how-measured	Wie wurde das gemessen, und warum begrenzt das die These?
+W	open-answer-c2o-scope-how-measured	Es wurde mit einem Maßstab gemessen, der die Ränder ignoriert. Die These darf nicht lauter sprechen als der Maßstab.
+W	open-question-c2o-scope-id-story	Auf welcher Annahme stützt sich das?
+W	open-answer-c2o-scope-id-story	Auf der, dass der Rest so gut wie Zufall ist. Rutscht die, geht die ganze Stütze mit.
+W	open-question-c2o-scope-holding-rest	Wofür halten wir den Rest der Welt still?
+W	open-answer-c2o-scope-holding-rest	Für einen Satz, den wir nicht schreiben könnten, wenn der Rest sich bewegte. Das ist ein Grund zu flüstern, nicht zu schreien.
+W	open-question-c2o-scope-edge	Wo ist der Rand dessen, was wir wirklich gesehen haben?
+W	open-answer-c2o-scope-edge	Bei der letzten Zeile, die wir nennen konnten. Jenseits dieser Zeile schmücke ich die Dunkelheit.
+W	open-question-c2o-scope-outside-slice	Was geschieht außerhalb des Ausschnitts?
+W	open-answer-c2o-scope-outside-slice	Wir wissen es nicht, und der ehrliche Zug ist das zu sagen, statt nach Nachbarschaft zu malen.
+W	open-question-c2o-scope-wont-translate	Reist diese Formulierung in ein anderes Haus?
+W	open-answer-c2o-scope-wont-translate	Die Formulierung reist; die Kraft nicht. Andere Häuser laden dieselben Wörter anders.
+W	open-question-c2o-scope-wont-scale	Was bricht, wenn wir das hochskalieren?
+W	open-answer-c2o-scope-wont-scale	Die informellen Kontrollen. Sie halten in einem Raum; sie verschwinden in einer Menge, und die These stützte sich darauf.
+W	open-question-c2o-scope-that-era	Gehört das zu jener Epoche oder zu unserer?
+W	open-answer-c2o-scope-that-era	Zu jener Epoche, es sei denn, wir zeigen dieselben Gelenke. Nostalgie ist keine Methode.
+W	open-question-c2o-scope-this-house	Was ist in diesem Haus wahr und im nächsten vielleicht falsch?
+W	open-answer-c2o-scope-this-house	Die ungeschriebene Regel darüber, wer sprechen darf. Exportieren Sie das, und Sie haben ein Klima exportiert, keinen Befund.
+W	open-question-c2o-scope-said-aloud	Wie viel davon ist nur wahr, weil es hier laut gesagt wurde?
+W	open-answer-c2o-scope-said-aloud	Mehr, als uns lieb ist. Ein Teil der Kraft ist der nickende Raum, und das wird nicht im Protokoll stehen.
+W	open-question-c2o-burden-still-yours	Wer trägt die Last nach diesem Schmuckstück noch?
+W	open-answer-c2o-burden-still-yours	Sie. Ein Schmuckstück ist kein Nachweis, und den Extra-Sprung müssen Sie noch machen.
+W	open-question-c2o-burden-thin-file	Wie dünn ist die Akte, der Sie uns zu trauen bitten?
+W	open-answer-c2o-burden-thin-file	Dünn genug, dass ich sie als Hinweis kennzeichnen würde. Das Urteil würde ich ihr nicht übergeben.
+W	open-question-c2o-burden-quiet-isnt	Zählt ihr Schweigen als Zustimmung?
+W	open-answer-c2o-burden-quiet-isnt	Schweigen ist keine Unterschrift. Brauchten Sie Zustimmung, hätten Sie um eine Hand bitten sollen, nicht um Stille.
+W	open-question-c2o-burden-who-claims	Wer muss was zeigen, wenn wir die Rollen sauber halten?
+W	open-answer-c2o-burden-who-claims	Wer eine Klausel hinzufügt. Ich muss keine Klausel widerlegen, die ich nie geöffnet habe.
+W	open-question-c2o-burden-tall-claim	Wie hoch ist diese These gemessen am Nachweis?
+W	open-answer-c2o-burden-tall-claim	Um ein Stockwerk höher als der Nachweis. Außergewöhnliche Höhe braucht mehr als einen gewöhnlichen Ziegel.
+W	open-question-c2o-burden-gap-isnt	Beweist eine Lücke in meiner Akte Ihre Geschichte?
+W	open-answer-c2o-burden-gap-isnt	Eine Lücke ist eine Lücke. Für sich allein wählt sie Ihre Geschichte nicht zum Mieter.
+W	open-question-c2o-burden-do-it-again	Was müsste ein zweiter Durchgang zeigen, bevor ich mich bewege?
+W	open-answer-c2o-burden-do-it-again	Dasselbe Gelenk, unter einer anderen Hand. Ein eleganter Durchgang ist eine Aufführung; zwei sind ein Anfang.
+W	open-question-c2o-burden-said-in-advance	Haben wir im Voraus gesagt, was zählen würde?
+W	open-answer-c2o-burden-said-in-advance	Haben wir nicht, und das ist der Schaden. Hinterher sieht jeder Treffer gewollt aus.
+W	open-question-c2o-burden-what-counts	Was würde für Sie als genug zählen?
+W	open-answer-c2o-burden-what-counts	Ein Nachweis, der den Rivalen tötet, den ich genannt habe. Bis dahin lasse ich den Rivalen auf dem Tisch.
+W	open-question-c2o-burden-killing-test	Was ist der Vernichtungstest für diese Geschichte?
+W	open-answer-c2o-burden-killing-test	Ein Abschnitt, in dem der Hebel gezogen wird und das Ergebnis stehen bleibt. Wenn das nicht geschehen kann, ist die Geschichte aufgepolstert.
+W	open-question-c2o-burden-rival-story	Warum muss die rivalisierende Geschichte gehört werden, bevor wir schließen?
+W	open-answer-c2o-burden-rival-story	Weil ein geschlossener Raum dem ersten Sprecher schmeichelt. Ich will dem Rivalen einen Stuhl, keine Fußnote.
+W	open-question-c2o-burden-how-common	Wie häufig ist das, was Sie gerade als typisch behandelt haben?
+W	open-answer-c2o-burden-how-common	Seltener, als der Ton nahelegte. „Typisch“ leistete rhetorische Arbeit, die die Basisrate nicht leisten würde.
+W	open-question-c2o-burden-null-stands	Steht die Nullhypothese noch?
+W	open-answer-c2o-burden-null-stands	Sie steht noch. Sie haben sie angeschlagen; Sie haben sie nicht begraben, und ich werde einen Schlag nicht als Begräbnis lesen.
+W	open-question-c2o-burden-picked-cherries	Woher wissen wir, dass das nicht die hübschen Fälle sind?
+W	open-answer-c2o-burden-picked-cherries	Das wissen wir nicht, bis Sie die hässlichen zeigen. Hübsche Fälle bietet eine Schublade dem Gast an.
+W	open-question-c2o-burden-one-paper	Was kann ein Papier in einem lebendigen Streit klären?
+W	open-answer-c2o-burden-one-paper	Eine Richtung, wenn es sauber ist. Einen lebendigen Streit kann es nicht klären, es sei denn, wir haben vereinbart, leicht zu beeindrucken.
+W	open-question-c2o-burden-drawer	Was sitzt in der Schublade, das wir nicht gesehen haben?
+W	open-answer-c2o-burden-drawer	Die Fehlschläge, fast sicher. Schubladen sind der Ort, an dem die Geschichte weniger hübsch wird.
+W	open-question-c2o-burden-noisy-stick	Wie verrauscht ist der Maßstab?
+W	open-answer-c2o-burden-noisy-stick	Verrauscht genug, dass eine kleine Verschiebung Staub sein könnte. Staub lasse ich keine Krone tragen.
+W	open-question-c2o-burden-stand-in	Wofür ist das ein Stellvertreter, und leckt der Stellvertreter?
+W	open-answer-c2o-burden-stand-in	Er steht für Schaden, den wir nicht zählen können. Er leckt überall dort, wo der Stellvertreter einem anderen Herrn dient.
+W	open-question-c2o-burden-who-lasted	Wer hat lange genug gehalten, um in die Akte zu kommen?
+W	open-answer-c2o-burden-who-lasted	Die Überlebenden. Lesen Sie die Akte als die Welt, haben Sie die schon verloren, die früh gegangen sind.
+W	open-question-c2o-burden-what-got-printed	Was wurde gedruckt, und was macht das mit unserem Vertrauen?
+W	open-answer-c2o-burden-what-got-printed	Die Treffer wurden gedruckt. Das kippt das Regal, und ich würde mich zur anderen Seite neigen, bis man mir anderes zeigt.
+W	open-question-c2o-disagree-weight	Wo sind wir uns beim Gewicht uneinig?
+W	open-answer-c2o-disagree-weight	Darin, wie schwer diese Tatsache ist. Ich gestehe zu, dass sie eine Tatsache ist; den Stuhl am Kopf des Tisches gestehe ich ihr nicht zu.
+W	open-question-c2o-disagree-order	Wenn wir uns bei den Teilen einig sind: Wo trennen wir uns noch?
+W	open-answer-c2o-disagree-order	Bei der Reihenfolge. Sie wollen das moralische Stück zuerst; ich will die Zwangslage zuerst, sonst ist der Rest Theater.
+W	open-question-c2o-disagree-reading	Ist das die einzige Lesart der Minute?
+W	open-answer-c2o-disagree-reading	Es ist eine mögliche Lesart. Meine behält den Vorbehalt, den Sie gestrichen haben, und dieser Vorbehalt leistet echte Arbeit.
+W	open-question-c2o-disagree-yardstick	Warum lehnen Sie ihren Maßstab ab?
+W	open-answer-c2o-disagree-yardstick	Weil er einen Proxy bewertet, den sie schon lieben. Ein Maßstab, der Sie nicht überraschen kann, ist ein Cheerleader.
+W	open-question-c2o-disagree-cutoff	Wo würden Sie den Schnitt gegen den ihren setzen?
+W	open-answer-c2o-disagree-cutoff	Eine Kerbe höher. Der ihre lässt Fälle durch, die ich noch Rauschen nennen würde.
+W	open-question-c2o-disagree-likeness	Kaufen Sie die Ähnlichkeit, die sie verkaufen?
+W	open-answer-c2o-disagree-likeness	Ich kaufe eine Familienähnlichkeit, keinen Zwilling. Sie verkaufen einen Zwilling, weil Zwillinge besser reisen.
+W	open-question-c2o-disagree-back-story	Was an der Vorgeschichte akzeptieren Sie nicht?
+W	open-answer-c2o-disagree-back-story	Die Sauberkeit des Ursprungs. Ursprünge sind meist unordentlicher als die spätere Erzählung, und diese ist zu gewaschen.
+W	open-question-c2o-disagree-brief	Wo beansprucht ihr Papier mehr, als man es gebeten hat zu tun?
+W	open-answer-c2o-disagree-brief	Dort, wo es einen Auftrag zu prüfen als Auftrag zu klären behandelt. Das sind verschiedene Jobs.
+W	open-question-c2o-disagree-with-respect	Wie würden Sie die Uneinigkeit markieren, ohne sie persönlich zu machen?
+W	open-answer-c2o-disagree-with-respect	Mit Respekt: Die Schlussfolgerung geht nicht durch. Mit der Person, die sie gezogen hat, habe ich keinen Streit.
+W	open-question-c2o-disagree-not-personal	Was lehnen Sie ab, wenn es nicht die sprechende Person ist?
+W	open-answer-c2o-disagree-not-personal	Den Schritt. Die sprechende Person kann guten Glaubens sein und der Schritt trotzdem scheitern; diese beiden Tatsachen leben zusammen.
+W	open-question-c2o-chair-hold-that	Können wir diesen Faden parken, ohne ihn zu töten?
+W	open-answer-c2o-chair-hold-that	Parken Sie ihn, datiert. Ich will nicht, dass er stirbt; ich will, dass er aufhört, die Stunde zu fressen.
+W	open-question-c2o-chair-best-version	Bevor wir zuschlagen: Was ist die beste Fassung dieses Falls?
+W	open-answer-c2o-chair-best-version	Die beste Fassung streicht die Prahlerei und behält das Scharnier. Das ist die, die eine Antwort wert ist.
+W	open-question-c2o-chair-name-the-word	Um welches Wort streiten wir eigentlich?
+W	open-answer-c2o-chair-name-the-word	Beweis. Solange wir damit nicht dasselbe meinen, gewinnen wir weiter gegen Geister.
+W	open-question-c2o-chair-one-thread	Können wir einen Faden nach dem anderen nehmen?
+W	open-answer-c2o-chair-one-thread	Können wir, und müssen wir. Zwei Fäden zugleich sind der Weg, wie ein Raum an sich selbst vorbeiredet.
+W	open-question-c2o-chair-for-the-minutes	Was soll aus diesem Austausch in die Notiz?
+W	open-answer-c2o-chair-for-the-minutes	Dass wir uns bei der Beweislast getrennt haben, nicht beim guten Willen. Diese Unterscheidung will ich auf Papier.
+W	open-question-c2o-walk-back-flourish	Was würden Sie zurücknehmen, wenn wir Sie beim Schmuckstück festhielten?
+W	open-answer-c2o-walk-back-flourish	Das Schmuckstück. Ich habe den Einstieg überkocht; der Körper des Falls kann ohne die Würze leben.
+W	open-question-c2o-finer-point	Wenn ich es schärfer fassen darf: Wo trennen wir uns wirklich?
+W	open-answer-c2o-finer-point	Darin, ob das Hier den nächsten Fall trägt. Diesen gestehe ich zu; den Sprung verweigere ich.
+W	open-question-c2o-not-that-hill	Ist das der Hügel, auf dem Sie sterben würden?
+W	open-answer-c2o-not-that-hill	Ist es nicht. Kapital gebe ich für das Scharnier aus, nicht für das Adjektiv, das mitgeritten ist.
+W	open-question-c2o-grant-x-keep-y	Was können Sie zugestehen, ohne den Laden herzugeben?
+W	open-answer-c2o-grant-x-keep-y	Ich kann zugestehen, dass die Verzögerung ungeschickt war. Ich werde nicht zugestehen, dass Ungeschick den Punkt aufhebt.
+W	open-question-c2o-hidden-step	Welcher unterdrückte Schritt leistet die Arbeit?
+W	open-answer-c2o-hidden-step	Der Schritt, der sagt, ihr Schweigen war eine Wahl. Dieser Schritt leistet die ganze moralische Arbeit, und er liegt nicht auf dem Tisch.
+W	open-question-c2o-two-asks	Wie viele Bitten sind da zusammengeklebt?
+W	open-answer-c2o-two-asks	Zwei. Sie haben gefragt, ob es geschehen ist und ob es anständig war, und lassen mich nicht die eine ohne die andere beantworten.
+W	open-question-c2o-lawful-not-right	Ziehen Sie rechtmäßig und richtig zusammen?
+W	open-answer-c2o-lawful-not-right	Tun Sie. Ich kann zugestehen, dass es rechtmäßig war, und trotzdem leugnen, dass es richtig war. Das sind verschiedene Stempel.
+W	open-question-c2o-meant-vs-done	Urteilen wir über das Gemeinte oder über das Getane?
+W	open-answer-c2o-meant-vs-done	Über das Getane. Absicht ist eine spätere Geschichte, die Leute erzählen, wenn das Tun unbequem geworden ist.
+W	open-question-c2o-reason-not-wish	Ist das ein Grund oder ein Wunsch im Mantel eines Grunds?
+W	open-answer-c2o-reason-not-wish	Ein Wunsch im Mantel. Er sagt Ihnen, wohin sie wollen, nicht warum der Weg dorthin führt.
+W	open-question-c2o-fact-not-verdict	Haben wir gerade eine Tatsache oder ein Urteil gehört?
+W	open-answer-c2o-fact-not-verdict	Ein Urteil im Tatsachengewand. Das Gewand war die Zählung; das Urteil war das Adjektiv, das folgte.
+W	open-question-c2o-tool-not-aim	Ist das ein Werkzeug oder ein Ziel?
+W	open-answer-c2o-tool-not-aim	Ein Werkzeug, das sie angefangen haben als Ziel zu lieben. Wird ein Werkzeug zum Ziel, können Sie es nicht mehr ablegen.
+W	open-question-c2o-can-not-must	Rutschen wir von Können zu Müssen?
+W	open-answer-c2o-can-not-must	Tun wir. Können öffnet eine Tür; Müssen drängt Sie hindurch. Ich behalte die Tür und verweigere das Drängen.
+W	open-question-c2o-typical-not-possible	Behandeln Sie das Mögliche als Typisches?
+W	open-answer-c2o-typical-not-possible	Tun Sie. Möglich ist ein weites Feld; typisch ist ein Pfad hindurch. Sie haben gerade das Feld asphaltiert.
+W	open-question-c2o-public-reason	Was können wir in öffentlicher Vernunft sagen, was wir als Vorliebe nicht sagen können?
+W	open-answer-c2o-public-reason	Dass es andere bindet. Eine Vorliebe bindet mich; eine öffentliche Vernunft muss die Prämissen anderer überleben.
+W	open-question-c2o-said-not-hinted	Haben sie es gesagt, oder haben wir einen Wink gehört und ihn befördert?
+W	open-answer-c2o-said-not-hinted	Wir haben einen Wink befördert. Der Satz, den sie geäußert haben, ist kleiner, und den kleineren würde ich prüfen.
+W	open-question-c2o-might-not-right	Verwechseln wir Macht mit Recht?
+W	open-answer-c2o-might-not-right	Tun wir. Macht kann eine Sitzung schließen; sie kann nicht klären, ob es richtig war.
+W	open-question-c2o-risk-not-fog	Ist das ein Risiko, das wir nennen können, oder Nebel, den wir Risiko nennen?
+W	open-answer-c2o-risk-not-fog	Nebel. Ein Risiko hat ein Scharnier und eine Spannweite; das hier hat Atmosphäre und eine Stirnfalte.
+W	open-question-c2o-equal-not-same	Behandeln wir gleich als dasselbe?
+W	open-answer-c2o-equal-not-same	Tun wir, und das ist der Schmierfleck. Gleich kann Raum für Unterschied lassen; dasselbe macht den Raum flach.
+W	open-question-c2o-leave-not-assent	Sind sie gegangen, oder haben sie zugestimmt?
+W	open-answer-c2o-leave-not-assent	Sie sind gegangen. Einen Abgang als Segen zu lesen ist ein Trick, den Leute mit Notizen treiben.
+W	open-question-c2o-excuse-not-warrant	Ist das eine Ausrede oder ein Grund, der wirklich hält?
+W	open-answer-c2o-excuse-not-warrant	Eine Ausrede. Sie sagt uns, warum eine Hand ausgerutscht ist; sie sagt nicht, dass der Rutsch in Ordnung war.
+W	open-question-c1o-hedge-put-softer	Können Sie das etwas sanfter sagen?
+W	open-answer-c1o-hedge-put-softer	Ich würde es etwas nennen, das wir diesen Monat immer wieder sehen, keine Regel. Das „immer“ würde ich weglassen.
+W	open-question-c1o-hedge-how-far	Wie weit sind Sie bereit, das heute Abend zu treiben?
+W	open-answer-c1o-hedge-how-far	Soweit das, was wir hier gesehen haben. Darüber hinaus rate ich vor Leuten.
+W	open-question-c1o-hedge-name-under	Würden Sie Ihren Namen unter diesen Satz setzen, so wie er steht?
+W	open-answer-c1o-hedge-name-under	Unter diesen nicht. Ich würde behalten, was wir wirklich gesehen haben, und den letzten Schlag streichen.
+W	open-question-c1o-hedge-for-now	Was können wir vorerst als geklärt behandeln?
+W	open-answer-c1o-hedge-for-now	Vorerst nur die engere Lesart. Die weitere würde ich bis Freitag liegen lassen.
+W	open-question-c1o-hedge-working	Sagen Sie, dass Sie das wissen, oder raten Sie noch?
+W	open-answer-c1o-hedge-working	Ich rate noch, aber die Vermutung würde ich in diesem Raum verteidigen. In eine Mail würde ich sie noch nicht setzen.
+W	open-question-c1o-hedge-thin-signal	Wie viel lesen wir in ein dünnes Stück Beleg hinein?
+W	open-answer-c1o-hedge-thin-signal	Mehr, als es tragen kann, wenn wir die Erzählung den Zahlen vorauslaufen lassen. Die Zahlen würde ich behalten und die Erzählung parken.
+W	open-question-c1o-hedge-if-pressed	Wenn jemand Sie drängt: Wofür würden Sie wirklich einstehen?
+W	open-answer-c1o-hedge-if-pressed	Für die vorsichtige Fassung. Die mutigere war ein Übergreifen, und die würde ich zurücknehmen.
+W	open-question-c1o-hedge-wont-swear	Wie sicher sind Sie, wenn Sie nicht darauf schwören wollen?
+W	open-answer-c1o-hedge-wont-swear	Sicher genug, um es auf den Tisch zu legen. Nicht sicher genug, um darauf zu schwören, wenn jemand zurückdrückt.
+W	open-question-c1o-hedge-one-reading	Ist das die einzige Art, das zu lesen, was wir haben?
+W	open-answer-c1o-hedge-one-reading	Eine Art unter anderen. Die übrigen würde ich ohne besseren Grund nicht abschalten.
+W	open-question-c1o-hedge-hold-lightly	Wie fest sollen wir das über Nacht halten?
+W	open-answer-c1o-hedge-hold-lightly	Leicht. Ich würde lieber darüber schlafen, als es heute Abend festzunageln.
+W	open-question-c1o-hedge-thin-ice	Wo beginnt das, wie dünnes Eis auszusehen?
+W	open-answer-c1o-hedge-thin-ice	Dort, wo wir das Gemessene verlassen und reden, als wäre der Rest schon gezeigt. Diese Linie würde ich in den Notizen nicht überschreiten.
+W	open-question-c1o-hedge-recast	Wenn Sie diesen Satz noch einmal sagen müssten: Wie liefe er?
+W	open-answer-c1o-hedge-recast	Ich würde eher sagen, dass es vorerst zu halten pflegt. Den Ton einer Gesetzmäßigkeit würde ich streichen.
+W	open-question-c1o-hedge-pending	Was lassen wir hängen, bis mehr kommt?
+W	open-answer-c1o-hedge-pending	Den Sprung zur allgemeinen Regel. Was wir hier gesehen haben, darf bleiben; der Sprung nicht.
+W	open-question-c1o-hedge-not-gospel	Sollen wir das in diesem Gespräch als Evangelium behandeln?
+W	open-answer-c1o-hedge-not-gospel	Behandeln Sie es als Vermutung mit anständigem Halt. Evangelium ist zu stark für eine lebendige Akte.
+W	open-question-c1o-hedge-modest	Was ist die bescheidenste These, die Sie noch verteidigen können?
+W	open-answer-c1o-hedge-modest	Dass es auftaucht, wenn wir den Rest stillhalten. Alles Lautere ist Schmuck.
+W	open-question-c1o-hedge-unsettled	Wie unentschieden ist das, wenn wir ehrlich sind?
+W	open-answer-c1o-hedge-unsettled	Unentschieden genug, dass ich es in den Notizen als vorläufig kennzeichnen würde. Als Entscheidung würde ich es nicht reisen lassen.
+W	open-question-c1o-hedge-subject-to	Was müsste wahr bleiben, damit Sie diesen Satz stehen lassen?
+W	open-answer-c1o-hedge-subject-to	Dass wir noch das gemessen haben, von dem wir denken, wir hätten es gemessen. Rutscht das, geht der Satz mit.
+W	open-question-c1o-hedge-wary-wide	Warum sind Sie bei der weiten Fassung misstrauisch?
+W	open-answer-c1o-hedge-wary-wide	Weil die weite Fassung sich eine Sicherheit leiht, die wir nicht verdient haben. Die enge haben wir.
+W	open-question-c1o-hedge-under-erasure	Können wir das an der Tafel lassen, aber durchgestrichen?
+W	open-answer-c1o-hedge-under-erasure	Lassen Sie es stehen, aber durchgestrichen. Ich will es als Versuchung sichtbar, nicht als etwas, das wir gefunden haben.
+W	open-question-c1o-hedge-best-have	Ist das der beste Bericht, den wir haben, oder der beste, den irgendjemand haben könnte?
+W	open-answer-c1o-hedge-best-have	Der beste, den wir heute Abend haben. Das würde ich nicht mit dem besten verwechseln, den irgendjemand haben könnte.
+W	open-question-c1o-hedge-rewrite-lead	Wie offen sind Sie dafür, die Eröffnungszeile umzuschreiben?
+W	open-answer-c1o-hedge-rewrite-lead	Weit offen. Der Einstieg läuft dem Rest voraus, und ich würde ihn eher kürzen als das Folgende aufblasen.
+W	open-question-c1o-hedge-half-step	Machen Sie hier einen ganzen Schritt oder einen halben?
+W	open-answer-c1o-hedge-half-step	Einen halben. Ich deute, ich pflanze keine Fahne.
+W	open-question-c1o-hedge-until-rebutted	Lassen wir es stehen, bis jemand es umwirft?
+W	open-answer-c1o-hedge-until-rebutted	Lassen Sie es als Ausgangspunkt stehen, nicht als Trophäe. Ein Ausgangspunkt darf ohne Theater fallen.
+W	open-question-c1o-hedge-in-room	Was sind Sie bereit, in diesem Raum zu sagen, was Sie nicht schreiben würden?
+W	open-answer-c1o-hedge-in-room	In diesem Raum lasse ich die stärkere Lesart schweben. Schreiben würde ich sie nicht ohne einen zweiten Blick.
+W	open-question-c1o-hedge-no-trumpets	Können wir es ohne Fanfare sagen?
+W	open-answer-c1o-hedge-no-trumpets	Wir können, und wir sollten. Die Fanfare leistet Arbeit, die die Zahlen nicht geleistet haben.
+W	open-question-c1o-hedge-mark-provisional	Wie sollten wir das in der Notiz kennzeichnen?
+W	open-answer-c1o-hedge-mark-provisional	Als vorläufig kennzeichnen und den nächsten Blick datieren. Ein sauberer Satz ohne diese Markierung würde überziehen.
+W	open-question-c1o-hedge-two-cents	Wie viel Gewicht soll diese kleine Geschichte tragen?
+W	open-answer-c1o-hedge-two-cents	Farbe, kein Gewicht. Ich würde sie nicht steuern lassen, was wir empfehlen.
+W	open-question-c1o-hedge-sample-size	Können wir wirklich so laut von so wenigen Fällen sprechen?
+W	open-answer-c1o-hedge-sample-size	Leise können wir sprechen. Wir können nicht sprechen, als wären schon alle im Raum.
+W	open-question-c1o-hedge-outlier	Was machen wir mit dem einen unbequemen Fall?
+W	open-answer-c1o-hedge-outlier	Nennen und sichtbar lassen. Ich würde ihn nicht löschen, um die Geschichte aufzuräumen.
+W	open-question-c1o-hedge-seasonal	Könnte die Jahreszeit etwas davon mitmachen?
+W	open-answer-c1o-hedge-seasonal	Könnte sie, und das haben wir noch nicht abgestellt. Die Akte würde ich nicht schließen, bevor wir das geprüft haben.
+W	open-question-c1o-hedge-selection	Wie viel davon ist, wer geblieben ist, statt was wir getan haben?
+W	open-answer-c1o-hedge-selection	Genug, dass ich es nicht als Wirkung dessen verkaufen würde, was wir getan haben. Ich würde es als Unterschied verkaufen, der noch einen fairen Test braucht.
+W	open-question-c1o-hedge-missingness	Was, wenn die Aussteiger den übrigen nicht gleichen?
+W	open-answer-c1o-hedge-missingness	Dann ist der Durchschnitt, den wir mögen, ein Durchschnitt der Gebliebenen. Das würde ich im selben Atemzug wie die Zahl sagen.
+W	open-question-c1o-hedge-external	Wie weit reist das über unseren Ort hinaus?
+W	open-answer-c1o-hedge-external	Es reist als Vermutung, nicht als Vorlage. Ein anderes Team würde ich nicht briefen, als wäre der Transfer gratis.
+W	open-question-c1o-hedge-mechanism	Wissen wir wirklich, warum das geschieht, oder haben wir nur gesehen, dass es sich gemeinsam bewegt?
+W	open-answer-c1o-hedge-mechanism	Wir haben ein plausibles Warum und ein Miteinander. Das Warum würde ich nicht als gezeigt behandeln.
+W	open-question-c1o-hedge-pre-reg	Haben wir diesen Schnitt gewählt, bevor wir geschaut haben, oder danach gefunden?
+W	open-answer-c1o-hedge-pre-reg	Danach gefunden. Ich würde ihn als erkundend kennzeichnen und ihn die Zusammenfassung nicht führen lassen.
+W	open-question-c1o-hedge-multiple	Haben wir dafür bezahlt, wie oft wir geschaut haben?
+W	open-answer-c1o-hedge-multiple	Haben wir nicht. Ich würde entweder dafür korrigieren oder die Blicke in der Notiz einräumen.
+W	open-question-c1o-hedge-language	Hinter welchem Verb würden Sie wirklich stehen?
+W	open-answer-c1o-hedge-language	Hinter „neigt zu“, nicht hinter „zeigt“. „Zeigt“ ist ein Verb, das wir nicht verdient haben.
+W	open-question-c1o-hedge-interval	Was lässt uns diese Spanne wirklich sagen?
+W	open-answer-c1o-hedge-interval	Sie lässt uns sagen, dass die Größe schlecht festgenagelt ist, nicht dass sie null ist. Das würde ich nicht zu einem Achselzucken zusammenklappen.
+W	open-question-c1o-hedge-qual	Wie weit können ein paar Gespräche eine allgemeine These tragen?
+W	open-answer-c1o-hedge-qual	Sie können eine Textur und ein paar Gründe tragen. Ein „wie häufig“, das wir nicht gezählt haben, können sie nicht tragen.
+W	open-question-c1o-hedge-one-site	Was sollte eine Ein-Ort-Studie sich weigern zu sagen?
+W	open-answer-c1o-hedge-one-site	Sie sollte sich weigern, dem ganzen Sektor das Gesetz zu diktieren. Was hier geschehen ist, kann sie trotzdem vorsichtig sagen.
+W	open-question-c1o-hedge-draft-stamp	Welchen Stempel würden Sie auf diesen Entwurf setzen?
+W	open-answer-c1o-hedge-draft-stamp	Arbeitsentwurf, nicht zum Zitieren. Lieber einen Tag verlieren, als ihn als geklärt zitiert zu sehen.
+W	open-question-c1o-hedge-board-pack	Wie viel davon gehört in die Notiz nach oben?
+W	open-answer-c1o-hedge-board-pack	Der Befund und der Vorbehalt, im selben Absatz. Die Spekulation gehört ans Ende, oder nirgends hin.
+W	open-question-c1o-hedge-press-line	Was ist die Pressenzeile, die Sie wirklich vertreten würden?
+W	open-answer-c1o-hedge-press-line	Dass das Bild gemischt ist und die nächste Prüfung datiert. Eine sauberere Zeile würde ich nicht vertreten.
+W	open-question-c1o-hedge-compare	Vergleichen wir Gleiches mit Gleichem?
+W	open-answer-c1o-hedge-compare	Noch nicht. Den Vergleich würde ich halten, bis die Fenster übereinstimmen.
+W	open-question-c1o-hedge-base-rate	Haben wir bedacht, wie häufig das gewöhnlich ist?
+W	open-answer-c1o-hedge-base-rate	Haben wir nicht, und die Geschichte wirkt seltener, als sie ist. Die übliche Rate würde ich in den ersten Satz setzen.
+W	open-question-c1o-hedge-survivor	Ist das eine Überlebenden-Geschichte im Gewand einer typischen?
+W	open-answer-c1o-hedge-survivor	Kann sein. Ich würde fragen, was mit den Fällen geschehen ist, die es nicht auf die Folie geschafft haben.
+W	open-question-c1o-hedge-silence	Was bedeutet das Schweigen in der Akte wirklich?
+W	open-answer-c1o-hedge-silence	Es bedeutet, dass wir nicht geschaut haben, nicht dass nichts da ist. Das Schweigen würde ich nicht als Beleg briefen.
+W	open-question-c1o-hedge-model	Wie viel von diesem Bild ist nur eine bequeme Art, Dinge aufzuaddieren?
+W	open-answer-c1o-hedge-model	Genug, dass ich diese Zahl nicht als Tatsache über die Welt behandeln würde. Ich würde sie als Tatsache über diese Art des Addierens behandeln.
+W	open-question-c1o-hedge-tomorrow	Was würden Sie morgen noch glauben, wenn die nächste Tabelle sich bewegt?
+W	open-answer-c1o-hedge-tomorrow	Die Sorge darüber, wie wir es aufgesetzt haben. Die genaue Zahl würde ich ohne Kampf gehen lassen.
+W	open-question-c1o-hedge-two-hands	Können Sie es mit beiden Händen sichtbar sagen?
+W	open-answer-c1o-hedge-two-hands	Einerseits ist die Richtung stabil; andererseits die Größe nicht. Ich würde lieber beides sagen, als die hübschere Hand zu wählen.
+W	open-question-c1o-hedge-clock	Ist das bereit, den Raum zu verlassen?
+W	open-answer-c1o-hedge-clock	Als Frage ist es bereit zu gehen, nicht als Schluss. Dieses Wort würde ich in die Betreffzeile setzen.
+W	open-question-c1o-hedge-peer	Was würde eine feindliche Leserin mit diesem Absatz tun?
+W	open-answer-c1o-hedge-peer	Sie würde das stärkste Verb herausheben und den Vorbehalt ignorieren. Das Verb würde ich tauschen, bevor sie es tut.
+W	open-question-c1o-hedge-oral-vs-slide	Warum klingt die gesprochene Fassung sauberer als die Folie?
+W	open-answer-c1o-hedge-oral-vs-slide	Weil ich beim Sprechen die hässliche Klausel weggelassen habe. Die hässliche Klausel würde ich wieder auf die Folie setzen.
+W	open-question-c1o-hedge-ask-less	Wie sähe es aus, den Zahlen weniger abzuverlangen?
+W	open-answer-c1o-hedge-ask-less	Eine kleinere These und eine längere Notiz dazu, wie wir dorthin gekommen sind. Lieber bescheiden wirken als falsch.
+W	open-question-c1o-hedge-hold-week	Kann das eine Woche warten, ohne Schaden?
+W	open-answer-c1o-hedge-hold-week	Kann es, wenn wir sagen, dass wir warten. Eine Woche Schweigen würde als Entscheidung gelesen.
+W	open-question-c1o-hedge-third-party	Wie würden Sie es jemandem sagen, der nicht im Raum war?
+W	open-answer-c1o-hedge-third-party	Ich würde mit der Grenze führen, dann dem Befund. Andersherum lädt es zu einer Überschrift ein, die wir nicht vertreten können.
+W	open-question-c1o-concede-timing	Was räumen Sie beim Zeitpunkt ein?
+W	open-answer-c1o-concede-timing	Der Zeitpunkt war ungeschickt. Den Kern würde ich deshalb nicht fallen lassen.
+W	open-question-c1o-concede-tone	Wo geben Sie beim Ton nach?
+W	open-answer-c1o-concede-tone	Der Ton war schlecht gewählt. Der eigentliche Fall fällt nicht mit dem Ton.
+W	open-question-c1o-concede-wording	Was an der Formulierung würden Sie jetzt zurücknehmen?
+W	open-answer-c1o-concede-wording	Das Absolute. Den Vergleich würde ich behalten und den Superlativ streichen.
+W	open-question-c1o-concede-narrow-hit	Hat dieser Einwand getroffen, und sei es knapp?
+W	open-answer-c1o-concede-narrow-hit	Er traf das Beispiel, nicht das Gerüst. Das Beispiel ziehe ich zurück.
+W	open-question-c1o-concede-first-pass	Was stimmte am ersten Anlauf nicht?
+W	open-answer-c1o-concede-first-pass	Er wollte zu viel in einem Atemzug. Ich würde die These teilen und die erste Hälfte behalten.
+W	open-question-c1o-concede-left-out	Was haben Sie ausgelassen, das Sie hätten kennzeichnen müssen?
+W	open-answer-c1o-concede-left-out	Eine rivalisierende Darstellung, die ich weggewinkt habe. Ich hätte sagen sollen, warum sie scheitert, nicht dass sie scheitert.
+W	open-question-c1o-concede-emphasis	War die Betonung fair?
+W	open-answer-c1o-concede-emphasis	Die Betonung war schief. Ich denke weiter, dass das Gewicht hierher gehört, aber ich habe überkocht.
+W	open-question-c1o-concede-weak-ex	Was kostet Sie das schwache Beispiel?
+W	open-answer-c1o-concede-weak-ex	Es kostet mich eine Illustration, nicht den Fall. Ich hätte ein saubereres wählen sollen.
+W	open-question-c1o-concede-haste	Was hat die Eile dem Argument angetan?
+W	open-answer-c1o-concede-haste	Sie hat eine Unterscheidung plattgedrückt, die ich brauche. Das kann ich reparieren, ohne die Linie aufzugeben.
+W	open-question-c1o-concede-scope	Wo ist der Umfang ausufernd geworden?
+W	open-answer-c1o-concede-scope	Er ist von dieser Akte zur Nachbarakte gerutscht. Ich hole ihn auf diese Akte zurück.
+W	open-question-c1o-concede-you-landed	Wo haben sie einen fairen Treffer gelandet?
+W	open-answer-c1o-concede-you-landed	Am fehlenden Schritt zwischen der Zählung und dem Urteil. Ich halte das Urteil weiter für richtig; der Schritt wurde übersprungen.
+W	open-question-c1o-concede-badly-put	War es schlecht gesagt oder schlecht gedacht?
+W	open-answer-c1o-concede-badly-put	Schlecht gesagt. Der Gedanke hält, wenn ich ihn enger formuliere.
+W	open-question-c1o-concede-citation	Was stimmt an der Belegstelle, so wie sie genutzt wurde, nicht?
+W	open-answer-c1o-concede-citation	Sie trägt eine schwächere These als die, die ich daran gehängt habe. Ich hänge die schwächere These oder finde ein besseres Papier.
+W	open-question-c1o-concede-chart	Was zeigt die Grafik nicht, was ich angedeutet habe, sie zeige?
+W	open-answer-c1o-concede-chart	Sie zeigt keine Ursache. Ich habe eine im Titel angedeutet und werde den Titel umschreiben.
+W	open-question-c1o-concede-audience	An wem sind Sie vorbeigeredet?
+W	open-answer-c1o-concede-audience	An den Leuten, die die Methode schon kannten. Ihnen schuldete ich die Grenze, nicht noch eine Siegesrunde.
+W	open-question-c1o-concede-length	Wo ist das Papier dick geworden?
+W	open-answer-c1o-concede-length	Im Literaturparcours, der sich nicht verdient. Ich streiche zwei Seiten und behalte den Test.
+W	open-question-c1o-concede-jargon	Welches Stück Fachjargon leistete keine Arbeit?
+W	open-answer-c1o-concede-jargon	Der geliehene Begriff in Absatz drei. Ich sage es in gewöhnlichen Worten oder streiche es.
+W	open-question-c1o-concede-promise	Was haben Sie versprochen, was der Entwurf nicht halten kann?
+W	open-answer-c1o-concede-promise	Eine Lehre für den ganzen Sektor. Eine Lehre von diesem Ort kann ich halten, und die werde ich statt dessen schreiben.
+W	open-question-c1o-concede-slide-order	War die Folienreihenfolge ehrlich?
+W	open-answer-c1o-concede-slide-order	Sie setzte das hübsche Ergebnis zuerst und die hässliche Grenze zuletzt. Die werde ich tauschen.
+W	open-question-c1o-concede-question	Haben Sie die Frage beantwortet, die gestellt wurde?
+W	open-answer-c1o-concede-question	Ich habe eine Nachbarfrage beantwortet. Ich beantworte die gestellte, auch wenn die Antwort dünner ist.
+W	open-question-c1o-concede-data-cut	Welcher Schnitt war opportunistisch?
+W	open-answer-c1o-concede-data-cut	Die Extra-Untergruppe, die gelächelt hat. Die rücke ich ans Ende und sage, dass sie nicht geplant war.
+W	open-question-c1o-concede-conflict	Wo hätten Sie ein Interesse früher erklären sollen?
+W	open-answer-c1o-concede-conflict	Im ersten Absatz, nicht im letzten. Die Erklärung rücke ich nach oben.
+W	open-question-c1o-concede-credit	Wen haben Sie zu wenig genannt?
+W	open-answer-c1o-concede-credit	Die Kollegin, die die Akte gebaut hat. Die nenne ich in der nächsten Fassung.
+W	open-question-c1o-concede-delay	Was hat die Verzögerung dem Raum gekostet?
+W	open-answer-c1o-concede-delay	Eine Woche Gerüchte und dünneres Vertrauen. Am Dienstag hätte ich eine Zwischennotiz schicken sollen.
+W	open-question-c1o-concede-joke	Hat der Witz sich verdient?
+W	open-answer-c1o-concede-joke	Hat er nicht. Er hat einer Person im Raum etwas gekostet, und den werde ich nicht wiederverwenden.
+W	open-question-c1o-concede-cc	Wen hätte man nicht in Kopie setzen sollen?
+W	open-answer-c1o-concede-cc	Die weitere Liste. Ich habe eine Korrektur zum Spektakel gemacht und werde mich bei der genannten Person entschuldigen.
+W	open-question-c1o-concede-deadline	War die Frist, die Sie gesetzt haben, realistisch?
+W	open-answer-c1o-concede-deadline	Sie war ein Wunsch im Datumsgewand. Ich setze sie neu und nenne die Abhängigkeiten.
+W	open-question-c1o-concede-brief	Wo haben Sie den Auftrag verlassen?
+W	open-answer-c1o-concede-brief	Ich habe einen bequemeren Auftrag beantwortet. Ich kehre zu dem zurück, der gesetzt war.
+W	open-question-c1o-concede-visual	Was hat die Visualisierung versteckt?
+W	open-answer-c1o-concede-visual	Die Achse, die oberhalb von null begann. Ich stelle eine Null-Baseline wieder her oder sage, warum ich das nicht kann.
+W	open-question-c1o-concede-footnote	Was haben Sie in eine Fußnote vergraben, das nach oben gehörte?
+W	open-answer-c1o-concede-footnote	Die Ausnahme, die die Regel frisst. Die hole ich in den Haupttext.
+W	open-question-c1o-concede-question-time	Haben Sie genug Zeit für Widerspruch gelassen?
+W	open-answer-c1o-concede-question-time	Habe ich nicht. Ich kürze meine eigenen Bemerkungen und lasse zehn Minuten.
+W	open-question-c1o-concede-translation	Wo hat die Übersetzung überzogen?
+W	open-answer-c1o-concede-translation	Beim Verb. Die Quelle zögert, die Übersetzung nicht; den Vorbehalt stelle ich wieder her.
+W	open-question-c1o-concede-minute	Was haben die Notizen falsch erfasst?
+W	open-answer-c1o-concede-minute	Sie haben eine Entscheidung festgehalten, wo wir nur eine Neigung hatten. Ich bitte um eine Korrektur, bevor sie weiterläuft.
+W	open-question-c1o-concede-role	Wo sind Sie aus der Rolle getreten?
+W	open-answer-c1o-concede-role	Ich habe plädiert, wo ich schiedsrichtern sollte. Die Pfeife setze ich wieder auf.
+W	open-question-c1o-concede-data-room	Was haben Sie im Datenraum zu spät gelernt?
+W	open-answer-c1o-concede-data-room	Dass eine Schlüsselreihe später beginnt, als die Folie nahelegte. Die Reihe datiere ich ehrlich.
+W	open-question-c1o-concede-peer-note	Was in der Gutachternotiz akzeptieren Sie jetzt?
+W	open-answer-c1o-concede-peer-note	Die Bitte um einen Absatz dazu, was sich nicht hätte bewegen sollen. Den schreibe ich, und den hätte ich zuerst schreiben sollen.
+W	open-question-c1o-concede-headline	Wie hat die Überschrift den Text verraten?
+W	open-answer-c1o-concede-headline	Sie versprach einen Skandal, den der Text nicht liefert. Ich schreibe eine Überschrift, die der Text halten kann.
+W	open-question-c1o-concede-both-sides	Haben Sie die andere Seite stark gemacht?
+W	open-answer-c1o-concede-both-sides	Habe ich nicht; ich habe eine schwächere Fassung benutzt. Ihren besten Fall stelle ich hin, bevor ich antworte.
+W	open-question-c1o-concede-number	Welche Zahl hätte man so nicht runden dürfen?
+W	open-answer-c1o-concede-number	Die, die erst nach dem Runden eine Schwelle überschritten hat. Die zeige ich ungerundet.
+W	open-question-c1o-concede-silence-room	Wessen Schweigen haben Sie als Zustimmung fehlgelesen?
+W	open-answer-c1o-concede-silence-room	Das der Leute, die die letzten Seiten noch nicht gesehen hatten. Dieses Schweigen behandle ich nicht als Ja.
+W	open-question-c1o-concede-next-draft	Was wird der nächste Entwurf tun, was dieser nicht getan hat?
+W	open-answer-c1o-concede-next-draft	Er wird die Grenze in denselben Absatz setzen wie die These. Dieser hat die Grenze unten gelassen.
+W	open-question-c1o-rebut-not-the-point	Warum ist das nicht der Punkt, über den wir entscheiden sollten?
+W	open-answer-c1o-rebut-not-the-point	Weil es interessant ist und die Entscheidung vor uns nicht trägt. Ich würde es parken und zu dem zurückkehren, wonach man uns gefragt hat.
+W	open-question-c1o-rebut-category	Warum ist das ein Kategorienfehler?
+W	open-answer-c1o-rebut-category	Weil es eine Vorliebe behandelt, als wäre sie eine Zwangslage. Die Vorliebe würde ich zurück in die Wertespalte setzen.
+W	open-question-c1o-rebut-straw	Wie ist das eine schwächere Fassung dessen, was ich gesagt habe?
+W	open-answer-c1o-rebut-straw	Es streicht den Vorbehalt, mit dem ich geführt habe, und reißt dann den Rest um. Ich würde bitten, den Vorbehalt zurückzusetzen, bevor wir streiten.
+W	open-question-c1o-rebut-goalposts	Wie haben sich die Erfolgskriterien bewegt?
+W	open-answer-c1o-rebut-goalposts	Sie haben sich bewegt, nachdem das erste Kriterium erfüllt war. Ich würde uns an dem Kriterium festhalten, das wir veröffentlicht haben.
+W	open-question-c1o-rebut-anecdote	Warum besiegt diese Geschichte das Muster nicht?
+W	open-answer-c1o-rebut-anecdote	Weil eine Geschichte in einem Muster sitzen kann, ohne es aufzuheben. Ich würde um eine Zählung bitten, nicht um eine lautere Geschichte.
+W	open-question-c1o-rebut-motive	Warum ist das Motiv nicht der Punkt?
+W	open-answer-c1o-rebut-motive	Weil ein schlechtes Motiv mit einer wahren Behauptung reisen kann. Ich würde die Behauptung prüfen und das Motiv einem anderen Raum überlassen.
+W	open-question-c1o-rebut-tone-police	Warum ist Ton keine Widerlegung?
