@@ -1,0 +1,201 @@
+W	tech-answer-b2t-known-issues	Jede Zeile braucht das Symptom, den Workaround und ob ein Fix geplant ist. Ein Register aus Titeln ohne diese drei Felder erzeugt jedes Mal ein zweites Ticket.
+W	tech-question-b2t-polite-chase	Wie schreiben Sie eine zweite Nachfassung, die höflich bleibt, aber ein Datum nennt?
+W	tech-answer-b2t-polite-chase	Verweisen Sie auf die erste Notiz, wiederholen Sie die Entscheidung, die Sie brauchen, und setzen Sie ein Datum, ab dem Sie eskalieren. Eine Kette von „nur kurz nachgefragt“-Mails kann man ewig ignorieren.
+W	tech-question-b2t-refuse-scope	Wie lehnen Sie zusätzlichen Umfang schriftlich ab, ohne die Tür zuzuschlagen?
+W	tech-answer-b2t-refuse-scope	Sagen Sie, was Sie wie vereinbart liefern, und bieten Sie dann eine datierte Option für die Extraarbeit an. Ein trockenes Nein ohne Weg macht das nächste Gespräch härter.
+W	tech-question-b2t-ask-more-time	Wie bitten Sie die eigene Führungskraft um mehr Zeit bei einem internen Termin?
+W	tech-answer-b2t-ask-more-time	Nennen Sie das neue Datum, die Arbeit, die rutscht, wenn das alte bleibt, und was Sie streichen oder verschieben. „Ich bin überlastet“ ist ein Gefühl, keine Bitte.
+W	tech-question-b2t-confirm-verbal	Wie bestätigen Sie eine mündliche Vereinbarung, damit man sie später nutzen kann?
+W	tech-answer-b2t-confirm-verbal	Schreiben Sie noch am selben Tag den Wortlaut, den Sie gehört haben, und bitten Sie um Korrektur, falls Sie falsch liegen. Solange diese Notiz fehlt, haben Sie nur ein Gespräch.
+W	tech-question-b2t-phone-decision	Wie dokumentieren Sie eine am Telefon getroffene Entscheidung?
+W	tech-answer-b2t-phone-decision	Schicken Sie eine Dreizeiler-Notiz: die Entscheidung, wer im Gespräch war und ab welchem Datum sie gilt. Wenn man widerspricht, kommt die Korrektur, solange der Anruf noch frisch ist.
+W	tech-question-b2t-vacancy-handover	Was sollten Sie schreiben, bevor ein Kollege geht, wenn Sie dessen Posteingang erben?
+W	tech-answer-b2t-vacancy-handover	Bitten Sie um eine Liste lebender Threads, fester Meetings und Passwörter im Tresor, nicht in der Mail. Eine Abschiedsnachricht ohne Liste lässt Sie einen Monat suchen.
+W	tech-question-b2t-brief-replacement	Wie briefen Sie eine vorübergehende Vertretung auf einer Seite?
+W	tech-answer-b2t-brief-replacement	Nennen Sie die laufende Arbeit, die Leute, die Druck machen, und wo die Dateien liegen, und benennen Sie eine Person zum Fragen. Eine Tour durch jeden Ordner ist kein Briefing.
+W	tech-question-b2t-request-access	Wie schreiben Sie eine Zugriffsanfrage, die die IT-Sicherheit schnell genehmigen kann?
+W	tech-answer-b2t-request-access	Nennen Sie das System, die benötigte Rolle, die Daten und die freigebende Führungskraft. „Ich brauche Zugang wie Maria“ reicht nicht, weil Maria Rechte haben kann, die Sie nicht brauchen.
+W	tech-question-b2t-revoke-access	Was muss in einer Austrittsnotiz stehen, damit Zugänge wirklich entzogen werden?
+W	tech-answer-b2t-revoke-access	Listen Sie die Systeme, die gemeinsamen Postfächer und die Karten auf und nennen Sie den letzten Arbeitstag. „Bitte alles deaktivieren“ ist der Weg, wie Konten offen bleiben.
+W	tech-question-b2t-client-apology	Wie schreiben Sie eine Kundenentschuldigung, die das nächste Versprechen nicht schwächt?
+W	tech-answer-b2t-client-apology	Sagen Sie, was schiefging, was Sie bis wann tun und wie sie das Ergebnis sehen. Ein langes Bedauern ohne Datum ist keine Entschuldigung, die man nutzen kann.
+W	tech-question-b2t-credit-note	Wie bitten Sie die Finanzabteilung um eine Gutschrift, die sie bearbeiten kann?
+W	tech-answer-b2t-credit-note	Nennen Sie Rechnungsnummer, Betrag und den Grund in ihren Worten und hängen Sie die Kundenmail an. Eine Geschichte ohne diese drei Felder kommt zurück.
+W	tech-question-b2t-ask-po	Was braucht eine Bestellanforderung, bevor die Finanzabteilung sie ausstellt?
+W	tech-answer-b2t-ask-po	Sie braucht den Lieferanten, den Betrag, die Kostenstelle und die schriftliche Freigabe. Ein Screenshot einer Katalogseite ist keine Anforderung.
+W	tech-question-b2t-late-invoice	Wie erklären Sie einem Kunden eine späte Rechnung, ohne nachlässig zu wirken?
+W	tech-answer-b2t-late-invoice	Nennen Sie den Grund, das neue Versanddatum und bestätigen Sie, dass die Arbeitsdaten auf der Rechnung unverändert sind. Schweigen, bis sie nachfassen, wirkt schlimmer als eine kurze frühe Notiz.
+W	tech-question-b2t-training-request	Wie schreiben Sie eine Fortbildungsanfrage, die eine Führungskraft genehmigen kann?
+W	tech-answer-b2t-training-request	Nennen Sie Kurs, Termine, Kosten und was Sie danach anders machen. „Ich möchte mich entwickeln“ ist kein Business Case.
+W	tech-question-b2t-decline-overtime	Wie lehnen Sie Überstunden schriftlich ab und halten die Lieferung ehrlich?
+W	tech-answer-b2t-decline-overtime	Sagen Sie, dass Sie die Extra-Stunden nicht nehmen können, zeigen Sie, was trotzdem pünktlich kommt, und nennen Sie, was wartet. Ein stilles Nein in der Nacht lässt den Plan vollständig aussehen, obwohl er es nicht ist.
+W	tech-question-b2t-remote-days	Wie beantragen Sie Remote-Tage, damit das Team sich darum herum planen kann?
+W	tech-answer-b2t-remote-days	Nennen Sie die Daten, wie man Sie erreicht und an welchen Meetings Sie trotzdem teilnehmen. „Ich bin im Chat erreichbar“ ist kein Plan für einen Workshop.
+W	tech-question-b2t-one-to-one	Was gehört in die schriftliche Agenda eines Einzelgesprächs?
+W	tech-answer-b2t-one-to-one	Listen Sie zwei Arbeitspunkte, einen Karriere- oder Feedbackpunkt und alles auf, wozu Sie eine Entscheidung brauchen. Eine leere Einladung mit dem Titel „Austausch“ verschwendet den Slot.
+W	tech-question-b2t-written-feedback	Wie geben Sie schriftliches Feedback, auf das die Person handeln kann?
+W	tech-answer-b2t-written-feedback	Beschreiben Sie ein Verhalten, die Wirkung und die Änderung, die Sie beim nächsten Mal wollen. Ein allgemeines „Sie müssen besser kommunizieren“ lässt sich nicht üben.
+W	tech-question-b2t-receive-feedback	Wie antworten Sie schriftlich, wenn Sie kritisches Feedback erhalten?
+W	tech-answer-b2t-receive-feedback	Danken Sie, fassen Sie zusammen, was Sie verstanden haben, und sagen Sie, was Sie bis wann versuchen. Jede Zeile zu verteidigen schließt das Gespräch.
+W	tech-question-b2t-risk-register	Wie schreiben Sie einen Risiko-Register-Eintrag, den ein Lenkungskreis nutzen kann?
+W	tech-answer-b2t-risk-register	Nennen Sie das Risiko, die Eintrittswahrscheinlichkeit, die Wirkung auf Termin oder Kosten und die nächste Maßnahme mit Owner. Ein Besorgnis-Absatz ohne diese Felder lässt sich nicht bewerten.
+W	tech-question-b2t-team-dependency	Wie schreiben Sie eine Abhängigkeit zu einem anderen Team, damit sie in dessen Plan erscheint?
+W	tech-answer-b2t-team-dependency	Schicken Sie sie an den benannten Owner mit Artefakt, Datum und Wirkung bei Verzug, und setzen Sie deren Führungskraft nur in Kopie, wenn sie das verlangt hat. Eine Erwähnung in Ihrem eigenen Statusbericht erreicht deren Backlog nicht.
+W	tech-question-b2t-legal-review	Wie bitten Sie die Rechtsabteilung um einen kurzen Blick auf eine knappe Kundennotiz?
+W	tech-answer-b2t-legal-review	Schicken Sie den Entwurf, den Adressatenkreis, das Versanddatum und die eine Frage, die Sie brauchen. „Bitte prüfen, wenn Sie können“ ist der Weg, wie die Notiz zwei Wochen liegen bleibt.
+W	tech-question-b2t-summarise-thread	Wie fassen Sie einen langen Mail-Thread für jemanden zusammen, der spät dazukommt?
+W	tech-answer-b2t-summarise-thread	Schreiben Sie fünf Zeilen: die Bitte, was entschieden wurde, was offen ist, wer es führt und das nächste Datum. Den Thread einzufügen und „FYI“ zu schreiben ist keine Zusammenfassung.
+W	tech-question-b2t-decision-log	Was gehört in ein Entscheidungslog, das das Protokoll nicht immer hält?
+W	tech-answer-b2t-decision-log	Jede Zeile braucht die Entscheidung, das Datum, die verworfenen Optionen und wer freigegeben hat. Das Protokoll streut diese Fakten über Wochen; ein Log hält sie an einem Ort.
+W	tech-question-b2t-date-change	Wie kündigen Sie eine Terminänderung Leuten an, die schon Reise gebucht haben?
+W	tech-answer-b2t-date-change	Beginnen Sie mit dem neuen Datum, sagen Sie, was gleich bleibt, und wie Spesen behandelt werden. Das neue Datum in Absatz vier zu vergraben ist der Weg, wie man es verpasst.
+W	tech-question-b2t-user-faq	Wie schreiben Sie eine kurze FAQ nach einer Prozessänderung?
+W	tech-answer-b2t-user-faq	Beantworten Sie die drei Fragen, die man wirklich stellt: was sich geändert hat, was sie tun müssen und an wen sie schreiben. Eine FAQ, die das Richtliniendokument wiederholt, wird nicht geöffnet.
+W	tech-question-b2t-onboarding-steps	Wie sollten schriftliche Onboarding-Schritte für die erste Woche einer neuen Person aussehen?
+W	tech-answer-b2t-onboarding-steps	Geben Sie eine datierte Liste der Konten zum Beantragen, der Leute zum Treffen und der Dateien zum Lesen, mit einem Owner pro Punkt. Ein Willkommenspaket mit zwanzig Links ist keine erste Woche.
+W	tech-question-b2t-golive-checklist	Was gehört auf eine Go-live-Checkliste, die ein nervöses Team wirklich abhakt?
+W	tech-answer-b2t-golive-checklist	Listen Sie die Muss-Prüfungen, wer jede unterschreibt, und die Stopp-Bedingung, wenn eine fehlschlägt. Eine Liste von Nice-to-haves wird unter Druck übersprungen.
+W	tech-question-b2t-please-approve	Wie schreiben Sie ein „bitte freigeben“, das eine beschäftigte Person in einer Zeile beantworten kann?
+W	tech-answer-b2t-please-approve	Sagen Sie, was freigegeben wird, Betrag oder Datum und die Folge eines Verzugs, und bieten Sie ein Ja oder eine benannte Änderung an. Ein fünfseitiger Anhang ohne Bitte wartet.
+W	tech-question-b2t-please-hold	Wie bitten Sie ein Team, Arbeit zu pausieren, ohne dass es raten muss, wie lange?
+W	tech-answer-b2t-please-hold	Sagen Sie, was pausiert wird, warum und das Datum, an dem Sie es freigeben oder streichen. „Vorläufig halten“ ohne Datum friert die falschen Dinge wochenlang ein.
+W	tech-question-b2t-missed-window	Wie schreiben Sie, dass Sie ein Release-Fenster verpasst haben und was als Nächstes passiert?
+W	tech-answer-b2t-missed-window	Nennen Sie das Fenster, den Grund, das nächste Fenster und was Nutzerinnen und Nutzer inzwischen sehen. „Wir versuchen, es noch unterzubringen“ ist kein Plan, den sie an die eigene Führungskraft weitergeben können.
+W	tech-question-b2t-partial-delivery	Wie kündigen Sie eine Teillieferung an, damit sie nicht als das ganze Werk gelesen wird?
+W	tech-answer-b2t-partial-delivery	Listen Sie auf, was drin ist, was draußen bleibt und wann der Rest kommt, in dieser Reihenfolge. Ein fröhliches „Heute ausgeliefert“ ohne Liste wird als fertig erinnert.
+W	tech-question-b2t-waiting-on-you	Wie schreiben Sie eine „warte auf Sie“-Notiz, die das fehlende Stück benennt?
+W	tech-answer-b2t-waiting-on-you	Sagen Sie genau, was Ihnen noch fehlt, das Format und das Datum, ab dem Ihr eigener Termin rutscht. „Warte auf Sie“ ohne Detail klingt nach Beschwerde.
+W	tech-question-b2t-thanks-next	Wie danken Sie und lassen in derselben Notiz noch einen nächsten Schritt?
+W	tech-answer-b2t-thanks-next	Danken Sie in einer Zeile und nennen Sie dann die nächste Aktion, den Owner und das Datum. Ein bloßes Danke schließt den Thread, bevor die Arbeit fertig ist.
+W	tech-question-b2t-call-invite	Was sollte eine Konferenzeinladung außer dem Link enthalten?
+W	tech-answer-b2t-call-invite	Nennen Sie Zweck, die zu treffende Entscheidung, die Vorab-Lektüre und die Endzeit. Ein Titel „Austausch“ zieht Leute an, die nicht dabei sein müssen.
+W	tech-question-b2t-cancel-meeting	Wie sagen Sie ein Meeting ab, damit die Zeit wirklich frei wird?
+W	tech-answer-b2t-cancel-meeting	Sagen Sie die Einladung ab, nennen Sie den Grund in einer Zeile und setzen Sie entweder ein neues Datum oder erklären Sie das Thema für geschlossen. Den Slot mit „vielleicht später“ stehen zu lassen verschwendet die Stunde.
+W	tech-question-b2t-reschedule	Wie verschieben Sie, ohne eine lange Kette alternativer Termine zu öffnen?
+W	tech-answer-b2t-reschedule	Bieten Sie zwei neue Slots an, sagen Sie, welchen Sie bevorzugen, und bitten Sie um eine Wahl. Eine offene Einladung, irgendeine Zeit vorzuschlagen, startet die ganze Verhandlung neu.
+W	tech-question-b2t-use-the-ticket	Wie erinnern Sie daran, das Ticket statt eines privaten Chats zu nutzen?
+W	tech-answer-b2t-use-the-ticket	Sagen Sie, dass Entscheidungen und Dateien ins Ticket gehören, damit die nächste Person sie findet, und fügen Sie die Nummer ein. Ein schimpfender Ton schickt das nächste Update wieder in den Chat.
+W	tech-question-b2t-year-end-freeze	Wie kündigen Sie einen Jahresend-Change-Freeze an, damit Teams planen können?
+W	tech-answer-b2t-year-end-freeze	Nennen Sie Start- und Enddatum, was noch live gehen darf und den Ausnahmeweg bei einem echten Vorfall. Ein Freeze ohne Ausnahmeweg wird informell gebrochen.
+W	tech-question-b2t-week-ahead	Wie schreiben Sie eine Wochenvorschau, damit man ohne weiteres Meeting planen kann?
+W	tech-answer-b2t-week-ahead	Listen Sie die drei festen Termine, die eine Entscheidung, die Sie brauchen, und wer abwesend ist. Ein Kalenderdump aller Slots ist kein Plan; es ist ein zweites Tagebuch.
+W	open-question-your-name	Wie heißen Sie?
+W	open-answer-your-name	Ich heiße Ana.
+W	open-question-where-from	Woher kommen Sie?
+W	open-answer-where-from	Ich komme aus Spanien.
+W	open-question-how-old	Wie alt sind Sie?
+W	open-answer-how-old	Ich bin fünfundzwanzig.
+W	open-question-where-live	Wo wohnen Sie?
+W	open-answer-where-live	Ich wohne in Madrid.
+W	open-question-what-do	Was machen Sie beruflich?
+W	open-answer-what-do	Ich arbeite in der IT.
+W	open-question-how-are-you	Wie geht es Ihnen?
+W	open-answer-how-are-you	Gut, danke. Und Ihnen?
+W	open-question-what-time	Wie spät ist es?
+W	open-answer-what-time	Es ist drei Uhr.
+W	open-question-what-job	Was ist Ihr Beruf?
+W	open-answer-what-job	Ich bin Entwickler.
+W	open-question-who-is-that	Wer ist das?
+W	open-answer-who-is-that	Das ist mein Kollege.
+W	open-question-how-much	Was kostet das?
+W	open-answer-how-much	Das sind zehn Euro.
+W	open-question-what-doing	Was machen Sie gerade?
+W	open-answer-what-doing	Ich schaue meine E-Mails durch.
+W	open-question-why-late	Warum kommen Sie zu spät?
+W	open-answer-why-late	Der Zug hatte Verspätung.
+W	open-question-how-get-work	Wie kommen Sie zur Arbeit?
+W	open-answer-how-get-work	Ich nehme die U-Bahn.
+W	open-question-how-long-here	Wie lange wohnen Sie schon hier?
+W	open-answer-how-long-here	Seit drei Jahren.
+W	open-question-what-yesterday	Was haben Sie gestern gemacht?
+W	open-answer-what-yesterday	Ich bin zu Hause geblieben.
+W	open-question-weather-like	Wie ist das Wetter?
+W	open-answer-weather-like	Es regnet.
+W	open-question-how-weekend	Wie war Ihr Wochenende?
+W	open-answer-how-weekend	Sehr gut, danke.
+W	open-question-where-station	Wo ist der Bahnhof?
+W	open-answer-where-station	Geradeaus und dann links.
+W	open-question-what-brings	Was führt Sie hierher?
+W	open-answer-what-brings	Ich bin wegen einer Konferenz hier.
+W	open-question-spend-evenings	Wie verbringen Sie gewöhnlich Ihre Abende?
+W	open-answer-spend-evenings	Ich koche meist und schaue eine Serie.
+W	open-question-how-to-centre	Können Sie mir sagen, wie ich zum Zentrum komme?
+W	open-answer-how-to-centre	Gehen Sie geradeaus und nehmen Sie die zweite links.
+W	open-question-looking-for	Wonach suchen Sie?
+W	open-answer-looking-for	Ich suche ein ruhiges Café.
+W	open-question-been-up-to	Was haben Sie so gemacht?
+W	open-answer-been-up-to	Ich war mit einem neuen Projekt beschäftigt.
+W	open-question-what-recommend	Was würden Sie empfehlen?
+W	open-answer-what-recommend	Ich würde zu dem Laden um die Ecke gehen.
+W	open-question-what-can-get	Was darf es sein?
+W	open-answer-what-can-get	Ein Wasser mit Gas, bitte.
+W	open-question-table-for	Tisch für wie viele?
+W	open-answer-table-for	Für zwei, bitte.
+W	open-question-phone-number	Wie ist Ihre Telefonnummer?
+W	open-answer-phone-number	Sechs sieben acht, vier fünf eins zwei.
+W	open-question-when-meet	Wann sollen wir uns treffen?
+W	open-answer-when-meet	Wie wäre es morgen um sechs?
+W	open-question-where-meet	Wo sollen wir uns treffen?
+W	open-answer-where-meet	Vor dem Café.
+W	open-question-whose-this	Wem gehört das?
+W	open-answer-whose-this	Das gehört mir.
+W	open-question-how-spell	Wie schreibt man das?
+W	open-answer-how-spell	A-N-A.
+W	open-question-when-free	Wann haben Sie Zeit?
+W	open-answer-when-free	Donnerstagnachmittag.
+W	open-question-what-think	Was meinen Sie?
+W	open-answer-what-think	Ich finde, das ist eine gute Idee.
+W	open-question-plans-tonight	Was machen Sie heute Abend?
+W	open-answer-plans-tonight	Ich bleibe zu Hause.
+W	open-question-what-mean	Was bedeutet das?
+W	open-answer-what-mean	Es bedeutet „bis später“.
+W	open-question-leave-message	Möchten Sie eine Nachricht hinterlassen?
+W	open-answer-leave-message	Ja, können Sie ihr sagen, dass ich später anrufe?
+W	open-question-what-film	Welchen Film sollen wir sehen?
+W	open-answer-what-film	Eine Komödie, wenn es Ihnen recht ist.
+W	open-question-next-holiday	Wohin fahren Sie in den Urlaub?
+W	open-answer-next-holiday	Wir fahren an die Küste.
+W	open-question-whats-wrong	Was ist los?
+W	open-answer-whats-wrong	Ich habe ein wenig Kopfschmerzen.
+W	open-question-how-pay	Wie möchten Sie zahlen?
+W	open-answer-how-pay	Mit Karte, bitte.
+W	open-question-how-know	Wie kennen Sie sich?
+W	open-answer-how-know	Wir haben zusammen gearbeitet, sehen uns jetzt aber wenig.
+W	open-question-feel-about	Was halten Sie davon?
+W	open-answer-feel-about	Ich bin noch unentschlossen; ich sehe beide Seiten.
+W	open-question-catch-up	Wann können wir uns kurz sehen?
+W	open-answer-catch-up	Wie wäre ein Kaffee nächste Woche, wenn Sie drei Viertelstunden erübrigen können?
+W	open-question-long-known	Wie lange kennen Sie sich schon?
+W	open-answer-long-known	Seit der Schule.
+W	open-question-who-invited	Wer hat Sie eingeladen?
+W	open-answer-who-invited	Ein Freund von der Arbeit.
+W	open-question-why-leave-early	Warum sind Sie so früh gegangen?
+W	open-answer-why-leave-early	Ich musste heute früh aufstehen.
+W	open-question-what-made-change	Was hat Sie umgestimmt?
+W	open-answer-what-made-change	Ich habe eine Nacht darüber geschlafen, und die erste Fassung hielt nicht mehr.
+W	open-question-how-work-going	Wie läuft es bei der Arbeit?
+W	open-answer-how-work-going	Es ist viel, aber es macht mir Spaß.
+W	open-question-to-what-extent	Wie weit würden Sie das noch halten, jetzt da wir mehr wissen?
+W	open-answer-to-what-extent	Nur den Teil, der diese Gruppe betraf. Den Rest würde ich als Vermutung behandeln, nicht als Tatsache.
+W	open-question-how-reconcile	Wie bringen Sie diese beiden Behauptungen zusammen, ohne beide zu leeren?
+W	open-answer-how-reconcile	Tue ich nicht. Eine muss weg. Ein schöner Satz, der beide behält, ist nur eine Ausflucht.
+W	open-question-what-caveats	Was würden Sie darauf bestehen zu sagen, bevor das als Tatsache hinausgeht?
+W	open-answer-what-caveats	Es gilt für diese Gruppe unter diesen Bedingungen. Ich würde es nicht als immer wahr umlaufen lassen.
+W	open-question-where-do-you-draw-the-line	An welchem Punkt ist das nicht mehr verteidigbar, selbst nach Ihren eigenen Maßstäben?
+W	open-answer-where-do-you-draw-the-line	Wenn der Schaden an Menschen, die wir nennen können, kein Vielleicht mehr ist. Darunter kann ich es noch halten. Darüber nicht.
+W	open-question-how-square-that	Wie passt das zu dem, was Sie früher gesagt haben?
+W	open-answer-how-square-that	Es passt nicht, nicht ohne Vorbehalt. Ich habe die erste Fassung überzogen. Die spätere ist die, die ich verteidigen würde.
+W	open-question-what-would-you-concede	Was würden Sie wirklich zugestehen, ohne den Kern preiszugeben?
+W	open-answer-what-would-you-concede	Der Zeitpunkt war ungeschickt und der Ton schlecht gewählt. Ich würde nicht zugestehen, dass die These selbst scheitert.
+W	open-question-on-what-grounds	Auf welcher Grundlage lehnen Sie das ab — das Argument, nicht die Person?
+W	open-answer-on-what-grounds	Auf den Fakten, die wir haben. Wer es gesagt hat, spielt keine Rolle. Diese Fakten führen nicht zu diesem Schluss.
+W	open-question-how-far-does-that-go	Wie weit reicht dieses Argument wirklich, wenn Sie den nächsten Sprung verweigern?
+W	open-answer-how-far-does-that-go	Es deckt diesen Fall mit diesen Fakten. Für sich allein deckt es nicht den nächsten Fall, den man daran hängen will.
+W	open-question-c2o-hedge-put-it	Wie würden Sie das sagen, ohne ihm mehr zu geben, als es hat?
+W	open-answer-c2o-hedge-put-it	Ich würde sagen, es weist in diese Richtung; ich würde es nicht für erledigt erklären. Bei dem, was wir haben, würde ich dort aufhören.
+W	open-question-c2o-hedge-as-far	Wie weit sind Sie bereit, das zu treiben?
+W	open-answer-c2o-hedge-as-far	Soweit der Schritt von A nach B klar ist, und nicht weiter. Danach rate ich laut.
+W	open-question-c2o-hedge-name-on-it	Würden Sie Ihren Namen unter diese Formulierung setzen?
+W	open-answer-c2o-hedge-name-on-it	Unter diese Formulierung nicht. Ich würde die Beobachtung behalten und den Schmuck streichen.
+W	open-question-c2o-hedge-for-now	Was können wir vorerst als geklärt behandeln?
+W	open-answer-c2o-hedge-for-now	Vorerst nur die engere Lesart. Die weitere würde ich auf Bewährung lassen.

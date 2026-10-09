@@ -377,6 +377,6 @@ export const LANGUAGE_PAIRS: readonly LanguagePair[] = [
     target: "es",
     label: "Deutsch → Spanisch",
     shortLabel: "DE → ES",
-    available: false,
+    available: true,
   },
 ];

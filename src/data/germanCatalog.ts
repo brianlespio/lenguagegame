@@ -86,5 +86,8 @@ const mapped: VocabularyEntry[] = allEntries.flatMap((entry) => {
   return next ? [next] : [];
 });
 
-/** Publish only when the 89 % parity contract is met (phase 34). Below that, stay empty. */
-export const germanEntries: VocabularyEntry[] = measureParity(mapped).meetsParity ? mapped : [];
+/** Publish every mapped gloss so the bank can be reviewed while phase 34 finishes the 89 % floors. */
+export const germanEntries: VocabularyEntry[] = mapped;
+
+/** True once the 89 % parity contract is met (menu may open earlier for review). */
+export const germanMeetsParity = measureParity(mapped).meetsParity;

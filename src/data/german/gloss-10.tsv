@@ -311,3 +311,291 @@ W	tech-question-c2t-key-kept	Warum in einer Notiz zugeben, dass man den Schlüss
 W	tech-answer-c2t-key-kept	Weil das Metall eine Tatsache ist, die sie brauchen können, und Schweigen es zum Geheimnis machen würde. Ihn zu behalten, ohne es zu sagen, ist eine kleine Besetzung ihrer Tür.
 W	tech-question-c2t-envelope-unsealed	Was verlangt ein unverschlossener Umschlag von dem, der ihn findet?
 W	tech-answer-c2t-envelope-unsealed	Er verlangt, dass sie wählen, ob sie Leser werden. Ein versiegelter Brief in einer Schublade ist ein Befehl; eine offene Klappe ist eine Einladung, die man ablehnen kann.
+W	tech-question-c1t-exec-lead	Was muss eine Managementzusammenfassung leisten, was ein Herausschneiden der Schlussfolgerung nicht kann?
+W	tech-answer-c1t-exec-lead	Sie muss die erbetene Entscheidung und die ein oder zwei Tatsachen nennen, die sie dringlich machen, in einer Sprache, die ein Nichtfachmann weitergeben kann. Eine eingefügte Schlussfolgerung setzt noch voraus, dass der Leser den Rest des Papiers mitgelebt hat.
+W	tech-question-c1t-abstract-vs-intro	Worin unterscheidet sich ein strukturierter Abstract von der ersten Seite der Einleitung?
+W	tech-answer-c1t-abstract-vs-intro	Der Abstract berichtet in fester Reihenfolge, was getan, gefunden und begrenzt wurde, ohne Literaturparcours. Die Einleitung muss die Frage noch begründen und in ein Gespräch stellen.
+W	tech-question-c1t-cover-memo	Was sollte ein Begleitmemo aus dem angehängten Papier nicht wiederholen?
+W	tech-answer-c1t-cover-memo	Es sollte die Methoden nicht durchspielen. Es sollte die Bitte, die Frist und das eine Risiko nennen, das das Papier nicht in einem Anhang verstecken kann.
+W	tech-question-c1t-minutes-vs-actions	Warum müssen Protokolle Erzählung und Aktionsliste trennen?
+W	tech-answer-c1t-minutes-vs-actions	Die Erzählung hält fest, was gesagt wurde; die Aktionsliste, wer was bis wann tut. Vermischen lässt eine Diskussion wie eine Entscheidung aussehen und lässt Handlungen ohne Eigentümer.
+W	tech-question-c1t-terms-ref	Was müssen die Aufgabenstellung und der Mandatsrahmen festlegen, bevor eine Arbeitsgruppe zum ersten Mal sitzt?
+W	tech-answer-c1t-terms-ref	Sie müssen die Frage, die Produkte, die Frist und wer für wen sprechen darf festlegen. Ohne das verbraucht die erste Sitzung sich damit, ein Mandat zu erfinden.
+W	tech-question-c1t-scope-statement	Was muss eine Umfangsangabe ebenso ausschließen wie einschließen?
+W	tech-answer-c1t-scope-statement	Sie muss die benachbarten Akten nennen, die in diesem Durchgang nicht geöffnet werden. Bloße Einschließung lädt jeden Beteiligten ein, seine Akte einzuschmuggeln.
+W	tech-question-c1t-methods-caveat	Was muss ein Methodenvorbehalt leisten, was ein Absatz zu Grenzen oft versäumt?
+W	tech-answer-c1t-methods-caveat	Er muss sagen, wie die Methode den Befund auch dann hätte erzeugen können, wenn die Welt anders wäre. Ein Grenzenabsatz, der nur fehlende Daten auflistet, prüft den Befund nicht.
+W	tech-question-c1t-limitations-place	Wo sollte die wesentliche Einschränkung stehen, wenn sie nicht übersehen werden soll?
+W	tech-answer-c1t-limitations-place	Sie sollte im selben Absatz wie die Hauptthese stehen, nicht nur in einem späten Abschnitt mit dem Titel Grenzen. Leser, die nach dem Befund aufhören, nehmen sonst einen Satz ohne Vorbehalt mit.
+W	tech-question-c1t-peer-response	Wie sollte ein Überarbeitungsbrief einen Gutachter behandeln, der in einer Tatsache irrt?
+W	tech-answer-c1t-peer-response	Er sollte die Tatsache höflich korrigieren, mit Seitenverweis, und dennoch sagen, was Sie geändert haben, um dieselbe Fehllektüre zu verhindern. Den Gutachter zu bewerten ist keine Antwort.
+W	tech-question-c1t-revision-table	Was gehört in eine punktweise Überarbeitungstabelle, was ein Begleitbrief nicht versuchen sollte?
+W	tech-answer-c1t-revision-table	Jeden nummerierten Kommentar, eine Stelle im neuen Text und eine Zeile dazu, was geändert wurde oder warum nicht. Der Begleitbrief zeichnet nur die großen Bewegungen.
+W	tech-question-c1t-grant-impact	Was muss ein Wirkungspfad sagen, was eine Produktliste nicht kann?
+W	tech-answer-c1t-grant-impact	Er muss sagen, wer den Befund nutzen wird, auf welchem Weg und was als Nutzung zählt. Eine Liste von Aufsätzen und Workshops ist ein Katalog, kein Pfad.
+W	tech-question-c1t-policy-brief	Worin unterscheidet sich eine Politiknotiz von einem Zeitschriftenartikel zur selben Studie?
+W	tech-answer-c1t-policy-brief	Die Notiz führt mit der Entscheidung und dem Vorbehalt, den ein Minister laut sagen kann; der Artikel muss den Befund noch in den Methoden verdienen. Die Diskussionssektion in eine Notiz zu kopieren lässt die Bitte ungesagt.
+W	tech-question-c1t-chatham-minutes	Wie protokolliert man eine Chatham-House-Diskussion, ohne Sprecher zu benennen?
+W	tech-answer-c1t-chatham-minutes	Man hält die Argumente und die Entscheidungen fest, nicht die Namen, und kennzeichnet die Notiz als nicht zuschreibbar. Ein Zitat, das nur von einer Person stammen kann, bricht die Regel auch ohne Namen.
+W	tech-question-c1t-embargo-line	Was muss eine Embargozeile auf einem Entwurf tatsächlich festlegen?
+W	tech-answer-c1t-embargo-line	Die Uhr, das erlaubte Publikum und was geschieht, wenn der Befund durchsickert. Ein Stempel, der nur Embargo sagt, ist ein Wunsch, keine Anweisung.
+W	tech-question-c1t-house-style	Warum ist ein Hausstilblatt nicht optional, sobald zwei Autoren einen Auftrag teilen?
+W	tech-answer-c1t-house-style	Weil gemischte Bindestriche, Datumsformate und Schreibweisen den Auftrag herrenlos wirken lassen. Das Blatt sollte diese Wahlen einmal klären, damit das Argument die Energie nutzen kann.
+W	tech-question-c1t-nominalization	Wann sollte man eine Nominalisierung in einem Vorstandspapier auflösen?
+W	tech-answer-c1t-nominalization	Wenn das Substantiv verbirgt, wer entscheidet oder wer zahlt. Behalten Sie das Substantiv, wenn das Publikum es schon als Fachbegriff nutzt und der Handelnde klar ist.
+W	tech-question-c1t-topic-sentence	Welche Arbeit sollte der erste Satz eines Ergebnisabsatzes leisten?
+W	tech-answer-c1t-topic-sentence	Er sollte den Befund dieses Absatzes nennen, nicht ankündigen, dass jetzt Ergebnisse präsentiert werden. Ein Versprechen von Ergebnissen ist eine Überschrift, kein Satz.
+W	tech-question-c1t-signposting	Wann wird Wegweisung in einem zwanzigseitigen Papier zum Rauschen?
+W	tech-answer-c1t-signposting	Wenn jeder Absatz mit In diesem Abschnitt werde ich öffnet und der Leser die These trotzdem nicht findet. Lassen Sie am Anfang jedes größeren Teils eine Karte und die Absätze arbeiten.
+W	tech-question-c1t-appendix-annex	Wann ist ein Anhang der falsche Ort für eine Zahl, an der die Empfehlung hängt?
+W	tech-answer-c1t-appendix-annex	Wenn die Empfehlung ohne diese Zahl unverständlich ist. Setzen Sie die Zahl nach oben und lassen Sie die Rechnung dem Anhang.
+W	tech-question-c1t-footnote-discipline	Was sollte eine Fußnote in einem Fachpapier verweigern?
+W	tech-answer-c1t-footnote-discipline	Sie sollte sich weigern, einen Vorbehalt zu verstecken, der die These ändert. Vorbehalte, die greifen, gehören in den Haupttext; Fußnoten halten Quellen und Nebenbemerkungen.
+W	tech-question-c1t-secondary-cite	Wann darf man eine Quelle zitieren, die man nicht geöffnet hat?
+W	tech-answer-c1t-secondary-cite	Fast nie in einem Papier, das Sie unterschreiben; wenn ein Sekundärbericht alles ist, was Sie haben, sagen Sie das und zitieren Sie den Bericht. So zu tun, als hätten Sie das Original gelesen, ist ein beruflicher Fehler.
+W	tech-question-c1t-paraphrase-quote	Wann ist ein Zitat sicherer als eine Umschreibung in einer umstrittenen Akte?
+W	tech-answer-c1t-paraphrase-quote	Wenn die genauen Worte die Sache sind, oder wenn einer Umschreibung Spin vorgeworfen würde. Sonst ist eine knappe Umschreibung mit Seitenmarke sauberer.
+W	tech-question-c1t-structural-plagiarism	Was ist Strukturplagiat in einer Literaturübersicht?
+W	tech-answer-c1t-structural-plagiarism	Es ist, die Zugfolge einer anderen Übersicht zu nehmen und die Adjektive auszutauschen. Sie müssen das Gespräch trotzdem aus den Primärarbeiten neu aufbauen.
+W	tech-question-c1t-cois-line	Was muss eine Interessenkonfliktzeile außer dem Nennen eines Geldgebers tun?
+W	tech-answer-c1t-cois-line	Sie muss sagen, was der Geldgeber vor der Veröffentlichung nicht sehen oder ändern konnte. Ein Logo in den Danksagungen ist dieser Satz nicht.
+W	tech-question-c1t-corresponding	Welche Pflichten liegen beim korrespondierenden Autor, die Mitautoren vielleicht nicht sehen?
+W	tech-answer-c1t-corresponding	Die Korrespondenz, die Antworten zur Datenverfügbarkeit und die Integrität der Dateien nach der Annahme. Diese Pflichten sollten benannt werden, bevor die Autorenzeile feststeht.
+W	tech-question-c1t-preprint-caveat	Was muss ein Preprint-Hinweis einem Journalisten sagen, der ihn findet?
+W	tech-answer-c1t-preprint-caveat	Dass er nicht peer-reviewed ist und dass die Version of Record sich ändern kann. Ein hübsches PDF ohne diese Zeile wird als Aufsatz zitiert.
+W	tech-question-c1t-data-avail	Was macht eine Datenverfügbarkeitserklärung nutzbar statt dekorativ?
+W	tech-answer-c1t-data-avail	Einen Ort, eine Zugangsbedingung und einen Kontakt, der noch existiert. Auf Anfrage verfügbar, ohne Namen, ist eine geschlossene Tür.
+W	tech-question-c1t-ethics-line	Was muss ein Satz zur Ethikfreigabe nennen?
+W	tech-answer-c1t-ethics-line	Das Komitee, die Referenznummer und das Datum. Ein vages Wir folgten ethischen Richtlinien lässt sich nicht prüfen.
+W	tech-question-c1t-informed-consent-w	Wie schreibt man eine Zeile zur informierten Einwilligung, die kein Slogan ist?
+W	tech-answer-c1t-informed-consent-w	Sagen Sie, was erklärt wurde, in welcher Form, und dass ein Rücktritt ohne Nachteil möglich war. Die Teilnehmenden willigten ein ist ein Stempel.
+W	tech-question-c1t-plain-summary	Was muss eine Zusammenfassung in klarer Sprache verweigern?
+W	tech-answer-c1t-plain-summary	Sie muss sich weigern, eine stärkere These einzuschmuggeln, als das Papier verteidigt. Kurz ist keine Lizenz, den Vorbehalt fallen zu lassen.
+W	tech-question-c1t-press-embargo	Was gehört in eine Pressemitteilung unter Embargo, was das Papier selbst implizit lassen kann?
+W	tech-answer-c1t-press-embargo	Die Uhr, den Kontakt und einen Satz, den ein Nichtfachmann ohne Übertreibung sagen kann. Das Papier darf technisch bleiben; die Mitteilung nicht.
+W	tech-question-c1t-stakeholder-brief	Wie unterrichtet man zwei Interessentengruppen, ohne zwei Wahrheiten zu schreiben?
+W	tech-answer-c1t-stakeholder-brief	Sie behalten einen Befund und variieren die Folgerung und den nächsten Schritt. Zwei Befunde für zwei Publika stoßen in der ersten gemeinsamen Sitzung zusammen.
+W	tech-question-c1t-options-appraisal	Was muss jede Option in einer Bewertung außer einem Namen tragen?
+W	tech-answer-c1t-options-appraisal	Kosten, ein Risiko und eine Folge, wenn man sie nicht wählt. Eine Liste von Etiketten ist eine Speisekarte, keine Bewertung.
+W	tech-question-c1t-rec-vs-finding	Warum muss eine Empfehlung als eigener Satz vom Befund getrennt stehen?
+W	tech-answer-c1t-rec-vs-finding	Weil ein Befund wahr sein kann und die Handlung trotzdem strittig. Sie zu verschmelzen lässt eine umstrittene Handlung hinter einer anerkannten Tatsache verschwinden.
+W	tech-question-c1t-rag-status	Was muss eine Rot-Gelb-Grün-Zeile außer der Farbe sagen?
+W	tech-answer-c1t-rag-status	Das Kriterium, das die Farbe erzeugt hat, und das Datum des nächsten Blicks. Eine Farbe ohne Kriterium ist Dekoration.
+W	tech-question-c1t-lessons-note	Was macht eine Lektionennotiz zu mehr als einem Tagebuch?
+W	tech-answer-c1t-lessons-note	Sie nennt, was sich im nächsten Entwurf ändern wird, mit einem Eigentümer. Ein Tagebuch der Reue wird abgeheftet und vergessen.
+W	tech-question-c1t-handover-note	Was muss eine Übergabenotiz auf die erste Seite setzen?
+W	tech-answer-c1t-handover-note	Lebendige Risiken, offene Entscheidungen und die Zugänge zu den Dateien, die nicht auf dem gemeinsamen Laufwerk liegen. Die Geschichte des Projekts kann bis Seite zwei warten.
+W	tech-question-c1t-board-paper	Was sollte der erste Absatz eines Vorstandspapiers enthalten?
+W	tech-answer-c1t-board-paper	Die erbetene Entscheidung, das Geld oder Risiko daran und ob es zur Kenntnis oder zur Genehmigung ist. Die Geschichte kann folgen, sobald der Vorstand weiß, warum er liest.
+W	tech-question-c1t-one-pager	Was muss eine Einseiter opfern, und was nicht?
+W	tech-answer-c1t-one-pager	Er muss den Literaturparcours und die Anhangstabellen opfern. Er darf den Vorbehalt nicht opfern, der mit der Schlagzeilenzahl mitreist.
+W	tech-question-c1t-slide-as-paper	Warum ist ein Folienstapel ein schlechter Ersatz für ein Papier, wenn eine Entscheidung protokolliert wird?
+W	tech-answer-c1t-slide-as-paper	Weil Folien Verben und Vorbehalte in Sprechernotizen verstecken, die nicht abgeheftet werden. Das Protokoll hält dann eine These fest, die niemand später schriftlich findet.
+W	tech-question-c1t-email-should-paper	Wann sollte eine E-Mail gestoppt und als kurzes Papier neu geschrieben werden?
+W	tech-answer-c1t-email-should-paper	Wenn sie eine Entscheidung erbittet, die später zitiert wird, oder wenn der Thread schon drei widersprüchliche Bitten hat. Ein Papier gibt einen einzigen Gegenstand zum Genehmigen oder Ablehnen.
+W	tech-question-c1t-reply-all	Welchen Test sollten Sie vor Antwort an alle bei einer Korrektur anwenden?
+W	tech-answer-c1t-reply-all	Fragen Sie, ob jeder Name im Thread die Korrektur braucht oder nur der, der sie beheben kann. Eine öffentliche Korrektur eines jüngeren Kollegen ist oft Schauspiel, keine Behebung.
+W	tech-question-c1t-cc-bcc	Wann ist Blindkopie in einem Arbeitsthread ein beruflicher Fehler?
+W	tech-answer-c1t-cc-bcc	Wenn sie einen Zuhörer vor Leuten versteckt, die gleich frei sprechen werden. Nutzen Sie Blindkopie für eine stille Information im Nachhinein, nicht für einen stummen Zeugen einer Verhandlung.
+W	tech-question-c1t-subject-line	Warum ist die Betreffzeile ein Ablagewerkzeug, kein Gruß?
+W	tech-answer-c1t-subject-line	Weil die spätere Suche diese Wörter nutzt, nicht den ersten Satz. Setzen Sie den Aktennamen, das Datum und die Bitte in den Betreff, bevor Sie Sehr geehrte schreiben.
+W	tech-question-c1t-calendar-commit	Wann wird eine Kalendereinladung zu einer Verpflichtung, die man protokollieren muss?
+W	tech-answer-c1t-calendar-commit	Wenn das Annehmen so behandelt wird, als stimme man dem angehängten Papier zu. Sagen Sie in der Einladung, ob Annahme nur Anwesenheit bedeutet.
+W	tech-question-c1t-cover-letter-cv	Was sollte ein Anschreiben aus dem Lebenslauf nicht wiederholen?
+W	tech-answer-c1t-cover-letter-cv	Die Liste der Stellen. Es sollte zwei oder drei davon gegen das Anforderungsprofil deuten und den Rest unten lassen.
+W	tech-question-c1t-reference-limit	Was sollte ein Referenzschreiben sich weigern zu erfinden?
+W	tech-answer-c1t-reference-limit	Eine Kompetenz, die der Schreibende nicht gesehen hat. Eine ehrliche Grenze ist nützlicher als ein strahlendes Adjektiv ohne Szene.
+W	tech-question-c1t-job-spec-must	Wie schreibt man ein Muss in einem Anforderungsprofil so, dass man es bewerten kann?
+W	tech-answer-c1t-job-spec-must	Machen Sie es beobachtbar und für die Stelle wesentlich, nicht zu einem Wunsch über die Persönlichkeit. Wenn Sie nicht sagen können, welche Belege es zeigen würden, ist es kein Muss.
+W	tech-question-c1t-person-spec	Warum müssen wesentliche und wünschenswerte Kriterien getrennt aufgeführt werden?
+W	tech-answer-c1t-person-spec	Weil wer an einem wesentlichen Kriterium scheitert, ausscheidet, so stark die Wünschenswerten auch sind. Sie zu vermischen lädt die Kommission ein, im Raum eine Gewichtung zu erfinden.
+W	tech-question-c1t-bid-matrix	Wozu dient eine Erfüllungsmatrix in einem Angebot außer als Checkliste?
+W	tech-answer-c1t-bid-matrix	Sie knüpft jede Anforderung an eine Seite, damit der Bewerter nicht jagen muss. Eine Erzählung, die hofft, dass er die Antwort findet, ist der Weg, Punkte zu verlieren.
+W	tech-question-c1t-tender-clarify	Wann sollte man in einer Ausschreibung eine Klärungsfrage stellen, und wie?
+W	tech-answer-c1t-tender-clarify	Früh genug, dass die Antwort allen Bietern veröffentlicht werden kann, und schriftlich über das Portal. Ein telefonischer Hinweis ist ein Risiko für Sie und für das Verfahren.
+W	tech-question-c1t-rfp-structure	Wie sollte eine RFP-Antwort strukturiert sein, wenn der Käufer eine Fragenliste nutzte?
+W	tech-answer-c1t-rfp-structure	Antworten Sie in der Reihenfolge des Käufers, mit der Fragennummer in der Überschrift. Eine hübschere eigene Struktur wird als fehlende Antworten gewertet.
+W	tech-question-c1t-inception-report	Was muss ein Auftaktbericht schließen, was der Vorschlag offen ließ?
+W	tech-answer-c1t-inception-report	Die Methode, wie sie wirklich laufen wird, den gewährten Zugang und die Risiken, die nach der Vergabe auftauchten. Ein Nachdruck des Vorschlags ist kein Auftakt.
+W	tech-question-c1t-progress-report	Was sollte ein Fortschrittsbericht über die Aktivitätsliste setzen?
+W	tech-answer-c1t-progress-report	Die Abweichung vom Plan, mit Ursache und einer Erholung oder einer Bitte um Neuabgrenzung. Eine Liste voller Wochen ist kein Fortschritt.
+W	tech-question-c1t-exception-report	Wann ist ein Ausnahmebericht fällig, und was muss er erbitten?
+W	tech-answer-c1t-exception-report	Er ist fällig, wenn eine Toleranz überschritten wird, nicht wenn es passt. Er muss eine Entscheidung erbitten: annehmen, erholen oder stoppen.
+W	tech-question-c1t-close-out	Was muss ein Abschlussbericht festhalten, was eine Feierfolie weglässt?
+W	tech-answer-c1t-close-out	Was nicht geliefert wurde, was als Restrisiko bleibt und wo die Dateien jetzt leben. Feierfolien halten nur fest, was gut ging.
+W	tech-question-c1t-risk-register-w	Was muss jede Zeile eines Risikoregisters außer einem Etikett enthalten?
+W	tech-answer-c1t-risk-register-w	Eine Ursache, eine Wirkung, einen Eigentümer und eine nächste Handlung mit Datum. Eine Liste unruhiger Substantive ist ein Sorgenblatt, kein Register.
+W	tech-question-c1t-assumption-log	Warum Annahmen protokollieren, statt sie als Fakten im Plan zu behandeln?
+W	tech-answer-c1t-assumption-log	Weil eine Annahme, die später scheitert, einen Eigentümer braucht, der es merkt. Eine Tatsache im Plan wird nicht erneut geprüft.
+W	tech-question-c1t-decision-log	Was gehört in ein Entscheidungsprotokoll, was das Sitzungsprotokoll oft begräbt?
+W	tech-answer-c1t-decision-log	Die Entscheidung, das Datum, die abgelehnten Alternativen und den Anlass zur Überprüfung. Das Protokoll begräbt das in einer Erzählung, die man nicht durchsuchen kann.
+W	tech-question-c1t-change-request	Was muss ein Änderungsantrag beziffern, bevor er ein Antrag ist?
+W	tech-answer-c1t-change-request	Die Wirkung auf Zeit, Kosten und Umfang und die Wirkung, ihn abzulehnen. Die Beschreibung einer hübscheren Funktion ist ein Wunsch.
+W	tech-question-c1t-sow	Was muss eine Leistungsbeschreibung prüfbar machen?
+W	tech-answer-c1t-sow	Das Lieferobjekt, den Abnahmetest und wer unterschreibt. Aktivitätssprache ohne Test wird an der Rechnung gestritten.
+W	tech-question-c1t-acceptance	Wie schreibt man Abnahmekriterien, die eine Demo nicht umgehen kann?
+W	tech-answer-c1t-acceptance	Schreiben Sie die Bedingungen, die ein Nutzer oder ein Datensatz erfüllen muss, nicht die Folien, die gezeigt werden. Eine Demo kann einen leeren Pfad verstecken.
+W	tech-question-c1t-definition-done	Was fügt eine Definition of Done hinzu, was ein Aufgabentitel nicht kann?
+W	tech-answer-c1t-definition-done	Die Prüfungen, die wahr sein müssen, bevor die Aufgabe das Board verlassen darf. Ein Titel nennt nur eine Absicht.
+W	tech-question-c1t-briefing-pack	Was sollte ein Briefingpaket auf eine Seite setzen, was die Anhänge ausweiten können?
+W	tech-answer-c1t-briefing-pack	Die Bitte, die drei Tatsachen und die Frage, die der Verantwortliche stellen soll. Anhänge können die Tabellen halten; die eine Seite muss sprechbar sein.
+W	tech-question-c1t-speaking-note	Worin unterscheidet sich eine Sprechernotiz von dem Papier, auf dem sie ruht?
+W	tech-answer-c1t-speaking-note	Sie ist geschrieben, um in zwei Minuten gesagt zu werden, mit einer Pause für die Bitte. Das Papier kann gelesen werden; die Notiz muss einen lauten Raum überleben.
+W	tech-question-c1t-qa-pack	Was gehört in ein Fragen-und-Antworten-Paket, was die Rede nicht versuchen sollte?
+W	tech-answer-c1t-qa-pack	Die feindlichen Fragen und die Ein-Satz-Antworten, die innerhalb der Belege bleiben. Die Rede sollte nicht versuchen, jedem Angriff zuvorzukommen.
+W	tech-question-c1t-lines-to-take	Was macht eine Haltelinie unter Druck nutzbar?
+W	tech-answer-c1t-lines-to-take	Sie ist kurz, wahr und lädt nicht zu einer Nachfrage ein, die Sie nicht beantworten können. Ein Kontextabsatz wird an der Tür nicht erinnert.
+W	tech-question-c1t-holding-statement	Wann ist eine Warteerklärung der richtige öffentliche Text?
+W	tech-answer-c1t-holding-statement	Wenn eine Tatsache sich noch bewegt und Schweigen als Verheimlichung gelesen würde. Der Text sollte sagen, was bekannt ist, was nicht, und wann die nächste Aktualisierung kommt.
+W	tech-question-c1t-correction-notice	Wie schreibt man eine Berichtigung, ohne den Fehler zu verstärken?
+W	tech-answer-c1t-correction-notice	Nennen Sie den Fehler, nennen Sie die richtige Tatsache und sagen Sie, wo der Originaltext stand. Wiederholen Sie die lebendige falsche Fassung nicht in der Schlagzeile.
+W	tech-question-c1t-erratum	Was muss ein Erratum leisten, was eine Entschuldigungsmail nicht kann?
+W	tech-answer-c1t-erratum	Es muss mit der Version of Record mitreisen und sagen, was sich am Befund ändert. Eine Mail an Freunde lässt den öffentlichen Text unberührt.
+W	tech-question-c1t-corrigendum	Wann ist ein Corrigendum das richtige Instrument statt einer Retraktion?
+W	tech-answer-c1t-corrigendum	Wenn ein Fehler örtlich ist und der Befund nach der Korrektur stehen bleibt. Eine Retraktion ist für einen Befund, dem man nicht mehr trauen kann.
+W	tech-question-c1t-retraction-note	Was muss eine Retraktionsnotiz sagen, damit sie nicht wie ein Verschwinden wirkt?
+W	tech-answer-c1t-retraction-note	Sie muss sagen, was falsch war, ob Fehlverhalten gefunden wurde, und dass der Datensatz mit einer Markierung bleibt. Das PDF zu löschen ist keine Retraktion.
+W	tech-question-c1t-author-contrib	Warum Autorenbeiträge in einem CRediT-Satz auflisten?
+W	tech-answer-c1t-author-contrib	Weil eine Autorenzeile nicht zeigen kann, wer die Analyse machte und wer nur kommentierte. Die Liste erschwert auch, Geschenkauforschaft zu verstecken.
+W	tech-question-c1t-acknowledgements	Was sollten Danksagungen verweigern?
+W	tech-answer-c1t-acknowledgements	Sie sollten sich weigern, jemanden zu danken, der Autor hätte sein sollen, oder einen Geldgeber zu verstecken. Dank gilt Hilfe, die keine Autorschaft war.
+W	tech-question-c1t-funding-statement	Was muss eine Finanzierungserklärung außer der Fördernummer nennen?
+W	tech-answer-c1t-funding-statement	Die Rolle des Geldgebers bei Entwurf, Analyse und der Entscheidung zu veröffentlichen. Eine Nummer allein lässt diese Rolle ungesagt.
+W	tech-question-c1t-embargoed-findings	Wie kennzeichnet man Befunde, die außerhalb einer benannten Gruppe nicht weitergegeben werden dürfen?
+W	tech-answer-c1t-embargoed-findings	Setzen Sie die Gruppe, die Uhr und den Grund auf die erste Seite, nicht nur in die Fußzeile. Eine Fußzeile wird in einem Screenshot abgeschnitten.
+W	tech-question-c1t-working-paper	Welche Statuszeile sollte ein Arbeitspapier tragen?
+W	tech-answer-c1t-working-paper	Arbeitspapier: Kommentare willkommen, nicht ohne Erlaubnis zitieren, und ein Datum. Ohne das wird ein Blog es als abgeschlossen zitieren.
+W	tech-question-c1t-discussion-paper	Worin unterscheidet sich ein Diskussionspapier von einem Positionspapier?
+W	tech-answer-c1t-discussion-paper	Es bietet Optionen und lädt zur Antwort ein; ein Positionspapier wählt schon. Einen beschlossenen Text Diskussion zu nennen ist ein Weg, die Verantwortung zu umgehen.
+W	tech-question-c1t-consultation-resp	Womit sollte eine Stellungnahme zu einer Konsultation öffnen?
+W	tech-answer-c1t-consultation-resp	Mit der Frage, die Sie beantworten, und ob Sie für eine Organisation oder für sich sprechen. Die Geschichte Ihrer Organisation gehört hinter die Antworten.
+W	tech-question-c1t-call-evidence	Wie schreibt man einen Aufruf zu Belegen, der keinen Datenmüll einlädt?
+W	tech-answer-c1t-call-evidence	Stellen Sie nummerierte Fragen mit Wortgrenze und Schlusstermin. Ein offenes Schicken Sie alles begräbt die nützlichen Briefe.
+W	tech-question-c1t-evidence-summary	Was muss eine Evidenzzusammenfassung über die Studien sagen, die sie weglässt?
+W	tech-answer-c1t-evidence-summary	Die Einschlussregel und den Grund, warum die übrigen sie nicht erfüllten. Eine Zusammenfassung, die nur die freundlichen Papiere zeigt, ist ein Plädoyer, keine Zusammenfassung.
+W	tech-question-c1t-rapid-review	Was muss eine schnelle Evidenzübersicht in den Methoden bekennen?
+W	tech-answer-c1t-rapid-review	Welche Ecken abgeschnitten wurden und wie das das Bild verzerren könnte. Sie schnell zu nennen ist für sich keine Methode.
+W	tech-question-c1t-sys-review-prot	Warum ein Protokoll zur systematischen Übersicht vor der Suche registrieren?
+W	tech-answer-c1t-sys-review-prot	Damit Einschlussregeln nicht umgeschrieben werden, um einen gefälligen Satz von Papieren passend zu machen. Ein Protokoll nach der Suche ist ein Tagebuch dessen, was Sie taten.
+W	tech-question-c1t-search-strategy	Was muss ein Absatz zur Suchstrategie nennen, damit man sie erneut ausführen kann?
+W	tech-answer-c1t-search-strategy	Die Datenbanken, die Daten, die Zeichenketten und wer sie ausführte. Wir durchsuchten die Literatur ist keine Strategie.
+W	tech-question-c1t-inclusion-rule	Wie schreibt man eine Einschlussregel, die zwei Screener gleich anwenden können?
+W	tech-answer-c1t-inclusion-rule	Nutzen Sie beobachtbare Merkmale des Papiers, kein Qualitätsgefühl. Qualität kann später bewertet werden; Einschluss muss ein Tor sein.
+W	tech-question-c1t-grey-lit	Wann sollte graue Literatur einbezogen werden, und wie sagt man das?
+W	tech-answer-c1t-grey-lit	Wenn die Frage Praxis oder Politik betrifft, der Zeitschriften hinterherhinken. Nennen Sie die Quellen und die Qualitätsprüfung; tun Sie nicht so, als wären es Studien.
+W	tech-question-c1t-pub-bias	Wie setzt man einer Synthese einen Vorbehalt, wenn Publikationsbias wahrscheinlich ist?
+W	tech-answer-c1t-pub-bias	Sagen Sie, dass veröffentlichte Effekte die lächelnden sein können, und berichten Sie jede Suche in Registern. Ein Forest Plot ohne diesen Satz übertreibt.
+W	tech-question-c1t-effect-size	Wie schreibt man eine Effektstärke so, dass ein Nichtstatistiker sie nutzen kann?
+W	tech-answer-c1t-effect-size	Geben Sie die Einheit, den Vergleich und einen schlichten Satz zur Größe. Ein griechischer Buchstabe und ein Stern sind kein Satz.
+W	tech-question-c1t-interval-plain	Wie sollte ein Konfidenzintervall in einem Ergebnissatz geschrieben werden?
+W	tech-answer-c1t-interval-plain	Als Bereich, mit dem die Schätzung vereinbar ist, nicht als Ritual nach einem p-Wert. Wenn der Bereich eine Entscheidungsschwelle kreuzt, sagen Sie das im selben Satz.
+W	tech-question-c1t-p-hacking	Welchen Satz sollten Sie ergänzen, wenn die Analyse nicht vorab festgelegt war?
+W	tech-answer-c1t-p-hacking	Sagen Sie, dass der Schnitt explorativ war und dass andere Schnitte versucht wurden. Die Blicke zu verstecken macht aus einem p-Wert Dekoration.
+W	tech-question-c1t-prereg	Was lässt eine Präregistrierungsnummer einen Leser prüfen?
+W	tech-answer-c1t-prereg	Ob der primäre Endpunkt im Papier der ist, den Sie versprochen haben. Ohne diese Prüfung kann ein gefälliger Endpunkt nachträglich befördert werden.
+W	tech-question-c1t-registered-report	Warum ändert das Format Registered Report, wie man die Einleitung schreibt?
+W	tech-answer-c1t-registered-report	Weil die Einleitung beurteilt wird, bevor Ergebnisse existieren, kann sie sich nicht auf einen Befund stützen. Sie muss die Frage allein verdienen.
+W	tech-question-c1t-replication	Wie schreibt man einen Replikationsvorbehalt, ohne die ursprüngliche These zu töten?
+W	tech-answer-c1t-replication	Sagen Sie, was als gescheiterte Replikation zählen würde und was nicht. Ein Achselzucken, Wissenschaft sei schwer, ist kein Vorbehalt.
+W	tech-question-c1t-generalisability	Was muss ein Satz zur Generalisierbarkeit nennen?
+W	tech-answer-c1t-generalisability	Die Population, den Ort und das Merkmal, das vielleicht nicht mitreist. Das lässt sich vielleicht nicht generalisieren, ohne Substantiv, ist leer.
+W	tech-question-c1t-external-val	Wie unterscheidet man externe Validität von dem Wunsch, nützlich zu sein?
+W	tech-answer-c1t-external-val	Externe Validität ist eine These über andere Settings, die ein Argument braucht. Nützlichkeit ist eine Hoffnung über Leser; schreiben Sie die Hoffnung nicht als Validitätsanspruch.
+W	tech-question-c1t-construct-val	Was sollte ein Absatz zur Konstruktvalidität bekennen?
+W	tech-answer-c1t-construct-val	Dass das Maß ein Stellvertreter ist und welchen Teil des Konstrukts es verfehlt. Den Fragebogen das Konstrukt zu nennen ist der übliche Fehler.
+W	tech-question-c1t-operationalise	Wie operationalisiert man einen vagen Endpunkt für einen Bericht?
+W	tech-answer-c1t-operationalise	Sie nennen das Beobachtbare, das Instrument und das Zeitfenster. Wohlbefinden verbessern ist nicht operational, bis diese drei auf der Seite stehen.
+W	tech-question-c1t-codebook	Was muss ein Codebuch festhalten, was die Kopfzeile einer Datei nicht kann?
+W	tech-answer-c1t-codebook	Die Bedeutung der Codes, die Regeln für fehlende Werte und wer wann eine Variable änderte. Eine Kopfzeile zeigt nur die aktuellen Namen.
+W	tech-question-c1t-interview-sched	Was sollte ein Interviewleitfaden festlegen, und was offen lassen?
+W	tech-answer-c1t-interview-sched	Er sollte die Themen festlegen, die zum Vergleich abgedeckt werden müssen. Er sollte Raum für eine Nachfrage lassen, die der Leitfaden nicht hätte wissen können.
+W	tech-question-c1t-topic-guide	Worin unterscheidet sich ein Themenleitfaden von einem Fragebogen in den Methoden eines Berichts?
+W	tech-answer-c1t-topic-guide	Ein Themenleitfaden ist eine Karte für ein Gespräch; ein Fragebogen ist ein festes Instrument. Schreiben Sie nicht so, als hätten Sie Items verabreicht, wenn Sie ein Gespräch führten.
+W	tech-question-c1t-member-check	Wie berichtet man Member-Checking, ohne Zustimmung zu übertreiben?
+W	tech-answer-c1t-member-check	Sagen Sie, wer was sah, und dass Sehen nicht dasselbe ist wie dem Analyse zuzustimmen. Die Teilnehmenden bestätigten die Befunde ist meist zu stark.
+W	tech-question-c1t-reflexivity	Was gehört in eine Reflexivitätsnotiz, was eine Biografie nicht fasst?
+W	tech-answer-c1t-reflexivity	Wie Ihre Position die Fragen und die Lektüre geformt haben könnte. Ein Lebenslaufabsatz ist keine Reflexivität.
+W	tech-question-c1t-positionality	Wie schreibt man eine Positionalitätserklärung, die sich ihren Platz verdient?
+W	tech-answer-c1t-positionality	Nennen Sie das Verhältnis zum Ort und die These, die dieses Verhältnis neigen könnte. Eine Liste von Identitäten ohne Neigung ist ein Abzeichen, keine Erklärung.
+W	tech-question-c1t-triangulation	Wann ist Triangulation eine Methode, und wann ein Slogan?
+W	tech-answer-c1t-triangulation	Sie ist eine Methode, wenn Sie sagen, welche Quellen hätten widersprechen können und was Sie dann getan hätten. Sie ist ein Slogan, wenn Sie nur die Quellen auflisten.
+W	tech-question-c1t-thick-desc	Was muss eine dichte Beschreibung enthalten, was einem bunten Zitat fehlt?
+W	tech-answer-c1t-thick-desc	Den Kontext, der das Zitat verständlich macht, und den Grund, warum es typisch ist oder nicht. Farbe ohne Kontext ist Unterhaltung.
+W	tech-question-c1t-transferability	Wie schreibt man für Übertragbarkeit, ohne Generalisierung zu beanspruchen?
+W	tech-answer-c1t-transferability	Geben Sie die Einzelheiten, die ein Leser bräuchte, um eine Ähnlichkeit mit seinem Ort zu beurteilen. Schreiben Sie nicht so, als sei die Ähnlichkeit schon gezeigt.
+W	tech-question-c1t-audit-trail	Was sollte ein Audit Trail einem zweiten Analytiker erlauben?
+W	tech-answer-c1t-audit-trail	Nachzuvollziehen, wie ein Code zum Thema wurde und wohin eine verworfene Lesart ging. Ein Ordner mit Transkripten ohne diese Karte ist kein Pfad.
+W	tech-question-c1t-saturation	Wie beansprucht man Sättigung ohne Slogan?
+W	tech-answer-c1t-saturation	Sagen Sie, was neue Interviews nicht mehr hinzufügten, und nach wie vielen. Sättigung wurde erreicht, ohne Substantiv, lässt sich nicht prüfen.
+W	tech-question-c1t-theo-sample	Was muss eine Notiz zum theoretischen Sampling festhalten?
+W	tech-answer-c1t-theo-sample	Warum der nächste Fall angesichts der entstehenden Analyse gewählt wurde. Bequemlichkeit im Kleid der Theorie ist immer noch Bequemlichkeit.
+W	tech-question-c1t-gt-memo	Was gehört in ein Grounded-Theory-Memo, was eine Transkriptnotiz nicht fasst?
+W	tech-answer-c1t-gt-memo	Einen Schritt vom Vorfall zum Begriff und eine Frage für den nächsten Fall. Eine Transkriptnotiz markiert nur eine Zeile.
+W	tech-question-c1t-lit-gap	Wie schreibt man einen Literatur-Lücken-Satz, der keine Prahlerei ist?
+W	tech-answer-c1t-lit-gap	Nennen Sie das Gespräch und den fehlenden Test, mit Zitaten. Wenige haben X untersucht, ohne Namen, ist Prahlerei.
+W	tech-question-c1t-contribution	Woran muss ein Beitragsanspruch kleiner sein?
+W	tech-answer-c1t-contribution	Kleiner als das ganze Feld und an den Ergebnissen prüfbar. Dieses Papier trägt zur Literatur bei ist eine leere Verbeugung.
+W	tech-question-c1t-so-what	Wo sollte der Und-dann-Absatz stehen, und was darf er nicht tun?
+W	tech-answer-c1t-so-what	Er sollte nach dem Befund stehen und darf keine Politik erfinden, die die Daten nicht tragen können. Eine Predigt im letzten Absatz bleibt eine Predigt.
+W	tech-question-c1t-implications-practice	Wie schreibt man Praxisimplikationen, die ein Praktiker prüfen kann?
+W	tech-answer-c1t-implications-practice	Nennen Sie den Rahmen, die Handlung und was als Gelingen zählen würde. Praktiker sollten X erwägen ist keine prüfbare Implikation.
+W	tech-question-c1t-implications-policy	Was muss ein Satz zur Politikimplikation verweigern?
+W	tech-answer-c1t-implications-policy	Er muss sich weigern, von einem lokalen Befund zu einer nationalen Regel zu springen. Er kann einen Versuch, eine Überprüfung oder eine lokale Änderung empfehlen.
+W	tech-question-c1t-further-research	Wie schreibt man weitere Forschung ohne Wäscheliste?
+W	tech-answer-c1t-further-research	Nennen Sie die ein oder zwei Tests, die die These wirklich bewegen würden. Eine Liste von allem, was irgendwer tun könnte, ist ein Achselzucken.
+W	tech-question-c1t-conclude-norepeat	Was sollte ein Schluss tun, statt den Abstract zu wiederholen?
+W	tech-answer-c1t-conclude-norepeat	Er sollte das Und-dann und die Grenze in einer Bewegung schließen. Den Abstract zu wiederholen sagt dem Leser, dass nichts mehr übrig war.
+W	tech-question-c1t-title-claim	Wann übertreibt ein Titel den Anspruch?
+W	tech-answer-c1t-title-claim	Wenn er eine Allgemeinheit nennt, die das Papier nur in einem Fenster zeigte. Ein Titel darf lebendig sein, wenn der Untertitel die Grenze trägt.
+W	tech-question-c1t-running-head	Was sollte eine Kolumnentitelzeile bewahren, wenn der volle Titel lang ist?
+W	tech-answer-c1t-running-head	Den Gegenstand der Studie, nicht nur ein eingängiges Fragment. Ein Fragment, das zu jedem Papier gehören könnte, versagt im Inhaltsverzeichnis.
+W	tech-question-c1t-keywords	Wie wählt man Schlüsselwörter, die keine Eitelkeit sind?
+W	tech-answer-c1t-keywords	Nutzen Sie die Begriffe, die ein Suchender im Feld tippen würde, einschließlich der Methode. Schlüsselwörter, die nur den Titel wiederholen, verschwenden das Feld.
+W	tech-question-c1t-structured-abs	Welche Reihenfolge sollte ein strukturierter Abstract auch dann halten, wenn die Zeitschrift flexibel ist?
+W	tech-answer-c1t-structured-abs	Hintergrund, Methoden, Ergebnisse, Grenzen, Schlussfolgerung, wenn diese Überschriften existieren. Ergebnisse vor Methoden laden zu einer Erzählung ein, die die Methoden nicht tragen können.
+W	tech-question-c1t-unstructured-abs	Wie schreibt man einen unstrukturierten Abstract, ohne die Grenze zu verlieren?
+W	tech-answer-c1t-unstructured-abs	Setzen Sie die Grenze in den letzten Satz, nicht nur ins Papier. Ein unstrukturierter Abstract, der mit Fanfare endet, wird ohne das Papier zitiert.
+W	tech-question-c1t-graphical-abs	Was darf ein grafischer Abstract nicht tun?
+W	tech-answer-c1t-graphical-abs	Er darf die Vergleichsgruppe oder die Unsicherheit nicht fallen lassen, um sauberer auszusehen. Ein hübscher Pfeil bleibt eine These.
+W	tech-question-c1t-highlights	Wie schreibt man Zeitschrift-Highlights, die ein feindlicher Leser nicht herausheben kann?
+W	tech-answer-c1t-highlights	Jeder Punkt ist ein vollständiger Satz mit Vorbehalt. Fragmente laden zu einem Herausheben ein, das die Vorsicht des Verbs fallen lässt.
+W	tech-question-c1t-editor-letter	Was sollte ein Anschreiben an den Herausgeber nicht versuchen?
+W	tech-answer-c1t-editor-letter	Es sollte den Abstract nicht wiederholen und die Zeitschrift nicht schmeicheln. Es sollte sagen, warum das Gespräch dieser Zeitschrift das richtige ist und was neu ist.
+W	tech-question-c1t-suggest-reviewers	Wie schlägt man Gutachter vor, ohne wie ein Kartell zu wirken?
+W	tech-answer-c1t-suggest-reviewers	Nennen Sie die Kompetenz und erklären Sie jedes Verhältnis, einschließlich keines. Nur Freunde vorzuschlagen ist sichtbar und wird abgewertet.
+W	tech-question-c1t-exclude-reviewers	Wann darf man bitten, dass eine benannte Person nicht begutachtet?
+W	tech-answer-c1t-exclude-reviewers	Wenn ein dokumentierter Konflikt vorliegt, in einem Satz genannt. Abneigung oder die Härte eines Rivalen ist kein Grund, den die Redaktion nutzen kann.
+W	tech-question-c1t-tracked-note	Was sollte eine Notiz zu nachverfolgten Änderungen dem Leser zuerst sagen?
+W	tech-answer-c1t-tracked-note	Ob die saubere oder die markierte Fassung zu öffnen ist und welche Kommentare noch lebendig sind. Beide Dateien ohne diesen Satz abzuladen verschwendet einen Review-Slot.
+W	tech-question-c1t-clean-copy	Warum eine saubere Fassung zusätzlich zur markierten schicken?
+W	tech-answer-c1t-clean-copy	Weil eine markierte Fassung als Gesamtargument unlesbar ist. Die saubere wird beurteilt; die markierte ist die Karte der Arbeit.
+W	tech-question-c1t-suppl-file	Was muss eine Notiz zu einer Ergänzungsdatei sagen, damit die Datei genutzt wird?
+W	tech-answer-c1t-suppl-file	Was sie enthält, wie sie heißt und welche These des Papiers sie stützt. Ein Zip namens extra ist ein Grab.
+W	tech-question-c1t-code-avail	Was macht eine Codeverfügbarkeitszeile prüfbar?
+W	tech-answer-c1t-code-avail	Ein Repository, ein Commit oder Tag und eine Lizenz. Beim Autor verfügbar ist eine geschlossene Tür, sobald der Autor umzieht.
+W	tech-question-c1t-prereg-dev	Wie berichtet man eine Abweichung von einem präregistrierten Plan?
+W	tech-answer-c1t-prereg-dev	Nennen Sie die geplante Analyse, die Änderung und ob sie vor dem Sehen des Ergebnisses gemacht wurde. Ein stiller Tausch ist, was Präregistrierung verhindern sollte.
+W	tech-question-c1t-ethics-exempt	Wie schreibt man einen Ethikbefreiungssatz, der geprüft werden kann?
+W	tech-answer-c1t-ethics-exempt	Nennen Sie die Stelle, die die Befreiung gewährte, und die Regel, die sie anwandte. Wir hielten es für befreit, ohne Stelle, ist Selbstzertifizierung.
+W	tech-question-c1t-salami	Warum ist Salami-Slicing ein redaktioneller Fehler ebenso wie ein ethischer?
+W	tech-answer-c1t-salami	Weil jedes dünne Papier dem Leser einer einzigen Scheibe den vollen Entwurf versteckt. Ein Methodenpapier plus ein Ergebnispapier ist meist sauberer.
+W	tech-question-c1t-self-plagiarism	Wie nutzt man den eigenen Methodentext erneut, ohne Selbstplagiat?
+W	tech-answer-c1t-self-plagiarism	Zitieren Sie den früheren Aufsatz und sagen Sie, was identisch ist. Einen Methodenblock zu kopieren, als sei er neu, ist Recycling, keine Effizienz.
+W	tech-question-c1t-text-recycle	Wann ist Textrecycling in einer Berichtsserie akzeptabel?
+W	tech-answer-c1t-text-recycle	Wenn die gemeinsamen Methoden zitiert sind und ein Leser die neue Arbeit sieht. Eine Diskussion als neues Argument zu recyclen ist nicht akzeptabel.
+W	tech-question-c1t-image-integrity	Was muss eine Abbildungslegende bekennen, wenn ein Bild bearbeitet wurde?
+W	tech-answer-c1t-image-integrity	Die Software, die Anpassungen und dass sie auf das ganze Bild angewandt wurden. Eine Spur oder Zelle ohne Angabe zuzuschneiden ist ein beruflicher Fehler.
+W	tech-question-c1t-authorship-dispute	Wie entwirft man eine Autorschaftsnotiz, wenn ein Beitrag umstritten ist?
+W	tech-answer-c1t-authorship-dispute	Halten Sie schriftlich fest, wer was nach den Kriterien der Zeitschrift tat, vor der Einreichung. Ein Flurversprechen ist, wie Streit nach der Annahme beginnt.
+W	tech-question-c1t-ghost-author	Warum muss ein im Schatten geschriebener Entwurf den Schreiber trotzdem im Datensatz nennen?
+W	tech-answer-c1t-ghost-author	Weil ein Leser das Recht hat zu wissen, wer die Verben wählte. Einen medizinischen Schreiber oder Berater zu verstecken ist ein Konflikt ebenso wie eine Lüge der Autorenzeile.
+W	tech-question-c1t-gift-author	Wie lehnt man Geschenkauforschaft in einer Notiz an Mitautoren ab?
+W	tech-answer-c1t-gift-author	Nennen Sie die Kriterien der Zeitschrift und bitten Sie jeden, eine CRediT-Rolle zu beanspruchen, die er verteidigen kann. Ein Höflichkeitsname, der diese Kriterien verfehlt, sollte vor der Einreichung weg.
+W	tech-question-c1t-preprint-version	Wie kennzeichnet man Versionen, damit Preprint und Zeitschriften-PDF nicht kollidieren?
+W	tech-answer-c1t-preprint-version	Geben Sie jeder ein Datum und einen Status: Preprint, angenommenes Manuskript oder Version of Record. Derselbe Titel ohne Status wird zitiert, als wäre es ein Text.
+W	tech-question-c1t-vor-line	Was sollte ein Hinweis zur Version of Record einem Leser sagen, der das angenommene Manuskript fand?
+W	tech-answer-c1t-vor-line	Dass Paginierung, Lektorat und jede Korrektur nur in der Version of Record leben. Das angenommene File für eine Seitenzahl zu zitieren scheitert.
+W	tech-question-c1t-green-oa	Was muss eine Notiz zu Green Open Access festlegen?
+W	tech-answer-c1t-green-oa	Das Embargo, die Version, die hinterlegt werden darf, und das Repository. Hinterlegt, wenn erlaubt ist keine Anweisung, der ein Bibliothekar folgen kann.
+W	tech-question-c1t-hybrid-oa	Wie schreibt man eine Hybrid-OA-Danksagung, ohne wie Werbung zu klingen?
+W	tech-answer-c1t-hybrid-oa	Nennen Sie das Mandat des Geldgebers und die Lizenz. Ein Satz, der dem Verlag nur für Sichtbarkeit dankt, ist Marketing.

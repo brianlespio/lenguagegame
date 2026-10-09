@@ -4,7 +4,7 @@ W	pronoun-one-oneself	man selbst
 W	pronoun-each-himself	jeder für sich
 W	pronoun-no-man	niemand
 W	pronoun-no-woman	keine
-W	pronoun-everyman	der gemeine Mann
+W	pronoun-everyman	gemeiner Mann
 W	pronoun-any-man	jeder Mann
 W	pronoun-any-woman	jede Frau
 W	pronoun-every-man	jeder Mann
@@ -21,7 +21,7 @@ W	pronoun-the-assignee	Zessionar
 W	pronoun-the-promisee	Versprechensgläubiger
 W	pronoun-the-promisor	Versprechensschuldner
 W	pronoun-the-hereinabove	Vorgenannter
-W	pronoun-the-hereinafter-named	Nachstehendgenannter
+W	pronoun-the-hereinafter-named	Nachstehend Genannter
 W	pronoun-yours-truly	ergebener Diener
 W	pronoun-your-humble-servant	Ihr ergebener Diener
 W	pronoun-the-writer	Unterzeichner
@@ -44,7 +44,7 @@ W	preposition-at-odds-with	im Zwist mit
 W	preposition-in-defiance-of	trotz
 W	preposition-with-a-view-to	mit Blick auf
 W	preposition-with-an-eye-to	mit dem Ziel
-W	preposition-for-the-sake-of	um … willen
+W	preposition-for-the-sake-of	zugunsten von
 W	preposition-on-pain-of	bei Strafe von
 W	preposition-under-pain-of	unter Strafe von
 W	preposition-in-the-teeth-of	wider
@@ -71,7 +71,7 @@ W	preposition-save	außer
 W	preposition-save-for	außer
 W	preposition-excepting	ausgenommen
 W	preposition-failing	mangels
-W	preposition-pending	bis zur Entscheidung von
+W	preposition-pending	bis zur Klärung von
 W	preposition-absent	mangels
 W	preposition-anent	bezüglich
 W	preposition-athwart	quer durch
@@ -81,9 +81,9 @@ W	preposition-betwixt	zwischen
 W	preposition-unto	bis zu
 W	preposition-vis-a-vis	gegenüber
 W	preposition-a-propos-of	apropos
-W	preposition-as-regards	was … betrifft
+W	preposition-as-regards	hinsichtlich
 W	preposition-as-to	hinsichtlich
-W	preposition-as-for	was … angeht
+W	preposition-as-for	was angeht
 W	preposition-as-per	laut
 W	preposition-touching	betreffend
 W	preposition-respecting	bezüglich
@@ -152,7 +152,7 @@ W	preposition-in-discharge-of	zur Entlastung von
 W	preposition-in-place-of	anstelle von
 W	preposition-in-substitution-for	als Ersatz für
 W	preposition-in-addition-to	neben
-W	preposition-in-excess-of	über … hinaus
+W	preposition-in-excess-of	über hinaus
 W	preposition-in-advance-of	im Voraus vor
 W	preposition-in-back-of	hinter
 W	preposition-in-front-of	vor
@@ -161,7 +161,7 @@ W	preposition-in-the-midst-of	mitten in
 W	preposition-in-the-thick-of	mitten im Getümmel von
 W	preposition-in-the-heart-of	im Herzen von
 W	preposition-in-the-course-of	im Laufe von
-W	preposition-in-the-process-of	dabei, zu
+W	preposition-in-the-process-of	auf dem Wege zu
 W	preposition-in-the-act-of	beim
 W	preposition-in-the-habit-of	in der Gewohnheit von
 W	preposition-in-danger-of	in Gefahr von
@@ -192,7 +192,7 @@ W	preposition-on-the-brink-of	am Rande von
 W	preposition-on-the-edge-of	am Rand von
 W	preposition-on-the-eve-of	am Vorabend von
 W	preposition-on-the-threshold-of	an der Schwelle von
-W	preposition-at-the-mercy-of	auf Gedeih und Verderb von
+W	preposition-at-the-mercy-of	ausgeliefert an
 W	preposition-at-the-expense-of	auf Kosten von
 W	preposition-at-the-cost-of	um den Preis von
 W	preposition-at-the-risk-of	unter Gefahr von
@@ -228,15 +228,15 @@ W	preposition-under-the-shadow-of	im Schatten von
 W	preposition-under-the-wing-of	unter dem Flügel von
 W	preposition-under-the-thumb-of	unter der Knute von
 W	preposition-under-the-heel-of	unter der Ferse von
-W	preposition-over-and-above	über … hinaus
+W	preposition-over-and-above	über hinaus
 W	preposition-over-against	gegenüber
 W	preposition-outwith	außerhalb von
-W	preposition-from-among	aus … heraus
-W	preposition-from-amongst	aus … heraus
-W	preposition-from-between	aus … zwischen
-W	preposition-from-under	unter … hervor
+W	preposition-from-among	aus heraus
+W	preposition-from-amongst	aus heraus
+W	preposition-from-between	aus zwischen
+W	preposition-from-under	unter hervor
 W	preposition-from-above	von oben herab
-W	preposition-from-beneath	unter … hervor
+W	preposition-from-beneath	unter hervor
 W	preposition-from-behind	von hinten
 W	preposition-from-beyond	von jenseits
 W	preposition-from-within	von innen aus
@@ -288,7 +288,7 @@ W	preposition-on-or-about	am oder um
 W	preposition-on-or-before	am oder vor
 W	preposition-on-or-after	am oder nach
 W	preposition-as-from	ab
-W	preposition-as-of	Stand
+W	preposition-as-of	mit Stand vom
 W	preposition-as-against	gegenüber
 W	preposition-as-between	zwischen
 W	preposition-but-for	wäre da nicht
@@ -349,11 +349,11 @@ W	noun-shortfall	Fehlbetrag
 W	noun-uptake	Aufnahme
 W	noun-buy-in	Zustimmung
 W	noun-trade-off	Zielkonflikt
-W	noun-knock-on	Folgewirkung
-W	noun-spillover	Übertragungseffekt
+W	noun-knock-on	Ketteneffekt
+W	noun-spillover	Ansteckungseffekt
 W	noun-blowback	politischer Rückschlag
 W	noun-pushback	Widerstand
-W	noun-walkout	Sitzungsauszug
+W	noun-walkout	Sitzungsverlassen
 W	noun-lockout	Aussperrung
 W	noun-stand-off	Pattsituation
 W	noun-climbdown	Rückzieher
@@ -399,7 +399,7 @@ W	noun-leverage	Hebelwirkung
 W	noun-sway	Einfluss
 W	noun-heft	Gewicht
 W	noun-firepower	finanzielle Schlagkraft
-W	noun-footprint	Fußabdruck
+W	noun-footprint	operativer Fußabdruck
 W	noun-bandwidth	Aufmerksamkeitsspanne
 W	noun-uproar	Aufruhr
 W	noun-hue-and-cry	öffentlicher Aufschrei
@@ -411,23 +411,23 @@ W	noun-cooling-off	Widerrufsfrist
 W	noun-standstill	Stillhalteabkommen
 W	noun-surcharge	Zuschlag
 W	noun-clawback	Rückforderung
-W	noun-haircut	Haarschnitt
+W	noun-haircut	Schuldenschnitt
 W	noun-bailout	Rettungspaket
-W	noun-bail-in	Bail-in
+W	noun-bail-in	interne Rekapitalisierung
 W	noun-fire-sale	Notverkauf
 W	noun-going-concern	Fortführungsunternehmen
 W	noun-goodwill	Geschäftswert
 W	noun-whistleblower	Hinweisgeber
-W	noun-leak	Leck
+W	noun-leak	Informationsleck
 W	noun-briefing	Unterrichtung
 W	noun-backgrounder	Hintergrundnotiz
 W	noun-doorstep	Türschwelleninterview
-W	noun-soundbite	Soundbite
+W	noun-soundbite	Medienschlagwort
 W	noun-talking-point	Gesprächspunkt
 W	noun-holding-line	Warteformel
 W	noun-watchdog	Aufsichtsorgan
 W	noun-ombudsman	Bürgerbeauftragter
-W	noun-quango	Quango
+W	noun-quango	halbstaatliche Einrichtung
 W	noun-think-tank	Denkfabrik
 W	noun-task-force	Einsatzgruppe
 W	noun-working-party	Arbeitsgruppe
@@ -444,7 +444,7 @@ W	noun-stay	Aussetzung
 W	noun-injunction	Unterlassungsverfügung
 W	noun-restraining-order	Näherungsverbot
 W	noun-gagging-order	Schweigegebot
-W	noun-super-injunction	Superinjunction
+W	noun-super-injunction	verschärfte Unterlassungsverfügung
 W	noun-discovery	Aktenherausgabe
 W	noun-shortlist	Auswahlliste
 W	noun-longlist	Langliste
@@ -461,7 +461,7 @@ W	noun-postal-vote	Briefwahl
 W	noun-proxy-vote	Stimmvollmacht
 W	noun-three-line-whip	strenger Fraktionszwang
 W	noun-free-vote	Gewissensabstimmung
-W	noun-pairing	Paarung
+W	noun-pairing	Abwesenheitspaarung
 W	noun-by-election	Nachwahl
 W	noun-snap-election	vorzeitige Wahl
 W	noun-caretaker-government	Übergangsregierung
@@ -473,8 +473,8 @@ W	noun-command-paper	Regierungsvorlage
 W	noun-statutory-instrument	Rechtsverordnung
 W	noun-sunset-clause	Auslaufklausel
 W	noun-grandfathering	Bestandsschutz
-W	noun-wrecking-amendment	Zerstörungsänderung
-W	noun-reasoned-amendment	Ablehnungsänderung
+W	noun-wrecking-amendment	Torpedoänderung
+W	noun-reasoned-amendment	Totalablehnungsänderung
 W	noun-caveat	Vorbehalt
 W	noun-proviso	Vorbehaltsklausel
 W	noun-rider	Zusatzklausel
@@ -492,9 +492,9 @@ W	noun-headline-rate	Schlagzeilenrate
 W	noun-underlying-rate	Kernrate
 W	noun-controlling-stake	Kontrollbeteiligung
 W	noun-blocking-stake	Sperrbeteiligung
-W	noun-golden-share	Goldene Aktie
+W	noun-golden-share	goldene Aktie
 W	noun-poison-pill	Giftpille
-W	noun-white-knight	Weißer Ritter
+W	noun-white-knight	weißer Ritter
 W	noun-dawn-raid	Morgengrauen-Übernahme
 W	noun-concert-party	Abstimmungskonsortium
 W	noun-receivership	Zwangsverwaltung
@@ -549,20 +549,20 @@ W	noun-rights-issue	Bezugsrechtsemission
 W	noun-scrip-issue	Gratisaktienemission
 W	noun-share-buyback	Aktienrückkauf
 W	noun-dividend-strip	Dividendenschnitt
-W	noun-chinese-wall	Chinesische Mauer
+W	noun-chinese-wall	chinesische Mauer
 W	noun-ring-fence	Vermögensabschirmung
-W	noun-safe-harbour	Safe Harbour
+W	noun-safe-harbour	sicheres Geleit
 W	noun-safe-seat	sicheres Mandat
 W	noun-marginal-seat	unsicheres Mandat
 W	noun-bellwether-seat	Indikatormandat
 W	noun-rotten-borough	fauler Wahlkreis
 W	noun-pocket-borough	Taschenwahlkreis
-W	noun-gerrymander	Wahlkreisziehung
-W	noun-dog-whistle	Hundepfeife
-W	noun-dead-cat	tote Katze
+W	noun-gerrymander	Wahlkreisschiebung
+W	noun-dog-whistle	verschlüsselter Wink
+W	noun-dead-cat	Nebelkerze
 W	noun-kite-flying	Versuchsballon
 W	noun-trial-balloon	Versuchsballon
-W	noun-straw-poll	Strohhalmumfrage
+W	noun-straw-poll	informelle Umfrage
 W	noun-exit-poll	Nachwahlumfrage
 W	noun-opinion-former	Meinungsbildner
 W	noun-gatekeeper	Torwächter
@@ -588,7 +588,7 @@ W	noun-banana-skin	Bananenschale
 W	noun-banana-peel	Bananenschale
 W	noun-hot-potato	heiße Kartoffel
 W	noun-poisoned-chalice	vergifteter Kelch
-W	noun-hospital-pass	Krankenhauspass
+W	noun-hospital-pass	vergifteter Ball
 W	noun-poisoned-well	vergifteter Brunnen
 W	noun-fig-leaf	Feigenblatt
 W	noun-smokescreen	Nebelwand
@@ -609,19 +609,19 @@ W	noun-astroturf	Scheinmobilisierung
 W	noun-astroturfing	Scheinmobilisierung
 W	noun-sock-puppet	Strohmannkonto
 W	noun-front-organisation	Tarnorganisation
-W	noun-cut-out	Schnittstelle
+W	noun-cut-out	undurchsichtiger Vermittler
 W	noun-go-between	Vermittler
 W	noun-middleman	Zwischenhändler
 W	noun-gatekeeping	Zugangskontrolle
-W	noun-capture	Regulierungseroberung
-W	noun-regulatory-capture	Regulierungseroberung
+W	noun-capture	Regulierungsübernahme
+W	noun-regulatory-capture	Regulierungsübernahme
 W	noun-mission-creep	Auftragsausweitung
 W	noun-scope-creep	Umfangsausweitung
 W	noun-feature-creep	Funktionsaufblähung
 W	noun-function-creep	Nutzungsverschiebung
 W	noun-mandate	Auftrag
 W	noun-terms-of-reference	Untersuchungsmandat
-W	noun-terms-of-trade	Terms of Trade
+W	noun-terms-of-trade	Austauschverhältnis
 W	noun-terms-of-engagement	Auftragsbedingungen
 W	noun-rules-of-engagement	Einsatzregeln
 W	noun-ground-rules	Grundregeln
@@ -635,12 +635,12 @@ W	noun-point-of-order	Geschäftsordnungsfrage
 W	noun-point-of-privilege	Privilegienfrage
 W	noun-contempt	Missachtung
 W	noun-privilege-motion	Privilegienantrag
-W	noun-early-day-motion	Frühzeitmotion
+W	noun-early-day-motion	frühzeitiger Antrag
 W	noun-ten-minute-rule	Zehn-Minuten-Regel
 W	noun-private-member-s-bill	Abgeordneteninitiative
 W	noun-hybrid-bill	Hybridgesetz
 W	noun-money-resolution	Haushaltsermächtigung
-W	noun-ways-and-means	Wege und Mittel
+W	noun-ways-and-means	Finanzwege
 W	noun-supply-day	Bewilligungstag
 W	noun-estimates-day	Haushaltstag
 W	noun-queen-s-speech	Thronrede
@@ -663,11 +663,11 @@ W	noun-memorandum-of-understanding	Absichtserklärung
 W	noun-heads-of-terms	Eckpunkte
 W	noun-term-sheet	Konditionenblatt
 W	noun-letter-of-intent	Absichtserklärung
-W	noun-comfort-letter	Comfort Letter
+W	noun-comfort-letter	Bestätigungsschreiben
 W	noun-side-agreement	Nebenvereinbarung
 W	noun-lock-out-agreement	Exklusivitätsvereinbarung
 W	noun-exclusivity	Exklusivität
-W	noun-earn-out	Earn-out
+W	noun-earn-out	erfolgsabhängige Nachzahlung
 W	noun-claw-in	Bonusrückbehalt
 W	noun-malus	Malus
 W	noun-deferred-bonus	aufgeschobener Bonus
@@ -715,18 +715,18 @@ W	noun-know-your-customer	Kundenprüfung
 W	noun-enhanced-due-diligence	verstärkte Sorgfalt
 W	noun-red-flag-report	Warnbericht
 W	noun-suspicious-activity-report	Verdachtsmeldung
-W	noun-tipping-off	Tipp-Off
+W	noun-tipping-off	Warnung des Beschuldigten
 W	noun-safe-harbour-letter	Safe-Harbour-Schreiben
-W	noun-no-action-letter	No-Action-Letter
-W	noun-comfort-opinion	Comfort Opinion
+W	noun-no-action-letter	Nichtvorgehen-Schreiben
+W	noun-comfort-opinion	Bestätigungsgutachten
 W	noun-legal-opinion	Rechtsgutachten
 W	noun-counsel-s-opinion	Anwaltsgutachten
 W	noun-leading-counsel	führender Anwalt
 W	noun-junior-counsel	Assistenzanwalt
-W	noun-silk	Seidenrobe
+W	noun-silk	Kronanwalt
 W	noun-stuff-gown	Stoffrobe
 W	noun-bench	Richterbank
-W	noun-inns-of-court	Inns of Court
+W	noun-inns-of-court	Anwaltskollegien
 W	noun-chambers	Anwaltskammer
 W	noun-clerk-of-chambers	Kammersekretär
 W	noun-brief-fee	Mandatsgebühr
@@ -759,7 +759,7 @@ W	adjective-bulletproof	kugelsicher
 W	adjective-fireproof	feuersicher
 W	adjective-copper-bottomed	voll solvent
 W	adjective-gilt-edged	erstklassig
-W	adjective-blue-chip	Blue-Chip
+W	adjective-blue-chip	erstklassig
 W	adjective-top-flight	erstklassig
 W	adjective-high-calibre	hochkarätig
 W	adjective-heavyweight	schwergewichtig
