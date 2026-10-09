@@ -235,13 +235,11 @@ Siguen las reglas de glosa: alemán estándar, ß, nombres con mayúscula, perfe
 
 ## Fase 35 — Catalán al 89 %
 
-Spec que se actualiza: `parity-spec.md`.
+Estado: hecha. Spec: `parity-spec.md`. Código: `catalanVocabularyParity.ts`, `catalanVerbsParity.ts`, `catalanPhrasesParity.ts`.
 
-Desde ~1.067 cartas hasta ≥ 10.340, con cada categoría en su suelo. Pipeline TS existente. Destino español. Pasado perifrástico en verbos. Sin préstamos ingleses en frases habladas (regla ya en `dataset.test.ts`).
+Desde ~1.067 cartas hasta **10.352**. `measureParity(catalanEntries).meetsParity === true`. Relleno desde bancos francés/`phraseSets` (ES→CA). Pasado perifrástico en verbos. El euskera puede quedar por debajo hasta la fase 36.
 
-Orden de relleno recomendado: clases de palabra hasta el suelo, luego polar, abierta, técnica y avisos escolares. No se baja el euskera por debajo del catalán en ninguna categoría al terminar la fase 36; en esta fase el catalán puede adelantar.
-
-**Puerta.** `catalanEntries` cumple el contrato de `parity-spec.md`. Tests de ids `ca-*`, pasado con `va`, y frases sin loans, en verde.
+**Puerta.** `catalanEntries` cumple el contrato de `parity-spec.md`. Tests de ids `ca-*`, pasado con `va`, y frases sin loans, en verde. Cumplida.
 
 ## Fase 36 — Euskera al 89 % (sin quedar bajo el catalán)
 
@@ -265,10 +263,10 @@ Francés, alemán, catalán y euskera cumplen el contrato. La auditoría (canvas
 
 ## Orden
 
-Hechas: 21, 22, 23, 29, 32, 33 y 34.
+Hechas: 21, 22, 23, 29, 32, 33, 34 y 35.
 
 Siguiente en producto/UX (si se retoman): 30, 26, 31, 27, 24, 25, 28.
 
-Oleada de bancos: **35 → 36 → 37** (32–34 hechas).
+Oleada de bancos: **36 → 37** (32–35 hechas).
 
 Tras la 37: solo inglés por encima del 89 % de referencia; después el resto. La 27 ya puede abrirse en paralelo (no toca tamaños de banco). La 28 espera a la 31.
