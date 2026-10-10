@@ -60,24 +60,6 @@ function ir2(
   );
 }
 
-function reReg(
-  infinitive: string,
-  infinitiveTranslation: string,
-  pastTranslation: string,
-  pastParticipleTranslation: string,
-): VerbItem {
-  const pastParticiple = infinitive.replace(/re$/, "u");
-  return verb(
-    infinitive,
-    `a ${pastParticiple}`,
-    pastParticiple,
-    infinitiveTranslation,
-    pastTranslation,
-    pastParticipleTranslation,
-    "avoir",
-  );
-}
-
 function irr(
   infinitive: string,
   past: string,
