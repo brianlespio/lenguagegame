@@ -24,8 +24,8 @@ No se hace ahora:
 - Matemáticas tiene el mismo contrato en su propio almacén (`mathtrainer.v1.*`, versión 2): fallo por carta, repaso, y `scoreNote` con la misma corrección de azar.
 - `addScore` de idiomas corta a 500 puntuaciones de todos los nombres. El de matemáticas corta a 80, también de todos.
 - `data-model.md` documenta `english` / `spanish`; el código usa `term` / `translation`. `quiz-spec.md` todavía dice que no hay puntuación ni escritura de `LearningProgress`, y las dos cosas ya existen.
-- Los pares son `en-es`, `fr-es`, `ca-es`, `eu-es` y `de-es`. El destino es español. La puerta está en español. El alemán está cableado y el menú lo deja en «Próximamente» hasta la paridad 89 % (`parity-spec.md`).
-- Frente al inglés (11.618): francés ~89 %, euskera ~9,5 %, catalán ~9,2 %, alemán publicado 0 % (~34 % en glosas). La oleada 32–37 iguala a todos al 89 %; después solo sube el inglés.
+- Los pares son `en-es`, `fr-es`, `ca-es`, `eu-es` y `de-es`. El destino es español. La puerta está en español. Francés, alemán, catalán y euskera cumplen el contrato 89 % (`parity-spec.md`).
+- Frente al inglés (11.618): francés 10.911, alemán 11.618, catalán 10.352, euskera 10.352 (todos cumplen). La oleada 32–37 cierra con la fase 37; después solo sube el inglés.
 - El estudio de idiomas muestra Previous, Next, REVEAL, TEST, SCORE, Auto Play, Voice y Fullscreen. El botón apagado baja la opacidad.
 - El banco de matemáticas tiene 96 cartas únicas y 138 enlaces. Ocho asignaturas no tienen ninguna carta: `poo`, `automatas`, `adquisicion`, `redes`, `bases`, `infra`, `distribuidos`, `software`.
 - Un nivel suelto de cálculo no llega a 20 preguntas. L1 son 14. Esa prueba no puede juzgar el nivel.
@@ -241,13 +241,13 @@ Desde ~1.067 cartas hasta **10.352**. `measureParity(catalanEntries).meetsParity
 
 **Puerta.** `catalanEntries` cumple el contrato de `parity-spec.md`. Tests de ids `ca-*`, pasado con `va`, y frases sin loans, en verde. Cumplida.
 
-## Fase 36 — Euskera al 89 % (sin quedar bajo el catalán)
+## Fase 36 — Euskera al 89 % (sin quedar bajo el catalán) — hecha
 
 Spec que se actualiza: `parity-spec.md`.
 
-Desde ~1.105 cartas hasta ≥ 10.340 y cada `TARGET_CAT`. Tras la ampliación, `count(eu, c) >= count(ca, c)` en todas las categorías (contrato que ya exige el dataset). Participio y pasado reconstruidos como ahora.
+Desde ~1.105 cartas hasta **10.352** (igual que catalán). `measureParity(basqueEntries).meetsParity === true`. `count(eu, c) >= count(ca, c)` en todas las categorías. Bancos `basque*Parity` cableados en `basqueCatalog`. Participio y pasado reconstruidos (nor/nork/nori).
 
-**Puerta.** `basqueEntries` cumple paridad 89 % y sigue ≥ catalán categoría a categoría. Tests de formas verbales en verde.
+**Puerta.** Cumplida: paridad 89 %, EU ≥ CA, tests de formas verbales en verde.
 
 ## Fase 37 — Cierre de la oleada 89 %; siguiente oleada solo inglés
 

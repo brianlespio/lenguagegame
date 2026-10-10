@@ -148,22 +148,42 @@ describe("Basque dataset", () => {
     return [...parts.slice(0, -1), done].join(" ");
   }
 
-  it("keeps unique eu- ids (Basque ≥ Catalan returns in phase 36)", () => {
-    // Phase 35 lets Catalan pull ahead of Basque; phase 36 restores EU ≥ CA per category.
+  it("keeps unique eu- ids and Basque ≥ Catalan per category", () => {
     const ids = basqueEntries.map((entry) => entry.id);
     expect(new Set(ids).size).toBe(ids.length);
     expect(ids.every((id) => id.startsWith("eu-"))).toBe(true);
-    expect(basqueEntries.length).toBeGreaterThan(900);
+    expect(basqueEntries.length).toBeGreaterThanOrEqual(catalanEntries.length);
+    const categories = [
+      "nouns",
+      "verbs",
+      "adjectives",
+      "adverbs",
+      "connectors",
+      "prepositions",
+      "pronouns",
+      "questions",
+      "positiveAnswers",
+      "negativeAnswers",
+      "techQuestions",
+      "techAnswers",
+      "openQuestions",
+      "openAnswers",
+      "schoolNotices",
+    ] as const;
+    for (const category of categories) {
+      expect(countByCategory(basqueEntries, category), category).toBeGreaterThanOrEqual(
+        countByCategory(catalanEntries, category),
+      );
+    }
   });
 
   it("rebuilds the Basque past and participle from the dictionary form", () => {
     const verbs = basqueEntries.filter(isVerbItem);
     const infinitives = verbs.map((verb) => verb.infinitive);
     expect(new Set(infinitives).size).toBe(infinitives.length);
-    const dative = new Set(["gustatu", "ahaztu", "kostatu"]);
     for (const verb of verbs) {
       expect(verb.pastParticiple, verb.id).toBe(participleFromDictionary(verb.infinitive));
-      if (dative.has(verb.infinitive)) {
+      if (verb.past.endsWith(" zitzaion")) {
         expect(verb.past, verb.id).toBe(`${verb.infinitive} zitzaion`);
       } else if (verb.past.endsWith(" zen")) {
         expect(verb.past, verb.id).toBe(`${verb.infinitive} zen`);

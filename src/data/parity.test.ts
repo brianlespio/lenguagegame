@@ -76,7 +76,7 @@ describe("parity freeze (phase 32)", () => {
       expect(report.ratioOfEnglish, lang).toBeCloseTo(report.haveTotal / FROZEN_ENGLISH_TOTAL, 5);
     }
 
-    // Phase 33–35: French, German, and Catalan meet the 89 % contract. EU remains open.
+    // Phase 33–36: French, German, Catalan, and Basque meet the 89 % contract.
     expect(reports.fr.meetsTotal).toBe(true);
     expect(reports.fr.meetsCategories).toBe(true);
     expect(reports.fr.meetsParity).toBe(true);
@@ -86,6 +86,8 @@ describe("parity freeze (phase 32)", () => {
     expect(reports.ca.meetsTotal).toBe(true);
     expect(reports.ca.meetsCategories).toBe(true);
     expect(reports.ca.meetsParity).toBe(true);
-    expect(reports.eu.meetsParity).toBe(false);
+    expect(reports.eu.meetsTotal).toBe(true);
+    expect(reports.eu.meetsCategories).toBe(true);
+    expect(reports.eu.meetsParity).toBe(true);
   });
 });

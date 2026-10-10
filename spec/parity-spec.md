@@ -56,11 +56,11 @@ Cumplir solo el total rellenando frases y dejando clases de palabra cortas **no*
 | --- | ---: | ---: | --- |
 | Inglés | 11.618 | 100 % | Congelado en esta oleada |
 | Francés | 10.911 | cumple contrato 89 % | Fase 33 hecha |
-| Euskera | 1.105 | 9,5 % | Casi todo el banco |
+| Euskera | 10.352 | cumple contrato 89 % | Fase 36 hecha (EU ≥ CA) |
 | Catalán | 10.352 | cumple contrato 89 % | Fase 35 hecha |
 | Alemán | 11.618 | cumple contrato 89 % | Fase 34 hecha (glosas 1:1) |
 
-El francés cumple tras la fase 33; el alemán tras la 34; el catalán tras la 35.
+El francés cumple tras la fase 33; el alemán tras la 34; el catalán tras la 35; el euskera tras la 36.
 
 ## Cómo se amplía cada idioma
 
@@ -103,4 +103,4 @@ Fase 32 hecha. Helper: `src/data/parity.ts`. Tests: `src/data/parity.test.ts`.
 - `measureParity(catalog)` mide un idioma contra esos suelos.
 - `assertEnglishFreeze(allEntries)` falla si el inglés se mueve durante la oleada.
 
-Fase 33: francés. Fase 34: alemán. Fase 35: catalán con `meetsParity === true`. Sigue 36 para euskera (debe recuperar EU ≥ CA).
+Fase 33: francés. Fase 34: alemán. Fase 35: catalán. Fase 36: euskera con `meetsParity === true` y EU ≥ CA por categoría. Sigue 37 (cierre de oleada).
