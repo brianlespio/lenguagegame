@@ -88,9 +88,9 @@ export const LEVEL_BANK_SPEC = {
   C2: { minPerClass: MIN_C2_PER_WORD_CLASS, status: "active" },
   C1: { minPerClass: MIN_C1_PER_WORD_CLASS, status: "active" },
   B2: { minPerClass: MIN_B2_PER_WORD_CLASS, status: "active" },
-  B1: { minPerClass: 80, status: "pending" },
-  A2: { minPerClass: 50, status: "pending" },
-  A1: { minPerClass: 30, status: "pending" },
+  B1: { minPerClass: 80, status: "active" },
+  A2: { minPerClass: 50, status: "active" },
+  A1: { minPerClass: 30, status: "active" },
 } as const;
 
 export const POLAR_PHRASE_CATEGORIES: readonly PolarPhraseCategory[] = [

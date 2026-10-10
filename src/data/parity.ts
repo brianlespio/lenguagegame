@@ -3,8 +3,8 @@ import type { VocabularyCategory, VocabularyEntry } from "../types/vocabulary";
 /** Ratio of the 89 % leveling wave. See `spec/parity-spec.md`. */
 export const PARITY_RATIO = 0.89;
 
-/** English card total frozen for phases 32–37. Growing English is the next wave. */
-export const FROZEN_ENGLISH_TOTAL = 11_618;
+/** English card total frozen after low-CEFR A1/A2/B1 fill wave. */
+export const FROZEN_ENGLISH_TOTAL = 12_565;
 
 /**
  * English per-category counts frozen with the total.
@@ -12,20 +12,20 @@ export const FROZEN_ENGLISH_TOTAL = 11_618;
  */
 export const FROZEN_ENGLISH_BY_CATEGORY = {
   nouns: 1_230,
-  verbs: 1_102,
-  adjectives: 1_027,
-  adverbs: 801,
-  connectors: 732,
-  prepositions: 793,
-  pronouns: 707,
+  verbs: 1_107,
+  adjectives: 1_045,
+  adverbs: 859,
+  connectors: 798,
+  prepositions: 903,
+  pronouns: 821,
   questions: 803,
   positiveAnswers: 803,
   negativeAnswers: 803,
-  techQuestions: 591,
-  techAnswers: 591,
-  openQuestions: 536,
-  openAnswers: 536,
-  schoolNotices: 563,
+  techQuestions: 703,
+  techAnswers: 703,
+  openQuestions: 652,
+  openAnswers: 652,
+  schoolNotices: 683,
 } as const satisfies Record<VocabularyCategory, number>;
 
 export const PARITY_CATEGORIES = Object.keys(

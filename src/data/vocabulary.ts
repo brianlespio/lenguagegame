@@ -2,6 +2,7 @@ import type { StandardCategory, VocabularyItem } from "../types/vocabulary";
 import { buildEnglishB2Words } from "./b2/englishBanks";
 import { buildEnglishC1Words } from "./c1/englishBanks";
 import { buildEnglishC2Words } from "./c2/englishBanks";
+import { englishLowCefrWords } from "./lowCefr/englishWordFill";
 import { extraVocabulary } from "./vocabularyMore";
 import { extraVocabularyPlus } from "./vocabularyPlus";
 import { expandPhraseSets, expandTechPhraseSets, expandOpenPhraseSets, expandSchoolNoticeSets } from "./phraseSets";
@@ -246,6 +247,7 @@ const baseVocabulary: VocabularyItem[] = [
   ...coreVocabulary,
   ...extraVocabulary,
   ...extraVocabularyPlus,
+  ...englishLowCefrWords,
 ];
 
 const englishC2Words = buildEnglishC2Words(new Set(baseVocabulary.map((item) => item.id)));

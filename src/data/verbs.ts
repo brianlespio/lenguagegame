@@ -2,6 +2,7 @@ import type { VerbItem } from "../types/vocabulary";
 import { buildEnglishB2Verbs } from "./b2/englishBanks";
 import { buildEnglishC1Verbs } from "./c1/englishBanks";
 import { buildEnglishC2Verbs } from "./c2/englishBanks";
+import { englishLowCefrVerbs } from "./lowCefr/englishWordFill";
 import { extraEnglishVerbs } from "./englishVerbsMore";
 
 function verb(
@@ -123,7 +124,7 @@ const coreEnglishVerbs: VerbItem[] = [
   verb("build", "built", "built", "construir", "construyó", "construido", "irregular"),
 ];
 
-const baseEnglishVerbs: VerbItem[] = [...coreEnglishVerbs, ...extraEnglishVerbs];
+const baseEnglishVerbs: VerbItem[] = [...coreEnglishVerbs, ...extraEnglishVerbs, ...englishLowCefrVerbs];
 
 const englishC2Verbs = buildEnglishC2Verbs(new Set(baseEnglishVerbs.map((verb) => verb.id)));
 const englishVerbTakenAfterC2 = new Set([...baseEnglishVerbs, ...englishC2Verbs].map((verb) => verb.id));

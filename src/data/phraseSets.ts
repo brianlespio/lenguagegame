@@ -22,6 +22,8 @@ import { openC2ExtraSets } from "./phraseSetsOpenC2";
 import { openC2MoreSets } from "./phraseSetsOpenC2More";
 import { openC1MoreSets } from "./phraseSetsOpenC1More";
 import { openB2MoreSets } from "./phraseSetsOpenB2More";
+import { englishLowCefrTechSets } from "./lowCefr/englishTechFill";
+import { englishLowCefrOpenSets } from "./lowCefr/englishOpenFill";
 
 interface PhraseTriple {
   question: string;
@@ -1872,6 +1874,7 @@ export const techPhraseSets: readonly TechPhraseSet[] = [
   ...techC2MoreSets,
   ...techC1MoreSets,
   ...techB2MoreSets,
+  ...englishLowCefrTechSets,
 ];
 
 export const TECH_PHRASE_SET_COUNT = techPhraseSets.length;
@@ -2253,6 +2256,7 @@ export const openPhraseSets: readonly OpenPhraseSet[] = [
   ...openC2MoreSets,
   ...openC1MoreSets,
   ...openB2MoreSets,
+  ...englishLowCefrOpenSets,
 ];
 
 export const OPEN_PHRASE_SET_COUNT = openPhraseSets.length;

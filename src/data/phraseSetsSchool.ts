@@ -1,4 +1,5 @@
 import type { SchoolPhraseCategory, StudyCefrLevel, VocabularyItem } from "../types/vocabulary";
+import { englishLowCefrSchoolSets } from "./lowCefr/englishSchoolFill";
 import { schoolB2MoreSets } from "./phraseSetsSchoolB2More";
 import { schoolC1MoreSets } from "./phraseSetsSchoolC1More";
 import { schoolC2MoreSets } from "./phraseSetsSchoolC2More";
@@ -413,6 +414,7 @@ export const schoolNoticeSets: readonly SchoolNoticeSet[] = [
   ...schoolC2MoreSets,
   ...schoolC1MoreSets,
   ...schoolB2MoreSets,
+  ...englishLowCefrSchoolSets,
 ];
 
 export const SCHOOL_NOTICE_COUNT = schoolNoticeSets.length;

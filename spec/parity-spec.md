@@ -4,25 +4,23 @@ Contrato de datos para igualar francés, catalán, euskera y alemán al umbral d
 
 ## Referencia congelada
 
-El inglés publicado es la referencia de la oleada 32–37 (cerrada en fase 37):
+El inglés publicado es la referencia viva (actualizada tras el fill A1/A2/B1):
 
-- Durante esa oleada no se añadieron cartas nuevas al catálogo inglés.
-- El total de referencia sigue siendo **11.618** cartas hasta que se abra la oleada siguiente.
-- El desglose de referencia por categoría es el de ese mismo catálogo (ver tabla abajo).
-
-Crecer el inglés por encima de 11.618 es la oleada siguiente (documentada abajo), no un remiendo de esta.
+- Total de referencia: **12.565** cartas.
+- Desglose por categoría: ver tabla abajo (`FROZEN_ENGLISH_*` en `parity.ts`).
+- FR/DE/CA/EU deben volver a `meetsParity` contra el nuevo umbral en un cambio posterior (no en el mismo PR que sube solo el inglés).
 
 ## Umbral
 
 ```
 PARITY_RATIO = 0.89
-TARGET_TOTAL = floor(11_618 × 0.89) = 10_340
+TARGET_TOTAL = floor(12_565 × 0.89) = 11_182
 TARGET_CAT(c) = floor(count_en(c) × 0.89)
 ```
 
 Un idioma **cumple la paridad 89 %** cuando, en el catálogo que `getCatalog` entrega al estudiante:
 
-1. `catalog.length >= 10_340`
+1. `catalog.length >= 11_182`
 2. Para cada categoría de estudio del inglés, `count(catalog, c) >= TARGET_CAT(c)`
 3. Ids únicos y prefijo de idioma (`fr-`, `ca-`, `eu-`, `de-`)
 4. Las reglas de forma verbal de ese idioma siguen vigentes (perfecto hablado en alemán, pasado perifrástico en catalán, reconstrucción del participio en euskera)
@@ -34,33 +32,31 @@ Cumplir solo el total rellenando frases y dejando clases de palabra cortas **no*
 | Categoría | Inglés (ref.) | Suelo 89 % |
 | --- | ---: | ---: |
 | Sustantivos | 1.230 | 1.094 |
-| Verbos | 1.102 | 980 |
-| Adjetivos | 1.027 | 914 |
-| Adverbios | 801 | 712 |
-| Conectores | 732 | 651 |
-| Preposiciones | 793 | 705 |
-| Pronombres | 707 | 629 |
+| Verbos | 1.107 | 985 |
+| Adjetivos | 1.045 | 930 |
+| Adverbios | 859 | 764 |
+| Conectores | 798 | 710 |
+| Preposiciones | 903 | 803 |
+| Pronombres | 821 | 730 |
 | Preguntas | 803 | 714 |
 | Respuestas afirmativas | 803 | 714 |
 | Respuestas negativas | 803 | 714 |
-| Preguntas técnicas | 591 | 525 |
-| Respuestas técnicas | 591 | 525 |
-| Preguntas abiertas | 536 | 477 |
-| Respuestas abiertas | 536 | 477 |
-| Avisos escolares | 563 | 501 |
-| **Total** | **11.618** | **10.340** |
+| Preguntas técnicas | 703 | 625 |
+| Respuestas técnicas | 703 | 625 |
+| Preguntas abiertas | 652 | 580 |
+| Respuestas abiertas | 652 | 580 |
+| Avisos escolares | 683 | 607 |
+| **Total** | **12.565** | **11.182** |
 
-## Estado al cerrar la oleada (fase 37)
+## Estado tras fill EN A1/A2/B1
 
 | Idioma | Publicadas | Contrato 89 % | Notas |
 | --- | ---: | --- | --- |
-| Inglés | 11.618 | referencia congelada | No creció en esta oleada |
-| Francés | 10.911 | cumple | Fase 33 |
-| Alemán | 11.618 | cumple | Fase 34 (glosas 1:1) |
-| Catalán | 10.352 | cumple | Fase 35 |
-| Euskera | 10.352 | cumple | Fase 36; EU ≥ CA por categoría |
-
-Los cuatro idiomas de estudio hacia español cumplen `measureParity(...).meetsParity === true` contra `TARGET_TOTAL = 10_340` y cada `TARGET_CAT`.
+| Inglés | 12.565 | referencia | Suelos A1/A2/B1 activos |
+| Francés | (pendiente chase) | no cumple aún | Frases compartidas subieron; clases de palabra pendientes |
+| Alemán | 11.618 | no cumple aún | Glosas aún al freeze previo |
+| Catalán | (pendiente chase) | no cumple aún | |
+| Euskera | (pendiente chase) | no cumple aún | |
 
 ## Cómo se amplía cada idioma
 
