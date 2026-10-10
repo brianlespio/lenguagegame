@@ -76,7 +76,8 @@ describe("parity freeze (phase 32)", () => {
       expect(report.ratioOfEnglish, lang).toBeCloseTo(report.haveTotal / FROZEN_ENGLISH_TOTAL, 5);
     }
 
-    // Phase 33–36: French, German, Catalan, and Basque meet the 89 % contract.
+    // Phase 37 wave close: French, German, Catalan, and Basque meet the 89 % contract;
+    // English remains frozen at the phase-32 baseline (next wave raises EN first).
     expect(reports.fr.meetsTotal).toBe(true);
     expect(reports.fr.meetsCategories).toBe(true);
     expect(reports.fr.meetsParity).toBe(true);
@@ -89,5 +90,6 @@ describe("parity freeze (phase 32)", () => {
     expect(reports.eu.meetsTotal).toBe(true);
     expect(reports.eu.meetsCategories).toBe(true);
     expect(reports.eu.meetsParity).toBe(true);
+    expect(allEntries.length).toBe(11_618);
   });
 });

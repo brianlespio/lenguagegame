@@ -68,6 +68,6 @@ The level after a test uses the score above chance, not the raw percent. With fo
 
 ## Out of scope for the first MVP
 
-The list below is the original MVP, not the current app. Profiles, scores, spelling, Catalan, Basque, and the language-or-mathematics door now exist. The study pairs on the menu are English, French, Catalan, Basque, and German, each toward Spanish. French, German, Catalan, and Basque meet the 89 % parity contract in `parity-spec.md` (phases 33–36). Next: wave close (phase 37). After that wave, English grows first; the other languages follow in a later wave.
+The list below is the original MVP, not the current app. Profiles, scores, spelling, Catalan, Basque, and the language-or-mathematics door now exist. The study pairs on the menu are English, French, Catalan, Basque, and German, each toward Spanish. French, German, Catalan, and Basque meet the 89 % parity contract in `parity-spec.md` (phases 32–37 closed). The next bank wave raises English first above 11 618, freezes that total, then brings the other languages up; that work is documented at the end of `parity-spec.md` and is not started in the same change that closed phase 37.
 
 Favorites, search, accounts, and cloud sync stay out. Import of a learner file and spaced repetition are in `roadmap.md` (phases 25 and 27), not in the quiz builder.

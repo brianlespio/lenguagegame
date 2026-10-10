@@ -249,24 +249,24 @@ Desde ~1.105 cartas hasta **10.352** (igual que catalán). `measureParity(basque
 
 **Puerta.** Cumplida: paridad 89 %, EU ≥ CA, tests de formas verbales en verde.
 
-## Fase 37 — Cierre de la oleada 89 %; siguiente oleada solo inglés
+## Fase 37 — Cierre de la oleada 89 %; siguiente oleada solo inglés — hecha
 
-Spec que se actualiza: `parity-spec.md`, `product-spec.md`.
+Spec actualizada: `parity-spec.md`, `product-spec.md`.
 
-Francés, alemán, catalán y euskera cumplen el contrato. La auditoría (canvas o tabla en spec) muestra ≥ 89 % en los cuatro. Se escribe al final de `parity-spec.md` el arranque de la **oleada siguiente**, sin ejecutarla aún:
+Francés (10.911), alemán (11.618), catalán (10.352) y euskera (10.352) cumplen el contrato. La tabla de cierre en `parity-spec.md` muestra ≥ 89 % en los cuatro. Al final de `parity-spec.md` queda documentado el arranque de la **oleada siguiente**, sin ejecutarla:
 
 1. Subir solo el inglés por encima de 11.618.
 2. Congelar el nuevo total inglés.
 3. Empujar el resto hasta el nuevo umbral (otra vez por ratio o por paridad plena, según se decida al abrir esa oleada).
 
-**Puerta.** Los cuatro idiomas pasan el test de paridad 89 %. El inglés de referencia sigue en 11.618. No se ha empezado la subida del inglés en el mismo cambio que cierra esta fase.
+**Puerta.** Cumplida: los cuatro idiomas pasan el test de paridad 89 %. El inglés de referencia sigue en 11.618. No se ha empezado la subida del inglés en el mismo cambio que cierra esta fase.
 
 ## Orden
 
-Hechas: 21, 22, 23, 29, 32, 33, 34 y 35.
+Hechas: 21, 22, 23, 29, 32, 33, 34, 35, 36 y 37.
 
 Siguiente en producto/UX (si se retoman): 30, 26, 31, 27, 24, 25, 28.
 
-Oleada de bancos: **36 → 37** (32–35 hechas).
+Oleada de bancos 89 %: **cerrada** (32–37).
 
-Tras la 37: solo inglés por encima del 89 % de referencia; después el resto. La 27 ya puede abrirse en paralelo (no toca tamaños de banco). La 28 espera a la 31.
+Oleada siguiente (bancos): solo inglés por encima de 11.618; después el resto. La 27 ya puede abrirse en paralelo (no toca tamaños de banco). La 28 espera a la 31.

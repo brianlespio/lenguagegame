@@ -4,13 +4,13 @@ Contrato de datos para igualar francés, catalán, euskera y alemán al umbral d
 
 ## Referencia congelada
 
-El inglés publicado es la referencia de esta oleada. Mientras duren las fases 32–37:
+El inglés publicado es la referencia de la oleada 32–37 (cerrada en fase 37):
 
-- No se añaden cartas nuevas al catálogo inglés.
-- El total de referencia es **11.618** cartas (`allEntries` en el estado que abre la fase 32).
+- Durante esa oleada no se añadieron cartas nuevas al catálogo inglés.
+- El total de referencia sigue siendo **11.618** cartas hasta que se abra la oleada siguiente.
 - El desglose de referencia por categoría es el de ese mismo catálogo (ver tabla abajo).
 
-Si el inglés crece antes de cerrar la oleada, se invalida el umbral. Crecer el inglés es la oleada siguiente, no esta.
+Crecer el inglés por encima de 11.618 es la oleada siguiente (documentada abajo), no un remiendo de esta.
 
 ## Umbral
 
@@ -50,17 +50,17 @@ Cumplir solo el total rellenando frases y dejando clases de palabra cortas **no*
 | Avisos escolares | 563 | 501 |
 | **Total** | **11.618** | **10.340** |
 
-## Estado al abrir la oleada
+## Estado al cerrar la oleada (fase 37)
 
-| Idioma | Publicadas | Avance vs inglés | Qué falta para el 89 % |
-| --- | ---: | ---: | --- |
-| Inglés | 11.618 | 100 % | Congelado en esta oleada |
-| Francés | 10.911 | cumple contrato 89 % | Fase 33 hecha |
-| Euskera | 10.352 | cumple contrato 89 % | Fase 36 hecha (EU ≥ CA) |
-| Catalán | 10.352 | cumple contrato 89 % | Fase 35 hecha |
-| Alemán | 11.618 | cumple contrato 89 % | Fase 34 hecha (glosas 1:1) |
+| Idioma | Publicadas | Contrato 89 % | Notas |
+| --- | ---: | --- | --- |
+| Inglés | 11.618 | referencia congelada | No creció en esta oleada |
+| Francés | 10.911 | cumple | Fase 33 |
+| Alemán | 11.618 | cumple | Fase 34 (glosas 1:1) |
+| Catalán | 10.352 | cumple | Fase 35 |
+| Euskera | 10.352 | cumple | Fase 36; EU ≥ CA por categoría |
 
-El francés cumple tras la fase 33; el alemán tras la 34; el catalán tras la 35; el euskera tras la 36.
+Los cuatro idiomas de estudio hacia español cumplen `measureParity(...).meetsParity === true` contra `TARGET_TOTAL = 10_340` y cada `TARGET_CAT`.
 
 ## Cómo se amplía cada idioma
 
@@ -84,23 +84,27 @@ Calidad de contenido (sin relajar):
 
 `germanEntries` publica el mapeo completo de glosas (11.618). El menú `de-es` está disponible. El contrato de paridad 89 % queda cumplido; el 100 % del inglés también.
 
-## Fuera de esta oleada
+## Oleada siguiente (documentada; no ejecutada en fase 37)
 
-- Subir el inglés por encima de 11.618.
-- Empujar francés, catalán, euskera o alemán por encima del 89 % hacia el nuevo inglés.
-- Cambiar el idioma de destino (sigue siendo español).
-- Pasar los bancos a JSON/CSV.
-- Cuentas en la nube.
+Arranque acordado al cerrar la oleada 89 %:
 
-Esas dos subidas (primero inglés, luego el resto) son la oleada siguiente, documentada al cerrar la fase 37.
+1. **Subir solo el inglés** por encima de 11.618 (nuevas cartas en el catálogo EN).
+2. **Congelar el nuevo total inglés** y recalcular `TARGET_TOTAL` / `TARGET_CAT` (mismo `PARITY_RATIO = 0,89`, u otro umbral si se decide al abrir esa oleada).
+3. **Empujar el resto** (FR, DE, CA, EU) hasta el nuevo umbral, sin mezclar ese relleno con la subida del inglés en el mismo cambio.
+
+Hasta que se abra esa oleada:
+
+- El inglés de referencia de la oleada 32–37 sigue en **11.618**.
+- No se exige a FR/DE/CA/EU crecer hacia un inglés mayor.
+- El destino sigue siendo español. JSON/CSV y cuentas en la nube siguen fuera.
 
 ## Prueba automatizada
 
-Fase 32 hecha. Helper: `src/data/parity.ts`. Tests: `src/data/parity.test.ts`.
+Helper: `src/data/parity.ts`. Tests: `src/data/parity.test.ts`.
 
-- `FROZEN_ENGLISH_TOTAL` / `FROZEN_ENGLISH_BY_CATEGORY` fijan la referencia.
+- `FROZEN_ENGLISH_TOTAL` / `FROZEN_ENGLISH_BY_CATEGORY` fijan la referencia de esta oleada.
 - `PARITY_TARGETS.total` y `PARITY_TARGETS.byCategory` son `TARGET_TOTAL` / `TARGET_CAT`.
 - `measureParity(catalog)` mide un idioma contra esos suelos.
-- `assertEnglishFreeze(allEntries)` falla si el inglés se mueve durante la oleada.
+- `assertEnglishFreeze(allEntries)` falla si el inglés se mueve mientras esta referencia esté vigente.
 
-Fase 33: francés. Fase 34: alemán. Fase 35: catalán. Fase 36: euskera con `meetsParity === true` y EU ≥ CA por categoría. Sigue 37 (cierre de oleada).
+Fases 32–37 hechas: congelación EN; FR; DE; CA; EU (≥ CA); cierre de oleada con los cuatro en `meetsParity === true`.
